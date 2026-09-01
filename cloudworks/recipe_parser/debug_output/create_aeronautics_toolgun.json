@@ -1,0 +1,2902 @@
+[
+  {
+    "recipe_id": "create_aeronautics_toolgun:portable_structure_container",
+    "mod_id": "create_aeronautics_toolgun",
+    "recipe_type": "minecraft:crafting_shaped",
+    "inputs": [
+      {
+        "id": "minecraft:iron_ingot",
+        "count": 4.0,
+        "unit": "item",
+        "type": "solid",
+        "rate": 1.0
+      },
+      {
+        "id": "create:transmitter",
+        "count": 4.0,
+        "unit": "item",
+        "type": "solid",
+        "rate": 1.0
+      },
+      {
+        "id": "minecraft:nether_star",
+        "count": 1.0,
+        "unit": "item",
+        "type": "solid",
+        "rate": 1.0
+      }
+    ],
+    "outputs": [
+      {
+        "id": "create_aeronautics_toolgun:portable_structure_container",
+        "count": 1.0,
+        "unit": "item",
+        "type": "solid",
+        "rate": 1.0
+      }
+    ]
+  },
+  {
+    "recipe_id": "create_aeronautics_toolgun:survival_structure_tool",
+    "mod_id": "create_aeronautics_toolgun",
+    "recipe_type": "minecraft:crafting_shaped",
+    "inputs": [
+      {
+        "id": "create:electron_tube",
+        "count": 2.0,
+        "unit": "item",
+        "type": "solid",
+        "rate": 1.0
+      },
+      {
+        "id": "create:brass_sheet",
+        "count": 1.0,
+        "unit": "item",
+        "type": "solid",
+        "rate": 1.0
+      },
+      {
+        "id": "create_aeronautics_toolgun:magnetic_gun",
+        "count": 1.0,
+        "unit": "item",
+        "type": "solid",
+        "rate": 1.0
+      },
+      {
+        "id": "create:precision_mechanism",
+        "count": 1.0,
+        "unit": "item",
+        "type": "solid",
+        "rate": 1.0
+      }
+    ],
+    "outputs": [
+      {
+        "id": "create_aeronautics_toolgun:survival_structure_tool",
+        "count": 1.0,
+        "unit": "item",
+        "type": "solid",
+        "rate": 1.0
+      }
+    ]
+  },
+  {
+    "recipe_id": "create_aeronautics_toolgun:magnetic_gun",
+    "mod_id": "create_aeronautics_toolgun",
+    "recipe_type": "minecraft:crafting_shaped",
+    "inputs": [
+      {
+        "id": "create:copper_sheet",
+        "count": 2.0,
+        "unit": "item",
+        "type": "solid",
+        "rate": 1.0
+      },
+      {
+        "id": "create:electron_tube",
+        "count": 1.0,
+        "unit": "item",
+        "type": "solid",
+        "rate": 1.0
+      },
+      {
+        "id": "create:brass_block",
+        "count": 2.0,
+        "unit": "item",
+        "type": "solid",
+        "rate": 1.0
+      },
+      {
+        "id": "create:rose_quartz",
+        "count": 1.0,
+        "unit": "item",
+        "type": "solid",
+        "rate": 1.0
+      },
+      {
+        "id": "create:precision_mechanism",
+        "count": 2.0,
+        "unit": "item",
+        "type": "solid",
+        "rate": 1.0
+      },
+      {
+        "id": "minecraft:planks",
+        "count": 1.0,
+        "unit": "item",
+        "type": "solid",
+        "rate": 1.0
+      }
+    ],
+    "outputs": [
+      {
+        "id": "create_aeronautics_toolgun:magnetic_gun",
+        "count": 1.0,
+        "unit": "item",
+        "type": "solid",
+        "rate": 1.0
+      }
+    ]
+  },
+  {
+    "recipe_id": "create_aeronautics_toolgun:portable_structure_container",
+    "mod_id": "create_aeronautics_toolgun",
+    "recipe_type": "minecraft:crafting_shaped",
+    "inputs": [
+      {
+        "id": "minecraft:iron_ingot",
+        "count": 4.0,
+        "unit": "item",
+        "type": "solid",
+        "rate": 1.0
+      },
+      {
+        "id": "create:transmitter",
+        "count": 4.0,
+        "unit": "item",
+        "type": "solid",
+        "rate": 1.0
+      },
+      {
+        "id": "minecraft:nether_star",
+        "count": 1.0,
+        "unit": "item",
+        "type": "solid",
+        "rate": 1.0
+      }
+    ],
+    "outputs": [
+      {
+        "id": "create_aeronautics_toolgun:portable_structure_container",
+        "count": 1.0,
+        "unit": "item",
+        "type": "solid",
+        "rate": 1.0
+      }
+    ]
+  },
+  {
+    "recipe_id": "create_aeronautics_toolgun:survival_structure_tool",
+    "mod_id": "create_aeronautics_toolgun",
+    "recipe_type": "minecraft:crafting_shaped",
+    "inputs": [
+      {
+        "id": "create:electron_tube",
+        "count": 2.0,
+        "unit": "item",
+        "type": "solid",
+        "rate": 1.0
+      },
+      {
+        "id": "create:brass_sheet",
+        "count": 1.0,
+        "unit": "item",
+        "type": "solid",
+        "rate": 1.0
+      },
+      {
+        "id": "create_aeronautics_toolgun:magnetic_gun",
+        "count": 1.0,
+        "unit": "item",
+        "type": "solid",
+        "rate": 1.0
+      },
+      {
+        "id": "create:precision_mechanism",
+        "count": 1.0,
+        "unit": "item",
+        "type": "solid",
+        "rate": 1.0
+      }
+    ],
+    "outputs": [
+      {
+        "id": "create_aeronautics_toolgun:survival_structure_tool",
+        "count": 1.0,
+        "unit": "item",
+        "type": "solid",
+        "rate": 1.0
+      }
+    ]
+  },
+  {
+    "recipe_id": "create_aeronautics_toolgun:magnetic_gun",
+    "mod_id": "create_aeronautics_toolgun",
+    "recipe_type": "minecraft:crafting_shaped",
+    "inputs": [
+      {
+        "id": "create:copper_sheet",
+        "count": 2.0,
+        "unit": "item",
+        "type": "solid",
+        "rate": 1.0
+      },
+      {
+        "id": "create:electron_tube",
+        "count": 1.0,
+        "unit": "item",
+        "type": "solid",
+        "rate": 1.0
+      },
+      {
+        "id": "create:brass_block",
+        "count": 2.0,
+        "unit": "item",
+        "type": "solid",
+        "rate": 1.0
+      },
+      {
+        "id": "create:rose_quartz",
+        "count": 1.0,
+        "unit": "item",
+        "type": "solid",
+        "rate": 1.0
+      },
+      {
+        "id": "create:precision_mechanism",
+        "count": 2.0,
+        "unit": "item",
+        "type": "solid",
+        "rate": 1.0
+      },
+      {
+        "id": "minecraft:planks",
+        "count": 1.0,
+        "unit": "item",
+        "type": "solid",
+        "rate": 1.0
+      }
+    ],
+    "outputs": [
+      {
+        "id": "create_aeronautics_toolgun:magnetic_gun",
+        "count": 1.0,
+        "unit": "item",
+        "type": "solid",
+        "rate": 1.0
+      }
+    ]
+  },
+  {
+    "recipe_id": "create_aeronautics_toolgun:portable_structure_container",
+    "mod_id": "create_aeronautics_toolgun",
+    "recipe_type": "minecraft:crafting_shaped",
+    "inputs": [
+      {
+        "id": "minecraft:iron_ingot",
+        "count": 4.0,
+        "unit": "item",
+        "type": "solid",
+        "rate": 1.0
+      },
+      {
+        "id": "create:transmitter",
+        "count": 4.0,
+        "unit": "item",
+        "type": "solid",
+        "rate": 1.0
+      },
+      {
+        "id": "minecraft:nether_star",
+        "count": 1.0,
+        "unit": "item",
+        "type": "solid",
+        "rate": 1.0
+      }
+    ],
+    "outputs": [
+      {
+        "id": "create_aeronautics_toolgun:portable_structure_container",
+        "count": 1.0,
+        "unit": "item",
+        "type": "solid",
+        "rate": 1.0
+      }
+    ]
+  },
+  {
+    "recipe_id": "create_aeronautics_toolgun:survival_structure_tool",
+    "mod_id": "create_aeronautics_toolgun",
+    "recipe_type": "minecraft:crafting_shaped",
+    "inputs": [
+      {
+        "id": "create:electron_tube",
+        "count": 2.0,
+        "unit": "item",
+        "type": "solid",
+        "rate": 1.0
+      },
+      {
+        "id": "create:brass_sheet",
+        "count": 1.0,
+        "unit": "item",
+        "type": "solid",
+        "rate": 1.0
+      },
+      {
+        "id": "create_aeronautics_toolgun:magnetic_gun",
+        "count": 1.0,
+        "unit": "item",
+        "type": "solid",
+        "rate": 1.0
+      },
+      {
+        "id": "create:precision_mechanism",
+        "count": 1.0,
+        "unit": "item",
+        "type": "solid",
+        "rate": 1.0
+      }
+    ],
+    "outputs": [
+      {
+        "id": "create_aeronautics_toolgun:survival_structure_tool",
+        "count": 1.0,
+        "unit": "item",
+        "type": "solid",
+        "rate": 1.0
+      }
+    ]
+  },
+  {
+    "recipe_id": "create_aeronautics_toolgun:magnetic_gun",
+    "mod_id": "create_aeronautics_toolgun",
+    "recipe_type": "minecraft:crafting_shaped",
+    "inputs": [
+      {
+        "id": "create:copper_sheet",
+        "count": 2.0,
+        "unit": "item",
+        "type": "solid",
+        "rate": 1.0
+      },
+      {
+        "id": "create:electron_tube",
+        "count": 1.0,
+        "unit": "item",
+        "type": "solid",
+        "rate": 1.0
+      },
+      {
+        "id": "create:brass_block",
+        "count": 2.0,
+        "unit": "item",
+        "type": "solid",
+        "rate": 1.0
+      },
+      {
+        "id": "create:rose_quartz",
+        "count": 1.0,
+        "unit": "item",
+        "type": "solid",
+        "rate": 1.0
+      },
+      {
+        "id": "create:precision_mechanism",
+        "count": 2.0,
+        "unit": "item",
+        "type": "solid",
+        "rate": 1.0
+      },
+      {
+        "id": "minecraft:planks",
+        "count": 1.0,
+        "unit": "item",
+        "type": "solid",
+        "rate": 1.0
+      }
+    ],
+    "outputs": [
+      {
+        "id": "create_aeronautics_toolgun:magnetic_gun",
+        "count": 1.0,
+        "unit": "item",
+        "type": "solid",
+        "rate": 1.0
+      }
+    ]
+  },
+  {
+    "recipe_id": "create_aeronautics_toolgun:portable_structure_container",
+    "mod_id": "create_aeronautics_toolgun",
+    "recipe_type": "minecraft:crafting_shaped",
+    "inputs": [
+      {
+        "id": "minecraft:iron_ingot",
+        "count": 4.0,
+        "unit": "item",
+        "type": "solid",
+        "rate": 1.0
+      },
+      {
+        "id": "create:transmitter",
+        "count": 4.0,
+        "unit": "item",
+        "type": "solid",
+        "rate": 1.0
+      },
+      {
+        "id": "minecraft:nether_star",
+        "count": 1.0,
+        "unit": "item",
+        "type": "solid",
+        "rate": 1.0
+      }
+    ],
+    "outputs": [
+      {
+        "id": "create_aeronautics_toolgun:portable_structure_container",
+        "count": 1.0,
+        "unit": "item",
+        "type": "solid",
+        "rate": 1.0
+      }
+    ]
+  },
+  {
+    "recipe_id": "create_aeronautics_toolgun:survival_structure_tool",
+    "mod_id": "create_aeronautics_toolgun",
+    "recipe_type": "minecraft:crafting_shaped",
+    "inputs": [
+      {
+        "id": "create:electron_tube",
+        "count": 2.0,
+        "unit": "item",
+        "type": "solid",
+        "rate": 1.0
+      },
+      {
+        "id": "create:brass_sheet",
+        "count": 1.0,
+        "unit": "item",
+        "type": "solid",
+        "rate": 1.0
+      },
+      {
+        "id": "create_aeronautics_toolgun:magnetic_gun",
+        "count": 1.0,
+        "unit": "item",
+        "type": "solid",
+        "rate": 1.0
+      },
+      {
+        "id": "create:precision_mechanism",
+        "count": 1.0,
+        "unit": "item",
+        "type": "solid",
+        "rate": 1.0
+      }
+    ],
+    "outputs": [
+      {
+        "id": "create_aeronautics_toolgun:survival_structure_tool",
+        "count": 1.0,
+        "unit": "item",
+        "type": "solid",
+        "rate": 1.0
+      }
+    ]
+  },
+  {
+    "recipe_id": "create_aeronautics_toolgun:magnetic_gun",
+    "mod_id": "create_aeronautics_toolgun",
+    "recipe_type": "minecraft:crafting_shaped",
+    "inputs": [
+      {
+        "id": "create:copper_sheet",
+        "count": 2.0,
+        "unit": "item",
+        "type": "solid",
+        "rate": 1.0
+      },
+      {
+        "id": "create:electron_tube",
+        "count": 1.0,
+        "unit": "item",
+        "type": "solid",
+        "rate": 1.0
+      },
+      {
+        "id": "create:brass_block",
+        "count": 2.0,
+        "unit": "item",
+        "type": "solid",
+        "rate": 1.0
+      },
+      {
+        "id": "create:rose_quartz",
+        "count": 1.0,
+        "unit": "item",
+        "type": "solid",
+        "rate": 1.0
+      },
+      {
+        "id": "create:precision_mechanism",
+        "count": 2.0,
+        "unit": "item",
+        "type": "solid",
+        "rate": 1.0
+      },
+      {
+        "id": "minecraft:planks",
+        "count": 1.0,
+        "unit": "item",
+        "type": "solid",
+        "rate": 1.0
+      }
+    ],
+    "outputs": [
+      {
+        "id": "create_aeronautics_toolgun:magnetic_gun",
+        "count": 1.0,
+        "unit": "item",
+        "type": "solid",
+        "rate": 1.0
+      }
+    ]
+  },
+  {
+    "recipe_id": "create_aeronautics_toolgun:portable_structure_container",
+    "mod_id": "create_aeronautics_toolgun",
+    "recipe_type": "minecraft:crafting_shaped",
+    "inputs": [
+      {
+        "id": "minecraft:iron_ingot",
+        "count": 4.0,
+        "unit": "item",
+        "type": "solid",
+        "rate": 1.0
+      },
+      {
+        "id": "create:transmitter",
+        "count": 4.0,
+        "unit": "item",
+        "type": "solid",
+        "rate": 1.0
+      },
+      {
+        "id": "minecraft:nether_star",
+        "count": 1.0,
+        "unit": "item",
+        "type": "solid",
+        "rate": 1.0
+      }
+    ],
+    "outputs": [
+      {
+        "id": "create_aeronautics_toolgun:portable_structure_container",
+        "count": 1.0,
+        "unit": "item",
+        "type": "solid",
+        "rate": 1.0
+      }
+    ]
+  },
+  {
+    "recipe_id": "create_aeronautics_toolgun:survival_structure_tool",
+    "mod_id": "create_aeronautics_toolgun",
+    "recipe_type": "minecraft:crafting_shaped",
+    "inputs": [
+      {
+        "id": "create:electron_tube",
+        "count": 2.0,
+        "unit": "item",
+        "type": "solid",
+        "rate": 1.0
+      },
+      {
+        "id": "create:brass_sheet",
+        "count": 1.0,
+        "unit": "item",
+        "type": "solid",
+        "rate": 1.0
+      },
+      {
+        "id": "create_aeronautics_toolgun:magnetic_gun",
+        "count": 1.0,
+        "unit": "item",
+        "type": "solid",
+        "rate": 1.0
+      },
+      {
+        "id": "create:precision_mechanism",
+        "count": 1.0,
+        "unit": "item",
+        "type": "solid",
+        "rate": 1.0
+      }
+    ],
+    "outputs": [
+      {
+        "id": "create_aeronautics_toolgun:survival_structure_tool",
+        "count": 1.0,
+        "unit": "item",
+        "type": "solid",
+        "rate": 1.0
+      }
+    ]
+  },
+  {
+    "recipe_id": "create_aeronautics_toolgun:magnetic_gun",
+    "mod_id": "create_aeronautics_toolgun",
+    "recipe_type": "minecraft:crafting_shaped",
+    "inputs": [
+      {
+        "id": "create:copper_sheet",
+        "count": 2.0,
+        "unit": "item",
+        "type": "solid",
+        "rate": 1.0
+      },
+      {
+        "id": "create:electron_tube",
+        "count": 1.0,
+        "unit": "item",
+        "type": "solid",
+        "rate": 1.0
+      },
+      {
+        "id": "create:brass_block",
+        "count": 2.0,
+        "unit": "item",
+        "type": "solid",
+        "rate": 1.0
+      },
+      {
+        "id": "create:rose_quartz",
+        "count": 1.0,
+        "unit": "item",
+        "type": "solid",
+        "rate": 1.0
+      },
+      {
+        "id": "create:precision_mechanism",
+        "count": 2.0,
+        "unit": "item",
+        "type": "solid",
+        "rate": 1.0
+      },
+      {
+        "id": "minecraft:planks",
+        "count": 1.0,
+        "unit": "item",
+        "type": "solid",
+        "rate": 1.0
+      }
+    ],
+    "outputs": [
+      {
+        "id": "create_aeronautics_toolgun:magnetic_gun",
+        "count": 1.0,
+        "unit": "item",
+        "type": "solid",
+        "rate": 1.0
+      }
+    ]
+  },
+  {
+    "recipe_id": "create_aeronautics_toolgun:portable_structure_container",
+    "mod_id": "create_aeronautics_toolgun",
+    "recipe_type": "minecraft:crafting_shaped",
+    "inputs": [
+      {
+        "id": "minecraft:iron_ingot",
+        "count": 4.0,
+        "unit": "item",
+        "type": "solid",
+        "rate": 1.0
+      },
+      {
+        "id": "create:transmitter",
+        "count": 4.0,
+        "unit": "item",
+        "type": "solid",
+        "rate": 1.0
+      },
+      {
+        "id": "minecraft:nether_star",
+        "count": 1.0,
+        "unit": "item",
+        "type": "solid",
+        "rate": 1.0
+      }
+    ],
+    "outputs": [
+      {
+        "id": "create_aeronautics_toolgun:portable_structure_container",
+        "count": 1.0,
+        "unit": "item",
+        "type": "solid",
+        "rate": 1.0
+      }
+    ]
+  },
+  {
+    "recipe_id": "create_aeronautics_toolgun:survival_structure_tool",
+    "mod_id": "create_aeronautics_toolgun",
+    "recipe_type": "minecraft:crafting_shaped",
+    "inputs": [
+      {
+        "id": "create:electron_tube",
+        "count": 2.0,
+        "unit": "item",
+        "type": "solid",
+        "rate": 1.0
+      },
+      {
+        "id": "create:brass_sheet",
+        "count": 1.0,
+        "unit": "item",
+        "type": "solid",
+        "rate": 1.0
+      },
+      {
+        "id": "create_aeronautics_toolgun:magnetic_gun",
+        "count": 1.0,
+        "unit": "item",
+        "type": "solid",
+        "rate": 1.0
+      },
+      {
+        "id": "create:precision_mechanism",
+        "count": 1.0,
+        "unit": "item",
+        "type": "solid",
+        "rate": 1.0
+      }
+    ],
+    "outputs": [
+      {
+        "id": "create_aeronautics_toolgun:survival_structure_tool",
+        "count": 1.0,
+        "unit": "item",
+        "type": "solid",
+        "rate": 1.0
+      }
+    ]
+  },
+  {
+    "recipe_id": "create_aeronautics_toolgun:magnetic_gun",
+    "mod_id": "create_aeronautics_toolgun",
+    "recipe_type": "minecraft:crafting_shaped",
+    "inputs": [
+      {
+        "id": "create:copper_sheet",
+        "count": 2.0,
+        "unit": "item",
+        "type": "solid",
+        "rate": 1.0
+      },
+      {
+        "id": "create:electron_tube",
+        "count": 1.0,
+        "unit": "item",
+        "type": "solid",
+        "rate": 1.0
+      },
+      {
+        "id": "create:brass_block",
+        "count": 2.0,
+        "unit": "item",
+        "type": "solid",
+        "rate": 1.0
+      },
+      {
+        "id": "create:rose_quartz",
+        "count": 1.0,
+        "unit": "item",
+        "type": "solid",
+        "rate": 1.0
+      },
+      {
+        "id": "create:precision_mechanism",
+        "count": 2.0,
+        "unit": "item",
+        "type": "solid",
+        "rate": 1.0
+      },
+      {
+        "id": "minecraft:planks",
+        "count": 1.0,
+        "unit": "item",
+        "type": "solid",
+        "rate": 1.0
+      }
+    ],
+    "outputs": [
+      {
+        "id": "create_aeronautics_toolgun:magnetic_gun",
+        "count": 1.0,
+        "unit": "item",
+        "type": "solid",
+        "rate": 1.0
+      }
+    ]
+  },
+  {
+    "recipe_id": "create_aeronautics_toolgun:portable_structure_container",
+    "mod_id": "create_aeronautics_toolgun",
+    "recipe_type": "minecraft:crafting_shaped",
+    "inputs": [
+      {
+        "id": "minecraft:iron_ingot",
+        "count": 4.0,
+        "unit": "item",
+        "type": "solid",
+        "rate": 1.0
+      },
+      {
+        "id": "create:transmitter",
+        "count": 4.0,
+        "unit": "item",
+        "type": "solid",
+        "rate": 1.0
+      },
+      {
+        "id": "minecraft:nether_star",
+        "count": 1.0,
+        "unit": "item",
+        "type": "solid",
+        "rate": 1.0
+      }
+    ],
+    "outputs": [
+      {
+        "id": "create_aeronautics_toolgun:portable_structure_container",
+        "count": 1.0,
+        "unit": "item",
+        "type": "solid",
+        "rate": 1.0
+      }
+    ]
+  },
+  {
+    "recipe_id": "create_aeronautics_toolgun:survival_structure_tool",
+    "mod_id": "create_aeronautics_toolgun",
+    "recipe_type": "minecraft:crafting_shaped",
+    "inputs": [
+      {
+        "id": "create:electron_tube",
+        "count": 2.0,
+        "unit": "item",
+        "type": "solid",
+        "rate": 1.0
+      },
+      {
+        "id": "create:brass_sheet",
+        "count": 1.0,
+        "unit": "item",
+        "type": "solid",
+        "rate": 1.0
+      },
+      {
+        "id": "create_aeronautics_toolgun:magnetic_gun",
+        "count": 1.0,
+        "unit": "item",
+        "type": "solid",
+        "rate": 1.0
+      },
+      {
+        "id": "create:precision_mechanism",
+        "count": 1.0,
+        "unit": "item",
+        "type": "solid",
+        "rate": 1.0
+      }
+    ],
+    "outputs": [
+      {
+        "id": "create_aeronautics_toolgun:survival_structure_tool",
+        "count": 1.0,
+        "unit": "item",
+        "type": "solid",
+        "rate": 1.0
+      }
+    ]
+  },
+  {
+    "recipe_id": "create_aeronautics_toolgun:portable_structure_container",
+    "mod_id": "create_aeronautics_toolgun",
+    "recipe_type": "minecraft:crafting_shaped",
+    "inputs": [
+      {
+        "id": "minecraft:iron_ingot",
+        "count": 4.0,
+        "unit": "item",
+        "type": "solid",
+        "rate": 1.0
+      },
+      {
+        "id": "create:transmitter",
+        "count": 4.0,
+        "unit": "item",
+        "type": "solid",
+        "rate": 1.0
+      },
+      {
+        "id": "minecraft:nether_star",
+        "count": 1.0,
+        "unit": "item",
+        "type": "solid",
+        "rate": 1.0
+      }
+    ],
+    "outputs": [
+      {
+        "id": "create_aeronautics_toolgun:portable_structure_container",
+        "count": 1.0,
+        "unit": "item",
+        "type": "solid",
+        "rate": 1.0
+      }
+    ]
+  },
+  {
+    "recipe_id": "create_aeronautics_toolgun:survival_structure_tool",
+    "mod_id": "create_aeronautics_toolgun",
+    "recipe_type": "minecraft:crafting_shaped",
+    "inputs": [
+      {
+        "id": "create:electron_tube",
+        "count": 2.0,
+        "unit": "item",
+        "type": "solid",
+        "rate": 1.0
+      },
+      {
+        "id": "create:brass_sheet",
+        "count": 1.0,
+        "unit": "item",
+        "type": "solid",
+        "rate": 1.0
+      },
+      {
+        "id": "create_aeronautics_toolgun:magnetic_gun",
+        "count": 1.0,
+        "unit": "item",
+        "type": "solid",
+        "rate": 1.0
+      },
+      {
+        "id": "create:precision_mechanism",
+        "count": 1.0,
+        "unit": "item",
+        "type": "solid",
+        "rate": 1.0
+      }
+    ],
+    "outputs": [
+      {
+        "id": "create_aeronautics_toolgun:survival_structure_tool",
+        "count": 1.0,
+        "unit": "item",
+        "type": "solid",
+        "rate": 1.0
+      }
+    ]
+  },
+  {
+    "recipe_id": "create_aeronautics_toolgun:magnetic_gun",
+    "mod_id": "create_aeronautics_toolgun",
+    "recipe_type": "minecraft:crafting_shaped",
+    "inputs": [
+      {
+        "id": "create:copper_sheet",
+        "count": 2.0,
+        "unit": "item",
+        "type": "solid",
+        "rate": 1.0
+      },
+      {
+        "id": "create:electron_tube",
+        "count": 1.0,
+        "unit": "item",
+        "type": "solid",
+        "rate": 1.0
+      },
+      {
+        "id": "create:brass_block",
+        "count": 2.0,
+        "unit": "item",
+        "type": "solid",
+        "rate": 1.0
+      },
+      {
+        "id": "create:rose_quartz",
+        "count": 1.0,
+        "unit": "item",
+        "type": "solid",
+        "rate": 1.0
+      },
+      {
+        "id": "create:precision_mechanism",
+        "count": 2.0,
+        "unit": "item",
+        "type": "solid",
+        "rate": 1.0
+      },
+      {
+        "id": "minecraft:planks",
+        "count": 1.0,
+        "unit": "item",
+        "type": "solid",
+        "rate": 1.0
+      }
+    ],
+    "outputs": [
+      {
+        "id": "create_aeronautics_toolgun:magnetic_gun",
+        "count": 1.0,
+        "unit": "item",
+        "type": "solid",
+        "rate": 1.0
+      }
+    ]
+  },
+  {
+    "recipe_id": "create_aeronautics_toolgun:portable_structure_container",
+    "mod_id": "create_aeronautics_toolgun",
+    "recipe_type": "minecraft:crafting_shaped",
+    "inputs": [
+      {
+        "id": "minecraft:iron_ingot",
+        "count": 4.0,
+        "unit": "item",
+        "type": "solid",
+        "rate": 1.0
+      },
+      {
+        "id": "create:transmitter",
+        "count": 4.0,
+        "unit": "item",
+        "type": "solid",
+        "rate": 1.0
+      },
+      {
+        "id": "minecraft:nether_star",
+        "count": 1.0,
+        "unit": "item",
+        "type": "solid",
+        "rate": 1.0
+      }
+    ],
+    "outputs": [
+      {
+        "id": "create_aeronautics_toolgun:portable_structure_container",
+        "count": 1.0,
+        "unit": "item",
+        "type": "solid",
+        "rate": 1.0
+      }
+    ]
+  },
+  {
+    "recipe_id": "create_aeronautics_toolgun:survival_structure_tool",
+    "mod_id": "create_aeronautics_toolgun",
+    "recipe_type": "minecraft:crafting_shaped",
+    "inputs": [
+      {
+        "id": "create:electron_tube",
+        "count": 2.0,
+        "unit": "item",
+        "type": "solid",
+        "rate": 1.0
+      },
+      {
+        "id": "create:brass_sheet",
+        "count": 1.0,
+        "unit": "item",
+        "type": "solid",
+        "rate": 1.0
+      },
+      {
+        "id": "create_aeronautics_toolgun:magnetic_gun",
+        "count": 1.0,
+        "unit": "item",
+        "type": "solid",
+        "rate": 1.0
+      },
+      {
+        "id": "create:precision_mechanism",
+        "count": 1.0,
+        "unit": "item",
+        "type": "solid",
+        "rate": 1.0
+      }
+    ],
+    "outputs": [
+      {
+        "id": "create_aeronautics_toolgun:survival_structure_tool",
+        "count": 1.0,
+        "unit": "item",
+        "type": "solid",
+        "rate": 1.0
+      }
+    ]
+  },
+  {
+    "recipe_id": "create_aeronautics_toolgun:portable_structure_container",
+    "mod_id": "create_aeronautics_toolgun",
+    "recipe_type": "minecraft:crafting_shaped",
+    "inputs": [
+      {
+        "id": "minecraft:iron_ingot",
+        "count": 4.0,
+        "unit": "item",
+        "type": "solid",
+        "rate": 1.0
+      },
+      {
+        "id": "create:transmitter",
+        "count": 4.0,
+        "unit": "item",
+        "type": "solid",
+        "rate": 1.0
+      },
+      {
+        "id": "minecraft:nether_star",
+        "count": 1.0,
+        "unit": "item",
+        "type": "solid",
+        "rate": 1.0
+      }
+    ],
+    "outputs": [
+      {
+        "id": "create_aeronautics_toolgun:portable_structure_container",
+        "count": 1.0,
+        "unit": "item",
+        "type": "solid",
+        "rate": 1.0
+      }
+    ]
+  },
+  {
+    "recipe_id": "create_aeronautics_toolgun:survival_structure_tool",
+    "mod_id": "create_aeronautics_toolgun",
+    "recipe_type": "minecraft:crafting_shaped",
+    "inputs": [
+      {
+        "id": "create:electron_tube",
+        "count": 2.0,
+        "unit": "item",
+        "type": "solid",
+        "rate": 1.0
+      },
+      {
+        "id": "create:brass_sheet",
+        "count": 1.0,
+        "unit": "item",
+        "type": "solid",
+        "rate": 1.0
+      },
+      {
+        "id": "create_aeronautics_toolgun:magnetic_gun",
+        "count": 1.0,
+        "unit": "item",
+        "type": "solid",
+        "rate": 1.0
+      },
+      {
+        "id": "create:precision_mechanism",
+        "count": 1.0,
+        "unit": "item",
+        "type": "solid",
+        "rate": 1.0
+      }
+    ],
+    "outputs": [
+      {
+        "id": "create_aeronautics_toolgun:survival_structure_tool",
+        "count": 1.0,
+        "unit": "item",
+        "type": "solid",
+        "rate": 1.0
+      }
+    ]
+  },
+  {
+    "recipe_id": "create_aeronautics_toolgun:magnetic_gun",
+    "mod_id": "create_aeronautics_toolgun",
+    "recipe_type": "minecraft:crafting_shaped",
+    "inputs": [
+      {
+        "id": "create:copper_sheet",
+        "count": 2.0,
+        "unit": "item",
+        "type": "solid",
+        "rate": 1.0
+      },
+      {
+        "id": "create:electron_tube",
+        "count": 1.0,
+        "unit": "item",
+        "type": "solid",
+        "rate": 1.0
+      },
+      {
+        "id": "create:brass_block",
+        "count": 2.0,
+        "unit": "item",
+        "type": "solid",
+        "rate": 1.0
+      },
+      {
+        "id": "create:rose_quartz",
+        "count": 1.0,
+        "unit": "item",
+        "type": "solid",
+        "rate": 1.0
+      },
+      {
+        "id": "create:precision_mechanism",
+        "count": 2.0,
+        "unit": "item",
+        "type": "solid",
+        "rate": 1.0
+      },
+      {
+        "id": "minecraft:planks",
+        "count": 1.0,
+        "unit": "item",
+        "type": "solid",
+        "rate": 1.0
+      }
+    ],
+    "outputs": [
+      {
+        "id": "create_aeronautics_toolgun:magnetic_gun",
+        "count": 1.0,
+        "unit": "item",
+        "type": "solid",
+        "rate": 1.0
+      }
+    ]
+  },
+  {
+    "recipe_id": "create_aeronautics_toolgun:portable_structure_container",
+    "mod_id": "create_aeronautics_toolgun",
+    "recipe_type": "minecraft:crafting_shaped",
+    "inputs": [
+      {
+        "id": "minecraft:iron_ingot",
+        "count": 4.0,
+        "unit": "item",
+        "type": "solid",
+        "rate": 1.0
+      },
+      {
+        "id": "create:transmitter",
+        "count": 4.0,
+        "unit": "item",
+        "type": "solid",
+        "rate": 1.0
+      },
+      {
+        "id": "minecraft:nether_star",
+        "count": 1.0,
+        "unit": "item",
+        "type": "solid",
+        "rate": 1.0
+      }
+    ],
+    "outputs": [
+      {
+        "id": "create_aeronautics_toolgun:portable_structure_container",
+        "count": 1.0,
+        "unit": "item",
+        "type": "solid",
+        "rate": 1.0
+      }
+    ]
+  },
+  {
+    "recipe_id": "create_aeronautics_toolgun:survival_structure_tool",
+    "mod_id": "create_aeronautics_toolgun",
+    "recipe_type": "minecraft:crafting_shaped",
+    "inputs": [
+      {
+        "id": "create:electron_tube",
+        "count": 2.0,
+        "unit": "item",
+        "type": "solid",
+        "rate": 1.0
+      },
+      {
+        "id": "create:brass_sheet",
+        "count": 1.0,
+        "unit": "item",
+        "type": "solid",
+        "rate": 1.0
+      },
+      {
+        "id": "create_aeronautics_toolgun:magnetic_gun",
+        "count": 1.0,
+        "unit": "item",
+        "type": "solid",
+        "rate": 1.0
+      },
+      {
+        "id": "create:precision_mechanism",
+        "count": 1.0,
+        "unit": "item",
+        "type": "solid",
+        "rate": 1.0
+      }
+    ],
+    "outputs": [
+      {
+        "id": "create_aeronautics_toolgun:survival_structure_tool",
+        "count": 1.0,
+        "unit": "item",
+        "type": "solid",
+        "rate": 1.0
+      }
+    ]
+  },
+  {
+    "recipe_id": "create_aeronautics_toolgun:magnetic_gun",
+    "mod_id": "create_aeronautics_toolgun",
+    "recipe_type": "minecraft:crafting_shaped",
+    "inputs": [
+      {
+        "id": "create:copper_sheet",
+        "count": 2.0,
+        "unit": "item",
+        "type": "solid",
+        "rate": 1.0
+      },
+      {
+        "id": "create:electron_tube",
+        "count": 1.0,
+        "unit": "item",
+        "type": "solid",
+        "rate": 1.0
+      },
+      {
+        "id": "create:brass_block",
+        "count": 2.0,
+        "unit": "item",
+        "type": "solid",
+        "rate": 1.0
+      },
+      {
+        "id": "create:rose_quartz",
+        "count": 1.0,
+        "unit": "item",
+        "type": "solid",
+        "rate": 1.0
+      },
+      {
+        "id": "create:precision_mechanism",
+        "count": 2.0,
+        "unit": "item",
+        "type": "solid",
+        "rate": 1.0
+      },
+      {
+        "id": "minecraft:planks",
+        "count": 1.0,
+        "unit": "item",
+        "type": "solid",
+        "rate": 1.0
+      }
+    ],
+    "outputs": [
+      {
+        "id": "create_aeronautics_toolgun:magnetic_gun",
+        "count": 1.0,
+        "unit": "item",
+        "type": "solid",
+        "rate": 1.0
+      }
+    ]
+  },
+  {
+    "recipe_id": "create_aeronautics_toolgun:portable_structure_container",
+    "mod_id": "create_aeronautics_toolgun",
+    "recipe_type": "minecraft:crafting_shaped",
+    "inputs": [
+      {
+        "id": "minecraft:iron_ingot",
+        "count": 4.0,
+        "unit": "item",
+        "type": "solid",
+        "rate": 1.0
+      },
+      {
+        "id": "create:transmitter",
+        "count": 4.0,
+        "unit": "item",
+        "type": "solid",
+        "rate": 1.0
+      },
+      {
+        "id": "minecraft:nether_star",
+        "count": 1.0,
+        "unit": "item",
+        "type": "solid",
+        "rate": 1.0
+      }
+    ],
+    "outputs": [
+      {
+        "id": "create_aeronautics_toolgun:portable_structure_container",
+        "count": 1.0,
+        "unit": "item",
+        "type": "solid",
+        "rate": 1.0
+      }
+    ]
+  },
+  {
+    "recipe_id": "create_aeronautics_toolgun:survival_structure_tool",
+    "mod_id": "create_aeronautics_toolgun",
+    "recipe_type": "minecraft:crafting_shaped",
+    "inputs": [
+      {
+        "id": "create:electron_tube",
+        "count": 2.0,
+        "unit": "item",
+        "type": "solid",
+        "rate": 1.0
+      },
+      {
+        "id": "create:brass_sheet",
+        "count": 1.0,
+        "unit": "item",
+        "type": "solid",
+        "rate": 1.0
+      },
+      {
+        "id": "create_aeronautics_toolgun:magnetic_gun",
+        "count": 1.0,
+        "unit": "item",
+        "type": "solid",
+        "rate": 1.0
+      },
+      {
+        "id": "create:precision_mechanism",
+        "count": 1.0,
+        "unit": "item",
+        "type": "solid",
+        "rate": 1.0
+      }
+    ],
+    "outputs": [
+      {
+        "id": "create_aeronautics_toolgun:survival_structure_tool",
+        "count": 1.0,
+        "unit": "item",
+        "type": "solid",
+        "rate": 1.0
+      }
+    ]
+  },
+  {
+    "recipe_id": "create_aeronautics_toolgun:magnetic_gun",
+    "mod_id": "create_aeronautics_toolgun",
+    "recipe_type": "minecraft:crafting_shaped",
+    "inputs": [
+      {
+        "id": "create:copper_sheet",
+        "count": 2.0,
+        "unit": "item",
+        "type": "solid",
+        "rate": 1.0
+      },
+      {
+        "id": "create:electron_tube",
+        "count": 1.0,
+        "unit": "item",
+        "type": "solid",
+        "rate": 1.0
+      },
+      {
+        "id": "create:brass_block",
+        "count": 2.0,
+        "unit": "item",
+        "type": "solid",
+        "rate": 1.0
+      },
+      {
+        "id": "create:rose_quartz",
+        "count": 1.0,
+        "unit": "item",
+        "type": "solid",
+        "rate": 1.0
+      },
+      {
+        "id": "create:precision_mechanism",
+        "count": 2.0,
+        "unit": "item",
+        "type": "solid",
+        "rate": 1.0
+      },
+      {
+        "id": "minecraft:planks",
+        "count": 1.0,
+        "unit": "item",
+        "type": "solid",
+        "rate": 1.0
+      }
+    ],
+    "outputs": [
+      {
+        "id": "create_aeronautics_toolgun:magnetic_gun",
+        "count": 1.0,
+        "unit": "item",
+        "type": "solid",
+        "rate": 1.0
+      }
+    ]
+  },
+  {
+    "recipe_id": "create_aeronautics_toolgun:portable_structure_container",
+    "mod_id": "create_aeronautics_toolgun",
+    "recipe_type": "minecraft:crafting_shaped",
+    "inputs": [
+      {
+        "id": "minecraft:iron_ingot",
+        "count": 4.0,
+        "unit": "item",
+        "type": "solid",
+        "rate": 1.0
+      },
+      {
+        "id": "create:transmitter",
+        "count": 4.0,
+        "unit": "item",
+        "type": "solid",
+        "rate": 1.0
+      },
+      {
+        "id": "minecraft:nether_star",
+        "count": 1.0,
+        "unit": "item",
+        "type": "solid",
+        "rate": 1.0
+      }
+    ],
+    "outputs": [
+      {
+        "id": "create_aeronautics_toolgun:portable_structure_container",
+        "count": 1.0,
+        "unit": "item",
+        "type": "solid",
+        "rate": 1.0
+      }
+    ]
+  },
+  {
+    "recipe_id": "create_aeronautics_toolgun:survival_structure_tool",
+    "mod_id": "create_aeronautics_toolgun",
+    "recipe_type": "minecraft:crafting_shaped",
+    "inputs": [
+      {
+        "id": "create:electron_tube",
+        "count": 2.0,
+        "unit": "item",
+        "type": "solid",
+        "rate": 1.0
+      },
+      {
+        "id": "create:brass_sheet",
+        "count": 1.0,
+        "unit": "item",
+        "type": "solid",
+        "rate": 1.0
+      },
+      {
+        "id": "create_aeronautics_toolgun:magnetic_gun",
+        "count": 1.0,
+        "unit": "item",
+        "type": "solid",
+        "rate": 1.0
+      },
+      {
+        "id": "create:precision_mechanism",
+        "count": 1.0,
+        "unit": "item",
+        "type": "solid",
+        "rate": 1.0
+      }
+    ],
+    "outputs": [
+      {
+        "id": "create_aeronautics_toolgun:survival_structure_tool",
+        "count": 1.0,
+        "unit": "item",
+        "type": "solid",
+        "rate": 1.0
+      }
+    ]
+  },
+  {
+    "recipe_id": "create_aeronautics_toolgun:magnetic_gun",
+    "mod_id": "create_aeronautics_toolgun",
+    "recipe_type": "minecraft:crafting_shaped",
+    "inputs": [
+      {
+        "id": "create:copper_sheet",
+        "count": 2.0,
+        "unit": "item",
+        "type": "solid",
+        "rate": 1.0
+      },
+      {
+        "id": "create:electron_tube",
+        "count": 1.0,
+        "unit": "item",
+        "type": "solid",
+        "rate": 1.0
+      },
+      {
+        "id": "create:brass_block",
+        "count": 2.0,
+        "unit": "item",
+        "type": "solid",
+        "rate": 1.0
+      },
+      {
+        "id": "create:rose_quartz",
+        "count": 1.0,
+        "unit": "item",
+        "type": "solid",
+        "rate": 1.0
+      },
+      {
+        "id": "create:precision_mechanism",
+        "count": 2.0,
+        "unit": "item",
+        "type": "solid",
+        "rate": 1.0
+      },
+      {
+        "id": "minecraft:planks",
+        "count": 1.0,
+        "unit": "item",
+        "type": "solid",
+        "rate": 1.0
+      }
+    ],
+    "outputs": [
+      {
+        "id": "create_aeronautics_toolgun:magnetic_gun",
+        "count": 1.0,
+        "unit": "item",
+        "type": "solid",
+        "rate": 1.0
+      }
+    ]
+  },
+  {
+    "recipe_id": "create_aeronautics_toolgun:portable_structure_container",
+    "mod_id": "create_aeronautics_toolgun",
+    "recipe_type": "minecraft:crafting_shaped",
+    "inputs": [
+      {
+        "id": "minecraft:iron_ingot",
+        "count": 4.0,
+        "unit": "item",
+        "type": "solid",
+        "rate": 1.0
+      },
+      {
+        "id": "create:transmitter",
+        "count": 4.0,
+        "unit": "item",
+        "type": "solid",
+        "rate": 1.0
+      },
+      {
+        "id": "minecraft:nether_star",
+        "count": 1.0,
+        "unit": "item",
+        "type": "solid",
+        "rate": 1.0
+      }
+    ],
+    "outputs": [
+      {
+        "id": "create_aeronautics_toolgun:portable_structure_container",
+        "count": 1.0,
+        "unit": "item",
+        "type": "solid",
+        "rate": 1.0
+      }
+    ]
+  },
+  {
+    "recipe_id": "create_aeronautics_toolgun:survival_structure_tool",
+    "mod_id": "create_aeronautics_toolgun",
+    "recipe_type": "minecraft:crafting_shaped",
+    "inputs": [
+      {
+        "id": "create:electron_tube",
+        "count": 2.0,
+        "unit": "item",
+        "type": "solid",
+        "rate": 1.0
+      },
+      {
+        "id": "create:brass_sheet",
+        "count": 1.0,
+        "unit": "item",
+        "type": "solid",
+        "rate": 1.0
+      },
+      {
+        "id": "create_aeronautics_toolgun:magnetic_gun",
+        "count": 1.0,
+        "unit": "item",
+        "type": "solid",
+        "rate": 1.0
+      },
+      {
+        "id": "create:precision_mechanism",
+        "count": 1.0,
+        "unit": "item",
+        "type": "solid",
+        "rate": 1.0
+      }
+    ],
+    "outputs": [
+      {
+        "id": "create_aeronautics_toolgun:survival_structure_tool",
+        "count": 1.0,
+        "unit": "item",
+        "type": "solid",
+        "rate": 1.0
+      }
+    ]
+  },
+  {
+    "recipe_id": "create_aeronautics_toolgun:magnetic_gun",
+    "mod_id": "create_aeronautics_toolgun",
+    "recipe_type": "minecraft:crafting_shaped",
+    "inputs": [
+      {
+        "id": "create:copper_sheet",
+        "count": 2.0,
+        "unit": "item",
+        "type": "solid",
+        "rate": 1.0
+      },
+      {
+        "id": "create:electron_tube",
+        "count": 1.0,
+        "unit": "item",
+        "type": "solid",
+        "rate": 1.0
+      },
+      {
+        "id": "create:brass_block",
+        "count": 2.0,
+        "unit": "item",
+        "type": "solid",
+        "rate": 1.0
+      },
+      {
+        "id": "create:rose_quartz",
+        "count": 1.0,
+        "unit": "item",
+        "type": "solid",
+        "rate": 1.0
+      },
+      {
+        "id": "create:precision_mechanism",
+        "count": 2.0,
+        "unit": "item",
+        "type": "solid",
+        "rate": 1.0
+      },
+      {
+        "id": "minecraft:planks",
+        "count": 1.0,
+        "unit": "item",
+        "type": "solid",
+        "rate": 1.0
+      }
+    ],
+    "outputs": [
+      {
+        "id": "create_aeronautics_toolgun:magnetic_gun",
+        "count": 1.0,
+        "unit": "item",
+        "type": "solid",
+        "rate": 1.0
+      }
+    ]
+  },
+  {
+    "recipe_id": "create_aeronautics_toolgun:portable_structure_container",
+    "mod_id": "create_aeronautics_toolgun",
+    "recipe_type": "minecraft:crafting_shaped",
+    "inputs": [
+      {
+        "id": "minecraft:iron_ingot",
+        "count": 4.0,
+        "unit": "item",
+        "type": "solid",
+        "rate": 1.0
+      },
+      {
+        "id": "create:transmitter",
+        "count": 4.0,
+        "unit": "item",
+        "type": "solid",
+        "rate": 1.0
+      },
+      {
+        "id": "minecraft:nether_star",
+        "count": 1.0,
+        "unit": "item",
+        "type": "solid",
+        "rate": 1.0
+      }
+    ],
+    "outputs": [
+      {
+        "id": "create_aeronautics_toolgun:portable_structure_container",
+        "count": 1.0,
+        "unit": "item",
+        "type": "solid",
+        "rate": 1.0
+      }
+    ]
+  },
+  {
+    "recipe_id": "create_aeronautics_toolgun:survival_structure_tool",
+    "mod_id": "create_aeronautics_toolgun",
+    "recipe_type": "minecraft:crafting_shaped",
+    "inputs": [
+      {
+        "id": "create:electron_tube",
+        "count": 2.0,
+        "unit": "item",
+        "type": "solid",
+        "rate": 1.0
+      },
+      {
+        "id": "create:brass_sheet",
+        "count": 1.0,
+        "unit": "item",
+        "type": "solid",
+        "rate": 1.0
+      },
+      {
+        "id": "create_aeronautics_toolgun:magnetic_gun",
+        "count": 1.0,
+        "unit": "item",
+        "type": "solid",
+        "rate": 1.0
+      },
+      {
+        "id": "create:precision_mechanism",
+        "count": 1.0,
+        "unit": "item",
+        "type": "solid",
+        "rate": 1.0
+      }
+    ],
+    "outputs": [
+      {
+        "id": "create_aeronautics_toolgun:survival_structure_tool",
+        "count": 1.0,
+        "unit": "item",
+        "type": "solid",
+        "rate": 1.0
+      }
+    ]
+  },
+  {
+    "recipe_id": "create_aeronautics_toolgun:magnetic_gun",
+    "mod_id": "create_aeronautics_toolgun",
+    "recipe_type": "minecraft:crafting_shaped",
+    "inputs": [
+      {
+        "id": "create:copper_sheet",
+        "count": 2.0,
+        "unit": "item",
+        "type": "solid",
+        "rate": 1.0
+      },
+      {
+        "id": "create:electron_tube",
+        "count": 1.0,
+        "unit": "item",
+        "type": "solid",
+        "rate": 1.0
+      },
+      {
+        "id": "create:brass_block",
+        "count": 2.0,
+        "unit": "item",
+        "type": "solid",
+        "rate": 1.0
+      },
+      {
+        "id": "create:rose_quartz",
+        "count": 1.0,
+        "unit": "item",
+        "type": "solid",
+        "rate": 1.0
+      },
+      {
+        "id": "create:precision_mechanism",
+        "count": 2.0,
+        "unit": "item",
+        "type": "solid",
+        "rate": 1.0
+      },
+      {
+        "id": "minecraft:planks",
+        "count": 1.0,
+        "unit": "item",
+        "type": "solid",
+        "rate": 1.0
+      }
+    ],
+    "outputs": [
+      {
+        "id": "create_aeronautics_toolgun:magnetic_gun",
+        "count": 1.0,
+        "unit": "item",
+        "type": "solid",
+        "rate": 1.0
+      }
+    ]
+  },
+  {
+    "recipe_id": "create_aeronautics_toolgun:portable_structure_container",
+    "mod_id": "create_aeronautics_toolgun",
+    "recipe_type": "minecraft:crafting_shaped",
+    "inputs": [
+      {
+        "id": "minecraft:iron_ingot",
+        "count": 4.0,
+        "unit": "item",
+        "type": "solid",
+        "rate": 1.0
+      },
+      {
+        "id": "create:transmitter",
+        "count": 4.0,
+        "unit": "item",
+        "type": "solid",
+        "rate": 1.0
+      },
+      {
+        "id": "minecraft:nether_star",
+        "count": 1.0,
+        "unit": "item",
+        "type": "solid",
+        "rate": 1.0
+      }
+    ],
+    "outputs": [
+      {
+        "id": "create_aeronautics_toolgun:portable_structure_container",
+        "count": 1.0,
+        "unit": "item",
+        "type": "solid",
+        "rate": 1.0
+      }
+    ]
+  },
+  {
+    "recipe_id": "create_aeronautics_toolgun:portable_structure_container",
+    "mod_id": "create_aeronautics_toolgun",
+    "recipe_type": "minecraft:crafting_shaped",
+    "inputs": [
+      {
+        "id": "minecraft:iron_ingot",
+        "count": 4.0,
+        "unit": "item",
+        "type": "solid",
+        "rate": 1.0
+      },
+      {
+        "id": "create:transmitter",
+        "count": 4.0,
+        "unit": "item",
+        "type": "solid",
+        "rate": 1.0
+      },
+      {
+        "id": "minecraft:nether_star",
+        "count": 1.0,
+        "unit": "item",
+        "type": "solid",
+        "rate": 1.0
+      }
+    ],
+    "outputs": [
+      {
+        "id": "create_aeronautics_toolgun:portable_structure_container",
+        "count": 1.0,
+        "unit": "item",
+        "type": "solid",
+        "rate": 1.0
+      }
+    ]
+  },
+  {
+    "recipe_id": "create_aeronautics_toolgun:survival_structure_tool",
+    "mod_id": "create_aeronautics_toolgun",
+    "recipe_type": "minecraft:crafting_shaped",
+    "inputs": [
+      {
+        "id": "create:electron_tube",
+        "count": 2.0,
+        "unit": "item",
+        "type": "solid",
+        "rate": 1.0
+      },
+      {
+        "id": "create:brass_sheet",
+        "count": 1.0,
+        "unit": "item",
+        "type": "solid",
+        "rate": 1.0
+      },
+      {
+        "id": "create_aeronautics_toolgun:magnetic_gun",
+        "count": 1.0,
+        "unit": "item",
+        "type": "solid",
+        "rate": 1.0
+      },
+      {
+        "id": "create:precision_mechanism",
+        "count": 1.0,
+        "unit": "item",
+        "type": "solid",
+        "rate": 1.0
+      }
+    ],
+    "outputs": [
+      {
+        "id": "create_aeronautics_toolgun:survival_structure_tool",
+        "count": 1.0,
+        "unit": "item",
+        "type": "solid",
+        "rate": 1.0
+      }
+    ]
+  },
+  {
+    "recipe_id": "create_aeronautics_toolgun:survival_structure_tool",
+    "mod_id": "create_aeronautics_toolgun",
+    "recipe_type": "minecraft:crafting_shaped",
+    "inputs": [
+      {
+        "id": "create:electron_tube",
+        "count": 2.0,
+        "unit": "item",
+        "type": "solid",
+        "rate": 1.0
+      },
+      {
+        "id": "create:brass_sheet",
+        "count": 1.0,
+        "unit": "item",
+        "type": "solid",
+        "rate": 1.0
+      },
+      {
+        "id": "create_aeronautics_toolgun:magnetic_gun",
+        "count": 1.0,
+        "unit": "item",
+        "type": "solid",
+        "rate": 1.0
+      },
+      {
+        "id": "create:precision_mechanism",
+        "count": 1.0,
+        "unit": "item",
+        "type": "solid",
+        "rate": 1.0
+      }
+    ],
+    "outputs": [
+      {
+        "id": "create_aeronautics_toolgun:survival_structure_tool",
+        "count": 1.0,
+        "unit": "item",
+        "type": "solid",
+        "rate": 1.0
+      }
+    ]
+  },
+  {
+    "recipe_id": "create_aeronautics_toolgun:magnetic_gun",
+    "mod_id": "create_aeronautics_toolgun",
+    "recipe_type": "minecraft:crafting_shaped",
+    "inputs": [
+      {
+        "id": "create:copper_sheet",
+        "count": 2.0,
+        "unit": "item",
+        "type": "solid",
+        "rate": 1.0
+      },
+      {
+        "id": "create:electron_tube",
+        "count": 1.0,
+        "unit": "item",
+        "type": "solid",
+        "rate": 1.0
+      },
+      {
+        "id": "create:brass_block",
+        "count": 2.0,
+        "unit": "item",
+        "type": "solid",
+        "rate": 1.0
+      },
+      {
+        "id": "create:rose_quartz",
+        "count": 1.0,
+        "unit": "item",
+        "type": "solid",
+        "rate": 1.0
+      },
+      {
+        "id": "create:precision_mechanism",
+        "count": 2.0,
+        "unit": "item",
+        "type": "solid",
+        "rate": 1.0
+      },
+      {
+        "id": "minecraft:planks",
+        "count": 1.0,
+        "unit": "item",
+        "type": "solid",
+        "rate": 1.0
+      }
+    ],
+    "outputs": [
+      {
+        "id": "create_aeronautics_toolgun:magnetic_gun",
+        "count": 1.0,
+        "unit": "item",
+        "type": "solid",
+        "rate": 1.0
+      }
+    ]
+  },
+  {
+    "recipe_id": "create_aeronautics_toolgun:magnetic_gun",
+    "mod_id": "create_aeronautics_toolgun",
+    "recipe_type": "minecraft:crafting_shaped",
+    "inputs": [
+      {
+        "id": "create:copper_sheet",
+        "count": 2.0,
+        "unit": "item",
+        "type": "solid",
+        "rate": 1.0
+      },
+      {
+        "id": "create:electron_tube",
+        "count": 1.0,
+        "unit": "item",
+        "type": "solid",
+        "rate": 1.0
+      },
+      {
+        "id": "create:brass_block",
+        "count": 2.0,
+        "unit": "item",
+        "type": "solid",
+        "rate": 1.0
+      },
+      {
+        "id": "create:rose_quartz",
+        "count": 1.0,
+        "unit": "item",
+        "type": "solid",
+        "rate": 1.0
+      },
+      {
+        "id": "create:precision_mechanism",
+        "count": 2.0,
+        "unit": "item",
+        "type": "solid",
+        "rate": 1.0
+      },
+      {
+        "id": "minecraft:planks",
+        "count": 1.0,
+        "unit": "item",
+        "type": "solid",
+        "rate": 1.0
+      }
+    ],
+    "outputs": [
+      {
+        "id": "create_aeronautics_toolgun:magnetic_gun",
+        "count": 1.0,
+        "unit": "item",
+        "type": "solid",
+        "rate": 1.0
+      }
+    ]
+  },
+  {
+    "recipe_id": "create_aeronautics_toolgun:portable_structure_container",
+    "mod_id": "create_aeronautics_toolgun",
+    "recipe_type": "minecraft:crafting_shaped",
+    "inputs": [
+      {
+        "id": "minecraft:iron_ingot",
+        "count": 4.0,
+        "unit": "item",
+        "type": "solid",
+        "rate": 1.0
+      },
+      {
+        "id": "create:transmitter",
+        "count": 4.0,
+        "unit": "item",
+        "type": "solid",
+        "rate": 1.0
+      },
+      {
+        "id": "minecraft:nether_star",
+        "count": 1.0,
+        "unit": "item",
+        "type": "solid",
+        "rate": 1.0
+      }
+    ],
+    "outputs": [
+      {
+        "id": "create_aeronautics_toolgun:portable_structure_container",
+        "count": 1.0,
+        "unit": "item",
+        "type": "solid",
+        "rate": 1.0
+      }
+    ]
+  },
+  {
+    "recipe_id": "create_aeronautics_toolgun:survival_structure_tool",
+    "mod_id": "create_aeronautics_toolgun",
+    "recipe_type": "minecraft:crafting_shaped",
+    "inputs": [
+      {
+        "id": "create:electron_tube",
+        "count": 2.0,
+        "unit": "item",
+        "type": "solid",
+        "rate": 1.0
+      },
+      {
+        "id": "create:brass_sheet",
+        "count": 1.0,
+        "unit": "item",
+        "type": "solid",
+        "rate": 1.0
+      },
+      {
+        "id": "create_aeronautics_toolgun:magnetic_gun",
+        "count": 1.0,
+        "unit": "item",
+        "type": "solid",
+        "rate": 1.0
+      },
+      {
+        "id": "create:precision_mechanism",
+        "count": 1.0,
+        "unit": "item",
+        "type": "solid",
+        "rate": 1.0
+      }
+    ],
+    "outputs": [
+      {
+        "id": "create_aeronautics_toolgun:survival_structure_tool",
+        "count": 1.0,
+        "unit": "item",
+        "type": "solid",
+        "rate": 1.0
+      }
+    ]
+  },
+  {
+    "recipe_id": "create_aeronautics_toolgun:magnetic_gun",
+    "mod_id": "create_aeronautics_toolgun",
+    "recipe_type": "minecraft:crafting_shaped",
+    "inputs": [
+      {
+        "id": "create:copper_sheet",
+        "count": 2.0,
+        "unit": "item",
+        "type": "solid",
+        "rate": 1.0
+      },
+      {
+        "id": "create:electron_tube",
+        "count": 1.0,
+        "unit": "item",
+        "type": "solid",
+        "rate": 1.0
+      },
+      {
+        "id": "create:brass_block",
+        "count": 2.0,
+        "unit": "item",
+        "type": "solid",
+        "rate": 1.0
+      },
+      {
+        "id": "create:rose_quartz",
+        "count": 1.0,
+        "unit": "item",
+        "type": "solid",
+        "rate": 1.0
+      },
+      {
+        "id": "create:precision_mechanism",
+        "count": 2.0,
+        "unit": "item",
+        "type": "solid",
+        "rate": 1.0
+      },
+      {
+        "id": "minecraft:planks",
+        "count": 1.0,
+        "unit": "item",
+        "type": "solid",
+        "rate": 1.0
+      }
+    ],
+    "outputs": [
+      {
+        "id": "create_aeronautics_toolgun:magnetic_gun",
+        "count": 1.0,
+        "unit": "item",
+        "type": "solid",
+        "rate": 1.0
+      }
+    ]
+  },
+  {
+    "recipe_id": "create_aeronautics_toolgun:portable_structure_container",
+    "mod_id": "create_aeronautics_toolgun",
+    "recipe_type": "minecraft:crafting_shaped",
+    "inputs": [
+      {
+        "id": "minecraft:iron_ingot",
+        "count": 4.0,
+        "unit": "item",
+        "type": "solid",
+        "rate": 1.0
+      },
+      {
+        "id": "create:transmitter",
+        "count": 4.0,
+        "unit": "item",
+        "type": "solid",
+        "rate": 1.0
+      },
+      {
+        "id": "minecraft:nether_star",
+        "count": 1.0,
+        "unit": "item",
+        "type": "solid",
+        "rate": 1.0
+      }
+    ],
+    "outputs": [
+      {
+        "id": "create_aeronautics_toolgun:portable_structure_container",
+        "count": 1.0,
+        "unit": "item",
+        "type": "solid",
+        "rate": 1.0
+      }
+    ]
+  },
+  {
+    "recipe_id": "create_aeronautics_toolgun:survival_structure_tool",
+    "mod_id": "create_aeronautics_toolgun",
+    "recipe_type": "minecraft:crafting_shaped",
+    "inputs": [
+      {
+        "id": "create:electron_tube",
+        "count": 2.0,
+        "unit": "item",
+        "type": "solid",
+        "rate": 1.0
+      },
+      {
+        "id": "create:brass_sheet",
+        "count": 1.0,
+        "unit": "item",
+        "type": "solid",
+        "rate": 1.0
+      },
+      {
+        "id": "create_aeronautics_toolgun:magnetic_gun",
+        "count": 1.0,
+        "unit": "item",
+        "type": "solid",
+        "rate": 1.0
+      },
+      {
+        "id": "create:precision_mechanism",
+        "count": 1.0,
+        "unit": "item",
+        "type": "solid",
+        "rate": 1.0
+      }
+    ],
+    "outputs": [
+      {
+        "id": "create_aeronautics_toolgun:survival_structure_tool",
+        "count": 1.0,
+        "unit": "item",
+        "type": "solid",
+        "rate": 1.0
+      }
+    ]
+  },
+  {
+    "recipe_id": "create_aeronautics_toolgun:magnetic_gun",
+    "mod_id": "create_aeronautics_toolgun",
+    "recipe_type": "minecraft:crafting_shaped",
+    "inputs": [
+      {
+        "id": "create:copper_sheet",
+        "count": 2.0,
+        "unit": "item",
+        "type": "solid",
+        "rate": 1.0
+      },
+      {
+        "id": "create:electron_tube",
+        "count": 1.0,
+        "unit": "item",
+        "type": "solid",
+        "rate": 1.0
+      },
+      {
+        "id": "create:brass_block",
+        "count": 2.0,
+        "unit": "item",
+        "type": "solid",
+        "rate": 1.0
+      },
+      {
+        "id": "create:rose_quartz",
+        "count": 1.0,
+        "unit": "item",
+        "type": "solid",
+        "rate": 1.0
+      },
+      {
+        "id": "create:precision_mechanism",
+        "count": 2.0,
+        "unit": "item",
+        "type": "solid",
+        "rate": 1.0
+      },
+      {
+        "id": "minecraft:planks",
+        "count": 1.0,
+        "unit": "item",
+        "type": "solid",
+        "rate": 1.0
+      }
+    ],
+    "outputs": [
+      {
+        "id": "create_aeronautics_toolgun:magnetic_gun",
+        "count": 1.0,
+        "unit": "item",
+        "type": "solid",
+        "rate": 1.0
+      }
+    ]
+  },
+  {
+    "recipe_id": "create_aeronautics_toolgun:portable_structure_container",
+    "mod_id": "create_aeronautics_toolgun",
+    "recipe_type": "minecraft:crafting_shaped",
+    "inputs": [
+      {
+        "id": "minecraft:iron_ingot",
+        "count": 4.0,
+        "unit": "item",
+        "type": "solid",
+        "rate": 1.0
+      },
+      {
+        "id": "create:transmitter",
+        "count": 4.0,
+        "unit": "item",
+        "type": "solid",
+        "rate": 1.0
+      },
+      {
+        "id": "minecraft:nether_star",
+        "count": 1.0,
+        "unit": "item",
+        "type": "solid",
+        "rate": 1.0
+      }
+    ],
+    "outputs": [
+      {
+        "id": "create_aeronautics_toolgun:portable_structure_container",
+        "count": 1.0,
+        "unit": "item",
+        "type": "solid",
+        "rate": 1.0
+      }
+    ]
+  },
+  {
+    "recipe_id": "create_aeronautics_toolgun:survival_structure_tool",
+    "mod_id": "create_aeronautics_toolgun",
+    "recipe_type": "minecraft:crafting_shaped",
+    "inputs": [
+      {
+        "id": "create:electron_tube",
+        "count": 2.0,
+        "unit": "item",
+        "type": "solid",
+        "rate": 1.0
+      },
+      {
+        "id": "create:brass_sheet",
+        "count": 1.0,
+        "unit": "item",
+        "type": "solid",
+        "rate": 1.0
+      },
+      {
+        "id": "create_aeronautics_toolgun:magnetic_gun",
+        "count": 1.0,
+        "unit": "item",
+        "type": "solid",
+        "rate": 1.0
+      },
+      {
+        "id": "create:precision_mechanism",
+        "count": 1.0,
+        "unit": "item",
+        "type": "solid",
+        "rate": 1.0
+      }
+    ],
+    "outputs": [
+      {
+        "id": "create_aeronautics_toolgun:survival_structure_tool",
+        "count": 1.0,
+        "unit": "item",
+        "type": "solid",
+        "rate": 1.0
+      }
+    ]
+  },
+  {
+    "recipe_id": "create_aeronautics_toolgun:portable_structure_container",
+    "mod_id": "create_aeronautics_toolgun",
+    "recipe_type": "minecraft:crafting_shaped",
+    "inputs": [
+      {
+        "id": "minecraft:iron_ingot",
+        "count": 4.0,
+        "unit": "item",
+        "type": "solid",
+        "rate": 1.0
+      },
+      {
+        "id": "create:transmitter",
+        "count": 4.0,
+        "unit": "item",
+        "type": "solid",
+        "rate": 1.0
+      },
+      {
+        "id": "minecraft:nether_star",
+        "count": 1.0,
+        "unit": "item",
+        "type": "solid",
+        "rate": 1.0
+      }
+    ],
+    "outputs": [
+      {
+        "id": "create_aeronautics_toolgun:portable_structure_container",
+        "count": 1.0,
+        "unit": "item",
+        "type": "solid",
+        "rate": 1.0
+      }
+    ]
+  },
+  {
+    "recipe_id": "create_aeronautics_toolgun:portable_structure_container",
+    "mod_id": "create_aeronautics_toolgun",
+    "recipe_type": "minecraft:crafting_shaped",
+    "inputs": [
+      {
+        "id": "minecraft:iron_ingot",
+        "count": 4.0,
+        "unit": "item",
+        "type": "solid",
+        "rate": 1.0
+      },
+      {
+        "id": "create:transmitter",
+        "count": 4.0,
+        "unit": "item",
+        "type": "solid",
+        "rate": 1.0
+      },
+      {
+        "id": "minecraft:nether_star",
+        "count": 1.0,
+        "unit": "item",
+        "type": "solid",
+        "rate": 1.0
+      }
+    ],
+    "outputs": [
+      {
+        "id": "create_aeronautics_toolgun:portable_structure_container",
+        "count": 1.0,
+        "unit": "item",
+        "type": "solid",
+        "rate": 1.0
+      }
+    ]
+  },
+  {
+    "recipe_id": "create_aeronautics_toolgun:survival_structure_tool",
+    "mod_id": "create_aeronautics_toolgun",
+    "recipe_type": "minecraft:crafting_shaped",
+    "inputs": [
+      {
+        "id": "create:electron_tube",
+        "count": 2.0,
+        "unit": "item",
+        "type": "solid",
+        "rate": 1.0
+      },
+      {
+        "id": "create:brass_sheet",
+        "count": 1.0,
+        "unit": "item",
+        "type": "solid",
+        "rate": 1.0
+      },
+      {
+        "id": "create_aeronautics_toolgun:magnetic_gun",
+        "count": 1.0,
+        "unit": "item",
+        "type": "solid",
+        "rate": 1.0
+      },
+      {
+        "id": "create:precision_mechanism",
+        "count": 1.0,
+        "unit": "item",
+        "type": "solid",
+        "rate": 1.0
+      }
+    ],
+    "outputs": [
+      {
+        "id": "create_aeronautics_toolgun:survival_structure_tool",
+        "count": 1.0,
+        "unit": "item",
+        "type": "solid",
+        "rate": 1.0
+      }
+    ]
+  },
+  {
+    "recipe_id": "create_aeronautics_toolgun:portable_structure_container",
+    "mod_id": "create_aeronautics_toolgun",
+    "recipe_type": "minecraft:crafting_shaped",
+    "inputs": [
+      {
+        "id": "minecraft:iron_ingot",
+        "count": 4.0,
+        "unit": "item",
+        "type": "solid",
+        "rate": 1.0
+      },
+      {
+        "id": "create:transmitter",
+        "count": 4.0,
+        "unit": "item",
+        "type": "solid",
+        "rate": 1.0
+      },
+      {
+        "id": "minecraft:nether_star",
+        "count": 1.0,
+        "unit": "item",
+        "type": "solid",
+        "rate": 1.0
+      }
+    ],
+    "outputs": [
+      {
+        "id": "create_aeronautics_toolgun:portable_structure_container",
+        "count": 1.0,
+        "unit": "item",
+        "type": "solid",
+        "rate": 1.0
+      }
+    ]
+  },
+  {
+    "recipe_id": "create_aeronautics_toolgun:portable_structure_container",
+    "mod_id": "create_aeronautics_toolgun",
+    "recipe_type": "minecraft:crafting_shaped",
+    "inputs": [
+      {
+        "id": "minecraft:iron_ingot",
+        "count": 4.0,
+        "unit": "item",
+        "type": "solid",
+        "rate": 1.0
+      },
+      {
+        "id": "create:transmitter",
+        "count": 4.0,
+        "unit": "item",
+        "type": "solid",
+        "rate": 1.0
+      },
+      {
+        "id": "minecraft:nether_star",
+        "count": 1.0,
+        "unit": "item",
+        "type": "solid",
+        "rate": 1.0
+      }
+    ],
+    "outputs": [
+      {
+        "id": "create_aeronautics_toolgun:portable_structure_container",
+        "count": 1.0,
+        "unit": "item",
+        "type": "solid",
+        "rate": 1.0
+      }
+    ]
+  },
+  {
+    "recipe_id": "create_aeronautics_toolgun:survival_structure_tool",
+    "mod_id": "create_aeronautics_toolgun",
+    "recipe_type": "minecraft:crafting_shaped",
+    "inputs": [
+      {
+        "id": "create:electron_tube",
+        "count": 2.0,
+        "unit": "item",
+        "type": "solid",
+        "rate": 1.0
+      },
+      {
+        "id": "create:brass_sheet",
+        "count": 1.0,
+        "unit": "item",
+        "type": "solid",
+        "rate": 1.0
+      },
+      {
+        "id": "create_aeronautics_toolgun:magnetic_gun",
+        "count": 1.0,
+        "unit": "item",
+        "type": "solid",
+        "rate": 1.0
+      },
+      {
+        "id": "create:precision_mechanism",
+        "count": 1.0,
+        "unit": "item",
+        "type": "solid",
+        "rate": 1.0
+      }
+    ],
+    "outputs": [
+      {
+        "id": "create_aeronautics_toolgun:survival_structure_tool",
+        "count": 1.0,
+        "unit": "item",
+        "type": "solid",
+        "rate": 1.0
+      }
+    ]
+  },
+  {
+    "recipe_id": "create_aeronautics_toolgun:magnetic_gun",
+    "mod_id": "create_aeronautics_toolgun",
+    "recipe_type": "minecraft:crafting_shaped",
+    "inputs": [
+      {
+        "id": "create:copper_sheet",
+        "count": 2.0,
+        "unit": "item",
+        "type": "solid",
+        "rate": 1.0
+      },
+      {
+        "id": "create:electron_tube",
+        "count": 1.0,
+        "unit": "item",
+        "type": "solid",
+        "rate": 1.0
+      },
+      {
+        "id": "create:brass_block",
+        "count": 2.0,
+        "unit": "item",
+        "type": "solid",
+        "rate": 1.0
+      },
+      {
+        "id": "create:rose_quartz",
+        "count": 1.0,
+        "unit": "item",
+        "type": "solid",
+        "rate": 1.0
+      },
+      {
+        "id": "create:precision_mechanism",
+        "count": 2.0,
+        "unit": "item",
+        "type": "solid",
+        "rate": 1.0
+      },
+      {
+        "id": "minecraft:planks",
+        "count": 1.0,
+        "unit": "item",
+        "type": "solid",
+        "rate": 1.0
+      }
+    ],
+    "outputs": [
+      {
+        "id": "create_aeronautics_toolgun:magnetic_gun",
+        "count": 1.0,
+        "unit": "item",
+        "type": "solid",
+        "rate": 1.0
+      }
+    ]
+  }
+]

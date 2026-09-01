@@ -1,0 +1,2744 @@
+[
+  {
+    "recipe_id": "create_aeronautics_throwable_rope_connector:mounted_rope_launcher",
+    "mod_id": "create_aeronautics_throwable_rope_connector",
+    "recipe_type": "minecraft:crafting_shaped",
+    "inputs": [
+      {
+        "id": "create_aeronautics_throwable_rope_connector:rope_connector_launcher",
+        "count": 1.0,
+        "unit": "item",
+        "type": "solid",
+        "rate": 1.0
+      },
+      {
+        "id": "simulated:rope_coupling",
+        "count": 2.0,
+        "unit": "item",
+        "type": "solid",
+        "rate": 1.0
+      },
+      {
+        "id": "simulated:rope_winch",
+        "count": 1.0,
+        "unit": "item",
+        "type": "solid",
+        "rate": 1.0
+      },
+      {
+        "id": "create:polished_cut_asurine_slab",
+        "count": 3.0,
+        "unit": "item",
+        "type": "solid",
+        "rate": 1.0
+      }
+    ],
+    "outputs": [
+      {
+        "id": "create_aeronautics_throwable_rope_connector:mounted_rope_launcher",
+        "count": 1.0,
+        "unit": "item",
+        "type": "solid",
+        "rate": 1.0
+      }
+    ]
+  },
+  {
+    "recipe_id": "create_aeronautics_throwable_rope_connector:rope_connector_launcher",
+    "mod_id": "create_aeronautics_throwable_rope_connector",
+    "recipe_type": "create:mechanical_crafting",
+    "inputs": [
+      {
+        "id": "create:andesite_alloy",
+        "count": 1.0,
+        "unit": "item",
+        "type": "solid",
+        "rate": 1.0
+      },
+      {
+        "id": "create:precision_mechanism",
+        "count": 1.0,
+        "unit": "item",
+        "type": "solid",
+        "rate": 1.0
+      },
+      {
+        "id": "create:fluid_pipe",
+        "count": 3.0,
+        "unit": "item",
+        "type": "solid",
+        "rate": 1.0
+      },
+      {
+        "id": "create:polished_cut_asurine_slab",
+        "count": 2.0,
+        "unit": "item",
+        "type": "solid",
+        "rate": 1.0
+      }
+    ],
+    "outputs": [
+      {
+        "id": "create_aeronautics_throwable_rope_connector:rope_connector_launcher",
+        "count": 1.0,
+        "unit": "item",
+        "type": "solid",
+        "rate": 1.0
+      }
+    ]
+  },
+  {
+    "recipe_id": "create_aeronautics_throwable_rope_connector:throwable_rope_connector",
+    "mod_id": "create_aeronautics_throwable_rope_connector",
+    "recipe_type": "minecraft:crafting_shapeless",
+    "inputs": [
+      {
+        "id": "simulated:rope_coupling",
+        "count": 1.0,
+        "unit": "item",
+        "type": "solid",
+        "rate": 1.0
+      },
+      {
+        "id": "simulated:rope_connector",
+        "count": 1.0,
+        "unit": "item",
+        "type": "solid",
+        "rate": 1.0
+      }
+    ],
+    "outputs": [
+      {
+        "id": "create_aeronautics_throwable_rope_connector:throwable_rope_connector",
+        "count": 1.0,
+        "unit": "item",
+        "type": "solid",
+        "rate": 1.0
+      }
+    ]
+  },
+  {
+    "recipe_id": "create_aeronautics_throwable_rope_connector:mounted_rope_launcher",
+    "mod_id": "create_aeronautics_throwable_rope_connector",
+    "recipe_type": "minecraft:crafting_shaped",
+    "inputs": [
+      {
+        "id": "create_aeronautics_throwable_rope_connector:rope_connector_launcher",
+        "count": 1.0,
+        "unit": "item",
+        "type": "solid",
+        "rate": 1.0
+      },
+      {
+        "id": "simulated:rope_coupling",
+        "count": 2.0,
+        "unit": "item",
+        "type": "solid",
+        "rate": 1.0
+      },
+      {
+        "id": "simulated:rope_winch",
+        "count": 1.0,
+        "unit": "item",
+        "type": "solid",
+        "rate": 1.0
+      },
+      {
+        "id": "create:polished_cut_asurine_slab",
+        "count": 3.0,
+        "unit": "item",
+        "type": "solid",
+        "rate": 1.0
+      }
+    ],
+    "outputs": [
+      {
+        "id": "create_aeronautics_throwable_rope_connector:mounted_rope_launcher",
+        "count": 1.0,
+        "unit": "item",
+        "type": "solid",
+        "rate": 1.0
+      }
+    ]
+  },
+  {
+    "recipe_id": "create_aeronautics_throwable_rope_connector:rope_connector_launcher",
+    "mod_id": "create_aeronautics_throwable_rope_connector",
+    "recipe_type": "create:mechanical_crafting",
+    "inputs": [
+      {
+        "id": "create:andesite_alloy",
+        "count": 1.0,
+        "unit": "item",
+        "type": "solid",
+        "rate": 1.0
+      },
+      {
+        "id": "create:precision_mechanism",
+        "count": 1.0,
+        "unit": "item",
+        "type": "solid",
+        "rate": 1.0
+      },
+      {
+        "id": "create:fluid_pipe",
+        "count": 3.0,
+        "unit": "item",
+        "type": "solid",
+        "rate": 1.0
+      },
+      {
+        "id": "create:polished_cut_asurine_slab",
+        "count": 2.0,
+        "unit": "item",
+        "type": "solid",
+        "rate": 1.0
+      }
+    ],
+    "outputs": [
+      {
+        "id": "create_aeronautics_throwable_rope_connector:rope_connector_launcher",
+        "count": 1.0,
+        "unit": "item",
+        "type": "solid",
+        "rate": 1.0
+      }
+    ]
+  },
+  {
+    "recipe_id": "create_aeronautics_throwable_rope_connector:throwable_rope_connector",
+    "mod_id": "create_aeronautics_throwable_rope_connector",
+    "recipe_type": "minecraft:crafting_shapeless",
+    "inputs": [
+      {
+        "id": "simulated:rope_coupling",
+        "count": 1.0,
+        "unit": "item",
+        "type": "solid",
+        "rate": 1.0
+      },
+      {
+        "id": "simulated:rope_connector",
+        "count": 1.0,
+        "unit": "item",
+        "type": "solid",
+        "rate": 1.0
+      }
+    ],
+    "outputs": [
+      {
+        "id": "create_aeronautics_throwable_rope_connector:throwable_rope_connector",
+        "count": 1.0,
+        "unit": "item",
+        "type": "solid",
+        "rate": 1.0
+      }
+    ]
+  },
+  {
+    "recipe_id": "create_aeronautics_throwable_rope_connector:mounted_rope_launcher",
+    "mod_id": "create_aeronautics_throwable_rope_connector",
+    "recipe_type": "minecraft:crafting_shaped",
+    "inputs": [
+      {
+        "id": "create_aeronautics_throwable_rope_connector:rope_connector_launcher",
+        "count": 1.0,
+        "unit": "item",
+        "type": "solid",
+        "rate": 1.0
+      },
+      {
+        "id": "simulated:rope_coupling",
+        "count": 2.0,
+        "unit": "item",
+        "type": "solid",
+        "rate": 1.0
+      },
+      {
+        "id": "simulated:rope_winch",
+        "count": 1.0,
+        "unit": "item",
+        "type": "solid",
+        "rate": 1.0
+      },
+      {
+        "id": "create:polished_cut_asurine_slab",
+        "count": 3.0,
+        "unit": "item",
+        "type": "solid",
+        "rate": 1.0
+      }
+    ],
+    "outputs": [
+      {
+        "id": "create_aeronautics_throwable_rope_connector:mounted_rope_launcher",
+        "count": 1.0,
+        "unit": "item",
+        "type": "solid",
+        "rate": 1.0
+      }
+    ]
+  },
+  {
+    "recipe_id": "create_aeronautics_throwable_rope_connector:rope_connector_launcher",
+    "mod_id": "create_aeronautics_throwable_rope_connector",
+    "recipe_type": "create:mechanical_crafting",
+    "inputs": [
+      {
+        "id": "create:andesite_alloy",
+        "count": 1.0,
+        "unit": "item",
+        "type": "solid",
+        "rate": 1.0
+      },
+      {
+        "id": "create:precision_mechanism",
+        "count": 1.0,
+        "unit": "item",
+        "type": "solid",
+        "rate": 1.0
+      },
+      {
+        "id": "create:fluid_pipe",
+        "count": 3.0,
+        "unit": "item",
+        "type": "solid",
+        "rate": 1.0
+      },
+      {
+        "id": "create:polished_cut_asurine_slab",
+        "count": 2.0,
+        "unit": "item",
+        "type": "solid",
+        "rate": 1.0
+      }
+    ],
+    "outputs": [
+      {
+        "id": "create_aeronautics_throwable_rope_connector:rope_connector_launcher",
+        "count": 1.0,
+        "unit": "item",
+        "type": "solid",
+        "rate": 1.0
+      }
+    ]
+  },
+  {
+    "recipe_id": "create_aeronautics_throwable_rope_connector:throwable_rope_connector",
+    "mod_id": "create_aeronautics_throwable_rope_connector",
+    "recipe_type": "minecraft:crafting_shapeless",
+    "inputs": [
+      {
+        "id": "simulated:rope_coupling",
+        "count": 1.0,
+        "unit": "item",
+        "type": "solid",
+        "rate": 1.0
+      },
+      {
+        "id": "simulated:rope_connector",
+        "count": 1.0,
+        "unit": "item",
+        "type": "solid",
+        "rate": 1.0
+      }
+    ],
+    "outputs": [
+      {
+        "id": "create_aeronautics_throwable_rope_connector:throwable_rope_connector",
+        "count": 1.0,
+        "unit": "item",
+        "type": "solid",
+        "rate": 1.0
+      }
+    ]
+  },
+  {
+    "recipe_id": "create_aeronautics_throwable_rope_connector:mounted_rope_launcher",
+    "mod_id": "create_aeronautics_throwable_rope_connector",
+    "recipe_type": "minecraft:crafting_shaped",
+    "inputs": [
+      {
+        "id": "create_aeronautics_throwable_rope_connector:rope_connector_launcher",
+        "count": 1.0,
+        "unit": "item",
+        "type": "solid",
+        "rate": 1.0
+      },
+      {
+        "id": "simulated:rope_coupling",
+        "count": 2.0,
+        "unit": "item",
+        "type": "solid",
+        "rate": 1.0
+      },
+      {
+        "id": "simulated:rope_winch",
+        "count": 1.0,
+        "unit": "item",
+        "type": "solid",
+        "rate": 1.0
+      },
+      {
+        "id": "create:polished_cut_asurine_slab",
+        "count": 3.0,
+        "unit": "item",
+        "type": "solid",
+        "rate": 1.0
+      }
+    ],
+    "outputs": [
+      {
+        "id": "create_aeronautics_throwable_rope_connector:mounted_rope_launcher",
+        "count": 1.0,
+        "unit": "item",
+        "type": "solid",
+        "rate": 1.0
+      }
+    ]
+  },
+  {
+    "recipe_id": "create_aeronautics_throwable_rope_connector:rope_connector_launcher",
+    "mod_id": "create_aeronautics_throwable_rope_connector",
+    "recipe_type": "create:mechanical_crafting",
+    "inputs": [
+      {
+        "id": "create:andesite_alloy",
+        "count": 1.0,
+        "unit": "item",
+        "type": "solid",
+        "rate": 1.0
+      },
+      {
+        "id": "create:precision_mechanism",
+        "count": 1.0,
+        "unit": "item",
+        "type": "solid",
+        "rate": 1.0
+      },
+      {
+        "id": "create:fluid_pipe",
+        "count": 3.0,
+        "unit": "item",
+        "type": "solid",
+        "rate": 1.0
+      },
+      {
+        "id": "create:polished_cut_asurine_slab",
+        "count": 2.0,
+        "unit": "item",
+        "type": "solid",
+        "rate": 1.0
+      }
+    ],
+    "outputs": [
+      {
+        "id": "create_aeronautics_throwable_rope_connector:rope_connector_launcher",
+        "count": 1.0,
+        "unit": "item",
+        "type": "solid",
+        "rate": 1.0
+      }
+    ]
+  },
+  {
+    "recipe_id": "create_aeronautics_throwable_rope_connector:throwable_rope_connector",
+    "mod_id": "create_aeronautics_throwable_rope_connector",
+    "recipe_type": "minecraft:crafting_shapeless",
+    "inputs": [
+      {
+        "id": "simulated:rope_coupling",
+        "count": 1.0,
+        "unit": "item",
+        "type": "solid",
+        "rate": 1.0
+      },
+      {
+        "id": "simulated:rope_connector",
+        "count": 1.0,
+        "unit": "item",
+        "type": "solid",
+        "rate": 1.0
+      }
+    ],
+    "outputs": [
+      {
+        "id": "create_aeronautics_throwable_rope_connector:throwable_rope_connector",
+        "count": 1.0,
+        "unit": "item",
+        "type": "solid",
+        "rate": 1.0
+      }
+    ]
+  },
+  {
+    "recipe_id": "create_aeronautics_throwable_rope_connector:mounted_rope_launcher",
+    "mod_id": "create_aeronautics_throwable_rope_connector",
+    "recipe_type": "minecraft:crafting_shaped",
+    "inputs": [
+      {
+        "id": "create_aeronautics_throwable_rope_connector:rope_connector_launcher",
+        "count": 1.0,
+        "unit": "item",
+        "type": "solid",
+        "rate": 1.0
+      },
+      {
+        "id": "simulated:rope_coupling",
+        "count": 2.0,
+        "unit": "item",
+        "type": "solid",
+        "rate": 1.0
+      },
+      {
+        "id": "simulated:rope_winch",
+        "count": 1.0,
+        "unit": "item",
+        "type": "solid",
+        "rate": 1.0
+      },
+      {
+        "id": "create:polished_cut_asurine_slab",
+        "count": 3.0,
+        "unit": "item",
+        "type": "solid",
+        "rate": 1.0
+      }
+    ],
+    "outputs": [
+      {
+        "id": "create_aeronautics_throwable_rope_connector:mounted_rope_launcher",
+        "count": 1.0,
+        "unit": "item",
+        "type": "solid",
+        "rate": 1.0
+      }
+    ]
+  },
+  {
+    "recipe_id": "create_aeronautics_throwable_rope_connector:rope_connector_launcher",
+    "mod_id": "create_aeronautics_throwable_rope_connector",
+    "recipe_type": "create:mechanical_crafting",
+    "inputs": [
+      {
+        "id": "create:andesite_alloy",
+        "count": 1.0,
+        "unit": "item",
+        "type": "solid",
+        "rate": 1.0
+      },
+      {
+        "id": "create:precision_mechanism",
+        "count": 1.0,
+        "unit": "item",
+        "type": "solid",
+        "rate": 1.0
+      },
+      {
+        "id": "create:fluid_pipe",
+        "count": 3.0,
+        "unit": "item",
+        "type": "solid",
+        "rate": 1.0
+      },
+      {
+        "id": "create:polished_cut_asurine_slab",
+        "count": 2.0,
+        "unit": "item",
+        "type": "solid",
+        "rate": 1.0
+      }
+    ],
+    "outputs": [
+      {
+        "id": "create_aeronautics_throwable_rope_connector:rope_connector_launcher",
+        "count": 1.0,
+        "unit": "item",
+        "type": "solid",
+        "rate": 1.0
+      }
+    ]
+  },
+  {
+    "recipe_id": "create_aeronautics_throwable_rope_connector:throwable_rope_connector",
+    "mod_id": "create_aeronautics_throwable_rope_connector",
+    "recipe_type": "minecraft:crafting_shapeless",
+    "inputs": [
+      {
+        "id": "simulated:rope_coupling",
+        "count": 1.0,
+        "unit": "item",
+        "type": "solid",
+        "rate": 1.0
+      },
+      {
+        "id": "simulated:rope_connector",
+        "count": 1.0,
+        "unit": "item",
+        "type": "solid",
+        "rate": 1.0
+      }
+    ],
+    "outputs": [
+      {
+        "id": "create_aeronautics_throwable_rope_connector:throwable_rope_connector",
+        "count": 1.0,
+        "unit": "item",
+        "type": "solid",
+        "rate": 1.0
+      }
+    ]
+  },
+  {
+    "recipe_id": "create_aeronautics_throwable_rope_connector:mounted_rope_launcher",
+    "mod_id": "create_aeronautics_throwable_rope_connector",
+    "recipe_type": "minecraft:crafting_shaped",
+    "inputs": [
+      {
+        "id": "create_aeronautics_throwable_rope_connector:rope_connector_launcher",
+        "count": 1.0,
+        "unit": "item",
+        "type": "solid",
+        "rate": 1.0
+      },
+      {
+        "id": "simulated:rope_coupling",
+        "count": 2.0,
+        "unit": "item",
+        "type": "solid",
+        "rate": 1.0
+      },
+      {
+        "id": "simulated:rope_winch",
+        "count": 1.0,
+        "unit": "item",
+        "type": "solid",
+        "rate": 1.0
+      },
+      {
+        "id": "create:polished_cut_asurine_slab",
+        "count": 3.0,
+        "unit": "item",
+        "type": "solid",
+        "rate": 1.0
+      }
+    ],
+    "outputs": [
+      {
+        "id": "create_aeronautics_throwable_rope_connector:mounted_rope_launcher",
+        "count": 1.0,
+        "unit": "item",
+        "type": "solid",
+        "rate": 1.0
+      }
+    ]
+  },
+  {
+    "recipe_id": "create_aeronautics_throwable_rope_connector:rope_connector_launcher",
+    "mod_id": "create_aeronautics_throwable_rope_connector",
+    "recipe_type": "create:mechanical_crafting",
+    "inputs": [
+      {
+        "id": "create:andesite_alloy",
+        "count": 1.0,
+        "unit": "item",
+        "type": "solid",
+        "rate": 1.0
+      },
+      {
+        "id": "create:precision_mechanism",
+        "count": 1.0,
+        "unit": "item",
+        "type": "solid",
+        "rate": 1.0
+      },
+      {
+        "id": "create:fluid_pipe",
+        "count": 3.0,
+        "unit": "item",
+        "type": "solid",
+        "rate": 1.0
+      },
+      {
+        "id": "create:polished_cut_asurine_slab",
+        "count": 2.0,
+        "unit": "item",
+        "type": "solid",
+        "rate": 1.0
+      }
+    ],
+    "outputs": [
+      {
+        "id": "create_aeronautics_throwable_rope_connector:rope_connector_launcher",
+        "count": 1.0,
+        "unit": "item",
+        "type": "solid",
+        "rate": 1.0
+      }
+    ]
+  },
+  {
+    "recipe_id": "create_aeronautics_throwable_rope_connector:throwable_rope_connector",
+    "mod_id": "create_aeronautics_throwable_rope_connector",
+    "recipe_type": "minecraft:crafting_shapeless",
+    "inputs": [
+      {
+        "id": "simulated:rope_coupling",
+        "count": 1.0,
+        "unit": "item",
+        "type": "solid",
+        "rate": 1.0
+      },
+      {
+        "id": "simulated:rope_connector",
+        "count": 1.0,
+        "unit": "item",
+        "type": "solid",
+        "rate": 1.0
+      }
+    ],
+    "outputs": [
+      {
+        "id": "create_aeronautics_throwable_rope_connector:throwable_rope_connector",
+        "count": 1.0,
+        "unit": "item",
+        "type": "solid",
+        "rate": 1.0
+      }
+    ]
+  },
+  {
+    "recipe_id": "create_aeronautics_throwable_rope_connector:mounted_rope_launcher",
+    "mod_id": "create_aeronautics_throwable_rope_connector",
+    "recipe_type": "minecraft:crafting_shaped",
+    "inputs": [
+      {
+        "id": "create_aeronautics_throwable_rope_connector:rope_connector_launcher",
+        "count": 1.0,
+        "unit": "item",
+        "type": "solid",
+        "rate": 1.0
+      },
+      {
+        "id": "simulated:rope_coupling",
+        "count": 2.0,
+        "unit": "item",
+        "type": "solid",
+        "rate": 1.0
+      },
+      {
+        "id": "simulated:rope_winch",
+        "count": 1.0,
+        "unit": "item",
+        "type": "solid",
+        "rate": 1.0
+      },
+      {
+        "id": "create:polished_cut_asurine_slab",
+        "count": 3.0,
+        "unit": "item",
+        "type": "solid",
+        "rate": 1.0
+      }
+    ],
+    "outputs": [
+      {
+        "id": "create_aeronautics_throwable_rope_connector:mounted_rope_launcher",
+        "count": 1.0,
+        "unit": "item",
+        "type": "solid",
+        "rate": 1.0
+      }
+    ]
+  },
+  {
+    "recipe_id": "create_aeronautics_throwable_rope_connector:mounted_rope_launcher",
+    "mod_id": "create_aeronautics_throwable_rope_connector",
+    "recipe_type": "minecraft:crafting_shaped",
+    "inputs": [
+      {
+        "id": "create_aeronautics_throwable_rope_connector:rope_connector_launcher",
+        "count": 1.0,
+        "unit": "item",
+        "type": "solid",
+        "rate": 1.0
+      },
+      {
+        "id": "simulated:rope_coupling",
+        "count": 2.0,
+        "unit": "item",
+        "type": "solid",
+        "rate": 1.0
+      },
+      {
+        "id": "simulated:rope_winch",
+        "count": 1.0,
+        "unit": "item",
+        "type": "solid",
+        "rate": 1.0
+      },
+      {
+        "id": "create:polished_cut_asurine_slab",
+        "count": 3.0,
+        "unit": "item",
+        "type": "solid",
+        "rate": 1.0
+      }
+    ],
+    "outputs": [
+      {
+        "id": "create_aeronautics_throwable_rope_connector:mounted_rope_launcher",
+        "count": 1.0,
+        "unit": "item",
+        "type": "solid",
+        "rate": 1.0
+      }
+    ]
+  },
+  {
+    "recipe_id": "create_aeronautics_throwable_rope_connector:rope_connector_launcher",
+    "mod_id": "create_aeronautics_throwable_rope_connector",
+    "recipe_type": "create:mechanical_crafting",
+    "inputs": [
+      {
+        "id": "create:andesite_alloy",
+        "count": 1.0,
+        "unit": "item",
+        "type": "solid",
+        "rate": 1.0
+      },
+      {
+        "id": "create:precision_mechanism",
+        "count": 1.0,
+        "unit": "item",
+        "type": "solid",
+        "rate": 1.0
+      },
+      {
+        "id": "create:fluid_pipe",
+        "count": 3.0,
+        "unit": "item",
+        "type": "solid",
+        "rate": 1.0
+      },
+      {
+        "id": "create:polished_cut_asurine_slab",
+        "count": 2.0,
+        "unit": "item",
+        "type": "solid",
+        "rate": 1.0
+      }
+    ],
+    "outputs": [
+      {
+        "id": "create_aeronautics_throwable_rope_connector:rope_connector_launcher",
+        "count": 1.0,
+        "unit": "item",
+        "type": "solid",
+        "rate": 1.0
+      }
+    ]
+  },
+  {
+    "recipe_id": "create_aeronautics_throwable_rope_connector:throwable_rope_connector",
+    "mod_id": "create_aeronautics_throwable_rope_connector",
+    "recipe_type": "minecraft:crafting_shapeless",
+    "inputs": [
+      {
+        "id": "simulated:rope_coupling",
+        "count": 1.0,
+        "unit": "item",
+        "type": "solid",
+        "rate": 1.0
+      },
+      {
+        "id": "simulated:rope_connector",
+        "count": 1.0,
+        "unit": "item",
+        "type": "solid",
+        "rate": 1.0
+      }
+    ],
+    "outputs": [
+      {
+        "id": "create_aeronautics_throwable_rope_connector:throwable_rope_connector",
+        "count": 1.0,
+        "unit": "item",
+        "type": "solid",
+        "rate": 1.0
+      }
+    ]
+  },
+  {
+    "recipe_id": "create_aeronautics_throwable_rope_connector:mounted_rope_launcher",
+    "mod_id": "create_aeronautics_throwable_rope_connector",
+    "recipe_type": "minecraft:crafting_shaped",
+    "inputs": [
+      {
+        "id": "create_aeronautics_throwable_rope_connector:rope_connector_launcher",
+        "count": 1.0,
+        "unit": "item",
+        "type": "solid",
+        "rate": 1.0
+      },
+      {
+        "id": "simulated:rope_coupling",
+        "count": 2.0,
+        "unit": "item",
+        "type": "solid",
+        "rate": 1.0
+      },
+      {
+        "id": "simulated:rope_winch",
+        "count": 1.0,
+        "unit": "item",
+        "type": "solid",
+        "rate": 1.0
+      },
+      {
+        "id": "create:polished_cut_asurine_slab",
+        "count": 3.0,
+        "unit": "item",
+        "type": "solid",
+        "rate": 1.0
+      }
+    ],
+    "outputs": [
+      {
+        "id": "create_aeronautics_throwable_rope_connector:mounted_rope_launcher",
+        "count": 1.0,
+        "unit": "item",
+        "type": "solid",
+        "rate": 1.0
+      }
+    ]
+  },
+  {
+    "recipe_id": "create_aeronautics_throwable_rope_connector:rope_connector_launcher",
+    "mod_id": "create_aeronautics_throwable_rope_connector",
+    "recipe_type": "create:mechanical_crafting",
+    "inputs": [
+      {
+        "id": "create:andesite_alloy",
+        "count": 1.0,
+        "unit": "item",
+        "type": "solid",
+        "rate": 1.0
+      },
+      {
+        "id": "create:precision_mechanism",
+        "count": 1.0,
+        "unit": "item",
+        "type": "solid",
+        "rate": 1.0
+      },
+      {
+        "id": "create:fluid_pipe",
+        "count": 3.0,
+        "unit": "item",
+        "type": "solid",
+        "rate": 1.0
+      },
+      {
+        "id": "create:polished_cut_asurine_slab",
+        "count": 2.0,
+        "unit": "item",
+        "type": "solid",
+        "rate": 1.0
+      }
+    ],
+    "outputs": [
+      {
+        "id": "create_aeronautics_throwable_rope_connector:rope_connector_launcher",
+        "count": 1.0,
+        "unit": "item",
+        "type": "solid",
+        "rate": 1.0
+      }
+    ]
+  },
+  {
+    "recipe_id": "create_aeronautics_throwable_rope_connector:throwable_rope_connector",
+    "mod_id": "create_aeronautics_throwable_rope_connector",
+    "recipe_type": "minecraft:crafting_shapeless",
+    "inputs": [
+      {
+        "id": "simulated:rope_coupling",
+        "count": 1.0,
+        "unit": "item",
+        "type": "solid",
+        "rate": 1.0
+      },
+      {
+        "id": "simulated:rope_connector",
+        "count": 1.0,
+        "unit": "item",
+        "type": "solid",
+        "rate": 1.0
+      }
+    ],
+    "outputs": [
+      {
+        "id": "create_aeronautics_throwable_rope_connector:throwable_rope_connector",
+        "count": 1.0,
+        "unit": "item",
+        "type": "solid",
+        "rate": 1.0
+      }
+    ]
+  },
+  {
+    "recipe_id": "create_aeronautics_throwable_rope_connector:mounted_rope_launcher",
+    "mod_id": "create_aeronautics_throwable_rope_connector",
+    "recipe_type": "minecraft:crafting_shaped",
+    "inputs": [
+      {
+        "id": "create_aeronautics_throwable_rope_connector:rope_connector_launcher",
+        "count": 1.0,
+        "unit": "item",
+        "type": "solid",
+        "rate": 1.0
+      },
+      {
+        "id": "simulated:rope_coupling",
+        "count": 2.0,
+        "unit": "item",
+        "type": "solid",
+        "rate": 1.0
+      },
+      {
+        "id": "simulated:rope_winch",
+        "count": 1.0,
+        "unit": "item",
+        "type": "solid",
+        "rate": 1.0
+      },
+      {
+        "id": "create:polished_cut_asurine_slab",
+        "count": 3.0,
+        "unit": "item",
+        "type": "solid",
+        "rate": 1.0
+      }
+    ],
+    "outputs": [
+      {
+        "id": "create_aeronautics_throwable_rope_connector:mounted_rope_launcher",
+        "count": 1.0,
+        "unit": "item",
+        "type": "solid",
+        "rate": 1.0
+      }
+    ]
+  },
+  {
+    "recipe_id": "create_aeronautics_throwable_rope_connector:rope_connector_launcher",
+    "mod_id": "create_aeronautics_throwable_rope_connector",
+    "recipe_type": "create:mechanical_crafting",
+    "inputs": [
+      {
+        "id": "create:andesite_alloy",
+        "count": 1.0,
+        "unit": "item",
+        "type": "solid",
+        "rate": 1.0
+      },
+      {
+        "id": "create:precision_mechanism",
+        "count": 1.0,
+        "unit": "item",
+        "type": "solid",
+        "rate": 1.0
+      },
+      {
+        "id": "create:fluid_pipe",
+        "count": 3.0,
+        "unit": "item",
+        "type": "solid",
+        "rate": 1.0
+      },
+      {
+        "id": "create:polished_cut_asurine_slab",
+        "count": 2.0,
+        "unit": "item",
+        "type": "solid",
+        "rate": 1.0
+      }
+    ],
+    "outputs": [
+      {
+        "id": "create_aeronautics_throwable_rope_connector:rope_connector_launcher",
+        "count": 1.0,
+        "unit": "item",
+        "type": "solid",
+        "rate": 1.0
+      }
+    ]
+  },
+  {
+    "recipe_id": "create_aeronautics_throwable_rope_connector:throwable_rope_connector",
+    "mod_id": "create_aeronautics_throwable_rope_connector",
+    "recipe_type": "minecraft:crafting_shapeless",
+    "inputs": [
+      {
+        "id": "simulated:rope_coupling",
+        "count": 1.0,
+        "unit": "item",
+        "type": "solid",
+        "rate": 1.0
+      },
+      {
+        "id": "simulated:rope_connector",
+        "count": 1.0,
+        "unit": "item",
+        "type": "solid",
+        "rate": 1.0
+      }
+    ],
+    "outputs": [
+      {
+        "id": "create_aeronautics_throwable_rope_connector:throwable_rope_connector",
+        "count": 1.0,
+        "unit": "item",
+        "type": "solid",
+        "rate": 1.0
+      }
+    ]
+  },
+  {
+    "recipe_id": "create_aeronautics_throwable_rope_connector:mounted_rope_launcher",
+    "mod_id": "create_aeronautics_throwable_rope_connector",
+    "recipe_type": "minecraft:crafting_shaped",
+    "inputs": [
+      {
+        "id": "create_aeronautics_throwable_rope_connector:rope_connector_launcher",
+        "count": 1.0,
+        "unit": "item",
+        "type": "solid",
+        "rate": 1.0
+      },
+      {
+        "id": "simulated:rope_coupling",
+        "count": 2.0,
+        "unit": "item",
+        "type": "solid",
+        "rate": 1.0
+      },
+      {
+        "id": "simulated:rope_winch",
+        "count": 1.0,
+        "unit": "item",
+        "type": "solid",
+        "rate": 1.0
+      },
+      {
+        "id": "create:polished_cut_asurine_slab",
+        "count": 3.0,
+        "unit": "item",
+        "type": "solid",
+        "rate": 1.0
+      }
+    ],
+    "outputs": [
+      {
+        "id": "create_aeronautics_throwable_rope_connector:mounted_rope_launcher",
+        "count": 1.0,
+        "unit": "item",
+        "type": "solid",
+        "rate": 1.0
+      }
+    ]
+  },
+  {
+    "recipe_id": "create_aeronautics_throwable_rope_connector:rope_connector_launcher",
+    "mod_id": "create_aeronautics_throwable_rope_connector",
+    "recipe_type": "create:mechanical_crafting",
+    "inputs": [
+      {
+        "id": "create:andesite_alloy",
+        "count": 1.0,
+        "unit": "item",
+        "type": "solid",
+        "rate": 1.0
+      },
+      {
+        "id": "create:precision_mechanism",
+        "count": 1.0,
+        "unit": "item",
+        "type": "solid",
+        "rate": 1.0
+      },
+      {
+        "id": "create:fluid_pipe",
+        "count": 3.0,
+        "unit": "item",
+        "type": "solid",
+        "rate": 1.0
+      },
+      {
+        "id": "create:polished_cut_asurine_slab",
+        "count": 2.0,
+        "unit": "item",
+        "type": "solid",
+        "rate": 1.0
+      }
+    ],
+    "outputs": [
+      {
+        "id": "create_aeronautics_throwable_rope_connector:rope_connector_launcher",
+        "count": 1.0,
+        "unit": "item",
+        "type": "solid",
+        "rate": 1.0
+      }
+    ]
+  },
+  {
+    "recipe_id": "create_aeronautics_throwable_rope_connector:throwable_rope_connector",
+    "mod_id": "create_aeronautics_throwable_rope_connector",
+    "recipe_type": "minecraft:crafting_shapeless",
+    "inputs": [
+      {
+        "id": "simulated:rope_coupling",
+        "count": 1.0,
+        "unit": "item",
+        "type": "solid",
+        "rate": 1.0
+      },
+      {
+        "id": "simulated:rope_connector",
+        "count": 1.0,
+        "unit": "item",
+        "type": "solid",
+        "rate": 1.0
+      }
+    ],
+    "outputs": [
+      {
+        "id": "create_aeronautics_throwable_rope_connector:throwable_rope_connector",
+        "count": 1.0,
+        "unit": "item",
+        "type": "solid",
+        "rate": 1.0
+      }
+    ]
+  },
+  {
+    "recipe_id": "create_aeronautics_throwable_rope_connector:mounted_rope_launcher",
+    "mod_id": "create_aeronautics_throwable_rope_connector",
+    "recipe_type": "minecraft:crafting_shaped",
+    "inputs": [
+      {
+        "id": "create_aeronautics_throwable_rope_connector:rope_connector_launcher",
+        "count": 1.0,
+        "unit": "item",
+        "type": "solid",
+        "rate": 1.0
+      },
+      {
+        "id": "simulated:rope_coupling",
+        "count": 2.0,
+        "unit": "item",
+        "type": "solid",
+        "rate": 1.0
+      },
+      {
+        "id": "simulated:rope_winch",
+        "count": 1.0,
+        "unit": "item",
+        "type": "solid",
+        "rate": 1.0
+      },
+      {
+        "id": "create:polished_cut_asurine_slab",
+        "count": 3.0,
+        "unit": "item",
+        "type": "solid",
+        "rate": 1.0
+      }
+    ],
+    "outputs": [
+      {
+        "id": "create_aeronautics_throwable_rope_connector:mounted_rope_launcher",
+        "count": 1.0,
+        "unit": "item",
+        "type": "solid",
+        "rate": 1.0
+      }
+    ]
+  },
+  {
+    "recipe_id": "create_aeronautics_throwable_rope_connector:rope_connector_launcher",
+    "mod_id": "create_aeronautics_throwable_rope_connector",
+    "recipe_type": "create:mechanical_crafting",
+    "inputs": [
+      {
+        "id": "create:andesite_alloy",
+        "count": 1.0,
+        "unit": "item",
+        "type": "solid",
+        "rate": 1.0
+      },
+      {
+        "id": "create:precision_mechanism",
+        "count": 1.0,
+        "unit": "item",
+        "type": "solid",
+        "rate": 1.0
+      },
+      {
+        "id": "create:fluid_pipe",
+        "count": 3.0,
+        "unit": "item",
+        "type": "solid",
+        "rate": 1.0
+      },
+      {
+        "id": "create:polished_cut_asurine_slab",
+        "count": 2.0,
+        "unit": "item",
+        "type": "solid",
+        "rate": 1.0
+      }
+    ],
+    "outputs": [
+      {
+        "id": "create_aeronautics_throwable_rope_connector:rope_connector_launcher",
+        "count": 1.0,
+        "unit": "item",
+        "type": "solid",
+        "rate": 1.0
+      }
+    ]
+  },
+  {
+    "recipe_id": "create_aeronautics_throwable_rope_connector:throwable_rope_connector",
+    "mod_id": "create_aeronautics_throwable_rope_connector",
+    "recipe_type": "minecraft:crafting_shapeless",
+    "inputs": [
+      {
+        "id": "simulated:rope_coupling",
+        "count": 1.0,
+        "unit": "item",
+        "type": "solid",
+        "rate": 1.0
+      },
+      {
+        "id": "simulated:rope_connector",
+        "count": 1.0,
+        "unit": "item",
+        "type": "solid",
+        "rate": 1.0
+      }
+    ],
+    "outputs": [
+      {
+        "id": "create_aeronautics_throwable_rope_connector:throwable_rope_connector",
+        "count": 1.0,
+        "unit": "item",
+        "type": "solid",
+        "rate": 1.0
+      }
+    ]
+  },
+  {
+    "recipe_id": "create_aeronautics_throwable_rope_connector:mounted_rope_launcher",
+    "mod_id": "create_aeronautics_throwable_rope_connector",
+    "recipe_type": "minecraft:crafting_shaped",
+    "inputs": [
+      {
+        "id": "create_aeronautics_throwable_rope_connector:rope_connector_launcher",
+        "count": 1.0,
+        "unit": "item",
+        "type": "solid",
+        "rate": 1.0
+      },
+      {
+        "id": "simulated:rope_coupling",
+        "count": 2.0,
+        "unit": "item",
+        "type": "solid",
+        "rate": 1.0
+      },
+      {
+        "id": "simulated:rope_winch",
+        "count": 1.0,
+        "unit": "item",
+        "type": "solid",
+        "rate": 1.0
+      },
+      {
+        "id": "create:polished_cut_asurine_slab",
+        "count": 3.0,
+        "unit": "item",
+        "type": "solid",
+        "rate": 1.0
+      }
+    ],
+    "outputs": [
+      {
+        "id": "create_aeronautics_throwable_rope_connector:mounted_rope_launcher",
+        "count": 1.0,
+        "unit": "item",
+        "type": "solid",
+        "rate": 1.0
+      }
+    ]
+  },
+  {
+    "recipe_id": "create_aeronautics_throwable_rope_connector:rope_connector_launcher",
+    "mod_id": "create_aeronautics_throwable_rope_connector",
+    "recipe_type": "create:mechanical_crafting",
+    "inputs": [
+      {
+        "id": "create:andesite_alloy",
+        "count": 1.0,
+        "unit": "item",
+        "type": "solid",
+        "rate": 1.0
+      },
+      {
+        "id": "create:precision_mechanism",
+        "count": 1.0,
+        "unit": "item",
+        "type": "solid",
+        "rate": 1.0
+      },
+      {
+        "id": "create:fluid_pipe",
+        "count": 3.0,
+        "unit": "item",
+        "type": "solid",
+        "rate": 1.0
+      },
+      {
+        "id": "create:polished_cut_asurine_slab",
+        "count": 2.0,
+        "unit": "item",
+        "type": "solid",
+        "rate": 1.0
+      }
+    ],
+    "outputs": [
+      {
+        "id": "create_aeronautics_throwable_rope_connector:rope_connector_launcher",
+        "count": 1.0,
+        "unit": "item",
+        "type": "solid",
+        "rate": 1.0
+      }
+    ]
+  },
+  {
+    "recipe_id": "create_aeronautics_throwable_rope_connector:throwable_rope_connector",
+    "mod_id": "create_aeronautics_throwable_rope_connector",
+    "recipe_type": "minecraft:crafting_shapeless",
+    "inputs": [
+      {
+        "id": "simulated:rope_coupling",
+        "count": 1.0,
+        "unit": "item",
+        "type": "solid",
+        "rate": 1.0
+      },
+      {
+        "id": "simulated:rope_connector",
+        "count": 1.0,
+        "unit": "item",
+        "type": "solid",
+        "rate": 1.0
+      }
+    ],
+    "outputs": [
+      {
+        "id": "create_aeronautics_throwable_rope_connector:throwable_rope_connector",
+        "count": 1.0,
+        "unit": "item",
+        "type": "solid",
+        "rate": 1.0
+      }
+    ]
+  },
+  {
+    "recipe_id": "create_aeronautics_throwable_rope_connector:mounted_rope_launcher",
+    "mod_id": "create_aeronautics_throwable_rope_connector",
+    "recipe_type": "minecraft:crafting_shaped",
+    "inputs": [
+      {
+        "id": "create_aeronautics_throwable_rope_connector:rope_connector_launcher",
+        "count": 1.0,
+        "unit": "item",
+        "type": "solid",
+        "rate": 1.0
+      },
+      {
+        "id": "simulated:rope_coupling",
+        "count": 2.0,
+        "unit": "item",
+        "type": "solid",
+        "rate": 1.0
+      },
+      {
+        "id": "simulated:rope_winch",
+        "count": 1.0,
+        "unit": "item",
+        "type": "solid",
+        "rate": 1.0
+      },
+      {
+        "id": "create:polished_cut_asurine_slab",
+        "count": 3.0,
+        "unit": "item",
+        "type": "solid",
+        "rate": 1.0
+      }
+    ],
+    "outputs": [
+      {
+        "id": "create_aeronautics_throwable_rope_connector:mounted_rope_launcher",
+        "count": 1.0,
+        "unit": "item",
+        "type": "solid",
+        "rate": 1.0
+      }
+    ]
+  },
+  {
+    "recipe_id": "create_aeronautics_throwable_rope_connector:rope_connector_launcher",
+    "mod_id": "create_aeronautics_throwable_rope_connector",
+    "recipe_type": "create:mechanical_crafting",
+    "inputs": [
+      {
+        "id": "create:andesite_alloy",
+        "count": 1.0,
+        "unit": "item",
+        "type": "solid",
+        "rate": 1.0
+      },
+      {
+        "id": "create:precision_mechanism",
+        "count": 1.0,
+        "unit": "item",
+        "type": "solid",
+        "rate": 1.0
+      },
+      {
+        "id": "create:fluid_pipe",
+        "count": 3.0,
+        "unit": "item",
+        "type": "solid",
+        "rate": 1.0
+      },
+      {
+        "id": "create:polished_cut_asurine_slab",
+        "count": 2.0,
+        "unit": "item",
+        "type": "solid",
+        "rate": 1.0
+      }
+    ],
+    "outputs": [
+      {
+        "id": "create_aeronautics_throwable_rope_connector:rope_connector_launcher",
+        "count": 1.0,
+        "unit": "item",
+        "type": "solid",
+        "rate": 1.0
+      }
+    ]
+  },
+  {
+    "recipe_id": "create_aeronautics_throwable_rope_connector:throwable_rope_connector",
+    "mod_id": "create_aeronautics_throwable_rope_connector",
+    "recipe_type": "minecraft:crafting_shapeless",
+    "inputs": [
+      {
+        "id": "simulated:rope_coupling",
+        "count": 1.0,
+        "unit": "item",
+        "type": "solid",
+        "rate": 1.0
+      },
+      {
+        "id": "simulated:rope_connector",
+        "count": 1.0,
+        "unit": "item",
+        "type": "solid",
+        "rate": 1.0
+      }
+    ],
+    "outputs": [
+      {
+        "id": "create_aeronautics_throwable_rope_connector:throwable_rope_connector",
+        "count": 1.0,
+        "unit": "item",
+        "type": "solid",
+        "rate": 1.0
+      }
+    ]
+  },
+  {
+    "recipe_id": "create_aeronautics_throwable_rope_connector:mounted_rope_launcher",
+    "mod_id": "create_aeronautics_throwable_rope_connector",
+    "recipe_type": "minecraft:crafting_shaped",
+    "inputs": [
+      {
+        "id": "create_aeronautics_throwable_rope_connector:rope_connector_launcher",
+        "count": 1.0,
+        "unit": "item",
+        "type": "solid",
+        "rate": 1.0
+      },
+      {
+        "id": "simulated:rope_coupling",
+        "count": 2.0,
+        "unit": "item",
+        "type": "solid",
+        "rate": 1.0
+      },
+      {
+        "id": "simulated:rope_winch",
+        "count": 1.0,
+        "unit": "item",
+        "type": "solid",
+        "rate": 1.0
+      },
+      {
+        "id": "create:polished_cut_asurine_slab",
+        "count": 3.0,
+        "unit": "item",
+        "type": "solid",
+        "rate": 1.0
+      }
+    ],
+    "outputs": [
+      {
+        "id": "create_aeronautics_throwable_rope_connector:mounted_rope_launcher",
+        "count": 1.0,
+        "unit": "item",
+        "type": "solid",
+        "rate": 1.0
+      }
+    ]
+  },
+  {
+    "recipe_id": "create_aeronautics_throwable_rope_connector:mounted_rope_launcher",
+    "mod_id": "create_aeronautics_throwable_rope_connector",
+    "recipe_type": "minecraft:crafting_shaped",
+    "inputs": [
+      {
+        "id": "create_aeronautics_throwable_rope_connector:rope_connector_launcher",
+        "count": 1.0,
+        "unit": "item",
+        "type": "solid",
+        "rate": 1.0
+      },
+      {
+        "id": "simulated:rope_coupling",
+        "count": 2.0,
+        "unit": "item",
+        "type": "solid",
+        "rate": 1.0
+      },
+      {
+        "id": "simulated:rope_winch",
+        "count": 1.0,
+        "unit": "item",
+        "type": "solid",
+        "rate": 1.0
+      },
+      {
+        "id": "create:polished_cut_asurine_slab",
+        "count": 3.0,
+        "unit": "item",
+        "type": "solid",
+        "rate": 1.0
+      }
+    ],
+    "outputs": [
+      {
+        "id": "create_aeronautics_throwable_rope_connector:mounted_rope_launcher",
+        "count": 1.0,
+        "unit": "item",
+        "type": "solid",
+        "rate": 1.0
+      }
+    ]
+  },
+  {
+    "recipe_id": "create_aeronautics_throwable_rope_connector:rope_connector_launcher",
+    "mod_id": "create_aeronautics_throwable_rope_connector",
+    "recipe_type": "create:mechanical_crafting",
+    "inputs": [
+      {
+        "id": "create:andesite_alloy",
+        "count": 1.0,
+        "unit": "item",
+        "type": "solid",
+        "rate": 1.0
+      },
+      {
+        "id": "create:precision_mechanism",
+        "count": 1.0,
+        "unit": "item",
+        "type": "solid",
+        "rate": 1.0
+      },
+      {
+        "id": "create:fluid_pipe",
+        "count": 3.0,
+        "unit": "item",
+        "type": "solid",
+        "rate": 1.0
+      },
+      {
+        "id": "create:polished_cut_asurine_slab",
+        "count": 2.0,
+        "unit": "item",
+        "type": "solid",
+        "rate": 1.0
+      }
+    ],
+    "outputs": [
+      {
+        "id": "create_aeronautics_throwable_rope_connector:rope_connector_launcher",
+        "count": 1.0,
+        "unit": "item",
+        "type": "solid",
+        "rate": 1.0
+      }
+    ]
+  },
+  {
+    "recipe_id": "create_aeronautics_throwable_rope_connector:throwable_rope_connector",
+    "mod_id": "create_aeronautics_throwable_rope_connector",
+    "recipe_type": "minecraft:crafting_shapeless",
+    "inputs": [
+      {
+        "id": "simulated:rope_coupling",
+        "count": 1.0,
+        "unit": "item",
+        "type": "solid",
+        "rate": 1.0
+      },
+      {
+        "id": "simulated:rope_connector",
+        "count": 1.0,
+        "unit": "item",
+        "type": "solid",
+        "rate": 1.0
+      }
+    ],
+    "outputs": [
+      {
+        "id": "create_aeronautics_throwable_rope_connector:throwable_rope_connector",
+        "count": 1.0,
+        "unit": "item",
+        "type": "solid",
+        "rate": 1.0
+      }
+    ]
+  },
+  {
+    "recipe_id": "create_aeronautics_throwable_rope_connector:mounted_rope_launcher",
+    "mod_id": "create_aeronautics_throwable_rope_connector",
+    "recipe_type": "minecraft:crafting_shaped",
+    "inputs": [
+      {
+        "id": "create_aeronautics_throwable_rope_connector:rope_connector_launcher",
+        "count": 1.0,
+        "unit": "item",
+        "type": "solid",
+        "rate": 1.0
+      },
+      {
+        "id": "simulated:rope_coupling",
+        "count": 2.0,
+        "unit": "item",
+        "type": "solid",
+        "rate": 1.0
+      },
+      {
+        "id": "simulated:rope_winch",
+        "count": 1.0,
+        "unit": "item",
+        "type": "solid",
+        "rate": 1.0
+      },
+      {
+        "id": "create:polished_cut_asurine_slab",
+        "count": 3.0,
+        "unit": "item",
+        "type": "solid",
+        "rate": 1.0
+      }
+    ],
+    "outputs": [
+      {
+        "id": "create_aeronautics_throwable_rope_connector:mounted_rope_launcher",
+        "count": 1.0,
+        "unit": "item",
+        "type": "solid",
+        "rate": 1.0
+      }
+    ]
+  },
+  {
+    "recipe_id": "create_aeronautics_throwable_rope_connector:mounted_rope_launcher",
+    "mod_id": "create_aeronautics_throwable_rope_connector",
+    "recipe_type": "minecraft:crafting_shaped",
+    "inputs": [
+      {
+        "id": "create_aeronautics_throwable_rope_connector:rope_connector_launcher",
+        "count": 1.0,
+        "unit": "item",
+        "type": "solid",
+        "rate": 1.0
+      },
+      {
+        "id": "simulated:rope_coupling",
+        "count": 2.0,
+        "unit": "item",
+        "type": "solid",
+        "rate": 1.0
+      },
+      {
+        "id": "simulated:rope_winch",
+        "count": 1.0,
+        "unit": "item",
+        "type": "solid",
+        "rate": 1.0
+      },
+      {
+        "id": "create:polished_cut_asurine_slab",
+        "count": 3.0,
+        "unit": "item",
+        "type": "solid",
+        "rate": 1.0
+      }
+    ],
+    "outputs": [
+      {
+        "id": "create_aeronautics_throwable_rope_connector:mounted_rope_launcher",
+        "count": 1.0,
+        "unit": "item",
+        "type": "solid",
+        "rate": 1.0
+      }
+    ]
+  },
+  {
+    "recipe_id": "create_aeronautics_throwable_rope_connector:rope_connector_launcher",
+    "mod_id": "create_aeronautics_throwable_rope_connector",
+    "recipe_type": "create:mechanical_crafting",
+    "inputs": [
+      {
+        "id": "create:andesite_alloy",
+        "count": 1.0,
+        "unit": "item",
+        "type": "solid",
+        "rate": 1.0
+      },
+      {
+        "id": "create:precision_mechanism",
+        "count": 1.0,
+        "unit": "item",
+        "type": "solid",
+        "rate": 1.0
+      },
+      {
+        "id": "create:fluid_pipe",
+        "count": 3.0,
+        "unit": "item",
+        "type": "solid",
+        "rate": 1.0
+      },
+      {
+        "id": "create:polished_cut_asurine_slab",
+        "count": 2.0,
+        "unit": "item",
+        "type": "solid",
+        "rate": 1.0
+      }
+    ],
+    "outputs": [
+      {
+        "id": "create_aeronautics_throwable_rope_connector:rope_connector_launcher",
+        "count": 1.0,
+        "unit": "item",
+        "type": "solid",
+        "rate": 1.0
+      }
+    ]
+  },
+  {
+    "recipe_id": "create_aeronautics_throwable_rope_connector:throwable_rope_connector",
+    "mod_id": "create_aeronautics_throwable_rope_connector",
+    "recipe_type": "minecraft:crafting_shapeless",
+    "inputs": [
+      {
+        "id": "simulated:rope_coupling",
+        "count": 1.0,
+        "unit": "item",
+        "type": "solid",
+        "rate": 1.0
+      },
+      {
+        "id": "simulated:rope_connector",
+        "count": 1.0,
+        "unit": "item",
+        "type": "solid",
+        "rate": 1.0
+      }
+    ],
+    "outputs": [
+      {
+        "id": "create_aeronautics_throwable_rope_connector:throwable_rope_connector",
+        "count": 1.0,
+        "unit": "item",
+        "type": "solid",
+        "rate": 1.0
+      }
+    ]
+  },
+  {
+    "recipe_id": "create_aeronautics_throwable_rope_connector:rope_connector_launcher",
+    "mod_id": "create_aeronautics_throwable_rope_connector",
+    "recipe_type": "create:mechanical_crafting",
+    "inputs": [
+      {
+        "id": "create:andesite_alloy",
+        "count": 1.0,
+        "unit": "item",
+        "type": "solid",
+        "rate": 1.0
+      },
+      {
+        "id": "create:precision_mechanism",
+        "count": 1.0,
+        "unit": "item",
+        "type": "solid",
+        "rate": 1.0
+      },
+      {
+        "id": "create:fluid_pipe",
+        "count": 3.0,
+        "unit": "item",
+        "type": "solid",
+        "rate": 1.0
+      },
+      {
+        "id": "create:polished_cut_asurine_slab",
+        "count": 2.0,
+        "unit": "item",
+        "type": "solid",
+        "rate": 1.0
+      }
+    ],
+    "outputs": [
+      {
+        "id": "create_aeronautics_throwable_rope_connector:rope_connector_launcher",
+        "count": 1.0,
+        "unit": "item",
+        "type": "solid",
+        "rate": 1.0
+      }
+    ]
+  },
+  {
+    "recipe_id": "create_aeronautics_throwable_rope_connector:throwable_rope_connector",
+    "mod_id": "create_aeronautics_throwable_rope_connector",
+    "recipe_type": "minecraft:crafting_shapeless",
+    "inputs": [
+      {
+        "id": "simulated:rope_coupling",
+        "count": 1.0,
+        "unit": "item",
+        "type": "solid",
+        "rate": 1.0
+      },
+      {
+        "id": "simulated:rope_connector",
+        "count": 1.0,
+        "unit": "item",
+        "type": "solid",
+        "rate": 1.0
+      }
+    ],
+    "outputs": [
+      {
+        "id": "create_aeronautics_throwable_rope_connector:throwable_rope_connector",
+        "count": 1.0,
+        "unit": "item",
+        "type": "solid",
+        "rate": 1.0
+      }
+    ]
+  },
+  {
+    "recipe_id": "create_aeronautics_throwable_rope_connector:mounted_rope_launcher",
+    "mod_id": "create_aeronautics_throwable_rope_connector",
+    "recipe_type": "minecraft:crafting_shaped",
+    "inputs": [
+      {
+        "id": "create_aeronautics_throwable_rope_connector:rope_connector_launcher",
+        "count": 1.0,
+        "unit": "item",
+        "type": "solid",
+        "rate": 1.0
+      },
+      {
+        "id": "simulated:rope_coupling",
+        "count": 2.0,
+        "unit": "item",
+        "type": "solid",
+        "rate": 1.0
+      },
+      {
+        "id": "simulated:rope_winch",
+        "count": 1.0,
+        "unit": "item",
+        "type": "solid",
+        "rate": 1.0
+      },
+      {
+        "id": "create:polished_cut_asurine_slab",
+        "count": 3.0,
+        "unit": "item",
+        "type": "solid",
+        "rate": 1.0
+      }
+    ],
+    "outputs": [
+      {
+        "id": "create_aeronautics_throwable_rope_connector:mounted_rope_launcher",
+        "count": 1.0,
+        "unit": "item",
+        "type": "solid",
+        "rate": 1.0
+      }
+    ]
+  },
+  {
+    "recipe_id": "create_aeronautics_throwable_rope_connector:mounted_rope_launcher",
+    "mod_id": "create_aeronautics_throwable_rope_connector",
+    "recipe_type": "minecraft:crafting_shaped",
+    "inputs": [
+      {
+        "id": "create_aeronautics_throwable_rope_connector:rope_connector_launcher",
+        "count": 1.0,
+        "unit": "item",
+        "type": "solid",
+        "rate": 1.0
+      },
+      {
+        "id": "simulated:rope_coupling",
+        "count": 2.0,
+        "unit": "item",
+        "type": "solid",
+        "rate": 1.0
+      },
+      {
+        "id": "simulated:rope_winch",
+        "count": 1.0,
+        "unit": "item",
+        "type": "solid",
+        "rate": 1.0
+      },
+      {
+        "id": "create:polished_cut_asurine_slab",
+        "count": 3.0,
+        "unit": "item",
+        "type": "solid",
+        "rate": 1.0
+      }
+    ],
+    "outputs": [
+      {
+        "id": "create_aeronautics_throwable_rope_connector:mounted_rope_launcher",
+        "count": 1.0,
+        "unit": "item",
+        "type": "solid",
+        "rate": 1.0
+      }
+    ]
+  },
+  {
+    "recipe_id": "create_aeronautics_throwable_rope_connector:rope_connector_launcher",
+    "mod_id": "create_aeronautics_throwable_rope_connector",
+    "recipe_type": "create:mechanical_crafting",
+    "inputs": [
+      {
+        "id": "create:andesite_alloy",
+        "count": 1.0,
+        "unit": "item",
+        "type": "solid",
+        "rate": 1.0
+      },
+      {
+        "id": "create:precision_mechanism",
+        "count": 1.0,
+        "unit": "item",
+        "type": "solid",
+        "rate": 1.0
+      },
+      {
+        "id": "create:fluid_pipe",
+        "count": 3.0,
+        "unit": "item",
+        "type": "solid",
+        "rate": 1.0
+      },
+      {
+        "id": "create:polished_cut_asurine_slab",
+        "count": 2.0,
+        "unit": "item",
+        "type": "solid",
+        "rate": 1.0
+      }
+    ],
+    "outputs": [
+      {
+        "id": "create_aeronautics_throwable_rope_connector:rope_connector_launcher",
+        "count": 1.0,
+        "unit": "item",
+        "type": "solid",
+        "rate": 1.0
+      }
+    ]
+  },
+  {
+    "recipe_id": "create_aeronautics_throwable_rope_connector:throwable_rope_connector",
+    "mod_id": "create_aeronautics_throwable_rope_connector",
+    "recipe_type": "minecraft:crafting_shapeless",
+    "inputs": [
+      {
+        "id": "simulated:rope_coupling",
+        "count": 1.0,
+        "unit": "item",
+        "type": "solid",
+        "rate": 1.0
+      },
+      {
+        "id": "simulated:rope_connector",
+        "count": 1.0,
+        "unit": "item",
+        "type": "solid",
+        "rate": 1.0
+      }
+    ],
+    "outputs": [
+      {
+        "id": "create_aeronautics_throwable_rope_connector:throwable_rope_connector",
+        "count": 1.0,
+        "unit": "item",
+        "type": "solid",
+        "rate": 1.0
+      }
+    ]
+  },
+  {
+    "recipe_id": "create_aeronautics_throwable_rope_connector:mounted_rope_launcher",
+    "mod_id": "create_aeronautics_throwable_rope_connector",
+    "recipe_type": "minecraft:crafting_shaped",
+    "inputs": [
+      {
+        "id": "create_aeronautics_throwable_rope_connector:rope_connector_launcher",
+        "count": 1.0,
+        "unit": "item",
+        "type": "solid",
+        "rate": 1.0
+      },
+      {
+        "id": "simulated:rope_coupling",
+        "count": 2.0,
+        "unit": "item",
+        "type": "solid",
+        "rate": 1.0
+      },
+      {
+        "id": "simulated:rope_winch",
+        "count": 1.0,
+        "unit": "item",
+        "type": "solid",
+        "rate": 1.0
+      },
+      {
+        "id": "create:polished_cut_asurine_slab",
+        "count": 3.0,
+        "unit": "item",
+        "type": "solid",
+        "rate": 1.0
+      }
+    ],
+    "outputs": [
+      {
+        "id": "create_aeronautics_throwable_rope_connector:mounted_rope_launcher",
+        "count": 1.0,
+        "unit": "item",
+        "type": "solid",
+        "rate": 1.0
+      }
+    ]
+  },
+  {
+    "recipe_id": "create_aeronautics_throwable_rope_connector:rope_connector_launcher",
+    "mod_id": "create_aeronautics_throwable_rope_connector",
+    "recipe_type": "create:mechanical_crafting",
+    "inputs": [
+      {
+        "id": "create:andesite_alloy",
+        "count": 1.0,
+        "unit": "item",
+        "type": "solid",
+        "rate": 1.0
+      },
+      {
+        "id": "create:precision_mechanism",
+        "count": 1.0,
+        "unit": "item",
+        "type": "solid",
+        "rate": 1.0
+      },
+      {
+        "id": "create:fluid_pipe",
+        "count": 3.0,
+        "unit": "item",
+        "type": "solid",
+        "rate": 1.0
+      },
+      {
+        "id": "create:polished_cut_asurine_slab",
+        "count": 2.0,
+        "unit": "item",
+        "type": "solid",
+        "rate": 1.0
+      }
+    ],
+    "outputs": [
+      {
+        "id": "create_aeronautics_throwable_rope_connector:rope_connector_launcher",
+        "count": 1.0,
+        "unit": "item",
+        "type": "solid",
+        "rate": 1.0
+      }
+    ]
+  },
+  {
+    "recipe_id": "create_aeronautics_throwable_rope_connector:throwable_rope_connector",
+    "mod_id": "create_aeronautics_throwable_rope_connector",
+    "recipe_type": "minecraft:crafting_shapeless",
+    "inputs": [
+      {
+        "id": "simulated:rope_coupling",
+        "count": 1.0,
+        "unit": "item",
+        "type": "solid",
+        "rate": 1.0
+      },
+      {
+        "id": "simulated:rope_connector",
+        "count": 1.0,
+        "unit": "item",
+        "type": "solid",
+        "rate": 1.0
+      }
+    ],
+    "outputs": [
+      {
+        "id": "create_aeronautics_throwable_rope_connector:throwable_rope_connector",
+        "count": 1.0,
+        "unit": "item",
+        "type": "solid",
+        "rate": 1.0
+      }
+    ]
+  },
+  {
+    "recipe_id": "create_aeronautics_throwable_rope_connector:mounted_rope_launcher",
+    "mod_id": "create_aeronautics_throwable_rope_connector",
+    "recipe_type": "minecraft:crafting_shaped",
+    "inputs": [
+      {
+        "id": "create_aeronautics_throwable_rope_connector:rope_connector_launcher",
+        "count": 1.0,
+        "unit": "item",
+        "type": "solid",
+        "rate": 1.0
+      },
+      {
+        "id": "simulated:rope_coupling",
+        "count": 2.0,
+        "unit": "item",
+        "type": "solid",
+        "rate": 1.0
+      },
+      {
+        "id": "simulated:rope_winch",
+        "count": 1.0,
+        "unit": "item",
+        "type": "solid",
+        "rate": 1.0
+      },
+      {
+        "id": "create:polished_cut_asurine_slab",
+        "count": 3.0,
+        "unit": "item",
+        "type": "solid",
+        "rate": 1.0
+      }
+    ],
+    "outputs": [
+      {
+        "id": "create_aeronautics_throwable_rope_connector:mounted_rope_launcher",
+        "count": 1.0,
+        "unit": "item",
+        "type": "solid",
+        "rate": 1.0
+      }
+    ]
+  },
+  {
+    "recipe_id": "create_aeronautics_throwable_rope_connector:rope_connector_launcher",
+    "mod_id": "create_aeronautics_throwable_rope_connector",
+    "recipe_type": "create:mechanical_crafting",
+    "inputs": [
+      {
+        "id": "create:andesite_alloy",
+        "count": 1.0,
+        "unit": "item",
+        "type": "solid",
+        "rate": 1.0
+      },
+      {
+        "id": "create:precision_mechanism",
+        "count": 1.0,
+        "unit": "item",
+        "type": "solid",
+        "rate": 1.0
+      },
+      {
+        "id": "create:fluid_pipe",
+        "count": 3.0,
+        "unit": "item",
+        "type": "solid",
+        "rate": 1.0
+      },
+      {
+        "id": "create:polished_cut_asurine_slab",
+        "count": 2.0,
+        "unit": "item",
+        "type": "solid",
+        "rate": 1.0
+      }
+    ],
+    "outputs": [
+      {
+        "id": "create_aeronautics_throwable_rope_connector:rope_connector_launcher",
+        "count": 1.0,
+        "unit": "item",
+        "type": "solid",
+        "rate": 1.0
+      }
+    ]
+  },
+  {
+    "recipe_id": "create_aeronautics_throwable_rope_connector:throwable_rope_connector",
+    "mod_id": "create_aeronautics_throwable_rope_connector",
+    "recipe_type": "minecraft:crafting_shapeless",
+    "inputs": [
+      {
+        "id": "simulated:rope_coupling",
+        "count": 1.0,
+        "unit": "item",
+        "type": "solid",
+        "rate": 1.0
+      },
+      {
+        "id": "simulated:rope_connector",
+        "count": 1.0,
+        "unit": "item",
+        "type": "solid",
+        "rate": 1.0
+      }
+    ],
+    "outputs": [
+      {
+        "id": "create_aeronautics_throwable_rope_connector:throwable_rope_connector",
+        "count": 1.0,
+        "unit": "item",
+        "type": "solid",
+        "rate": 1.0
+      }
+    ]
+  },
+  {
+    "recipe_id": "create_aeronautics_throwable_rope_connector:mounted_rope_launcher",
+    "mod_id": "create_aeronautics_throwable_rope_connector",
+    "recipe_type": "minecraft:crafting_shaped",
+    "inputs": [
+      {
+        "id": "create_aeronautics_throwable_rope_connector:rope_connector_launcher",
+        "count": 1.0,
+        "unit": "item",
+        "type": "solid",
+        "rate": 1.0
+      },
+      {
+        "id": "simulated:rope_coupling",
+        "count": 2.0,
+        "unit": "item",
+        "type": "solid",
+        "rate": 1.0
+      },
+      {
+        "id": "simulated:rope_winch",
+        "count": 1.0,
+        "unit": "item",
+        "type": "solid",
+        "rate": 1.0
+      },
+      {
+        "id": "create:polished_cut_asurine_slab",
+        "count": 3.0,
+        "unit": "item",
+        "type": "solid",
+        "rate": 1.0
+      }
+    ],
+    "outputs": [
+      {
+        "id": "create_aeronautics_throwable_rope_connector:mounted_rope_launcher",
+        "count": 1.0,
+        "unit": "item",
+        "type": "solid",
+        "rate": 1.0
+      }
+    ]
+  },
+  {
+    "recipe_id": "create_aeronautics_throwable_rope_connector:mounted_rope_launcher",
+    "mod_id": "create_aeronautics_throwable_rope_connector",
+    "recipe_type": "minecraft:crafting_shaped",
+    "inputs": [
+      {
+        "id": "create_aeronautics_throwable_rope_connector:rope_connector_launcher",
+        "count": 1.0,
+        "unit": "item",
+        "type": "solid",
+        "rate": 1.0
+      },
+      {
+        "id": "simulated:rope_coupling",
+        "count": 2.0,
+        "unit": "item",
+        "type": "solid",
+        "rate": 1.0
+      },
+      {
+        "id": "simulated:rope_winch",
+        "count": 1.0,
+        "unit": "item",
+        "type": "solid",
+        "rate": 1.0
+      },
+      {
+        "id": "create:polished_cut_asurine_slab",
+        "count": 3.0,
+        "unit": "item",
+        "type": "solid",
+        "rate": 1.0
+      }
+    ],
+    "outputs": [
+      {
+        "id": "create_aeronautics_throwable_rope_connector:mounted_rope_launcher",
+        "count": 1.0,
+        "unit": "item",
+        "type": "solid",
+        "rate": 1.0
+      }
+    ]
+  },
+  {
+    "recipe_id": "create_aeronautics_throwable_rope_connector:rope_connector_launcher",
+    "mod_id": "create_aeronautics_throwable_rope_connector",
+    "recipe_type": "create:mechanical_crafting",
+    "inputs": [
+      {
+        "id": "create:andesite_alloy",
+        "count": 1.0,
+        "unit": "item",
+        "type": "solid",
+        "rate": 1.0
+      },
+      {
+        "id": "create:precision_mechanism",
+        "count": 1.0,
+        "unit": "item",
+        "type": "solid",
+        "rate": 1.0
+      },
+      {
+        "id": "create:fluid_pipe",
+        "count": 3.0,
+        "unit": "item",
+        "type": "solid",
+        "rate": 1.0
+      },
+      {
+        "id": "create:polished_cut_asurine_slab",
+        "count": 2.0,
+        "unit": "item",
+        "type": "solid",
+        "rate": 1.0
+      }
+    ],
+    "outputs": [
+      {
+        "id": "create_aeronautics_throwable_rope_connector:rope_connector_launcher",
+        "count": 1.0,
+        "unit": "item",
+        "type": "solid",
+        "rate": 1.0
+      }
+    ]
+  },
+  {
+    "recipe_id": "create_aeronautics_throwable_rope_connector:throwable_rope_connector",
+    "mod_id": "create_aeronautics_throwable_rope_connector",
+    "recipe_type": "minecraft:crafting_shapeless",
+    "inputs": [
+      {
+        "id": "simulated:rope_coupling",
+        "count": 1.0,
+        "unit": "item",
+        "type": "solid",
+        "rate": 1.0
+      },
+      {
+        "id": "simulated:rope_connector",
+        "count": 1.0,
+        "unit": "item",
+        "type": "solid",
+        "rate": 1.0
+      }
+    ],
+    "outputs": [
+      {
+        "id": "create_aeronautics_throwable_rope_connector:throwable_rope_connector",
+        "count": 1.0,
+        "unit": "item",
+        "type": "solid",
+        "rate": 1.0
+      }
+    ]
+  },
+  {
+    "recipe_id": "create_aeronautics_throwable_rope_connector:mounted_rope_launcher",
+    "mod_id": "create_aeronautics_throwable_rope_connector",
+    "recipe_type": "minecraft:crafting_shaped",
+    "inputs": [
+      {
+        "id": "create_aeronautics_throwable_rope_connector:rope_connector_launcher",
+        "count": 1.0,
+        "unit": "item",
+        "type": "solid",
+        "rate": 1.0
+      },
+      {
+        "id": "simulated:rope_coupling",
+        "count": 2.0,
+        "unit": "item",
+        "type": "solid",
+        "rate": 1.0
+      },
+      {
+        "id": "simulated:rope_winch",
+        "count": 1.0,
+        "unit": "item",
+        "type": "solid",
+        "rate": 1.0
+      },
+      {
+        "id": "create:polished_cut_asurine_slab",
+        "count": 3.0,
+        "unit": "item",
+        "type": "solid",
+        "rate": 1.0
+      }
+    ],
+    "outputs": [
+      {
+        "id": "create_aeronautics_throwable_rope_connector:mounted_rope_launcher",
+        "count": 1.0,
+        "unit": "item",
+        "type": "solid",
+        "rate": 1.0
+      }
+    ]
+  },
+  {
+    "recipe_id": "create_aeronautics_throwable_rope_connector:mounted_rope_launcher",
+    "mod_id": "create_aeronautics_throwable_rope_connector",
+    "recipe_type": "minecraft:crafting_shaped",
+    "inputs": [
+      {
+        "id": "create_aeronautics_throwable_rope_connector:rope_connector_launcher",
+        "count": 1.0,
+        "unit": "item",
+        "type": "solid",
+        "rate": 1.0
+      },
+      {
+        "id": "simulated:rope_coupling",
+        "count": 2.0,
+        "unit": "item",
+        "type": "solid",
+        "rate": 1.0
+      },
+      {
+        "id": "simulated:rope_winch",
+        "count": 1.0,
+        "unit": "item",
+        "type": "solid",
+        "rate": 1.0
+      },
+      {
+        "id": "create:polished_cut_asurine_slab",
+        "count": 3.0,
+        "unit": "item",
+        "type": "solid",
+        "rate": 1.0
+      }
+    ],
+    "outputs": [
+      {
+        "id": "create_aeronautics_throwable_rope_connector:mounted_rope_launcher",
+        "count": 1.0,
+        "unit": "item",
+        "type": "solid",
+        "rate": 1.0
+      }
+    ]
+  },
+  {
+    "recipe_id": "create_aeronautics_throwable_rope_connector:mounted_rope_launcher",
+    "mod_id": "create_aeronautics_throwable_rope_connector",
+    "recipe_type": "minecraft:crafting_shaped",
+    "inputs": [
+      {
+        "id": "create_aeronautics_throwable_rope_connector:rope_connector_launcher",
+        "count": 1.0,
+        "unit": "item",
+        "type": "solid",
+        "rate": 1.0
+      },
+      {
+        "id": "simulated:rope_coupling",
+        "count": 2.0,
+        "unit": "item",
+        "type": "solid",
+        "rate": 1.0
+      },
+      {
+        "id": "simulated:rope_winch",
+        "count": 1.0,
+        "unit": "item",
+        "type": "solid",
+        "rate": 1.0
+      },
+      {
+        "id": "create:polished_cut_asurine_slab",
+        "count": 3.0,
+        "unit": "item",
+        "type": "solid",
+        "rate": 1.0
+      }
+    ],
+    "outputs": [
+      {
+        "id": "create_aeronautics_throwable_rope_connector:mounted_rope_launcher",
+        "count": 1.0,
+        "unit": "item",
+        "type": "solid",
+        "rate": 1.0
+      }
+    ]
+  },
+  {
+    "recipe_id": "create_aeronautics_throwable_rope_connector:rope_connector_launcher",
+    "mod_id": "create_aeronautics_throwable_rope_connector",
+    "recipe_type": "create:mechanical_crafting",
+    "inputs": [
+      {
+        "id": "create:andesite_alloy",
+        "count": 1.0,
+        "unit": "item",
+        "type": "solid",
+        "rate": 1.0
+      },
+      {
+        "id": "create:precision_mechanism",
+        "count": 1.0,
+        "unit": "item",
+        "type": "solid",
+        "rate": 1.0
+      },
+      {
+        "id": "create:fluid_pipe",
+        "count": 3.0,
+        "unit": "item",
+        "type": "solid",
+        "rate": 1.0
+      },
+      {
+        "id": "create:polished_cut_asurine_slab",
+        "count": 2.0,
+        "unit": "item",
+        "type": "solid",
+        "rate": 1.0
+      }
+    ],
+    "outputs": [
+      {
+        "id": "create_aeronautics_throwable_rope_connector:rope_connector_launcher",
+        "count": 1.0,
+        "unit": "item",
+        "type": "solid",
+        "rate": 1.0
+      }
+    ]
+  },
+  {
+    "recipe_id": "create_aeronautics_throwable_rope_connector:throwable_rope_connector",
+    "mod_id": "create_aeronautics_throwable_rope_connector",
+    "recipe_type": "minecraft:crafting_shapeless",
+    "inputs": [
+      {
+        "id": "simulated:rope_coupling",
+        "count": 1.0,
+        "unit": "item",
+        "type": "solid",
+        "rate": 1.0
+      },
+      {
+        "id": "simulated:rope_connector",
+        "count": 1.0,
+        "unit": "item",
+        "type": "solid",
+        "rate": 1.0
+      }
+    ],
+    "outputs": [
+      {
+        "id": "create_aeronautics_throwable_rope_connector:throwable_rope_connector",
+        "count": 1.0,
+        "unit": "item",
+        "type": "solid",
+        "rate": 1.0
+      }
+    ]
+  }
+]

@@ -1,0 +1,5460 @@
+[
+  {
+    "recipe_id": "create_confectionery:gingerbread_block_recipe",
+    "mod_id": "create_confectionery",
+    "recipe_type": "minecraft:crafting_shaped",
+    "inputs": [
+      {
+        "id": "create_confectionery:gingerdough",
+        "count": 4.0,
+        "unit": "item",
+        "type": "solid",
+        "rate": 1.0
+      }
+    ],
+    "outputs": [
+      {
+        "id": "create_confectionery:gingerbread_block",
+        "count": 1.0,
+        "unit": "item",
+        "type": "solid",
+        "rate": 1.0
+      }
+    ]
+  },
+  {
+    "recipe_id": "create_confectionery:candy_cane_sword_recipe",
+    "mod_id": "create_confectionery",
+    "recipe_type": "minecraft:crafting_shaped",
+    "inputs": [
+      {
+        "id": "create_confectionery:candy_cane",
+        "count": 3.0,
+        "unit": "item",
+        "type": "solid",
+        "rate": 1.0
+      }
+    ],
+    "outputs": [
+      {
+        "id": "create_confectionery:candy_cane_sword",
+        "count": 1.0,
+        "unit": "item",
+        "type": "solid",
+        "rate": 1.0
+      }
+    ]
+  },
+  {
+    "recipe_id": "create_confectionery:bar_of_black_chocolate_recipe",
+    "mod_id": "create_confectionery",
+    "recipe_type": "create:compacting",
+    "inputs": [],
+    "outputs": [
+      {
+        "id": "create_confectionery:bar_of_black_chocolate",
+        "count": 1.0,
+        "unit": "item",
+        "type": "solid",
+        "rate": 1.0
+      }
+    ]
+  },
+  {
+    "recipe_id": "create_confectionery:gingerbread_stairs_recipe",
+    "mod_id": "create_confectionery",
+    "recipe_type": "minecraft:crafting_shaped",
+    "inputs": [
+      {
+        "id": "create_confectionery:gingerbread_block",
+        "count": 6.0,
+        "unit": "item",
+        "type": "solid",
+        "rate": 1.0
+      }
+    ],
+    "outputs": [
+      {
+        "id": "create_confectionery:gingerbread_stairs",
+        "count": 4.0,
+        "unit": "item",
+        "type": "solid",
+        "rate": 1.0
+      }
+    ]
+  },
+  {
+    "recipe_id": "create_confectionery:ruby_chocolate_brick_slab_recipe",
+    "mod_id": "create_confectionery",
+    "recipe_type": "minecraft:crafting_shaped",
+    "inputs": [
+      {
+        "id": "create_confectionery:ruby_chocolate_bricks",
+        "count": 3.0,
+        "unit": "item",
+        "type": "solid",
+        "rate": 1.0
+      }
+    ],
+    "outputs": [
+      {
+        "id": "create_confectionery:ruby_chocolate_brick_slab",
+        "count": 6.0,
+        "unit": "item",
+        "type": "solid",
+        "rate": 1.0
+      }
+    ]
+  },
+  {
+    "recipe_id": "create_confectionery:honey_candy_recipe",
+    "mod_id": "create_confectionery",
+    "recipe_type": "create:mixing",
+    "inputs": [
+      {
+        "id": "minecraft:sugar",
+        "count": 1.0,
+        "unit": "item",
+        "type": "solid",
+        "rate": 1.0
+      },
+      {
+        "id": "minecraft:sugar",
+        "count": 1.0,
+        "unit": "item",
+        "type": "solid",
+        "rate": 1.0
+      },
+      {
+        "id": "create:wheat_flour",
+        "count": 1.0,
+        "unit": "item",
+        "type": "solid",
+        "rate": 1.0
+      },
+      {
+        "id": "c:honey",
+        "count": 1.0,
+        "unit": "item",
+        "type": "tag",
+        "rate": 1.0
+      }
+    ],
+    "outputs": [
+      {
+        "id": "create_confectionery:honey_candy",
+        "count": 4.0,
+        "unit": "item",
+        "type": "solid",
+        "rate": 1.0
+      }
+    ]
+  },
+  {
+    "recipe_id": "create_confectionery:caramel_recipe",
+    "mod_id": "create_confectionery",
+    "recipe_type": "create:mixing",
+    "inputs": [
+      {
+        "id": "minecraft:sugar",
+        "count": 1.0,
+        "unit": "item",
+        "type": "solid",
+        "rate": 1.0
+      },
+      {
+        "id": "minecraft:sugar",
+        "count": 1.0,
+        "unit": "item",
+        "type": "solid",
+        "rate": 1.0
+      }
+    ],
+    "outputs": [
+      {
+        "id": "create_confectionery:caramel",
+        "count": 250.0,
+        "unit": "item",
+        "type": "solid",
+        "rate": 1.0
+      }
+    ]
+  },
+  {
+    "recipe_id": "create_confectionery:bar_of_white_chocolate_recipe",
+    "mod_id": "create_confectionery",
+    "recipe_type": "create:compacting",
+    "inputs": [],
+    "outputs": [
+      {
+        "id": "create_confectionery:bar_of_white_chocolate",
+        "count": 1.0,
+        "unit": "item",
+        "type": "solid",
+        "rate": 1.0
+      }
+    ]
+  },
+  {
+    "recipe_id": "create_confectionery:black_chocolate_glazed_marshmallow_recipe",
+    "mod_id": "create_confectionery",
+    "recipe_type": "create:filling",
+    "inputs": [
+      {
+        "id": "create_confectionery:marshmallow",
+        "count": 1.0,
+        "unit": "item",
+        "type": "solid",
+        "rate": 1.0
+      }
+    ],
+    "outputs": [
+      {
+        "id": "create_confectionery:black_chocolate_glazed_marshmallow",
+        "count": 1.0,
+        "unit": "item",
+        "type": "solid",
+        "rate": 1.0
+      }
+    ]
+  },
+  {
+    "recipe_id": "create_confectionery:chocolate_bricks_recipe",
+    "mod_id": "create_confectionery",
+    "recipe_type": "minecraft:crafting_shaped",
+    "inputs": [
+      {
+        "id": "create:bar_of_chocolate",
+        "count": 4.0,
+        "unit": "item",
+        "type": "solid",
+        "rate": 1.0
+      }
+    ],
+    "outputs": [
+      {
+        "id": "create_confectionery:chocolate_bricks",
+        "count": 1.0,
+        "unit": "item",
+        "type": "solid",
+        "rate": 1.0
+      }
+    ]
+  },
+  {
+    "recipe_id": "create_confectionery:ruby_chocolate_bricks_recipe",
+    "mod_id": "create_confectionery",
+    "recipe_type": "minecraft:crafting_shaped",
+    "inputs": [
+      {
+        "id": "create_confectionery:bar_of_ruby_chocolate",
+        "count": 4.0,
+        "unit": "item",
+        "type": "solid",
+        "rate": 1.0
+      }
+    ],
+    "outputs": [
+      {
+        "id": "create_confectionery:ruby_chocolate_bricks",
+        "count": 1.0,
+        "unit": "item",
+        "type": "solid",
+        "rate": 1.0
+      }
+    ]
+  },
+  {
+    "recipe_id": "create_confectionery:ruby_chocolate_candy_2_recipe",
+    "mod_id": "create_confectionery",
+    "recipe_type": "create:filling",
+    "inputs": [
+      {
+        "id": "create_confectionery:bar_of_white_chocolate",
+        "count": 1.0,
+        "unit": "item",
+        "type": "solid",
+        "rate": 1.0
+      }
+    ],
+    "outputs": [
+      {
+        "id": "create_confectionery:ruby_chocolate_candy_2",
+        "count": 1.0,
+        "unit": "item",
+        "type": "solid",
+        "rate": 1.0
+      }
+    ]
+  },
+  {
+    "recipe_id": "create_confectionery:bar_of_ruby_chocolate_2",
+    "mod_id": "create_confectionery",
+    "recipe_type": "minecraft:crafting_shaped",
+    "inputs": [
+      {
+        "id": "create_confectionery:ruby_chocolate_bricks",
+        "count": 1.0,
+        "unit": "item",
+        "type": "solid",
+        "rate": 1.0
+      }
+    ],
+    "outputs": [
+      {
+        "id": "create_confectionery:bar_of_ruby_chocolate",
+        "count": 4.0,
+        "unit": "item",
+        "type": "solid",
+        "rate": 1.0
+      }
+    ]
+  },
+  {
+    "recipe_id": "create_confectionery:caramel_bricks_stairs_recipe",
+    "mod_id": "create_confectionery",
+    "recipe_type": "minecraft:crafting_shaped",
+    "inputs": [
+      {
+        "id": "create_confectionery:caramel_bricks",
+        "count": 6.0,
+        "unit": "item",
+        "type": "solid",
+        "rate": 1.0
+      }
+    ],
+    "outputs": [
+      {
+        "id": "create_confectionery:caramel_bricks_stairs",
+        "count": 4.0,
+        "unit": "item",
+        "type": "solid",
+        "rate": 1.0
+      }
+    ]
+  },
+  {
+    "recipe_id": "create_confectionery:black_chocolate_candy_3_recipe",
+    "mod_id": "create_confectionery",
+    "recipe_type": "create:filling",
+    "inputs": [
+      {
+        "id": "create_confectionery:bar_of_ruby_chocolate",
+        "count": 1.0,
+        "unit": "item",
+        "type": "solid",
+        "rate": 1.0
+      }
+    ],
+    "outputs": [
+      {
+        "id": "create_confectionery:black_chocolate_candy_3",
+        "count": 1.0,
+        "unit": "item",
+        "type": "solid",
+        "rate": 1.0
+      }
+    ]
+  },
+  {
+    "recipe_id": "create_confectionery:caramel_bricks_stairs_recipe_2",
+    "mod_id": "create_confectionery",
+    "recipe_type": "minecraft:stonecutting",
+    "inputs": [
+      {
+        "id": "create_confectionery:caramel_bricks",
+        "count": 1.0,
+        "unit": "item",
+        "type": "solid",
+        "rate": 1.0
+      }
+    ],
+    "outputs": [
+      {
+        "id": "create_confectionery:caramel_bricks_stairs",
+        "count": 1.0,
+        "unit": "item",
+        "type": "solid",
+        "rate": 1.0
+      }
+    ]
+  },
+  {
+    "recipe_id": "create_confectionery:ruby_chocolate_recipe_4",
+    "mod_id": "create_confectionery",
+    "recipe_type": "create:mixing",
+    "inputs": [
+      {
+        "id": "create_confectionery:ruby_chocolate_brick_stairs",
+        "count": 1.0,
+        "unit": "item",
+        "type": "solid",
+        "rate": 1.0
+      }
+    ],
+    "outputs": [
+      {
+        "id": "create_confectionery:ruby_chocolate",
+        "count": 500.0,
+        "unit": "item",
+        "type": "solid",
+        "rate": 1.0
+      }
+    ]
+  },
+  {
+    "recipe_id": "create_confectionery:ruby_chocolate_recipe_5",
+    "mod_id": "create_confectionery",
+    "recipe_type": "create:mixing",
+    "inputs": [
+      {
+        "id": "create_confectionery:ruby_chocolate_brick_slab",
+        "count": 1.0,
+        "unit": "item",
+        "type": "solid",
+        "rate": 1.0
+      }
+    ],
+    "outputs": [
+      {
+        "id": "create_confectionery:ruby_chocolate",
+        "count": 500.0,
+        "unit": "item",
+        "type": "solid",
+        "rate": 1.0
+      }
+    ]
+  },
+  {
+    "recipe_id": "create_confectionery:ruby_chocolate_recipe_2",
+    "mod_id": "create_confectionery",
+    "recipe_type": "create:mixing",
+    "inputs": [
+      {
+        "id": "create_confectionery:bar_of_ruby_chocolate",
+        "count": 1.0,
+        "unit": "item",
+        "type": "solid",
+        "rate": 1.0
+      }
+    ],
+    "outputs": [
+      {
+        "id": "create_confectionery:ruby_chocolate",
+        "count": 250.0,
+        "unit": "item",
+        "type": "solid",
+        "rate": 1.0
+      }
+    ]
+  },
+  {
+    "recipe_id": "create_confectionery:ruby_chocolate_recipe_3",
+    "mod_id": "create_confectionery",
+    "recipe_type": "create:mixing",
+    "inputs": [
+      {
+        "id": "create_confectionery:ruby_chocolate_bricks",
+        "count": 1.0,
+        "unit": "item",
+        "type": "solid",
+        "rate": 1.0
+      }
+    ],
+    "outputs": [
+      {
+        "id": "create_confectionery:ruby_chocolate",
+        "count": 1000.0,
+        "unit": "item",
+        "type": "solid",
+        "rate": 1.0
+      }
+    ]
+  },
+  {
+    "recipe_id": "create_confectionery:chocolate_bricks_slab_recipe_2",
+    "mod_id": "create_confectionery",
+    "recipe_type": "minecraft:stonecutting",
+    "inputs": [
+      {
+        "id": "create_confectionery:chocolate_bricks",
+        "count": 1.0,
+        "unit": "item",
+        "type": "solid",
+        "rate": 1.0
+      }
+    ],
+    "outputs": [
+      {
+        "id": "create_confectionery:chocolate_bricks_slab",
+        "count": 2.0,
+        "unit": "item",
+        "type": "solid",
+        "rate": 1.0
+      }
+    ]
+  },
+  {
+    "recipe_id": "create_confectionery:chocolate_bricks_slab_recipe_1",
+    "mod_id": "create_confectionery",
+    "recipe_type": "minecraft:crafting_shaped",
+    "inputs": [
+      {
+        "id": "create_confectionery:chocolate_bricks",
+        "count": 3.0,
+        "unit": "item",
+        "type": "solid",
+        "rate": 1.0
+      }
+    ],
+    "outputs": [
+      {
+        "id": "create_confectionery:chocolate_bricks_slab",
+        "count": 6.0,
+        "unit": "item",
+        "type": "solid",
+        "rate": 1.0
+      }
+    ]
+  },
+  {
+    "recipe_id": "create_confectionery:gingerbread_slab_recipe",
+    "mod_id": "create_confectionery",
+    "recipe_type": "minecraft:crafting_shaped",
+    "inputs": [
+      {
+        "id": "create_confectionery:gingerbread_block",
+        "count": 3.0,
+        "unit": "item",
+        "type": "solid",
+        "rate": 1.0
+      }
+    ],
+    "outputs": [
+      {
+        "id": "create_confectionery:gingerbread_slab",
+        "count": 6.0,
+        "unit": "item",
+        "type": "solid",
+        "rate": 1.0
+      }
+    ]
+  },
+  {
+    "recipe_id": "create_confectionery:black_chocolate_recipe",
+    "mod_id": "create_confectionery",
+    "recipe_type": "create:mixing",
+    "inputs": [
+      {
+        "id": "minecraft:sugar",
+        "count": 1.0,
+        "unit": "item",
+        "type": "solid",
+        "rate": 1.0
+      },
+      {
+        "id": "create_confectionery:cocoa_butter",
+        "count": 1.0,
+        "unit": "item",
+        "type": "solid",
+        "rate": 1.0
+      },
+      {
+        "id": "minecraft:cocoa_beans",
+        "count": 1.0,
+        "unit": "item",
+        "type": "solid",
+        "rate": 1.0
+      },
+      {
+        "id": "minecraft:cocoa_beans",
+        "count": 1.0,
+        "unit": "item",
+        "type": "solid",
+        "rate": 1.0
+      },
+      {
+        "id": "c:milk",
+        "count": 1.0,
+        "unit": "item",
+        "type": "tag",
+        "rate": 1.0
+      }
+    ],
+    "outputs": [
+      {
+        "id": "create_confectionery:black_chocolate",
+        "count": 250.0,
+        "unit": "item",
+        "type": "solid",
+        "rate": 1.0
+      }
+    ]
+  },
+  {
+    "recipe_id": "create_confectionery:caramelized_marshmellow_recipe",
+    "mod_id": "create_confectionery",
+    "recipe_type": "minecraft:campfire_cooking",
+    "inputs": [
+      {
+        "id": "create_confectionery:marshmallow_on_a_stick",
+        "count": 1.0,
+        "unit": "item",
+        "type": "solid",
+        "rate": 1.0
+      }
+    ],
+    "outputs": [
+      {
+        "id": "create_confectionery:caramelized_marshmellow_on_a_stick",
+        "count": 1.0,
+        "unit": "item",
+        "type": "solid",
+        "rate": 1.0
+      }
+    ]
+  },
+  {
+    "recipe_id": "create_confectionery:ruby_chocolate_brick_stairs_recipe_2",
+    "mod_id": "create_confectionery",
+    "recipe_type": "minecraft:stonecutting",
+    "inputs": [
+      {
+        "id": "create_confectionery:ruby_chocolate_bricks",
+        "count": 1.0,
+        "unit": "item",
+        "type": "solid",
+        "rate": 1.0
+      }
+    ],
+    "outputs": [
+      {
+        "id": "create_confectionery:ruby_chocolate_brick_stairs",
+        "count": 1.0,
+        "unit": "item",
+        "type": "solid",
+        "rate": 1.0
+      }
+    ]
+  },
+  {
+    "recipe_id": "create_confectionery:candy_cane_shovel_recipe",
+    "mod_id": "create_confectionery",
+    "recipe_type": "minecraft:crafting_shaped",
+    "inputs": [
+      {
+        "id": "create_confectionery:candy_cane",
+        "count": 4.0,
+        "unit": "item",
+        "type": "solid",
+        "rate": 1.0
+      }
+    ],
+    "outputs": [
+      {
+        "id": "create_confectionery:candy_cane_shovel",
+        "count": 1.0,
+        "unit": "item",
+        "type": "solid",
+        "rate": 1.0
+      }
+    ]
+  },
+  {
+    "recipe_id": "create_confectionery:candy_cane_recipe_2",
+    "mod_id": "create_confectionery",
+    "recipe_type": "minecraft:crafting_shapeless",
+    "inputs": [
+      {
+        "id": "create_confectionery:candy_cane_block",
+        "count": 1.0,
+        "unit": "item",
+        "type": "solid",
+        "rate": 1.0
+      }
+    ],
+    "outputs": [
+      {
+        "id": "create_confectionery:candy_cane",
+        "count": 4.0,
+        "unit": "item",
+        "type": "solid",
+        "rate": 1.0
+      }
+    ]
+  },
+  {
+    "recipe_id": "create_confectionery:candy_cane_recipe",
+    "mod_id": "create_confectionery",
+    "recipe_type": "create:mixing",
+    "inputs": [
+      {
+        "id": "minecraft:sugar",
+        "count": 1.0,
+        "unit": "item",
+        "type": "solid",
+        "rate": 1.0
+      },
+      {
+        "id": "minecraft:sugar",
+        "count": 1.0,
+        "unit": "item",
+        "type": "solid",
+        "rate": 1.0
+      },
+      {
+        "id": "minecraft:slime_ball",
+        "count": 1.0,
+        "unit": "item",
+        "type": "solid",
+        "rate": 1.0
+      }
+    ],
+    "outputs": [
+      {
+        "id": "create_confectionery:candy_cane",
+        "count": 4.0,
+        "unit": "item",
+        "type": "solid",
+        "rate": 1.0
+      }
+    ]
+  },
+  {
+    "recipe_id": "create_confectionery:white_chocolate_bricks_slab_recipe_2",
+    "mod_id": "create_confectionery",
+    "recipe_type": "minecraft:stonecutting",
+    "inputs": [
+      {
+        "id": "create_confectionery:white_chocolate_bricks",
+        "count": 1.0,
+        "unit": "item",
+        "type": "solid",
+        "rate": 1.0
+      }
+    ],
+    "outputs": [
+      {
+        "id": "create_confectionery:white_chocolate_bricks_slab",
+        "count": 2.0,
+        "unit": "item",
+        "type": "solid",
+        "rate": 1.0
+      }
+    ]
+  },
+  {
+    "recipe_id": "create_confectionery:black_chocolate_bricks_slab_recipe_2",
+    "mod_id": "create_confectionery",
+    "recipe_type": "minecraft:stonecutting",
+    "inputs": [
+      {
+        "id": "create_confectionery:black_chocolate_bricks",
+        "count": 1.0,
+        "unit": "item",
+        "type": "solid",
+        "rate": 1.0
+      }
+    ],
+    "outputs": [
+      {
+        "id": "create_confectionery:black_chocolate_bricks_slab",
+        "count": 2.0,
+        "unit": "item",
+        "type": "solid",
+        "rate": 1.0
+      }
+    ]
+  },
+  {
+    "recipe_id": "create_confectionery:black_chocolate_bricks_slab_recipe_1",
+    "mod_id": "create_confectionery",
+    "recipe_type": "minecraft:crafting_shaped",
+    "inputs": [
+      {
+        "id": "create_confectionery:black_chocolate_bricks",
+        "count": 3.0,
+        "unit": "item",
+        "type": "solid",
+        "rate": 1.0
+      }
+    ],
+    "outputs": [
+      {
+        "id": "create_confectionery:black_chocolate_bricks_slab",
+        "count": 6.0,
+        "unit": "item",
+        "type": "solid",
+        "rate": 1.0
+      }
+    ]
+  },
+  {
+    "recipe_id": "create_confectionery:ruby_chocolate_emptying",
+    "mod_id": "create_confectionery",
+    "recipe_type": "create:emptying",
+    "inputs": [
+      {
+        "id": "create_confectionery:ruby_chocolate_bucket",
+        "count": 1.0,
+        "unit": "item",
+        "type": "solid",
+        "rate": 1.0
+      }
+    ],
+    "outputs": [
+      {
+        "id": "minecraft:bucket",
+        "count": 1.0,
+        "unit": "item",
+        "type": "solid",
+        "rate": 1.0
+      },
+      {
+        "id": "create_confectionery:ruby_chocolate",
+        "count": 1000.0,
+        "unit": "item",
+        "type": "solid",
+        "rate": 1.0
+      }
+    ]
+  },
+  {
+    "recipe_id": "create_confectionery:gingerbread_bricks_recipe",
+    "mod_id": "create_confectionery",
+    "recipe_type": "minecraft:crafting_shaped",
+    "inputs": [
+      {
+        "id": "create_confectionery:gingerbread_block",
+        "count": 4.0,
+        "unit": "item",
+        "type": "solid",
+        "rate": 1.0
+      }
+    ],
+    "outputs": [
+      {
+        "id": "create_confectionery:gingerbreak_bricks",
+        "count": 4.0,
+        "unit": "item",
+        "type": "solid",
+        "rate": 1.0
+      }
+    ]
+  },
+  {
+    "recipe_id": "create_confectionery:hot_chocolate_recipe",
+    "mod_id": "create_confectionery",
+    "recipe_type": "create:mixing",
+    "inputs": [
+      {
+        "id": "minecraft:sugar",
+        "count": 1.0,
+        "unit": "item",
+        "type": "solid",
+        "rate": 1.0
+      },
+      {
+        "id": "create_confectionery:cocoa_powder",
+        "count": 1.0,
+        "unit": "item",
+        "type": "solid",
+        "rate": 1.0
+      },
+      {
+        "id": "create_confectionery:cocoa_powder",
+        "count": 1.0,
+        "unit": "item",
+        "type": "solid",
+        "rate": 1.0
+      },
+      {
+        "id": "c:milk",
+        "count": 1.0,
+        "unit": "item",
+        "type": "tag",
+        "rate": 1.0
+      }
+    ],
+    "outputs": [
+      {
+        "id": "create_confectionery:hot_chocolate",
+        "count": 250.0,
+        "unit": "item",
+        "type": "solid",
+        "rate": 1.0
+      }
+    ]
+  },
+  {
+    "recipe_id": "create_confectionery:chocolate_bricks_stairs_recipe_1",
+    "mod_id": "create_confectionery",
+    "recipe_type": "minecraft:crafting_shaped",
+    "inputs": [
+      {
+        "id": "create_confectionery:chocolate_bricks",
+        "count": 6.0,
+        "unit": "item",
+        "type": "solid",
+        "rate": 1.0
+      }
+    ],
+    "outputs": [
+      {
+        "id": "create_confectionery:chocolate_bricks_stairs",
+        "count": 4.0,
+        "unit": "item",
+        "type": "solid",
+        "rate": 1.0
+      }
+    ]
+  },
+  {
+    "recipe_id": "create_confectionery:chocolate_bricks_stairs_recipe_2",
+    "mod_id": "create_confectionery",
+    "recipe_type": "minecraft:stonecutting",
+    "inputs": [
+      {
+        "id": "create_confectionery:chocolate_bricks",
+        "count": 1.0,
+        "unit": "item",
+        "type": "solid",
+        "rate": 1.0
+      }
+    ],
+    "outputs": [
+      {
+        "id": "create_confectionery:chocolate_bricks_stairs",
+        "count": 1.0,
+        "unit": "item",
+        "type": "solid",
+        "rate": 1.0
+      }
+    ]
+  },
+  {
+    "recipe_id": "create_confectionery:gingerdough_recipe",
+    "mod_id": "create_confectionery",
+    "recipe_type": "create:mixing",
+    "inputs": [
+      {
+        "id": "minecraft:sugar",
+        "count": 1.0,
+        "unit": "item",
+        "type": "solid",
+        "rate": 1.0
+      },
+      {
+        "id": "create:cinder_flour",
+        "count": 1.0,
+        "unit": "item",
+        "type": "solid",
+        "rate": 1.0
+      },
+      {
+        "id": "create:wheat_flour",
+        "count": 1.0,
+        "unit": "item",
+        "type": "solid",
+        "rate": 1.0
+      },
+      {
+        "id": "c:honey",
+        "count": 1.0,
+        "unit": "item",
+        "type": "tag",
+        "rate": 1.0
+      }
+    ],
+    "outputs": [
+      {
+        "id": "create_confectionery:gingerdough",
+        "count": 1.0,
+        "unit": "item",
+        "type": "solid",
+        "rate": 1.0
+      }
+    ]
+  },
+  {
+    "recipe_id": "create_confectionery:bar_of_white_chocolate_2",
+    "mod_id": "create_confectionery",
+    "recipe_type": "minecraft:crafting_shaped",
+    "inputs": [
+      {
+        "id": "create_confectionery:white_chocolate_bricks",
+        "count": 1.0,
+        "unit": "item",
+        "type": "solid",
+        "rate": 1.0
+      }
+    ],
+    "outputs": [
+      {
+        "id": "create_confectionery:bar_of_white_chocolate",
+        "count": 4.0,
+        "unit": "item",
+        "type": "solid",
+        "rate": 1.0
+      }
+    ]
+  },
+  {
+    "recipe_id": "create_confectionery:gingerbread_brick_stairs_recipe",
+    "mod_id": "create_confectionery",
+    "recipe_type": "minecraft:crafting_shaped",
+    "inputs": [
+      {
+        "id": "create_confectionery:gingerbreak_bricks",
+        "count": 6.0,
+        "unit": "item",
+        "type": "solid",
+        "rate": 1.0
+      }
+    ],
+    "outputs": [
+      {
+        "id": "create_confectionery:gingerbread_brick_stairs",
+        "count": 4.0,
+        "unit": "item",
+        "type": "solid",
+        "rate": 1.0
+      }
+    ]
+  },
+  {
+    "recipe_id": "create_confectionery:caramel_emptying",
+    "mod_id": "create_confectionery",
+    "recipe_type": "create:emptying",
+    "inputs": [
+      {
+        "id": "create_confectionery:caramel_bucket",
+        "count": 1.0,
+        "unit": "item",
+        "type": "solid",
+        "rate": 1.0
+      }
+    ],
+    "outputs": [
+      {
+        "id": "minecraft:bucket",
+        "count": 1.0,
+        "unit": "item",
+        "type": "solid",
+        "rate": 1.0
+      },
+      {
+        "id": "create_confectionery:caramel",
+        "count": 1000.0,
+        "unit": "item",
+        "type": "solid",
+        "rate": 1.0
+      }
+    ]
+  },
+  {
+    "recipe_id": "create_confectionery:marshmallow_recipe",
+    "mod_id": "create_confectionery",
+    "recipe_type": "create:mixing",
+    "inputs": [
+      {
+        "id": "minecraft:sugar",
+        "count": 1.0,
+        "unit": "item",
+        "type": "solid",
+        "rate": 1.0
+      },
+      {
+        "id": "minecraft:sugar",
+        "count": 1.0,
+        "unit": "item",
+        "type": "solid",
+        "rate": 1.0
+      },
+      {
+        "id": "minecraft:slime_ball",
+        "count": 1.0,
+        "unit": "item",
+        "type": "solid",
+        "rate": 1.0
+      }
+    ],
+    "outputs": [
+      {
+        "id": "create_confectionery:marshmallow",
+        "count": 8.0,
+        "unit": "item",
+        "type": "solid",
+        "rate": 1.0
+      }
+    ]
+  },
+  {
+    "recipe_id": "create_confectionery:caramel_bricks_recipe",
+    "mod_id": "create_confectionery",
+    "recipe_type": "minecraft:crafting_shaped",
+    "inputs": [
+      {
+        "id": "create_confectionery:bar_of_caramel",
+        "count": 4.0,
+        "unit": "item",
+        "type": "solid",
+        "rate": 1.0
+      }
+    ],
+    "outputs": [
+      {
+        "id": "create_confectionery:caramel_bricks",
+        "count": 1.0,
+        "unit": "item",
+        "type": "solid",
+        "rate": 1.0
+      }
+    ]
+  },
+  {
+    "recipe_id": "create_confectionery:full_white_chocolate_bar_recipe",
+    "mod_id": "create_confectionery",
+    "recipe_type": "minecraft:crafting_shapeless",
+    "inputs": [
+      {
+        "id": "create_confectionery:bar_of_white_chocolate",
+        "count": 1.0,
+        "unit": "item",
+        "type": "solid",
+        "rate": 1.0
+      },
+      {
+        "id": "create_confectionery:bar_of_white_chocolate",
+        "count": 1.0,
+        "unit": "item",
+        "type": "solid",
+        "rate": 1.0
+      },
+      {
+        "id": "create_confectionery:bar_of_white_chocolate",
+        "count": 1.0,
+        "unit": "item",
+        "type": "solid",
+        "rate": 1.0
+      },
+      {
+        "id": "create_confectionery:bar_of_white_chocolate",
+        "count": 1.0,
+        "unit": "item",
+        "type": "solid",
+        "rate": 1.0
+      },
+      {
+        "id": "create_confectionery:bar_of_white_chocolate",
+        "count": 1.0,
+        "unit": "item",
+        "type": "solid",
+        "rate": 1.0
+      },
+      {
+        "id": "create_confectionery:bar_of_white_chocolate",
+        "count": 1.0,
+        "unit": "item",
+        "type": "solid",
+        "rate": 1.0
+      },
+      {
+        "id": "minecraft:paper",
+        "count": 1.0,
+        "unit": "item",
+        "type": "solid",
+        "rate": 1.0
+      }
+    ],
+    "outputs": [
+      {
+        "id": "create_confectionery:full_white_chocolate_bar",
+        "count": 1.0,
+        "unit": "item",
+        "type": "solid",
+        "rate": 1.0
+      }
+    ]
+  },
+  {
+    "recipe_id": "create_confectionery:white_chocolate_candy_2_recipe",
+    "mod_id": "create_confectionery",
+    "recipe_type": "create:filling",
+    "inputs": [
+      {
+        "id": "create_confectionery:bar_of_black_chocolate",
+        "count": 1.0,
+        "unit": "item",
+        "type": "solid",
+        "rate": 1.0
+      }
+    ],
+    "outputs": [
+      {
+        "id": "create_confectionery:white_chocolate_candy_2",
+        "count": 1.0,
+        "unit": "item",
+        "type": "solid",
+        "rate": 1.0
+      }
+    ]
+  },
+  {
+    "recipe_id": "create_confectionery:white_chocolate_recipe",
+    "mod_id": "create_confectionery",
+    "recipe_type": "create:mixing",
+    "inputs": [
+      {
+        "id": "minecraft:sugar",
+        "count": 1.0,
+        "unit": "item",
+        "type": "solid",
+        "rate": 1.0
+      },
+      {
+        "id": "create_confectionery:cocoa_butter",
+        "count": 1.0,
+        "unit": "item",
+        "type": "solid",
+        "rate": 1.0
+      },
+      {
+        "id": "c:milk",
+        "count": 1.0,
+        "unit": "item",
+        "type": "tag",
+        "rate": 1.0
+      }
+    ],
+    "outputs": [
+      {
+        "id": "create_confectionery:white_chocolate",
+        "count": 250.0,
+        "unit": "item",
+        "type": "solid",
+        "rate": 1.0
+      }
+    ]
+  },
+  {
+    "recipe_id": "create_confectionery:gingerbread_block_recipe",
+    "mod_id": "create_confectionery",
+    "recipe_type": "minecraft:crafting_shaped",
+    "inputs": [
+      {
+        "id": "create_confectionery:gingerdough",
+        "count": 4.0,
+        "unit": "item",
+        "type": "solid",
+        "rate": 1.0
+      }
+    ],
+    "outputs": [
+      {
+        "id": "create_confectionery:gingerbread_block",
+        "count": 1.0,
+        "unit": "item",
+        "type": "solid",
+        "rate": 1.0
+      }
+    ]
+  },
+  {
+    "recipe_id": "create_confectionery:ruby_chocolate_emptying",
+    "mod_id": "create_confectionery",
+    "recipe_type": "create:emptying",
+    "inputs": [
+      {
+        "id": "create_confectionery:ruby_chocolate_bucket",
+        "count": 1.0,
+        "unit": "item",
+        "type": "solid",
+        "rate": 1.0
+      }
+    ],
+    "outputs": [
+      {
+        "id": "minecraft:bucket",
+        "count": 1.0,
+        "unit": "item",
+        "type": "solid",
+        "rate": 1.0
+      },
+      {
+        "id": "create_confectionery:ruby_chocolate",
+        "count": 1000.0,
+        "unit": "item",
+        "type": "solid",
+        "rate": 1.0
+      }
+    ]
+  },
+  {
+    "recipe_id": "create_confectionery:gingerbread_bricks_recipe",
+    "mod_id": "create_confectionery",
+    "recipe_type": "minecraft:crafting_shaped",
+    "inputs": [
+      {
+        "id": "create_confectionery:gingerbread_block",
+        "count": 4.0,
+        "unit": "item",
+        "type": "solid",
+        "rate": 1.0
+      }
+    ],
+    "outputs": [
+      {
+        "id": "create_confectionery:gingerbreak_bricks",
+        "count": 4.0,
+        "unit": "item",
+        "type": "solid",
+        "rate": 1.0
+      }
+    ]
+  },
+  {
+    "recipe_id": "create_confectionery:hot_chocolate_recipe",
+    "mod_id": "create_confectionery",
+    "recipe_type": "create:mixing",
+    "inputs": [
+      {
+        "id": "minecraft:sugar",
+        "count": 1.0,
+        "unit": "item",
+        "type": "solid",
+        "rate": 1.0
+      },
+      {
+        "id": "create_confectionery:cocoa_powder",
+        "count": 1.0,
+        "unit": "item",
+        "type": "solid",
+        "rate": 1.0
+      },
+      {
+        "id": "create_confectionery:cocoa_powder",
+        "count": 1.0,
+        "unit": "item",
+        "type": "solid",
+        "rate": 1.0
+      },
+      {
+        "id": "c:milk",
+        "count": 1.0,
+        "unit": "item",
+        "type": "tag",
+        "rate": 1.0
+      }
+    ],
+    "outputs": [
+      {
+        "id": "create_confectionery:hot_chocolate",
+        "count": 250.0,
+        "unit": "item",
+        "type": "solid",
+        "rate": 1.0
+      }
+    ]
+  },
+  {
+    "recipe_id": "create_confectionery:chocolate_bricks_stairs_recipe_1",
+    "mod_id": "create_confectionery",
+    "recipe_type": "minecraft:crafting_shaped",
+    "inputs": [
+      {
+        "id": "create_confectionery:chocolate_bricks",
+        "count": 6.0,
+        "unit": "item",
+        "type": "solid",
+        "rate": 1.0
+      }
+    ],
+    "outputs": [
+      {
+        "id": "create_confectionery:chocolate_bricks_stairs",
+        "count": 4.0,
+        "unit": "item",
+        "type": "solid",
+        "rate": 1.0
+      }
+    ]
+  },
+  {
+    "recipe_id": "create_confectionery:chocolate_bricks_stairs_recipe_2",
+    "mod_id": "create_confectionery",
+    "recipe_type": "minecraft:stonecutting",
+    "inputs": [
+      {
+        "id": "create_confectionery:chocolate_bricks",
+        "count": 1.0,
+        "unit": "item",
+        "type": "solid",
+        "rate": 1.0
+      }
+    ],
+    "outputs": [
+      {
+        "id": "create_confectionery:chocolate_bricks_stairs",
+        "count": 1.0,
+        "unit": "item",
+        "type": "solid",
+        "rate": 1.0
+      }
+    ]
+  },
+  {
+    "recipe_id": "create_confectionery:gingerdough_recipe",
+    "mod_id": "create_confectionery",
+    "recipe_type": "create:mixing",
+    "inputs": [
+      {
+        "id": "minecraft:sugar",
+        "count": 1.0,
+        "unit": "item",
+        "type": "solid",
+        "rate": 1.0
+      },
+      {
+        "id": "create:cinder_flour",
+        "count": 1.0,
+        "unit": "item",
+        "type": "solid",
+        "rate": 1.0
+      },
+      {
+        "id": "create:wheat_flour",
+        "count": 1.0,
+        "unit": "item",
+        "type": "solid",
+        "rate": 1.0
+      },
+      {
+        "id": "c:honey",
+        "count": 1.0,
+        "unit": "item",
+        "type": "tag",
+        "rate": 1.0
+      }
+    ],
+    "outputs": [
+      {
+        "id": "create_confectionery:gingerdough",
+        "count": 1.0,
+        "unit": "item",
+        "type": "solid",
+        "rate": 1.0
+      }
+    ]
+  },
+  {
+    "recipe_id": "create_confectionery:bar_of_white_chocolate_2",
+    "mod_id": "create_confectionery",
+    "recipe_type": "minecraft:crafting_shaped",
+    "inputs": [
+      {
+        "id": "create_confectionery:white_chocolate_bricks",
+        "count": 1.0,
+        "unit": "item",
+        "type": "solid",
+        "rate": 1.0
+      }
+    ],
+    "outputs": [
+      {
+        "id": "create_confectionery:bar_of_white_chocolate",
+        "count": 4.0,
+        "unit": "item",
+        "type": "solid",
+        "rate": 1.0
+      }
+    ]
+  },
+  {
+    "recipe_id": "create_confectionery:gingerbread_brick_stairs_recipe",
+    "mod_id": "create_confectionery",
+    "recipe_type": "minecraft:crafting_shaped",
+    "inputs": [
+      {
+        "id": "create_confectionery:gingerbreak_bricks",
+        "count": 6.0,
+        "unit": "item",
+        "type": "solid",
+        "rate": 1.0
+      }
+    ],
+    "outputs": [
+      {
+        "id": "create_confectionery:gingerbread_brick_stairs",
+        "count": 4.0,
+        "unit": "item",
+        "type": "solid",
+        "rate": 1.0
+      }
+    ]
+  },
+  {
+    "recipe_id": "create_confectionery:caramel_emptying",
+    "mod_id": "create_confectionery",
+    "recipe_type": "create:emptying",
+    "inputs": [
+      {
+        "id": "create_confectionery:caramel_bucket",
+        "count": 1.0,
+        "unit": "item",
+        "type": "solid",
+        "rate": 1.0
+      }
+    ],
+    "outputs": [
+      {
+        "id": "minecraft:bucket",
+        "count": 1.0,
+        "unit": "item",
+        "type": "solid",
+        "rate": 1.0
+      },
+      {
+        "id": "create_confectionery:caramel",
+        "count": 1000.0,
+        "unit": "item",
+        "type": "solid",
+        "rate": 1.0
+      }
+    ]
+  },
+  {
+    "recipe_id": "create_confectionery:marshmallow_recipe",
+    "mod_id": "create_confectionery",
+    "recipe_type": "create:mixing",
+    "inputs": [
+      {
+        "id": "minecraft:sugar",
+        "count": 1.0,
+        "unit": "item",
+        "type": "solid",
+        "rate": 1.0
+      },
+      {
+        "id": "minecraft:sugar",
+        "count": 1.0,
+        "unit": "item",
+        "type": "solid",
+        "rate": 1.0
+      },
+      {
+        "id": "minecraft:slime_ball",
+        "count": 1.0,
+        "unit": "item",
+        "type": "solid",
+        "rate": 1.0
+      }
+    ],
+    "outputs": [
+      {
+        "id": "create_confectionery:marshmallow",
+        "count": 8.0,
+        "unit": "item",
+        "type": "solid",
+        "rate": 1.0
+      }
+    ]
+  },
+  {
+    "recipe_id": "create_confectionery:caramel_bricks_recipe",
+    "mod_id": "create_confectionery",
+    "recipe_type": "minecraft:crafting_shaped",
+    "inputs": [
+      {
+        "id": "create_confectionery:bar_of_caramel",
+        "count": 4.0,
+        "unit": "item",
+        "type": "solid",
+        "rate": 1.0
+      }
+    ],
+    "outputs": [
+      {
+        "id": "create_confectionery:caramel_bricks",
+        "count": 1.0,
+        "unit": "item",
+        "type": "solid",
+        "rate": 1.0
+      }
+    ]
+  },
+  {
+    "recipe_id": "create_confectionery:full_white_chocolate_bar_recipe",
+    "mod_id": "create_confectionery",
+    "recipe_type": "minecraft:crafting_shapeless",
+    "inputs": [
+      {
+        "id": "create_confectionery:bar_of_white_chocolate",
+        "count": 1.0,
+        "unit": "item",
+        "type": "solid",
+        "rate": 1.0
+      },
+      {
+        "id": "create_confectionery:bar_of_white_chocolate",
+        "count": 1.0,
+        "unit": "item",
+        "type": "solid",
+        "rate": 1.0
+      },
+      {
+        "id": "create_confectionery:bar_of_white_chocolate",
+        "count": 1.0,
+        "unit": "item",
+        "type": "solid",
+        "rate": 1.0
+      },
+      {
+        "id": "create_confectionery:bar_of_white_chocolate",
+        "count": 1.0,
+        "unit": "item",
+        "type": "solid",
+        "rate": 1.0
+      },
+      {
+        "id": "create_confectionery:bar_of_white_chocolate",
+        "count": 1.0,
+        "unit": "item",
+        "type": "solid",
+        "rate": 1.0
+      },
+      {
+        "id": "create_confectionery:bar_of_white_chocolate",
+        "count": 1.0,
+        "unit": "item",
+        "type": "solid",
+        "rate": 1.0
+      },
+      {
+        "id": "minecraft:paper",
+        "count": 1.0,
+        "unit": "item",
+        "type": "solid",
+        "rate": 1.0
+      }
+    ],
+    "outputs": [
+      {
+        "id": "create_confectionery:full_white_chocolate_bar",
+        "count": 1.0,
+        "unit": "item",
+        "type": "solid",
+        "rate": 1.0
+      }
+    ]
+  },
+  {
+    "recipe_id": "create_confectionery:white_chocolate_candy_2_recipe",
+    "mod_id": "create_confectionery",
+    "recipe_type": "create:filling",
+    "inputs": [
+      {
+        "id": "create_confectionery:bar_of_black_chocolate",
+        "count": 1.0,
+        "unit": "item",
+        "type": "solid",
+        "rate": 1.0
+      }
+    ],
+    "outputs": [
+      {
+        "id": "create_confectionery:white_chocolate_candy_2",
+        "count": 1.0,
+        "unit": "item",
+        "type": "solid",
+        "rate": 1.0
+      }
+    ]
+  },
+  {
+    "recipe_id": "create_confectionery:white_chocolate_recipe",
+    "mod_id": "create_confectionery",
+    "recipe_type": "create:mixing",
+    "inputs": [
+      {
+        "id": "minecraft:sugar",
+        "count": 1.0,
+        "unit": "item",
+        "type": "solid",
+        "rate": 1.0
+      },
+      {
+        "id": "create_confectionery:cocoa_butter",
+        "count": 1.0,
+        "unit": "item",
+        "type": "solid",
+        "rate": 1.0
+      },
+      {
+        "id": "c:milk",
+        "count": 1.0,
+        "unit": "item",
+        "type": "tag",
+        "rate": 1.0
+      }
+    ],
+    "outputs": [
+      {
+        "id": "create_confectionery:white_chocolate",
+        "count": 250.0,
+        "unit": "item",
+        "type": "solid",
+        "rate": 1.0
+      }
+    ]
+  },
+  {
+    "recipe_id": "create_confectionery:gingerbread_block_recipe",
+    "mod_id": "create_confectionery",
+    "recipe_type": "minecraft:crafting_shaped",
+    "inputs": [
+      {
+        "id": "create_confectionery:gingerdough",
+        "count": 4.0,
+        "unit": "item",
+        "type": "solid",
+        "rate": 1.0
+      }
+    ],
+    "outputs": [
+      {
+        "id": "create_confectionery:gingerbread_block",
+        "count": 1.0,
+        "unit": "item",
+        "type": "solid",
+        "rate": 1.0
+      }
+    ]
+  },
+  {
+    "recipe_id": "create_confectionery:bar_of_black_chocolate_recipe",
+    "mod_id": "create_confectionery",
+    "recipe_type": "create:compacting",
+    "inputs": [],
+    "outputs": [
+      {
+        "id": "create_confectionery:bar_of_black_chocolate",
+        "count": 1.0,
+        "unit": "item",
+        "type": "solid",
+        "rate": 1.0
+      }
+    ]
+  },
+  {
+    "recipe_id": "create_confectionery:ruby_chocolate_brick_slab_recipe",
+    "mod_id": "create_confectionery",
+    "recipe_type": "minecraft:crafting_shaped",
+    "inputs": [
+      {
+        "id": "create_confectionery:ruby_chocolate_bricks",
+        "count": 3.0,
+        "unit": "item",
+        "type": "solid",
+        "rate": 1.0
+      }
+    ],
+    "outputs": [
+      {
+        "id": "create_confectionery:ruby_chocolate_brick_slab",
+        "count": 6.0,
+        "unit": "item",
+        "type": "solid",
+        "rate": 1.0
+      }
+    ]
+  },
+  {
+    "recipe_id": "create_confectionery:honey_candy_recipe",
+    "mod_id": "create_confectionery",
+    "recipe_type": "create:mixing",
+    "inputs": [
+      {
+        "id": "minecraft:sugar",
+        "count": 1.0,
+        "unit": "item",
+        "type": "solid",
+        "rate": 1.0
+      },
+      {
+        "id": "minecraft:sugar",
+        "count": 1.0,
+        "unit": "item",
+        "type": "solid",
+        "rate": 1.0
+      },
+      {
+        "id": "create:wheat_flour",
+        "count": 1.0,
+        "unit": "item",
+        "type": "solid",
+        "rate": 1.0
+      },
+      {
+        "id": "c:honey",
+        "count": 1.0,
+        "unit": "item",
+        "type": "tag",
+        "rate": 1.0
+      }
+    ],
+    "outputs": [
+      {
+        "id": "create_confectionery:honey_candy",
+        "count": 4.0,
+        "unit": "item",
+        "type": "solid",
+        "rate": 1.0
+      }
+    ]
+  },
+  {
+    "recipe_id": "create_confectionery:black_chocolate_glazed_marshmallow_recipe",
+    "mod_id": "create_confectionery",
+    "recipe_type": "create:filling",
+    "inputs": [
+      {
+        "id": "create_confectionery:marshmallow",
+        "count": 1.0,
+        "unit": "item",
+        "type": "solid",
+        "rate": 1.0
+      }
+    ],
+    "outputs": [
+      {
+        "id": "create_confectionery:black_chocolate_glazed_marshmallow",
+        "count": 1.0,
+        "unit": "item",
+        "type": "solid",
+        "rate": 1.0
+      }
+    ]
+  },
+  {
+    "recipe_id": "create_confectionery:bar_of_ruby_chocolate_2",
+    "mod_id": "create_confectionery",
+    "recipe_type": "minecraft:crafting_shaped",
+    "inputs": [
+      {
+        "id": "create_confectionery:ruby_chocolate_bricks",
+        "count": 1.0,
+        "unit": "item",
+        "type": "solid",
+        "rate": 1.0
+      }
+    ],
+    "outputs": [
+      {
+        "id": "create_confectionery:bar_of_ruby_chocolate",
+        "count": 4.0,
+        "unit": "item",
+        "type": "solid",
+        "rate": 1.0
+      }
+    ]
+  },
+  {
+    "recipe_id": "create_confectionery:black_chocolate_candy_3_recipe",
+    "mod_id": "create_confectionery",
+    "recipe_type": "create:filling",
+    "inputs": [
+      {
+        "id": "create_confectionery:bar_of_ruby_chocolate",
+        "count": 1.0,
+        "unit": "item",
+        "type": "solid",
+        "rate": 1.0
+      }
+    ],
+    "outputs": [
+      {
+        "id": "create_confectionery:black_chocolate_candy_3",
+        "count": 1.0,
+        "unit": "item",
+        "type": "solid",
+        "rate": 1.0
+      }
+    ]
+  },
+  {
+    "recipe_id": "create_confectionery:ruby_chocolate_emptying",
+    "mod_id": "create_confectionery",
+    "recipe_type": "create:emptying",
+    "inputs": [
+      {
+        "id": "create_confectionery:ruby_chocolate_bucket",
+        "count": 1.0,
+        "unit": "item",
+        "type": "solid",
+        "rate": 1.0
+      }
+    ],
+    "outputs": [
+      {
+        "id": "minecraft:bucket",
+        "count": 1.0,
+        "unit": "item",
+        "type": "solid",
+        "rate": 1.0
+      },
+      {
+        "id": "create_confectionery:ruby_chocolate",
+        "count": 1000.0,
+        "unit": "item",
+        "type": "solid",
+        "rate": 1.0
+      }
+    ]
+  },
+  {
+    "recipe_id": "create_confectionery:gingerbread_bricks_recipe",
+    "mod_id": "create_confectionery",
+    "recipe_type": "minecraft:crafting_shaped",
+    "inputs": [
+      {
+        "id": "create_confectionery:gingerbread_block",
+        "count": 4.0,
+        "unit": "item",
+        "type": "solid",
+        "rate": 1.0
+      }
+    ],
+    "outputs": [
+      {
+        "id": "create_confectionery:gingerbreak_bricks",
+        "count": 4.0,
+        "unit": "item",
+        "type": "solid",
+        "rate": 1.0
+      }
+    ]
+  },
+  {
+    "recipe_id": "create_confectionery:hot_chocolate_recipe",
+    "mod_id": "create_confectionery",
+    "recipe_type": "create:mixing",
+    "inputs": [
+      {
+        "id": "minecraft:sugar",
+        "count": 1.0,
+        "unit": "item",
+        "type": "solid",
+        "rate": 1.0
+      },
+      {
+        "id": "create_confectionery:cocoa_powder",
+        "count": 1.0,
+        "unit": "item",
+        "type": "solid",
+        "rate": 1.0
+      },
+      {
+        "id": "create_confectionery:cocoa_powder",
+        "count": 1.0,
+        "unit": "item",
+        "type": "solid",
+        "rate": 1.0
+      },
+      {
+        "id": "c:milk",
+        "count": 1.0,
+        "unit": "item",
+        "type": "tag",
+        "rate": 1.0
+      }
+    ],
+    "outputs": [
+      {
+        "id": "create_confectionery:hot_chocolate",
+        "count": 250.0,
+        "unit": "item",
+        "type": "solid",
+        "rate": 1.0
+      }
+    ]
+  },
+  {
+    "recipe_id": "create_confectionery:chocolate_bricks_stairs_recipe_1",
+    "mod_id": "create_confectionery",
+    "recipe_type": "minecraft:crafting_shaped",
+    "inputs": [
+      {
+        "id": "create_confectionery:chocolate_bricks",
+        "count": 6.0,
+        "unit": "item",
+        "type": "solid",
+        "rate": 1.0
+      }
+    ],
+    "outputs": [
+      {
+        "id": "create_confectionery:chocolate_bricks_stairs",
+        "count": 4.0,
+        "unit": "item",
+        "type": "solid",
+        "rate": 1.0
+      }
+    ]
+  },
+  {
+    "recipe_id": "create_confectionery:chocolate_bricks_stairs_recipe_2",
+    "mod_id": "create_confectionery",
+    "recipe_type": "minecraft:stonecutting",
+    "inputs": [
+      {
+        "id": "create_confectionery:chocolate_bricks",
+        "count": 1.0,
+        "unit": "item",
+        "type": "solid",
+        "rate": 1.0
+      }
+    ],
+    "outputs": [
+      {
+        "id": "create_confectionery:chocolate_bricks_stairs",
+        "count": 1.0,
+        "unit": "item",
+        "type": "solid",
+        "rate": 1.0
+      }
+    ]
+  },
+  {
+    "recipe_id": "create_confectionery:gingerdough_recipe",
+    "mod_id": "create_confectionery",
+    "recipe_type": "create:mixing",
+    "inputs": [
+      {
+        "id": "minecraft:sugar",
+        "count": 1.0,
+        "unit": "item",
+        "type": "solid",
+        "rate": 1.0
+      },
+      {
+        "id": "create:cinder_flour",
+        "count": 1.0,
+        "unit": "item",
+        "type": "solid",
+        "rate": 1.0
+      },
+      {
+        "id": "create:wheat_flour",
+        "count": 1.0,
+        "unit": "item",
+        "type": "solid",
+        "rate": 1.0
+      },
+      {
+        "id": "c:honey",
+        "count": 1.0,
+        "unit": "item",
+        "type": "tag",
+        "rate": 1.0
+      }
+    ],
+    "outputs": [
+      {
+        "id": "create_confectionery:gingerdough",
+        "count": 1.0,
+        "unit": "item",
+        "type": "solid",
+        "rate": 1.0
+      }
+    ]
+  },
+  {
+    "recipe_id": "create_confectionery:bar_of_white_chocolate_2",
+    "mod_id": "create_confectionery",
+    "recipe_type": "minecraft:crafting_shaped",
+    "inputs": [
+      {
+        "id": "create_confectionery:white_chocolate_bricks",
+        "count": 1.0,
+        "unit": "item",
+        "type": "solid",
+        "rate": 1.0
+      }
+    ],
+    "outputs": [
+      {
+        "id": "create_confectionery:bar_of_white_chocolate",
+        "count": 4.0,
+        "unit": "item",
+        "type": "solid",
+        "rate": 1.0
+      }
+    ]
+  },
+  {
+    "recipe_id": "create_confectionery:gingerbread_brick_stairs_recipe",
+    "mod_id": "create_confectionery",
+    "recipe_type": "minecraft:crafting_shaped",
+    "inputs": [
+      {
+        "id": "create_confectionery:gingerbreak_bricks",
+        "count": 6.0,
+        "unit": "item",
+        "type": "solid",
+        "rate": 1.0
+      }
+    ],
+    "outputs": [
+      {
+        "id": "create_confectionery:gingerbread_brick_stairs",
+        "count": 4.0,
+        "unit": "item",
+        "type": "solid",
+        "rate": 1.0
+      }
+    ]
+  },
+  {
+    "recipe_id": "create_confectionery:caramel_emptying",
+    "mod_id": "create_confectionery",
+    "recipe_type": "create:emptying",
+    "inputs": [
+      {
+        "id": "create_confectionery:caramel_bucket",
+        "count": 1.0,
+        "unit": "item",
+        "type": "solid",
+        "rate": 1.0
+      }
+    ],
+    "outputs": [
+      {
+        "id": "minecraft:bucket",
+        "count": 1.0,
+        "unit": "item",
+        "type": "solid",
+        "rate": 1.0
+      },
+      {
+        "id": "create_confectionery:caramel",
+        "count": 1000.0,
+        "unit": "item",
+        "type": "solid",
+        "rate": 1.0
+      }
+    ]
+  },
+  {
+    "recipe_id": "create_confectionery:marshmallow_recipe",
+    "mod_id": "create_confectionery",
+    "recipe_type": "create:mixing",
+    "inputs": [
+      {
+        "id": "minecraft:sugar",
+        "count": 1.0,
+        "unit": "item",
+        "type": "solid",
+        "rate": 1.0
+      },
+      {
+        "id": "minecraft:sugar",
+        "count": 1.0,
+        "unit": "item",
+        "type": "solid",
+        "rate": 1.0
+      },
+      {
+        "id": "minecraft:slime_ball",
+        "count": 1.0,
+        "unit": "item",
+        "type": "solid",
+        "rate": 1.0
+      }
+    ],
+    "outputs": [
+      {
+        "id": "create_confectionery:marshmallow",
+        "count": 8.0,
+        "unit": "item",
+        "type": "solid",
+        "rate": 1.0
+      }
+    ]
+  },
+  {
+    "recipe_id": "create_confectionery:caramel_bricks_recipe",
+    "mod_id": "create_confectionery",
+    "recipe_type": "minecraft:crafting_shaped",
+    "inputs": [
+      {
+        "id": "create_confectionery:bar_of_caramel",
+        "count": 4.0,
+        "unit": "item",
+        "type": "solid",
+        "rate": 1.0
+      }
+    ],
+    "outputs": [
+      {
+        "id": "create_confectionery:caramel_bricks",
+        "count": 1.0,
+        "unit": "item",
+        "type": "solid",
+        "rate": 1.0
+      }
+    ]
+  },
+  {
+    "recipe_id": "create_confectionery:full_white_chocolate_bar_recipe",
+    "mod_id": "create_confectionery",
+    "recipe_type": "minecraft:crafting_shapeless",
+    "inputs": [
+      {
+        "id": "create_confectionery:bar_of_white_chocolate",
+        "count": 1.0,
+        "unit": "item",
+        "type": "solid",
+        "rate": 1.0
+      },
+      {
+        "id": "create_confectionery:bar_of_white_chocolate",
+        "count": 1.0,
+        "unit": "item",
+        "type": "solid",
+        "rate": 1.0
+      },
+      {
+        "id": "create_confectionery:bar_of_white_chocolate",
+        "count": 1.0,
+        "unit": "item",
+        "type": "solid",
+        "rate": 1.0
+      },
+      {
+        "id": "create_confectionery:bar_of_white_chocolate",
+        "count": 1.0,
+        "unit": "item",
+        "type": "solid",
+        "rate": 1.0
+      },
+      {
+        "id": "create_confectionery:bar_of_white_chocolate",
+        "count": 1.0,
+        "unit": "item",
+        "type": "solid",
+        "rate": 1.0
+      },
+      {
+        "id": "create_confectionery:bar_of_white_chocolate",
+        "count": 1.0,
+        "unit": "item",
+        "type": "solid",
+        "rate": 1.0
+      },
+      {
+        "id": "minecraft:paper",
+        "count": 1.0,
+        "unit": "item",
+        "type": "solid",
+        "rate": 1.0
+      }
+    ],
+    "outputs": [
+      {
+        "id": "create_confectionery:full_white_chocolate_bar",
+        "count": 1.0,
+        "unit": "item",
+        "type": "solid",
+        "rate": 1.0
+      }
+    ]
+  },
+  {
+    "recipe_id": "create_confectionery:white_chocolate_candy_2_recipe",
+    "mod_id": "create_confectionery",
+    "recipe_type": "create:filling",
+    "inputs": [
+      {
+        "id": "create_confectionery:bar_of_black_chocolate",
+        "count": 1.0,
+        "unit": "item",
+        "type": "solid",
+        "rate": 1.0
+      }
+    ],
+    "outputs": [
+      {
+        "id": "create_confectionery:white_chocolate_candy_2",
+        "count": 1.0,
+        "unit": "item",
+        "type": "solid",
+        "rate": 1.0
+      }
+    ]
+  },
+  {
+    "recipe_id": "create_confectionery:white_chocolate_recipe",
+    "mod_id": "create_confectionery",
+    "recipe_type": "create:mixing",
+    "inputs": [
+      {
+        "id": "minecraft:sugar",
+        "count": 1.0,
+        "unit": "item",
+        "type": "solid",
+        "rate": 1.0
+      },
+      {
+        "id": "create_confectionery:cocoa_butter",
+        "count": 1.0,
+        "unit": "item",
+        "type": "solid",
+        "rate": 1.0
+      },
+      {
+        "id": "c:milk",
+        "count": 1.0,
+        "unit": "item",
+        "type": "tag",
+        "rate": 1.0
+      }
+    ],
+    "outputs": [
+      {
+        "id": "create_confectionery:white_chocolate",
+        "count": 250.0,
+        "unit": "item",
+        "type": "solid",
+        "rate": 1.0
+      }
+    ]
+  },
+  {
+    "recipe_id": "create_confectionery:gingerbread_block_recipe",
+    "mod_id": "create_confectionery",
+    "recipe_type": "minecraft:crafting_shaped",
+    "inputs": [
+      {
+        "id": "create_confectionery:gingerdough",
+        "count": 4.0,
+        "unit": "item",
+        "type": "solid",
+        "rate": 1.0
+      }
+    ],
+    "outputs": [
+      {
+        "id": "create_confectionery:gingerbread_block",
+        "count": 1.0,
+        "unit": "item",
+        "type": "solid",
+        "rate": 1.0
+      }
+    ]
+  },
+  {
+    "recipe_id": "create_confectionery:ruby_chocolate_emptying",
+    "mod_id": "create_confectionery",
+    "recipe_type": "create:emptying",
+    "inputs": [
+      {
+        "id": "create_confectionery:ruby_chocolate_bucket",
+        "count": 1.0,
+        "unit": "item",
+        "type": "solid",
+        "rate": 1.0
+      }
+    ],
+    "outputs": [
+      {
+        "id": "minecraft:bucket",
+        "count": 1.0,
+        "unit": "item",
+        "type": "solid",
+        "rate": 1.0
+      },
+      {
+        "id": "create_confectionery:ruby_chocolate",
+        "count": 1000.0,
+        "unit": "item",
+        "type": "solid",
+        "rate": 1.0
+      }
+    ]
+  },
+  {
+    "recipe_id": "create_confectionery:gingerbread_bricks_recipe",
+    "mod_id": "create_confectionery",
+    "recipe_type": "minecraft:crafting_shaped",
+    "inputs": [
+      {
+        "id": "create_confectionery:gingerbread_block",
+        "count": 4.0,
+        "unit": "item",
+        "type": "solid",
+        "rate": 1.0
+      }
+    ],
+    "outputs": [
+      {
+        "id": "create_confectionery:gingerbreak_bricks",
+        "count": 4.0,
+        "unit": "item",
+        "type": "solid",
+        "rate": 1.0
+      }
+    ]
+  },
+  {
+    "recipe_id": "create_confectionery:hot_chocolate_recipe",
+    "mod_id": "create_confectionery",
+    "recipe_type": "create:mixing",
+    "inputs": [
+      {
+        "id": "minecraft:sugar",
+        "count": 1.0,
+        "unit": "item",
+        "type": "solid",
+        "rate": 1.0
+      },
+      {
+        "id": "create_confectionery:cocoa_powder",
+        "count": 1.0,
+        "unit": "item",
+        "type": "solid",
+        "rate": 1.0
+      },
+      {
+        "id": "create_confectionery:cocoa_powder",
+        "count": 1.0,
+        "unit": "item",
+        "type": "solid",
+        "rate": 1.0
+      },
+      {
+        "id": "c:milk",
+        "count": 1.0,
+        "unit": "item",
+        "type": "tag",
+        "rate": 1.0
+      }
+    ],
+    "outputs": [
+      {
+        "id": "create_confectionery:hot_chocolate",
+        "count": 250.0,
+        "unit": "item",
+        "type": "solid",
+        "rate": 1.0
+      }
+    ]
+  },
+  {
+    "recipe_id": "create_confectionery:chocolate_bricks_stairs_recipe_1",
+    "mod_id": "create_confectionery",
+    "recipe_type": "minecraft:crafting_shaped",
+    "inputs": [
+      {
+        "id": "create_confectionery:chocolate_bricks",
+        "count": 6.0,
+        "unit": "item",
+        "type": "solid",
+        "rate": 1.0
+      }
+    ],
+    "outputs": [
+      {
+        "id": "create_confectionery:chocolate_bricks_stairs",
+        "count": 4.0,
+        "unit": "item",
+        "type": "solid",
+        "rate": 1.0
+      }
+    ]
+  },
+  {
+    "recipe_id": "create_confectionery:chocolate_bricks_stairs_recipe_2",
+    "mod_id": "create_confectionery",
+    "recipe_type": "minecraft:stonecutting",
+    "inputs": [
+      {
+        "id": "create_confectionery:chocolate_bricks",
+        "count": 1.0,
+        "unit": "item",
+        "type": "solid",
+        "rate": 1.0
+      }
+    ],
+    "outputs": [
+      {
+        "id": "create_confectionery:chocolate_bricks_stairs",
+        "count": 1.0,
+        "unit": "item",
+        "type": "solid",
+        "rate": 1.0
+      }
+    ]
+  },
+  {
+    "recipe_id": "create_confectionery:gingerdough_recipe",
+    "mod_id": "create_confectionery",
+    "recipe_type": "create:mixing",
+    "inputs": [
+      {
+        "id": "minecraft:sugar",
+        "count": 1.0,
+        "unit": "item",
+        "type": "solid",
+        "rate": 1.0
+      },
+      {
+        "id": "create:cinder_flour",
+        "count": 1.0,
+        "unit": "item",
+        "type": "solid",
+        "rate": 1.0
+      },
+      {
+        "id": "create:wheat_flour",
+        "count": 1.0,
+        "unit": "item",
+        "type": "solid",
+        "rate": 1.0
+      },
+      {
+        "id": "c:honey",
+        "count": 1.0,
+        "unit": "item",
+        "type": "tag",
+        "rate": 1.0
+      }
+    ],
+    "outputs": [
+      {
+        "id": "create_confectionery:gingerdough",
+        "count": 1.0,
+        "unit": "item",
+        "type": "solid",
+        "rate": 1.0
+      }
+    ]
+  },
+  {
+    "recipe_id": "create_confectionery:bar_of_white_chocolate_2",
+    "mod_id": "create_confectionery",
+    "recipe_type": "minecraft:crafting_shaped",
+    "inputs": [
+      {
+        "id": "create_confectionery:white_chocolate_bricks",
+        "count": 1.0,
+        "unit": "item",
+        "type": "solid",
+        "rate": 1.0
+      }
+    ],
+    "outputs": [
+      {
+        "id": "create_confectionery:bar_of_white_chocolate",
+        "count": 4.0,
+        "unit": "item",
+        "type": "solid",
+        "rate": 1.0
+      }
+    ]
+  },
+  {
+    "recipe_id": "create_confectionery:gingerbread_brick_stairs_recipe",
+    "mod_id": "create_confectionery",
+    "recipe_type": "minecraft:crafting_shaped",
+    "inputs": [
+      {
+        "id": "create_confectionery:gingerbreak_bricks",
+        "count": 6.0,
+        "unit": "item",
+        "type": "solid",
+        "rate": 1.0
+      }
+    ],
+    "outputs": [
+      {
+        "id": "create_confectionery:gingerbread_brick_stairs",
+        "count": 4.0,
+        "unit": "item",
+        "type": "solid",
+        "rate": 1.0
+      }
+    ]
+  },
+  {
+    "recipe_id": "create_confectionery:caramel_emptying",
+    "mod_id": "create_confectionery",
+    "recipe_type": "create:emptying",
+    "inputs": [
+      {
+        "id": "create_confectionery:caramel_bucket",
+        "count": 1.0,
+        "unit": "item",
+        "type": "solid",
+        "rate": 1.0
+      }
+    ],
+    "outputs": [
+      {
+        "id": "minecraft:bucket",
+        "count": 1.0,
+        "unit": "item",
+        "type": "solid",
+        "rate": 1.0
+      },
+      {
+        "id": "create_confectionery:caramel",
+        "count": 1000.0,
+        "unit": "item",
+        "type": "solid",
+        "rate": 1.0
+      }
+    ]
+  },
+  {
+    "recipe_id": "create_confectionery:marshmallow_recipe",
+    "mod_id": "create_confectionery",
+    "recipe_type": "create:mixing",
+    "inputs": [
+      {
+        "id": "minecraft:sugar",
+        "count": 1.0,
+        "unit": "item",
+        "type": "solid",
+        "rate": 1.0
+      },
+      {
+        "id": "minecraft:sugar",
+        "count": 1.0,
+        "unit": "item",
+        "type": "solid",
+        "rate": 1.0
+      },
+      {
+        "id": "minecraft:slime_ball",
+        "count": 1.0,
+        "unit": "item",
+        "type": "solid",
+        "rate": 1.0
+      }
+    ],
+    "outputs": [
+      {
+        "id": "create_confectionery:marshmallow",
+        "count": 8.0,
+        "unit": "item",
+        "type": "solid",
+        "rate": 1.0
+      }
+    ]
+  },
+  {
+    "recipe_id": "create_confectionery:caramel_bricks_recipe",
+    "mod_id": "create_confectionery",
+    "recipe_type": "minecraft:crafting_shaped",
+    "inputs": [
+      {
+        "id": "create_confectionery:bar_of_caramel",
+        "count": 4.0,
+        "unit": "item",
+        "type": "solid",
+        "rate": 1.0
+      }
+    ],
+    "outputs": [
+      {
+        "id": "create_confectionery:caramel_bricks",
+        "count": 1.0,
+        "unit": "item",
+        "type": "solid",
+        "rate": 1.0
+      }
+    ]
+  },
+  {
+    "recipe_id": "create_confectionery:full_white_chocolate_bar_recipe",
+    "mod_id": "create_confectionery",
+    "recipe_type": "minecraft:crafting_shapeless",
+    "inputs": [
+      {
+        "id": "create_confectionery:bar_of_white_chocolate",
+        "count": 1.0,
+        "unit": "item",
+        "type": "solid",
+        "rate": 1.0
+      },
+      {
+        "id": "create_confectionery:bar_of_white_chocolate",
+        "count": 1.0,
+        "unit": "item",
+        "type": "solid",
+        "rate": 1.0
+      },
+      {
+        "id": "create_confectionery:bar_of_white_chocolate",
+        "count": 1.0,
+        "unit": "item",
+        "type": "solid",
+        "rate": 1.0
+      },
+      {
+        "id": "create_confectionery:bar_of_white_chocolate",
+        "count": 1.0,
+        "unit": "item",
+        "type": "solid",
+        "rate": 1.0
+      },
+      {
+        "id": "create_confectionery:bar_of_white_chocolate",
+        "count": 1.0,
+        "unit": "item",
+        "type": "solid",
+        "rate": 1.0
+      },
+      {
+        "id": "create_confectionery:bar_of_white_chocolate",
+        "count": 1.0,
+        "unit": "item",
+        "type": "solid",
+        "rate": 1.0
+      },
+      {
+        "id": "minecraft:paper",
+        "count": 1.0,
+        "unit": "item",
+        "type": "solid",
+        "rate": 1.0
+      }
+    ],
+    "outputs": [
+      {
+        "id": "create_confectionery:full_white_chocolate_bar",
+        "count": 1.0,
+        "unit": "item",
+        "type": "solid",
+        "rate": 1.0
+      }
+    ]
+  },
+  {
+    "recipe_id": "create_confectionery:white_chocolate_candy_2_recipe",
+    "mod_id": "create_confectionery",
+    "recipe_type": "create:filling",
+    "inputs": [
+      {
+        "id": "create_confectionery:bar_of_black_chocolate",
+        "count": 1.0,
+        "unit": "item",
+        "type": "solid",
+        "rate": 1.0
+      }
+    ],
+    "outputs": [
+      {
+        "id": "create_confectionery:white_chocolate_candy_2",
+        "count": 1.0,
+        "unit": "item",
+        "type": "solid",
+        "rate": 1.0
+      }
+    ]
+  },
+  {
+    "recipe_id": "create_confectionery:white_chocolate_recipe",
+    "mod_id": "create_confectionery",
+    "recipe_type": "create:mixing",
+    "inputs": [
+      {
+        "id": "minecraft:sugar",
+        "count": 1.0,
+        "unit": "item",
+        "type": "solid",
+        "rate": 1.0
+      },
+      {
+        "id": "create_confectionery:cocoa_butter",
+        "count": 1.0,
+        "unit": "item",
+        "type": "solid",
+        "rate": 1.0
+      },
+      {
+        "id": "c:milk",
+        "count": 1.0,
+        "unit": "item",
+        "type": "tag",
+        "rate": 1.0
+      }
+    ],
+    "outputs": [
+      {
+        "id": "create_confectionery:white_chocolate",
+        "count": 250.0,
+        "unit": "item",
+        "type": "solid",
+        "rate": 1.0
+      }
+    ]
+  },
+  {
+    "recipe_id": "create_confectionery:gingerbread_block_recipe",
+    "mod_id": "create_confectionery",
+    "recipe_type": "minecraft:crafting_shaped",
+    "inputs": [
+      {
+        "id": "create_confectionery:gingerdough",
+        "count": 4.0,
+        "unit": "item",
+        "type": "solid",
+        "rate": 1.0
+      }
+    ],
+    "outputs": [
+      {
+        "id": "create_confectionery:gingerbread_block",
+        "count": 1.0,
+        "unit": "item",
+        "type": "solid",
+        "rate": 1.0
+      }
+    ]
+  },
+  {
+    "recipe_id": "create_confectionery:bar_of_black_chocolate_recipe",
+    "mod_id": "create_confectionery",
+    "recipe_type": "create:compacting",
+    "inputs": [],
+    "outputs": [
+      {
+        "id": "create_confectionery:bar_of_black_chocolate",
+        "count": 1.0,
+        "unit": "item",
+        "type": "solid",
+        "rate": 1.0
+      }
+    ]
+  },
+  {
+    "recipe_id": "create_confectionery:ruby_chocolate_brick_slab_recipe",
+    "mod_id": "create_confectionery",
+    "recipe_type": "minecraft:crafting_shaped",
+    "inputs": [
+      {
+        "id": "create_confectionery:ruby_chocolate_bricks",
+        "count": 3.0,
+        "unit": "item",
+        "type": "solid",
+        "rate": 1.0
+      }
+    ],
+    "outputs": [
+      {
+        "id": "create_confectionery:ruby_chocolate_brick_slab",
+        "count": 6.0,
+        "unit": "item",
+        "type": "solid",
+        "rate": 1.0
+      }
+    ]
+  },
+  {
+    "recipe_id": "create_confectionery:honey_candy_recipe",
+    "mod_id": "create_confectionery",
+    "recipe_type": "create:mixing",
+    "inputs": [
+      {
+        "id": "minecraft:sugar",
+        "count": 1.0,
+        "unit": "item",
+        "type": "solid",
+        "rate": 1.0
+      },
+      {
+        "id": "minecraft:sugar",
+        "count": 1.0,
+        "unit": "item",
+        "type": "solid",
+        "rate": 1.0
+      },
+      {
+        "id": "create:wheat_flour",
+        "count": 1.0,
+        "unit": "item",
+        "type": "solid",
+        "rate": 1.0
+      },
+      {
+        "id": "c:honey",
+        "count": 1.0,
+        "unit": "item",
+        "type": "tag",
+        "rate": 1.0
+      }
+    ],
+    "outputs": [
+      {
+        "id": "create_confectionery:honey_candy",
+        "count": 4.0,
+        "unit": "item",
+        "type": "solid",
+        "rate": 1.0
+      }
+    ]
+  },
+  {
+    "recipe_id": "create_confectionery:black_chocolate_glazed_marshmallow_recipe",
+    "mod_id": "create_confectionery",
+    "recipe_type": "create:filling",
+    "inputs": [
+      {
+        "id": "create_confectionery:marshmallow",
+        "count": 1.0,
+        "unit": "item",
+        "type": "solid",
+        "rate": 1.0
+      }
+    ],
+    "outputs": [
+      {
+        "id": "create_confectionery:black_chocolate_glazed_marshmallow",
+        "count": 1.0,
+        "unit": "item",
+        "type": "solid",
+        "rate": 1.0
+      }
+    ]
+  },
+  {
+    "recipe_id": "create_confectionery:bar_of_ruby_chocolate_2",
+    "mod_id": "create_confectionery",
+    "recipe_type": "minecraft:crafting_shaped",
+    "inputs": [
+      {
+        "id": "create_confectionery:ruby_chocolate_bricks",
+        "count": 1.0,
+        "unit": "item",
+        "type": "solid",
+        "rate": 1.0
+      }
+    ],
+    "outputs": [
+      {
+        "id": "create_confectionery:bar_of_ruby_chocolate",
+        "count": 4.0,
+        "unit": "item",
+        "type": "solid",
+        "rate": 1.0
+      }
+    ]
+  },
+  {
+    "recipe_id": "create_confectionery:black_chocolate_candy_3_recipe",
+    "mod_id": "create_confectionery",
+    "recipe_type": "create:filling",
+    "inputs": [
+      {
+        "id": "create_confectionery:bar_of_ruby_chocolate",
+        "count": 1.0,
+        "unit": "item",
+        "type": "solid",
+        "rate": 1.0
+      }
+    ],
+    "outputs": [
+      {
+        "id": "create_confectionery:black_chocolate_candy_3",
+        "count": 1.0,
+        "unit": "item",
+        "type": "solid",
+        "rate": 1.0
+      }
+    ]
+  },
+  {
+    "recipe_id": "create_confectionery:chocolate_bricks_slab_recipe_2",
+    "mod_id": "create_confectionery",
+    "recipe_type": "minecraft:stonecutting",
+    "inputs": [
+      {
+        "id": "create_confectionery:chocolate_bricks",
+        "count": 1.0,
+        "unit": "item",
+        "type": "solid",
+        "rate": 1.0
+      }
+    ],
+    "outputs": [
+      {
+        "id": "create_confectionery:chocolate_bricks_slab",
+        "count": 2.0,
+        "unit": "item",
+        "type": "solid",
+        "rate": 1.0
+      }
+    ]
+  },
+  {
+    "recipe_id": "create_confectionery:chocolate_bricks_slab_recipe_1",
+    "mod_id": "create_confectionery",
+    "recipe_type": "minecraft:crafting_shaped",
+    "inputs": [
+      {
+        "id": "create_confectionery:chocolate_bricks",
+        "count": 3.0,
+        "unit": "item",
+        "type": "solid",
+        "rate": 1.0
+      }
+    ],
+    "outputs": [
+      {
+        "id": "create_confectionery:chocolate_bricks_slab",
+        "count": 6.0,
+        "unit": "item",
+        "type": "solid",
+        "rate": 1.0
+      }
+    ]
+  },
+  {
+    "recipe_id": "create_confectionery:ruby_chocolate_brick_stairs_recipe_2",
+    "mod_id": "create_confectionery",
+    "recipe_type": "minecraft:stonecutting",
+    "inputs": [
+      {
+        "id": "create_confectionery:ruby_chocolate_bricks",
+        "count": 1.0,
+        "unit": "item",
+        "type": "solid",
+        "rate": 1.0
+      }
+    ],
+    "outputs": [
+      {
+        "id": "create_confectionery:ruby_chocolate_brick_stairs",
+        "count": 1.0,
+        "unit": "item",
+        "type": "solid",
+        "rate": 1.0
+      }
+    ]
+  },
+  {
+    "recipe_id": "create_confectionery:candy_cane_shovel_recipe",
+    "mod_id": "create_confectionery",
+    "recipe_type": "minecraft:crafting_shaped",
+    "inputs": [
+      {
+        "id": "create_confectionery:candy_cane",
+        "count": 4.0,
+        "unit": "item",
+        "type": "solid",
+        "rate": 1.0
+      }
+    ],
+    "outputs": [
+      {
+        "id": "create_confectionery:candy_cane_shovel",
+        "count": 1.0,
+        "unit": "item",
+        "type": "solid",
+        "rate": 1.0
+      }
+    ]
+  },
+  {
+    "recipe_id": "create_confectionery:candy_cane_recipe_2",
+    "mod_id": "create_confectionery",
+    "recipe_type": "minecraft:crafting_shapeless",
+    "inputs": [
+      {
+        "id": "create_confectionery:candy_cane_block",
+        "count": 1.0,
+        "unit": "item",
+        "type": "solid",
+        "rate": 1.0
+      }
+    ],
+    "outputs": [
+      {
+        "id": "create_confectionery:candy_cane",
+        "count": 4.0,
+        "unit": "item",
+        "type": "solid",
+        "rate": 1.0
+      }
+    ]
+  },
+  {
+    "recipe_id": "create_confectionery:candy_cane_recipe",
+    "mod_id": "create_confectionery",
+    "recipe_type": "create:mixing",
+    "inputs": [
+      {
+        "id": "minecraft:sugar",
+        "count": 1.0,
+        "unit": "item",
+        "type": "solid",
+        "rate": 1.0
+      },
+      {
+        "id": "minecraft:sugar",
+        "count": 1.0,
+        "unit": "item",
+        "type": "solid",
+        "rate": 1.0
+      },
+      {
+        "id": "minecraft:slime_ball",
+        "count": 1.0,
+        "unit": "item",
+        "type": "solid",
+        "rate": 1.0
+      }
+    ],
+    "outputs": [
+      {
+        "id": "create_confectionery:candy_cane",
+        "count": 4.0,
+        "unit": "item",
+        "type": "solid",
+        "rate": 1.0
+      }
+    ]
+  },
+  {
+    "recipe_id": "create_confectionery:black_chocolate_bricks_slab_recipe_2",
+    "mod_id": "create_confectionery",
+    "recipe_type": "minecraft:stonecutting",
+    "inputs": [
+      {
+        "id": "create_confectionery:black_chocolate_bricks",
+        "count": 1.0,
+        "unit": "item",
+        "type": "solid",
+        "rate": 1.0
+      }
+    ],
+    "outputs": [
+      {
+        "id": "create_confectionery:black_chocolate_bricks_slab",
+        "count": 2.0,
+        "unit": "item",
+        "type": "solid",
+        "rate": 1.0
+      }
+    ]
+  },
+  {
+    "recipe_id": "create_confectionery:black_chocolate_bricks_slab_recipe_1",
+    "mod_id": "create_confectionery",
+    "recipe_type": "minecraft:crafting_shaped",
+    "inputs": [
+      {
+        "id": "create_confectionery:black_chocolate_bricks",
+        "count": 3.0,
+        "unit": "item",
+        "type": "solid",
+        "rate": 1.0
+      }
+    ],
+    "outputs": [
+      {
+        "id": "create_confectionery:black_chocolate_bricks_slab",
+        "count": 6.0,
+        "unit": "item",
+        "type": "solid",
+        "rate": 1.0
+      }
+    ]
+  },
+  {
+    "recipe_id": "create_confectionery:black_chocolate_recipe_5",
+    "mod_id": "create_confectionery",
+    "recipe_type": "create:mixing",
+    "inputs": [
+      {
+        "id": "create_confectionery:black_chocolate_bricks_slab",
+        "count": 1.0,
+        "unit": "item",
+        "type": "solid",
+        "rate": 1.0
+      }
+    ],
+    "outputs": [
+      {
+        "id": "create_confectionery:black_chocolate",
+        "count": 500.0,
+        "unit": "item",
+        "type": "solid",
+        "rate": 1.0
+      }
+    ]
+  },
+  {
+    "recipe_id": "create_confectionery:black_chocolate_recipe_2",
+    "mod_id": "create_confectionery",
+    "recipe_type": "create:mixing",
+    "inputs": [
+      {
+        "id": "create_confectionery:bar_of_black_chocolate",
+        "count": 1.0,
+        "unit": "item",
+        "type": "solid",
+        "rate": 1.0
+      }
+    ],
+    "outputs": [
+      {
+        "id": "create_confectionery:black_chocolate",
+        "count": 250.0,
+        "unit": "item",
+        "type": "solid",
+        "rate": 1.0
+      }
+    ]
+  },
+  {
+    "recipe_id": "create_confectionery:black_chocolate_recipe_4",
+    "mod_id": "create_confectionery",
+    "recipe_type": "create:mixing",
+    "inputs": [
+      {
+        "id": "create_confectionery:black_chocolate_bricks_stairs",
+        "count": 1.0,
+        "unit": "item",
+        "type": "solid",
+        "rate": 1.0
+      }
+    ],
+    "outputs": [
+      {
+        "id": "create_confectionery:black_chocolate",
+        "count": 1000.0,
+        "unit": "item",
+        "type": "solid",
+        "rate": 1.0
+      }
+    ]
+  },
+  {
+    "recipe_id": "create_confectionery:black_chocolate_recipe_3",
+    "mod_id": "create_confectionery",
+    "recipe_type": "create:mixing",
+    "inputs": [
+      {
+        "id": "create_confectionery:black_chocolate_bricks",
+        "count": 1.0,
+        "unit": "item",
+        "type": "solid",
+        "rate": 1.0
+      }
+    ],
+    "outputs": [
+      {
+        "id": "create_confectionery:black_chocolate",
+        "count": 1000.0,
+        "unit": "item",
+        "type": "solid",
+        "rate": 1.0
+      }
+    ]
+  },
+  {
+    "recipe_id": "create_confectionery:black_chocolate_candy_recipe",
+    "mod_id": "create_confectionery",
+    "recipe_type": "create:filling",
+    "inputs": [
+      {
+        "id": "create_confectionery:bar_of_caramel",
+        "count": 1.0,
+        "unit": "item",
+        "type": "solid",
+        "rate": 1.0
+      }
+    ],
+    "outputs": [
+      {
+        "id": "create_confectionery:black_chocolate_candy",
+        "count": 1.0,
+        "unit": "item",
+        "type": "solid",
+        "rate": 1.0
+      }
+    ]
+  },
+  {
+    "recipe_id": "create_confectionery:gingerbread_recipe",
+    "mod_id": "create_confectionery",
+    "recipe_type": "minecraft:smelting",
+    "inputs": [
+      {
+        "id": "create_confectionery:gingerdough",
+        "count": 1.0,
+        "unit": "item",
+        "type": "solid",
+        "rate": 1.0
+      }
+    ],
+    "outputs": [
+      {
+        "id": "create_confectionery:gingerbread",
+        "count": 1.0,
+        "unit": "item",
+        "type": "solid",
+        "rate": 1.0
+      }
+    ]
+  },
+  {
+    "recipe_id": "create_confectionery:bar_of_caramel_recipe",
+    "mod_id": "create_confectionery",
+    "recipe_type": "create:compacting",
+    "inputs": [],
+    "outputs": [
+      {
+        "id": "create_confectionery:bar_of_caramel",
+        "count": 1.0,
+        "unit": "item",
+        "type": "solid",
+        "rate": 1.0
+      }
+    ]
+  },
+  {
+    "recipe_id": "create_confectionery:white_chocolate_candy_recipe",
+    "mod_id": "create_confectionery",
+    "recipe_type": "create:filling",
+    "inputs": [
+      {
+        "id": "create_confectionery:bar_of_caramel",
+        "count": 1.0,
+        "unit": "item",
+        "type": "solid",
+        "rate": 1.0
+      }
+    ],
+    "outputs": [
+      {
+        "id": "create_confectionery:white_chocolate_candy",
+        "count": 1.0,
+        "unit": "item",
+        "type": "solid",
+        "rate": 1.0
+      }
+    ]
+  },
+  {
+    "recipe_id": "create_confectionery:black_chocolate_glazed_berries_recipe",
+    "mod_id": "create_confectionery",
+    "recipe_type": "create:filling",
+    "inputs": [
+      {
+        "id": "minecraft:sweet_berries",
+        "count": 1.0,
+        "unit": "item",
+        "type": "solid",
+        "rate": 1.0
+      }
+    ],
+    "outputs": [
+      {
+        "id": "create_confectionery:black_chocolate_glazed_berries",
+        "count": 1.0,
+        "unit": "item",
+        "type": "solid",
+        "rate": 1.0
+      }
+    ]
+  },
+  {
+    "recipe_id": "create_confectionery:bar_of_chocolate_2",
+    "mod_id": "create_confectionery",
+    "recipe_type": "minecraft:crafting_shaped",
+    "inputs": [
+      {
+        "id": "create_confectionery:chocolate_bricks",
+        "count": 1.0,
+        "unit": "item",
+        "type": "solid",
+        "rate": 1.0
+      }
+    ],
+    "outputs": [
+      {
+        "id": "create:bar_of_chocolate",
+        "count": 4.0,
+        "unit": "item",
+        "type": "solid",
+        "rate": 1.0
+      }
+    ]
+  },
+  {
+    "recipe_id": "create_confectionery:black_chocolate_bricks_stairs_recipe_2",
+    "mod_id": "create_confectionery",
+    "recipe_type": "minecraft:stonecutting",
+    "inputs": [
+      {
+        "id": "create_confectionery:black_chocolate_bricks",
+        "count": 1.0,
+        "unit": "item",
+        "type": "solid",
+        "rate": 1.0
+      }
+    ],
+    "outputs": [
+      {
+        "id": "create_confectionery:black_chocolate_bricks_stairs",
+        "count": 1.0,
+        "unit": "item",
+        "type": "solid",
+        "rate": 1.0
+      }
+    ]
+  },
+  {
+    "recipe_id": "create_confectionery:black_chocolate_bricks_stairs_recipe_1",
+    "mod_id": "create_confectionery",
+    "recipe_type": "minecraft:crafting_shaped",
+    "inputs": [
+      {
+        "id": "create_confectionery:black_chocolate_bricks",
+        "count": 6.0,
+        "unit": "item",
+        "type": "solid",
+        "rate": 1.0
+      }
+    ],
+    "outputs": [
+      {
+        "id": "create_confectionery:black_chocolate_bricks_stairs",
+        "count": 4.0,
+        "unit": "item",
+        "type": "solid",
+        "rate": 1.0
+      }
+    ]
+  },
+  {
+    "recipe_id": "create_confectionery:ruby_chocolate_glazed_marshmallow_recipe",
+    "mod_id": "create_confectionery",
+    "recipe_type": "create:filling",
+    "inputs": [
+      {
+        "id": "create_confectionery:marshmallow",
+        "count": 1.0,
+        "unit": "item",
+        "type": "solid",
+        "rate": 1.0
+      }
+    ],
+    "outputs": [
+      {
+        "id": "create_confectionery:ruby_chocolate_glazed_marshmallow",
+        "count": 1.0,
+        "unit": "item",
+        "type": "solid",
+        "rate": 1.0
+      }
+    ]
+  },
+  {
+    "recipe_id": "create_confectionery:bar_of_ruby_chocolate_recipe",
+    "mod_id": "create_confectionery",
+    "recipe_type": "create:compacting",
+    "inputs": [],
+    "outputs": [
+      {
+        "id": "create_confectionery:bar_of_ruby_chocolate",
+        "count": 1.0,
+        "unit": "item",
+        "type": "solid",
+        "rate": 1.0
+      }
+    ]
+  },
+  {
+    "recipe_id": "create_confectionery:white_chocolate_recipe_5",
+    "mod_id": "create_confectionery",
+    "recipe_type": "create:mixing",
+    "inputs": [
+      {
+        "id": "create_confectionery:white_chocolate_bricks_slab",
+        "count": 1.0,
+        "unit": "item",
+        "type": "solid",
+        "rate": 1.0
+      }
+    ],
+    "outputs": [
+      {
+        "id": "create_confectionery:white_chocolate",
+        "count": 500.0,
+        "unit": "item",
+        "type": "solid",
+        "rate": 1.0
+      }
+    ]
+  },
+  {
+    "recipe_id": "create_confectionery:white_chocolate_recipe_4",
+    "mod_id": "create_confectionery",
+    "recipe_type": "create:mixing",
+    "inputs": [
+      {
+        "id": "create_confectionery:white_chocolate_bricks_stairs",
+        "count": 1.0,
+        "unit": "item",
+        "type": "solid",
+        "rate": 1.0
+      }
+    ],
+    "outputs": [
+      {
+        "id": "create_confectionery:white_chocolate",
+        "count": 1000.0,
+        "unit": "item",
+        "type": "solid",
+        "rate": 1.0
+      }
+    ]
+  },
+  {
+    "recipe_id": "create_confectionery:white_chocolate_recipe_3",
+    "mod_id": "create_confectionery",
+    "recipe_type": "create:mixing",
+    "inputs": [
+      {
+        "id": "create_confectionery:white_chocolate_bricks",
+        "count": 1.0,
+        "unit": "item",
+        "type": "solid",
+        "rate": 1.0
+      }
+    ],
+    "outputs": [
+      {
+        "id": "create_confectionery:white_chocolate",
+        "count": 1000.0,
+        "unit": "item",
+        "type": "solid",
+        "rate": 1.0
+      }
+    ]
+  },
+  {
+    "recipe_id": "create_confectionery:white_chocolate_recipe_2",
+    "mod_id": "create_confectionery",
+    "recipe_type": "create:mixing",
+    "inputs": [
+      {
+        "id": "create_confectionery:bar_of_white_chocolate",
+        "count": 1.0,
+        "unit": "item",
+        "type": "solid",
+        "rate": 1.0
+      }
+    ],
+    "outputs": [
+      {
+        "id": "create_confectionery:white_chocolate",
+        "count": 250.0,
+        "unit": "item",
+        "type": "solid",
+        "rate": 1.0
+      }
+    ]
+  },
+  {
+    "recipe_id": "create_confectionery:ruby_chocolate_candy_3_recipe",
+    "mod_id": "create_confectionery",
+    "recipe_type": "create:filling",
+    "inputs": [
+      {
+        "id": "create_confectionery:bar_of_black_chocolate",
+        "count": 1.0,
+        "unit": "item",
+        "type": "solid",
+        "rate": 1.0
+      }
+    ],
+    "outputs": [
+      {
+        "id": "create_confectionery:ruby_chocolate_candy_3",
+        "count": 1.0,
+        "unit": "item",
+        "type": "solid",
+        "rate": 1.0
+      }
+    ]
+  },
+  {
+    "recipe_id": "create_confectionery:chocolate_glazed_marshmallow_recipe",
+    "mod_id": "create_confectionery",
+    "recipe_type": "create:filling",
+    "inputs": [
+      {
+        "id": "create_confectionery:marshmallow",
+        "count": 1.0,
+        "unit": "item",
+        "type": "solid",
+        "rate": 1.0
+      }
+    ],
+    "outputs": [
+      {
+        "id": "create_confectionery:chocolate_glazed_marshmallow",
+        "count": 1.0,
+        "unit": "item",
+        "type": "solid",
+        "rate": 1.0
+      }
+    ]
+  },
+  {
+    "recipe_id": "create_confectionery:gingerbread_brick_slab_recipe",
+    "mod_id": "create_confectionery",
+    "recipe_type": "minecraft:crafting_shaped",
+    "inputs": [
+      {
+        "id": "create_confectionery:gingerbreak_bricks",
+        "count": 3.0,
+        "unit": "item",
+        "type": "solid",
+        "rate": 1.0
+      }
+    ],
+    "outputs": [
+      {
+        "id": "create_confectionery:gingerbread_brick_slab",
+        "count": 6.0,
+        "unit": "item",
+        "type": "solid",
+        "rate": 1.0
+      }
+    ]
+  },
+  {
+    "recipe_id": "create_confectionery:ruby_chocolate_brick_slab_recipe_2",
+    "mod_id": "create_confectionery",
+    "recipe_type": "minecraft:stonecutting",
+    "inputs": [
+      {
+        "id": "create_confectionery:ruby_chocolate_bricks",
+        "count": 1.0,
+        "unit": "item",
+        "type": "solid",
+        "rate": 1.0
+      }
+    ],
+    "outputs": [
+      {
+        "id": "create_confectionery:ruby_chocolate_brick_slab",
+        "count": 2.0,
+        "unit": "item",
+        "type": "solid",
+        "rate": 1.0
+      }
+    ]
+  },
+  {
+    "recipe_id": "create_confectionery:full_black_chocolate_bar_recipe",
+    "mod_id": "create_confectionery",
+    "recipe_type": "minecraft:crafting_shapeless",
+    "inputs": [
+      {
+        "id": "create_confectionery:bar_of_black_chocolate",
+        "count": 1.0,
+        "unit": "item",
+        "type": "solid",
+        "rate": 1.0
+      },
+      {
+        "id": "create_confectionery:bar_of_black_chocolate",
+        "count": 1.0,
+        "unit": "item",
+        "type": "solid",
+        "rate": 1.0
+      },
+      {
+        "id": "create_confectionery:bar_of_black_chocolate",
+        "count": 1.0,
+        "unit": "item",
+        "type": "solid",
+        "rate": 1.0
+      },
+      {
+        "id": "create_confectionery:bar_of_black_chocolate",
+        "count": 1.0,
+        "unit": "item",
+        "type": "solid",
+        "rate": 1.0
+      },
+      {
+        "id": "create_confectionery:bar_of_black_chocolate",
+        "count": 1.0,
+        "unit": "item",
+        "type": "solid",
+        "rate": 1.0
+      },
+      {
+        "id": "create_confectionery:bar_of_black_chocolate",
+        "count": 1.0,
+        "unit": "item",
+        "type": "solid",
+        "rate": 1.0
+      },
+      {
+        "id": "minecraft:paper",
+        "count": 1.0,
+        "unit": "item",
+        "type": "solid",
+        "rate": 1.0
+      }
+    ],
+    "outputs": [
+      {
+        "id": "create_confectionery:full_black_chocolate_bar",
+        "count": 1.0,
+        "unit": "item",
+        "type": "solid",
+        "rate": 1.0
+      }
+    ]
+  },
+  {
+    "recipe_id": "create_confectionery:candy_cane_hoe_recipe",
+    "mod_id": "create_confectionery",
+    "recipe_type": "minecraft:crafting_shaped",
+    "inputs": [
+      {
+        "id": "create_confectionery:candy_cane",
+        "count": 4.0,
+        "unit": "item",
+        "type": "solid",
+        "rate": 1.0
+      }
+    ],
+    "outputs": [
+      {
+        "id": "create_confectionery:candy_cane_hoe",
+        "count": 1.0,
+        "unit": "item",
+        "type": "solid",
+        "rate": 1.0
+      }
+    ]
+  },
+  {
+    "recipe_id": "create_confectionery:white_chocolate_candy_3_recipe",
+    "mod_id": "create_confectionery",
+    "recipe_type": "create:filling",
+    "inputs": [
+      {
+        "id": "create_confectionery:bar_of_ruby_chocolate",
+        "count": 1.0,
+        "unit": "item",
+        "type": "solid",
+        "rate": 1.0
+      }
+    ],
+    "outputs": [
+      {
+        "id": "create_confectionery:white_chocolate_candy_3",
+        "count": 1.0,
+        "unit": "item",
+        "type": "solid",
+        "rate": 1.0
+      }
+    ]
+  },
+  {
+    "recipe_id": "create_confectionery:ruby_chocolate_recipe",
+    "mod_id": "create_confectionery",
+    "recipe_type": "create:mixing",
+    "inputs": [
+      {
+        "id": "minecraft:sugar",
+        "count": 1.0,
+        "unit": "item",
+        "type": "solid",
+        "rate": 1.0
+      },
+      {
+        "id": "minecraft:dragon_breath",
+        "count": 1.0,
+        "unit": "item",
+        "type": "solid",
+        "rate": 1.0
+      },
+      {
+        "id": "minecraft:cocoa_beans",
+        "count": 1.0,
+        "unit": "item",
+        "type": "solid",
+        "rate": 1.0
+      },
+      {
+        "id": "c:milk",
+        "count": 1.0,
+        "unit": "item",
+        "type": "tag",
+        "rate": 1.0
+      }
+    ],
+    "outputs": [
+      {
+        "id": "create_confectionery:ruby_chocolate",
+        "count": 250.0,
+        "unit": "item",
+        "type": "solid",
+        "rate": 1.0
+      }
+    ]
+  },
+  {
+    "recipe_id": "create_confectionery:ruby_chocolate_brick_stairs_recipe",
+    "mod_id": "create_confectionery",
+    "recipe_type": "minecraft:crafting_shaped",
+    "inputs": [
+      {
+        "id": "create_confectionery:ruby_chocolate_bricks",
+        "count": 6.0,
+        "unit": "item",
+        "type": "solid",
+        "rate": 1.0
+      }
+    ],
+    "outputs": [
+      {
+        "id": "create_confectionery:ruby_chocolate_brick_stairs",
+        "count": 4.0,
+        "unit": "item",
+        "type": "solid",
+        "rate": 1.0
+      }
+    ]
+  },
+  {
+    "recipe_id": "create_confectionery:bar_of_black_chocolate_2",
+    "mod_id": "create_confectionery",
+    "recipe_type": "minecraft:crafting_shaped",
+    "inputs": [
+      {
+        "id": "create_confectionery:black_chocolate_bricks",
+        "count": 1.0,
+        "unit": "item",
+        "type": "solid",
+        "rate": 1.0
+      }
+    ],
+    "outputs": [
+      {
+        "id": "create_confectionery:bar_of_black_chocolate",
+        "count": 4.0,
+        "unit": "item",
+        "type": "solid",
+        "rate": 1.0
+      }
+    ]
+  },
+  {
+    "recipe_id": "create_confectionery:black_chocolate_bricks_recipe",
+    "mod_id": "create_confectionery",
+    "recipe_type": "minecraft:crafting_shaped",
+    "inputs": [
+      {
+        "id": "create_confectionery:bar_of_black_chocolate",
+        "count": 4.0,
+        "unit": "item",
+        "type": "solid",
+        "rate": 1.0
+      }
+    ],
+    "outputs": [
+      {
+        "id": "create_confectionery:black_chocolate_bricks",
+        "count": 1.0,
+        "unit": "item",
+        "type": "solid",
+        "rate": 1.0
+      }
+    ]
+  },
+  {
+    "recipe_id": "create_confectionery:hot_chocolate_bottle_recipe",
+    "mod_id": "create_confectionery",
+    "recipe_type": "create:filling",
+    "inputs": [
+      {
+        "id": "minecraft:glass_bottle",
+        "count": 1.0,
+        "unit": "item",
+        "type": "solid",
+        "rate": 1.0
+      }
+    ],
+    "outputs": [
+      {
+        "id": "create_confectionery:hot_chocolate_bottle",
+        "count": 1.0,
+        "unit": "item",
+        "type": "solid",
+        "rate": 1.0
+      }
+    ]
+  },
+  {
+    "recipe_id": "create_confectionery:full_ruby_chocolate_bar_recipe",
+    "mod_id": "create_confectionery",
+    "recipe_type": "minecraft:crafting_shapeless",
+    "inputs": [
+      {
+        "id": "create_confectionery:bar_of_ruby_chocolate",
+        "count": 1.0,
+        "unit": "item",
+        "type": "solid",
+        "rate": 1.0
+      },
+      {
+        "id": "create_confectionery:bar_of_ruby_chocolate",
+        "count": 1.0,
+        "unit": "item",
+        "type": "solid",
+        "rate": 1.0
+      },
+      {
+        "id": "create_confectionery:bar_of_ruby_chocolate",
+        "count": 1.0,
+        "unit": "item",
+        "type": "solid",
+        "rate": 1.0
+      },
+      {
+        "id": "create_confectionery:bar_of_ruby_chocolate",
+        "count": 1.0,
+        "unit": "item",
+        "type": "solid",
+        "rate": 1.0
+      },
+      {
+        "id": "create_confectionery:bar_of_ruby_chocolate",
+        "count": 1.0,
+        "unit": "item",
+        "type": "solid",
+        "rate": 1.0
+      },
+      {
+        "id": "create_confectionery:bar_of_ruby_chocolate",
+        "count": 1.0,
+        "unit": "item",
+        "type": "solid",
+        "rate": 1.0
+      },
+      {
+        "id": "minecraft:paper",
+        "count": 1.0,
+        "unit": "item",
+        "type": "solid",
+        "rate": 1.0
+      }
+    ],
+    "outputs": [
+      {
+        "id": "create_confectionery:full_ruby_chocolate_bar",
+        "count": 1.0,
+        "unit": "item",
+        "type": "solid",
+        "rate": 1.0
+      }
+    ]
+  },
+  {
+    "recipe_id": "create_confectionery:white_chocolate_bricks_slab_recipe",
+    "mod_id": "create_confectionery",
+    "recipe_type": "minecraft:crafting_shaped",
+    "inputs": [
+      {
+        "id": "create_confectionery:white_chocolate_bricks",
+        "count": 3.0,
+        "unit": "item",
+        "type": "solid",
+        "rate": 1.0
+      }
+    ],
+    "outputs": [
+      {
+        "id": "create_confectionery:white_chocolate_bricks_slab",
+        "count": 6.0,
+        "unit": "item",
+        "type": "solid",
+        "rate": 1.0
+      }
+    ]
+  },
+  {
+    "recipe_id": "create_confectionery:chocolate_recipe_5",
+    "mod_id": "create_confectionery",
+    "recipe_type": "create:mixing",
+    "inputs": [
+      {
+        "id": "create_confectionery:chocolate_bricks_slab",
+        "count": 1.0,
+        "unit": "item",
+        "type": "solid",
+        "rate": 1.0
+      }
+    ],
+    "outputs": [
+      {
+        "id": "create:chocolate",
+        "count": 500.0,
+        "unit": "item",
+        "type": "solid",
+        "rate": 1.0
+      }
+    ]
+  },
+  {
+    "recipe_id": "create_confectionery:chocolate_recipe_3",
+    "mod_id": "create_confectionery",
+    "recipe_type": "create:mixing",
+    "inputs": [
+      {
+        "id": "create_confectionery:chocolate_bricks",
+        "count": 1.0,
+        "unit": "item",
+        "type": "solid",
+        "rate": 1.0
+      }
+    ],
+    "outputs": [
+      {
+        "id": "create:chocolate",
+        "count": 1000.0,
+        "unit": "item",
+        "type": "solid",
+        "rate": 1.0
+      }
+    ]
+  },
+  {
+    "recipe_id": "create_confectionery:chocolate_recipe_4",
+    "mod_id": "create_confectionery",
+    "recipe_type": "create:mixing",
+    "inputs": [
+      {
+        "id": "create_confectionery:chocolate_bricks_stairs",
+        "count": 1.0,
+        "unit": "item",
+        "type": "solid",
+        "rate": 1.0
+      }
+    ],
+    "outputs": [
+      {
+        "id": "create:chocolate",
+        "count": 1000.0,
+        "unit": "item",
+        "type": "solid",
+        "rate": 1.0
+      }
+    ]
+  },
+  {
+    "recipe_id": "create_confectionery:candy_cane_pickaxe_recipe",
+    "mod_id": "create_confectionery",
+    "recipe_type": "minecraft:crafting_shaped",
+    "inputs": [
+      {
+        "id": "create_confectionery:candy_cane",
+        "count": 5.0,
+        "unit": "item",
+        "type": "solid",
+        "rate": 1.0
+      }
+    ],
+    "outputs": [
+      {
+        "id": "create_confectionery:candy_cane_pickaxe",
+        "count": 1.0,
+        "unit": "item",
+        "type": "solid",
+        "rate": 1.0
+      }
+    ]
+  },
+  {
+    "recipe_id": "create_confectionery:gingerbread_brick_stairs_recipe_2",
+    "mod_id": "create_confectionery",
+    "recipe_type": "minecraft:stonecutting",
+    "inputs": [
+      {
+        "id": "create_confectionery:gingerbreak_bricks",
+        "count": 1.0,
+        "unit": "item",
+        "type": "solid",
+        "rate": 1.0
+      }
+    ],
+    "outputs": [
+      {
+        "id": "create_confectionery:gingerbread_brick_stairs",
+        "count": 1.0,
+        "unit": "item",
+        "type": "solid",
+        "rate": 1.0
+      }
+    ]
+  },
+  {
+    "recipe_id": "create_confectionery:gingerbread_stairs_recipe_2",
+    "mod_id": "create_confectionery",
+    "recipe_type": "minecraft:stonecutting",
+    "inputs": [
+      {
+        "id": "create_confectionery:gingerbread_block",
+        "count": 1.0,
+        "unit": "item",
+        "type": "solid",
+        "rate": 1.0
+      }
+    ],
+    "outputs": [
+      {
+        "id": "create_confectionery:gingerbread_stairs",
+        "count": 1.0,
+        "unit": "item",
+        "type": "solid",
+        "rate": 1.0
+      }
+    ]
+  },
+  {
+    "recipe_id": "create_confectionery:crushed_cocoa_recipe",
+    "mod_id": "create_confectionery",
+    "recipe_type": "create:pressing",
+    "inputs": [
+      {
+        "id": "minecraft:cocoa_beans",
+        "count": 1.0,
+        "unit": "item",
+        "type": "solid",
+        "rate": 1.0
+      }
+    ],
+    "outputs": [
+      {
+        "id": "create_confectionery:crushed_cocoa",
+        "count": 1.0,
+        "unit": "item",
+        "type": "solid",
+        "rate": 1.0
+      }
+    ]
+  },
+  {
+    "recipe_id": "create_confectionery:white_chocolate_candy_1_recipe",
+    "mod_id": "create_confectionery",
+    "recipe_type": "create:filling",
+    "inputs": [
+      {
+        "id": "create:bar_of_chocolate",
+        "count": 1.0,
+        "unit": "item",
+        "type": "solid",
+        "rate": 1.0
+      }
+    ],
+    "outputs": [
+      {
+        "id": "create_confectionery:white_chocolate_candy_1",
+        "count": 1.0,
+        "unit": "item",
+        "type": "solid",
+        "rate": 1.0
+      }
+    ]
+  },
+  {
+    "recipe_id": "create_confectionery:gingerbread_slab_recipe_2",
+    "mod_id": "create_confectionery",
+    "recipe_type": "minecraft:stonecutting",
+    "inputs": [
+      {
+        "id": "create_confectionery:gingerbread_block",
+        "count": 1.0,
+        "unit": "item",
+        "type": "solid",
+        "rate": 1.0
+      }
+    ],
+    "outputs": [
+      {
+        "id": "create_confectionery:gingerbread_slab",
+        "count": 2.0,
+        "unit": "item",
+        "type": "solid",
+        "rate": 1.0
+      }
+    ]
+  },
+  {
+    "recipe_id": "create_confectionery:soothing_hot_chocolate_recipe",
+    "mod_id": "create_confectionery",
+    "recipe_type": "minecraft:crafting_shapeless",
+    "inputs": [
+      {
+        "id": "create_confectionery:hot_chocolate_bottle",
+        "count": 1.0,
+        "unit": "item",
+        "type": "solid",
+        "rate": 1.0
+      },
+      {
+        "id": "create_confectionery:marshmallow",
+        "count": 1.0,
+        "unit": "item",
+        "type": "solid",
+        "rate": 1.0
+      }
+    ],
+    "outputs": [
+      {
+        "id": "create_confectionery:soothing_hot_chocolate",
+        "count": 1.0,
+        "unit": "item",
+        "type": "solid",
+        "rate": 1.0
+      }
+    ]
+  },
+  {
+    "recipe_id": "create_confectionery:caramelized_marshmellow_recipe_2",
+    "mod_id": "create_confectionery",
+    "recipe_type": "minecraft:smoking",
+    "inputs": [
+      {
+        "id": "create_confectionery:marshmallow_on_a_stick",
+        "count": 1.0,
+        "unit": "item",
+        "type": "solid",
+        "rate": 1.0
+      }
+    ],
+    "outputs": [
+      {
+        "id": "create_confectionery:caramelized_marshmellow_on_a_stick",
+        "count": 1.0,
+        "unit": "item",
+        "type": "solid",
+        "rate": 1.0
+      }
+    ]
+  },
+  {
+    "recipe_id": "create_confectionery:chocolate_candy_1_recipe",
+    "mod_id": "create_confectionery",
+    "recipe_type": "create:filling",
+    "inputs": [
+      {
+        "id": "create_confectionery:bar_of_white_chocolate",
+        "count": 1.0,
+        "unit": "item",
+        "type": "solid",
+        "rate": 1.0
+      }
+    ],
+    "outputs": [
+      {
+        "id": "create_confectionery:chocolate_candy_1",
+        "count": 1.0,
+        "unit": "item",
+        "type": "solid",
+        "rate": 1.0
+      }
+    ]
+  },
+  {
+    "recipe_id": "create_confectionery:caramel_recipe_2",
+    "mod_id": "create_confectionery",
+    "recipe_type": "create:mixing",
+    "inputs": [
+      {
+        "id": "create_confectionery:bar_of_caramel",
+        "count": 1.0,
+        "unit": "item",
+        "type": "solid",
+        "rate": 1.0
+      }
+    ],
+    "outputs": [
+      {
+        "id": "create_confectionery:caramel",
+        "count": 250.0,
+        "unit": "item",
+        "type": "solid",
+        "rate": 1.0
+      }
+    ]
+  },
+  {
+    "recipe_id": "create_confectionery:candy_cane_sword_recipe",
+    "mod_id": "create_confectionery",
+    "recipe_type": "minecraft:crafting_shaped",
+    "inputs": [
+      {
+        "id": "create_confectionery:candy_cane",
+        "count": 3.0,
+        "unit": "item",
+        "type": "solid",
+        "rate": 1.0
+      }
+    ],
+    "outputs": [
+      {
+        "id": "create_confectionery:candy_cane_sword",
+        "count": 1.0,
+        "unit": "item",
+        "type": "solid",
+        "rate": 1.0
+      }
+    ]
+  },
+  {
+    "recipe_id": "create_confectionery:gingerbread_stairs_recipe",
+    "mod_id": "create_confectionery",
+    "recipe_type": "minecraft:crafting_shaped",
+    "inputs": [
+      {
+        "id": "create_confectionery:gingerbread_block",
+        "count": 6.0,
+        "unit": "item",
+        "type": "solid",
+        "rate": 1.0
+      }
+    ],
+    "outputs": [
+      {
+        "id": "create_confectionery:gingerbread_stairs",
+        "count": 4.0,
+        "unit": "item",
+        "type": "solid",
+        "rate": 1.0
+      }
+    ]
+  },
+  {
+    "recipe_id": "create_confectionery:caramel_recipe",
+    "mod_id": "create_confectionery",
+    "recipe_type": "create:mixing",
+    "inputs": [
+      {
+        "id": "minecraft:sugar",
+        "count": 1.0,
+        "unit": "item",
+        "type": "solid",
+        "rate": 1.0
+      },
+      {
+        "id": "minecraft:sugar",
+        "count": 1.0,
+        "unit": "item",
+        "type": "solid",
+        "rate": 1.0
+      }
+    ],
+    "outputs": [
+      {
+        "id": "create_confectionery:caramel",
+        "count": 250.0,
+        "unit": "item",
+        "type": "solid",
+        "rate": 1.0
+      }
+    ]
+  },
+  {
+    "recipe_id": "create_confectionery:bar_of_white_chocolate_recipe",
+    "mod_id": "create_confectionery",
+    "recipe_type": "create:compacting",
+    "inputs": [],
+    "outputs": [
+      {
+        "id": "create_confectionery:bar_of_white_chocolate",
+        "count": 1.0,
+        "unit": "item",
+        "type": "solid",
+        "rate": 1.0
+      }
+    ]
+  },
+  {
+    "recipe_id": "create_confectionery:chocolate_bricks_recipe",
+    "mod_id": "create_confectionery",
+    "recipe_type": "minecraft:crafting_shaped",
+    "inputs": [
+      {
+        "id": "create:bar_of_chocolate",
+        "count": 4.0,
+        "unit": "item",
+        "type": "solid",
+        "rate": 1.0
+      }
+    ],
+    "outputs": [
+      {
+        "id": "create_confectionery:chocolate_bricks",
+        "count": 1.0,
+        "unit": "item",
+        "type": "solid",
+        "rate": 1.0
+      }
+    ]
+  },
+  {
+    "recipe_id": "create_confectionery:ruby_chocolate_bricks_recipe",
+    "mod_id": "create_confectionery",
+    "recipe_type": "minecraft:crafting_shaped",
+    "inputs": [
+      {
+        "id": "create_confectionery:bar_of_ruby_chocolate",
+        "count": 4.0,
+        "unit": "item",
+        "type": "solid",
+        "rate": 1.0
+      }
+    ],
+    "outputs": [
+      {
+        "id": "create_confectionery:ruby_chocolate_bricks",
+        "count": 1.0,
+        "unit": "item",
+        "type": "solid",
+        "rate": 1.0
+      }
+    ]
+  },
+  {
+    "recipe_id": "create_confectionery:ruby_chocolate_candy_2_recipe",
+    "mod_id": "create_confectionery",
+    "recipe_type": "create:filling",
+    "inputs": [
+      {
+        "id": "create_confectionery:bar_of_white_chocolate",
+        "count": 1.0,
+        "unit": "item",
+        "type": "solid",
+        "rate": 1.0
+      }
+    ],
+    "outputs": [
+      {
+        "id": "create_confectionery:ruby_chocolate_candy_2",
+        "count": 1.0,
+        "unit": "item",
+        "type": "solid",
+        "rate": 1.0
+      }
+    ]
+  },
+  {
+    "recipe_id": "create_confectionery:caramel_bricks_stairs_recipe",
+    "mod_id": "create_confectionery",
+    "recipe_type": "minecraft:crafting_shaped",
+    "inputs": [
+      {
+        "id": "create_confectionery:caramel_bricks",
+        "count": 6.0,
+        "unit": "item",
+        "type": "solid",
+        "rate": 1.0
+      }
+    ],
+    "outputs": [
+      {
+        "id": "create_confectionery:caramel_bricks_stairs",
+        "count": 4.0,
+        "unit": "item",
+        "type": "solid",
+        "rate": 1.0
+      }
+    ]
+  },
+  {
+    "recipe_id": "create_confectionery:caramel_bricks_stairs_recipe_2",
+    "mod_id": "create_confectionery",
+    "recipe_type": "minecraft:stonecutting",
+    "inputs": [
+      {
+        "id": "create_confectionery:caramel_bricks",
+        "count": 1.0,
+        "unit": "item",
+        "type": "solid",
+        "rate": 1.0
+      }
+    ],
+    "outputs": [
+      {
+        "id": "create_confectionery:caramel_bricks_stairs",
+        "count": 1.0,
+        "unit": "item",
+        "type": "solid",
+        "rate": 1.0
+      }
+    ]
+  },
+  {
+    "recipe_id": "create_confectionery:ruby_chocolate_recipe_4",
+    "mod_id": "create_confectionery",
+    "recipe_type": "create:mixing",
+    "inputs": [
+      {
+        "id": "create_confectionery:ruby_chocolate_brick_stairs",
+        "count": 1.0,
+        "unit": "item",
+        "type": "solid",
+        "rate": 1.0
+      }
+    ],
+    "outputs": [
+      {
+        "id": "create_confectionery:ruby_chocolate",
+        "count": 500.0,
+        "unit": "item",
+        "type": "solid",
+        "rate": 1.0
+      }
+    ]
+  },
+  {
+    "recipe_id": "create_confectionery:ruby_chocolate_recipe_5",
+    "mod_id": "create_confectionery",
+    "recipe_type": "create:mixing",
+    "inputs": [
+      {
+        "id": "create_confectionery:ruby_chocolate_brick_slab",
+        "count": 1.0,
+        "unit": "item",
+        "type": "solid",
+        "rate": 1.0
+      }
+    ],
+    "outputs": [
+      {
+        "id": "create_confectionery:ruby_chocolate",
+        "count": 500.0,
+        "unit": "item",
+        "type": "solid",
+        "rate": 1.0
+      }
+    ]
+  },
+  {
+    "recipe_id": "create_confectionery:ruby_chocolate_recipe_2",
+    "mod_id": "create_confectionery",
+    "recipe_type": "create:mixing",
+    "inputs": [
+      {
+        "id": "create_confectionery:bar_of_ruby_chocolate",
+        "count": 1.0,
+        "unit": "item",
+        "type": "solid",
+        "rate": 1.0
+      }
+    ],
+    "outputs": [
+      {
+        "id": "create_confectionery:ruby_chocolate",
+        "count": 250.0,
+        "unit": "item",
+        "type": "solid",
+        "rate": 1.0
+      }
+    ]
+  },
+  {
+    "recipe_id": "create_confectionery:ruby_chocolate_recipe_3",
+    "mod_id": "create_confectionery",
+    "recipe_type": "create:mixing",
+    "inputs": [
+      {
+        "id": "create_confectionery:ruby_chocolate_bricks",
+        "count": 1.0,
+        "unit": "item",
+        "type": "solid",
+        "rate": 1.0
+      }
+    ],
+    "outputs": [
+      {
+        "id": "create_confectionery:ruby_chocolate",
+        "count": 1000.0,
+        "unit": "item",
+        "type": "solid",
+        "rate": 1.0
+      }
+    ]
+  },
+  {
+    "recipe_id": "create_confectionery:gingerbread_slab_recipe",
+    "mod_id": "create_confectionery",
+    "recipe_type": "minecraft:crafting_shaped",
+    "inputs": [
+      {
+        "id": "create_confectionery:gingerbread_block",
+        "count": 3.0,
+        "unit": "item",
+        "type": "solid",
+        "rate": 1.0
+      }
+    ],
+    "outputs": [
+      {
+        "id": "create_confectionery:gingerbread_slab",
+        "count": 6.0,
+        "unit": "item",
+        "type": "solid",
+        "rate": 1.0
+      }
+    ]
+  },
+  {
+    "recipe_id": "create_confectionery:black_chocolate_recipe",
+    "mod_id": "create_confectionery",
+    "recipe_type": "create:mixing",
+    "inputs": [
+      {
+        "id": "minecraft:sugar",
+        "count": 1.0,
+        "unit": "item",
+        "type": "solid",
+        "rate": 1.0
+      },
+      {
+        "id": "create_confectionery:cocoa_butter",
+        "count": 1.0,
+        "unit": "item",
+        "type": "solid",
+        "rate": 1.0
+      },
+      {
+        "id": "minecraft:cocoa_beans",
+        "count": 1.0,
+        "unit": "item",
+        "type": "solid",
+        "rate": 1.0
+      },
+      {
+        "id": "minecraft:cocoa_beans",
+        "count": 1.0,
+        "unit": "item",
+        "type": "solid",
+        "rate": 1.0
+      },
+      {
+        "id": "c:milk",
+        "count": 1.0,
+        "unit": "item",
+        "type": "tag",
+        "rate": 1.0
+      }
+    ],
+    "outputs": [
+      {
+        "id": "create_confectionery:black_chocolate",
+        "count": 250.0,
+        "unit": "item",
+        "type": "solid",
+        "rate": 1.0
+      }
+    ]
+  },
+  {
+    "recipe_id": "create_confectionery:caramelized_marshmellow_recipe",
+    "mod_id": "create_confectionery",
+    "recipe_type": "minecraft:campfire_cooking",
+    "inputs": [
+      {
+        "id": "create_confectionery:marshmallow_on_a_stick",
+        "count": 1.0,
+        "unit": "item",
+        "type": "solid",
+        "rate": 1.0
+      }
+    ],
+    "outputs": [
+      {
+        "id": "create_confectionery:caramelized_marshmellow_on_a_stick",
+        "count": 1.0,
+        "unit": "item",
+        "type": "solid",
+        "rate": 1.0
+      }
+    ]
+  },
+  {
+    "recipe_id": "create_confectionery:white_chocolate_bricks_slab_recipe_2",
+    "mod_id": "create_confectionery",
+    "recipe_type": "minecraft:stonecutting",
+    "inputs": [
+      {
+        "id": "create_confectionery:white_chocolate_bricks",
+        "count": 1.0,
+        "unit": "item",
+        "type": "solid",
+        "rate": 1.0
+      }
+    ],
+    "outputs": [
+      {
+        "id": "create_confectionery:white_chocolate_bricks_slab",
+        "count": 2.0,
+        "unit": "item",
+        "type": "solid",
+        "rate": 1.0
+      }
+    ]
+  },
+  {
+    "recipe_id": "create_confectionery:caramel_bricks_slab_recipe_2",
+    "mod_id": "create_confectionery",
+    "recipe_type": "minecraft:stonecutting",
+    "inputs": [
+      {
+        "id": "create_confectionery:caramel_bricks",
+        "count": 1.0,
+        "unit": "item",
+        "type": "solid",
+        "rate": 1.0
+      }
+    ],
+    "outputs": [
+      {
+        "id": "create_confectionery:caramel_bricks_slab",
+        "count": 2.0,
+        "unit": "item",
+        "type": "solid",
+        "rate": 1.0
+      }
+    ]
+  },
+  {
+    "recipe_id": "create_confectionery:caramel_bricks_slab_recipe_1",
+    "mod_id": "create_confectionery",
+    "recipe_type": "minecraft:crafting_shaped",
+    "inputs": [
+      {
+        "id": "create_confectionery:caramel_bricks",
+        "count": 3.0,
+        "unit": "item",
+        "type": "solid",
+        "rate": 1.0
+      }
+    ],
+    "outputs": [
+      {
+        "id": "create_confectionery:caramel_bricks_slab",
+        "count": 6.0,
+        "unit": "item",
+        "type": "solid",
+        "rate": 1.0
+      }
+    ]
+  },
+  {
+    "recipe_id": "create_confectionery:gingerbread_man_recipe",
+    "mod_id": "create_confectionery",
+    "recipe_type": "create:pressing",
+    "inputs": [
+      {
+        "id": "create_confectionery:gingerdough",
+        "count": 1.0,
+        "unit": "item",
+        "type": "solid",
+        "rate": 1.0
+      }
+    ],
+    "outputs": [
+      {
+        "id": "create_confectionery:gingerbread_man",
+        "count": 1.0,
+        "unit": "item",
+        "type": "solid",
+        "rate": 1.0
+      }
+    ]
+  },
+  {
+    "recipe_id": "create_confectionery:white_chocolate_bricks_recipe",
+    "mod_id": "create_confectionery",
+    "recipe_type": "minecraft:crafting_shaped",
+    "inputs": [
+      {
+        "id": "create_confectionery:bar_of_white_chocolate",
+        "count": 4.0,
+        "unit": "item",
+        "type": "solid",
+        "rate": 1.0
+      }
+    ],
+    "outputs": [
+      {
+        "id": "create_confectionery:white_chocolate_bricks",
+        "count": 1.0,
+        "unit": "item",
+        "type": "solid",
+        "rate": 1.0
+      }
+    ]
+  },
+  {
+    "recipe_id": "create_confectionery:caramel_glazed_berries_recipe",
+    "mod_id": "create_confectionery",
+    "recipe_type": "create:filling",
+    "inputs": [
+      {
+        "id": "minecraft:sweet_berries",
+        "count": 1.0,
+        "unit": "item",
+        "type": "solid",
+        "rate": 1.0
+      }
+    ],
+    "outputs": [
+      {
+        "id": "create_confectionery:caramel_glazed_berries",
+        "count": 1.0,
+        "unit": "item",
+        "type": "solid",
+        "rate": 1.0
+      }
+    ]
+  },
+  {
+    "recipe_id": "create_confectionery:candy_cane_block_recipe",
+    "mod_id": "create_confectionery",
+    "recipe_type": "minecraft:crafting_shaped",
+    "inputs": [
+      {
+        "id": "create_confectionery:candy_cane",
+        "count": 4.0,
+        "unit": "item",
+        "type": "solid",
+        "rate": 1.0
+      }
+    ],
+    "outputs": [
+      {
+        "id": "create_confectionery:candy_cane_block",
+        "count": 1.0,
+        "unit": "item",
+        "type": "solid",
+        "rate": 1.0
+      }
+    ]
+  },
+  {
+    "recipe_id": "create_confectionery:full_chocolate_bar_recipe",
+    "mod_id": "create_confectionery",
+    "recipe_type": "minecraft:crafting_shapeless",
+    "inputs": [
+      {
+        "id": "create:bar_of_chocolate",
+        "count": 1.0,
+        "unit": "item",
+        "type": "solid",
+        "rate": 1.0
+      },
+      {
+        "id": "create:bar_of_chocolate",
+        "count": 1.0,
+        "unit": "item",
+        "type": "solid",
+        "rate": 1.0
+      },
+      {
+        "id": "create:bar_of_chocolate",
+        "count": 1.0,
+        "unit": "item",
+        "type": "solid",
+        "rate": 1.0
+      },
+      {
+        "id": "create:bar_of_chocolate",
+        "count": 1.0,
+        "unit": "item",
+        "type": "solid",
+        "rate": 1.0
+      },
+      {
+        "id": "create:bar_of_chocolate",
+        "count": 1.0,
+        "unit": "item",
+        "type": "solid",
+        "rate": 1.0
+      },
+      {
+        "id": "create:bar_of_chocolate",
+        "count": 1.0,
+        "unit": "item",
+        "type": "solid",
+        "rate": 1.0
+      },
+      {
+        "id": "minecraft:paper",
+        "count": 1.0,
+        "unit": "item",
+        "type": "solid",
+        "rate": 1.0
+      }
+    ],
+    "outputs": [
+      {
+        "id": "create_confectionery:full_chocolate_bar",
+        "count": 1.0,
+        "unit": "item",
+        "type": "solid",
+        "rate": 1.0
+      }
+    ]
+  },
+  {
+    "recipe_id": "create_confectionery:black_chocolate_candy_2_recipe",
+    "mod_id": "create_confectionery",
+    "recipe_type": "create:filling",
+    "inputs": [
+      {
+        "id": "create_confectionery:bar_of_white_chocolate",
+        "count": 1.0,
+        "unit": "item",
+        "type": "solid",
+        "rate": 1.0
+      }
+    ],
+    "outputs": [
+      {
+        "id": "create_confectionery:black_chocolate_candy_2",
+        "count": 1.0,
+        "unit": "item",
+        "type": "solid",
+        "rate": 1.0
+      }
+    ]
+  },
+  {
+    "recipe_id": "create_confectionery:black_chocolate_emptying",
+    "mod_id": "create_confectionery",
+    "recipe_type": "create:emptying",
+    "inputs": [
+      {
+        "id": "create_confectionery:black_chocolate_bucket",
+        "count": 1.0,
+        "unit": "item",
+        "type": "solid",
+        "rate": 1.0
+      }
+    ],
+    "outputs": [
+      {
+        "id": "minecraft:bucket",
+        "count": 1.0,
+        "unit": "item",
+        "type": "solid",
+        "rate": 1.0
+      },
+      {
+        "id": "create_confectionery:black_chocolate",
+        "count": 1000.0,
+        "unit": "item",
+        "type": "solid",
+        "rate": 1.0
+      }
+    ]
+  },
+  {
+    "recipe_id": "create_confectionery:chocolate_candy_2_recipe",
+    "mod_id": "create_confectionery",
+    "recipe_type": "create:filling",
+    "inputs": [
+      {
+        "id": "create_confectionery:bar_of_black_chocolate",
+        "count": 1.0,
+        "unit": "item",
+        "type": "solid",
+        "rate": 1.0
+      }
+    ],
+    "outputs": [
+      {
+        "id": "create_confectionery:chocolate_candy_2",
+        "count": 1.0,
+        "unit": "item",
+        "type": "solid",
+        "rate": 1.0
+      }
+    ]
+  },
+  {
+    "recipe_id": "create_confectionery:music_disc_the_bright_side_recipe",
+    "mod_id": "create_confectionery",
+    "recipe_type": "minecraft:crafting_shaped",
+    "inputs": [
+      {
+        "id": "create_confectionery:candy_cane",
+        "count": 4.0,
+        "unit": "item",
+        "type": "solid",
+        "rate": 1.0
+      },
+      {
+        "id": "create_confectionery:bar_of_black_chocolate",
+        "count": 1.0,
+        "unit": "item",
+        "type": "solid",
+        "rate": 1.0
+      }
+    ],
+    "outputs": [
+      {
+        "id": "create_confectionery:the_bright_side",
+        "count": 1.0,
+        "unit": "item",
+        "type": "solid",
+        "rate": 1.0
+      }
+    ]
+  },
+  {
+    "recipe_id": "create_confectionery:ruby_chocolate_glazed_berries_recipe",
+    "mod_id": "create_confectionery",
+    "recipe_type": "create:filling",
+    "inputs": [
+      {
+        "id": "minecraft:sweet_berries",
+        "count": 1.0,
+        "unit": "item",
+        "type": "solid",
+        "rate": 1.0
+      }
+    ],
+    "outputs": [
+      {
+        "id": "create_confectionery:ruby_chocolate_glazed_berries",
+        "count": 1.0,
+        "unit": "item",
+        "type": "solid",
+        "rate": 1.0
+      }
+    ]
+  },
+  {
+    "recipe_id": "create_confectionery:ruby_chocolate_candy_1_recipe",
+    "mod_id": "create_confectionery",
+    "recipe_type": "create:filling",
+    "inputs": [
+      {
+        "id": "create:bar_of_chocolate",
+        "count": 1.0,
+        "unit": "item",
+        "type": "solid",
+        "rate": 1.0
+      }
+    ],
+    "outputs": [
+      {
+        "id": "create_confectionery:ruby_chocolate_candy_1",
+        "count": 1.0,
+        "unit": "item",
+        "type": "solid",
+        "rate": 1.0
+      }
+    ]
+  },
+  {
+    "recipe_id": "create_confectionery:ruby_chocolate_candy_recipe",
+    "mod_id": "create_confectionery",
+    "recipe_type": "create:filling",
+    "inputs": [
+      {
+        "id": "create_confectionery:bar_of_caramel",
+        "count": 1.0,
+        "unit": "item",
+        "type": "solid",
+        "rate": 1.0
+      }
+    ],
+    "outputs": [
+      {
+        "id": "create_confectionery:ruby_chocolate_candy",
+        "count": 1.0,
+        "unit": "item",
+        "type": "solid",
+        "rate": 1.0
+      }
+    ]
+  },
+  {
+    "recipe_id": "create_confectionery:gingerbread_brick_slab_recipe_2",
+    "mod_id": "create_confectionery",
+    "recipe_type": "minecraft:stonecutting",
+    "inputs": [
+      {
+        "id": "create_confectionery:gingerbreak_bricks",
+        "count": 1.0,
+        "unit": "item",
+        "type": "solid",
+        "rate": 1.0
+      }
+    ],
+    "outputs": [
+      {
+        "id": "create_confectionery:gingerbread_brick_slab",
+        "count": 2.0,
+        "unit": "item",
+        "type": "solid",
+        "rate": 1.0
+      }
+    ]
+  },
+  {
+    "recipe_id": "create_confectionery:candy_cane_axe_recipe",
+    "mod_id": "create_confectionery",
+    "recipe_type": "minecraft:crafting_shaped",
+    "inputs": [
+      {
+        "id": "create_confectionery:candy_cane",
+        "count": 5.0,
+        "unit": "item",
+        "type": "solid",
+        "rate": 1.0
+      }
+    ],
+    "outputs": [
+      {
+        "id": "create_confectionery:candy_cane_axe",
+        "count": 1.0,
+        "unit": "item",
+        "type": "solid",
+        "rate": 1.0
+      }
+    ]
+  },
+  {
+    "recipe_id": "create_confectionery:marshmallow_on_a_stick_recipe",
+    "mod_id": "create_confectionery",
+    "recipe_type": "minecraft:crafting_shapeless",
+    "inputs": [
+      {
+        "id": "create_confectionery:marshmallow",
+        "count": 1.0,
+        "unit": "item",
+        "type": "solid",
+        "rate": 1.0
+      },
+      {
+        "id": "create_confectionery:marshmallow",
+        "count": 1.0,
+        "unit": "item",
+        "type": "solid",
+        "rate": 1.0
+      },
+      {
+        "id": "minecraft:stick",
+        "count": 1.0,
+        "unit": "item",
+        "type": "solid",
+        "rate": 1.0
+      }
+    ],
+    "outputs": [
+      {
+        "id": "create_confectionery:marshmallow_on_a_stick",
+        "count": 1.0,
+        "unit": "item",
+        "type": "solid",
+        "rate": 1.0
+      }
+    ]
+  },
+  {
+    "recipe_id": "create_confectionery:white_chocolate_glazed_marshmallow_recipe",
+    "mod_id": "create_confectionery",
+    "recipe_type": "create:filling",
+    "inputs": [
+      {
+        "id": "create_confectionery:marshmallow",
+        "count": 1.0,
+        "unit": "item",
+        "type": "solid",
+        "rate": 1.0
+      }
+    ],
+    "outputs": [
+      {
+        "id": "create_confectionery:white_chocolate_glazed_marshmallow",
+        "count": 1.0,
+        "unit": "item",
+        "type": "solid",
+        "rate": 1.0
+      }
+    ]
+  },
+  {
+    "recipe_id": "create_confectionery:white_chocolate_glazed_berries_recipe",
+    "mod_id": "create_confectionery",
+    "recipe_type": "create:filling",
+    "inputs": [
+      {
+        "id": "minecraft:sweet_berries",
+        "count": 1.0,
+        "unit": "item",
+        "type": "solid",
+        "rate": 1.0
+      }
+    ],
+    "outputs": [
+      {
+        "id": "create_confectionery:white_chocolate_glazed_berries",
+        "count": 1.0,
+        "unit": "item",
+        "type": "solid",
+        "rate": 1.0
+      }
+    ]
+  },
+  {
+    "recipe_id": "create_confectionery:black_chocolate_candy_1_recipe",
+    "mod_id": "create_confectionery",
+    "recipe_type": "create:filling",
+    "inputs": [
+      {
+        "id": "create:bar_of_chocolate",
+        "count": 1.0,
+        "unit": "item",
+        "type": "solid",
+        "rate": 1.0
+      }
+    ],
+    "outputs": [
+      {
+        "id": "create_confectionery:black_chocolate_candy_1",
+        "count": 1.0,
+        "unit": "item",
+        "type": "solid",
+        "rate": 1.0
+      }
+    ]
+  },
+  {
+    "recipe_id": "create_confectionery:white_chocolate_bricks_stairs_recipe_2",
+    "mod_id": "create_confectionery",
+    "recipe_type": "minecraft:stonecutting",
+    "inputs": [
+      {
+        "id": "create_confectionery:white_chocolate_bricks",
+        "count": 1.0,
+        "unit": "item",
+        "type": "solid",
+        "rate": 1.0
+      }
+    ],
+    "outputs": [
+      {
+        "id": "create_confectionery:white_chocolate_bricks_stairs",
+        "count": 1.0,
+        "unit": "item",
+        "type": "solid",
+        "rate": 1.0
+      }
+    ]
+  },
+  {
+    "recipe_id": "create_confectionery:white_chocolate_bricks_stairs_recipe_1",
+    "mod_id": "create_confectionery",
+    "recipe_type": "minecraft:crafting_shaped",
+    "inputs": [
+      {
+        "id": "create_confectionery:white_chocolate_bricks",
+        "count": 6.0,
+        "unit": "item",
+        "type": "solid",
+        "rate": 1.0
+      }
+    ],
+    "outputs": [
+      {
+        "id": "create_confectionery:white_chocolate_bricks_stairs",
+        "count": 4.0,
+        "unit": "item",
+        "type": "solid",
+        "rate": 1.0
+      }
+    ]
+  },
+  {
+    "recipe_id": "create_confectionery:hot_chocolate_drain",
+    "mod_id": "create_confectionery",
+    "recipe_type": "create:emptying",
+    "inputs": [
+      {
+        "id": "create_confectionery:hot_chocolate_bottle",
+        "count": 1.0,
+        "unit": "item",
+        "type": "solid",
+        "rate": 1.0
+      }
+    ],
+    "outputs": [
+      {
+        "id": "minecraft:glass_bottle",
+        "count": 1.0,
+        "unit": "item",
+        "type": "solid",
+        "rate": 1.0
+      },
+      {
+        "id": "create_confectionery:hot_chocolate",
+        "count": 250.0,
+        "unit": "item",
+        "type": "solid",
+        "rate": 1.0
+      }
+    ]
+  },
+  {
+    "recipe_id": "create_confectionery:cocoa_powder_and_butter_recipe",
+    "mod_id": "create_confectionery",
+    "recipe_type": "create:crushing",
+    "inputs": [
+      {
+        "id": "create_confectionery:crushed_cocoa",
+        "count": 1.0,
+        "unit": "item",
+        "type": "solid",
+        "rate": 1.0
+      }
+    ],
+    "outputs": [
+      {
+        "id": "create_confectionery:cocoa_powder",
+        "count": 1.0,
+        "unit": "item",
+        "type": "solid",
+        "rate": 1.0
+      },
+      {
+        "id": "create_confectionery:cocoa_butter",
+        "count": 1.0,
+        "unit": "item",
+        "type": "solid",
+        "rate": 0.75
+      }
+    ]
+  },
+  {
+    "recipe_id": "create_confectionery:white_chocolate_emptying",
+    "mod_id": "create_confectionery",
+    "recipe_type": "create:emptying",
+    "inputs": [
+      {
+        "id": "create_confectionery:white_chocolate_bucket",
+        "count": 1.0,
+        "unit": "item",
+        "type": "solid",
+        "rate": 1.0
+      }
+    ],
+    "outputs": [
+      {
+        "id": "minecraft:bucket",
+        "count": 1.0,
+        "unit": "item",
+        "type": "solid",
+        "rate": 1.0
+      },
+      {
+        "id": "create_confectionery:white_chocolate",
+        "count": 1000.0,
+        "unit": "item",
+        "type": "solid",
+        "rate": 1.0
+      }
+    ]
+  },
+  {
+    "recipe_id": "create_confectionery:gingerbread_recipe_2",
+    "mod_id": "create_confectionery",
+    "recipe_type": "minecraft:smoking",
+    "inputs": [
+      {
+        "id": "create_confectionery:gingerdough",
+        "count": 1.0,
+        "unit": "item",
+        "type": "solid",
+        "rate": 1.0
+      }
+    ],
+    "outputs": [
+      {
+        "id": "create_confectionery:gingerbread",
+        "count": 1.0,
+        "unit": "item",
+        "type": "solid",
+        "rate": 1.0
+      }
+    ]
+  },
+  {
+    "recipe_id": "create_confectionery:chocolate_candy_3_recipe",
+    "mod_id": "create_confectionery",
+    "recipe_type": "create:filling",
+    "inputs": [
+      {
+        "id": "create_confectionery:bar_of_ruby_chocolate",
+        "count": 1.0,
+        "unit": "item",
+        "type": "solid",
+        "rate": 1.0
+      }
+    ],
+    "outputs": [
+      {
+        "id": "create_confectionery:chocolate_candy_3",
+        "count": 1.0,
+        "unit": "item",
+        "type": "solid",
+        "rate": 1.0
+      }
+    ]
+  },
+  {
+    "recipe_id": "create_confectionery:chocolate_candy_recipe",
+    "mod_id": "create_confectionery",
+    "recipe_type": "create:filling",
+    "inputs": [
+      {
+        "id": "create_confectionery:bar_of_caramel",
+        "count": 1.0,
+        "unit": "item",
+        "type": "solid",
+        "rate": 1.0
+      }
+    ],
+    "outputs": [
+      {
+        "id": "create_confectionery:chocolate_candy",
+        "count": 1.0,
+        "unit": "item",
+        "type": "solid",
+        "rate": 1.0
+      }
+    ]
+  }
+]

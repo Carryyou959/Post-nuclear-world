@@ -1,0 +1,3396 @@
+[
+  {
+    "recipe_id": "appmek:upgrade/chemical_storage_cell_16k_to_256k",
+    "mod_id": "appmek",
+    "recipe_type": "minecraft:crafting",
+    "inputs": [],
+    "outputs": []
+  },
+  {
+    "recipe_id": "appmek:upgrade/chemical_storage_cell_1k_to_64k",
+    "mod_id": "appmek",
+    "recipe_type": "minecraft:crafting",
+    "inputs": [],
+    "outputs": []
+  },
+  {
+    "recipe_id": "appmek:chemical_storage_cell_64k",
+    "mod_id": "appmek",
+    "recipe_type": "minecraft:crafting_shapeless",
+    "inputs": [
+      {
+        "id": "appmek:chemical_cell_housing",
+        "count": 1.0,
+        "unit": "item",
+        "type": "solid",
+        "rate": 1.0
+      },
+      {
+        "id": "ae2:cell_component_64k",
+        "count": 1.0,
+        "unit": "item",
+        "type": "solid",
+        "rate": 1.0
+      }
+    ],
+    "outputs": [
+      {
+        "id": "appmek:chemical_storage_cell_64k",
+        "count": 1.0,
+        "unit": "item",
+        "type": "solid",
+        "rate": 1.0
+      }
+    ]
+  },
+  {
+    "recipe_id": "appmek:upgrade/portable_chemical_cell_1k_to_4k",
+    "mod_id": "appmek",
+    "recipe_type": "minecraft:crafting",
+    "inputs": [],
+    "outputs": []
+  },
+  {
+    "recipe_id": "appmek:upgrade/portable_chemical_cell_1k_to_256k",
+    "mod_id": "appmek",
+    "recipe_type": "minecraft:crafting",
+    "inputs": [],
+    "outputs": []
+  },
+  {
+    "recipe_id": "appmek:upgrade/portable_chemical_cell_64k_to_256k",
+    "mod_id": "appmek",
+    "recipe_type": "minecraft:crafting",
+    "inputs": [],
+    "outputs": []
+  },
+  {
+    "recipe_id": "appmek:chemical_cell_housing",
+    "mod_id": "appmek",
+    "recipe_type": "minecraft:crafting_shaped",
+    "inputs": [
+      {
+        "id": "ae2:quartz_glass",
+        "count": 2.0,
+        "unit": "item",
+        "type": "solid",
+        "rate": 1.0
+      },
+      {
+        "id": "c:dusts/redstone",
+        "count": 3.0,
+        "unit": "item",
+        "type": "solid",
+        "rate": 1.0
+      },
+      {
+        "id": "c:ingots/osmium",
+        "count": 3.0,
+        "unit": "item",
+        "type": "solid",
+        "rate": 1.0
+      }
+    ],
+    "outputs": [
+      {
+        "id": "appmek:chemical_cell_housing",
+        "count": 1.0,
+        "unit": "item",
+        "type": "solid",
+        "rate": 1.0
+      }
+    ]
+  },
+  {
+    "recipe_id": "appmek:portable_chemical_cell_256k",
+    "mod_id": "appmek",
+    "recipe_type": "minecraft:crafting_shapeless",
+    "inputs": [
+      {
+        "id": "ae2:chest",
+        "count": 1.0,
+        "unit": "item",
+        "type": "solid",
+        "rate": 1.0
+      },
+      {
+        "id": "ae2:cell_component_256k",
+        "count": 1.0,
+        "unit": "item",
+        "type": "solid",
+        "rate": 1.0
+      },
+      {
+        "id": "ae2:energy_cell",
+        "count": 1.0,
+        "unit": "item",
+        "type": "solid",
+        "rate": 1.0
+      },
+      {
+        "id": "appmek:chemical_cell_housing",
+        "count": 1.0,
+        "unit": "item",
+        "type": "solid",
+        "rate": 1.0
+      }
+    ],
+    "outputs": [
+      {
+        "id": "appmek:portable_chemical_cell_256k",
+        "count": 1.0,
+        "unit": "item",
+        "type": "solid",
+        "rate": 1.0
+      }
+    ]
+  },
+  {
+    "recipe_id": "appmek:upgrade/portable_chemical_cell_4k_to_256k",
+    "mod_id": "appmek",
+    "recipe_type": "minecraft:crafting",
+    "inputs": [],
+    "outputs": []
+  },
+  {
+    "recipe_id": "appmek:portable_chemical_cell_4k",
+    "mod_id": "appmek",
+    "recipe_type": "minecraft:crafting_shapeless",
+    "inputs": [
+      {
+        "id": "ae2:chest",
+        "count": 1.0,
+        "unit": "item",
+        "type": "solid",
+        "rate": 1.0
+      },
+      {
+        "id": "ae2:cell_component_4k",
+        "count": 1.0,
+        "unit": "item",
+        "type": "solid",
+        "rate": 1.0
+      },
+      {
+        "id": "ae2:energy_cell",
+        "count": 1.0,
+        "unit": "item",
+        "type": "solid",
+        "rate": 1.0
+      },
+      {
+        "id": "appmek:chemical_cell_housing",
+        "count": 1.0,
+        "unit": "item",
+        "type": "solid",
+        "rate": 1.0
+      }
+    ],
+    "outputs": [
+      {
+        "id": "appmek:portable_chemical_cell_4k",
+        "count": 1.0,
+        "unit": "item",
+        "type": "solid",
+        "rate": 1.0
+      }
+    ]
+  },
+  {
+    "recipe_id": "appmek:portable_chemical_cell_1k",
+    "mod_id": "appmek",
+    "recipe_type": "minecraft:crafting_shapeless",
+    "inputs": [
+      {
+        "id": "ae2:chest",
+        "count": 1.0,
+        "unit": "item",
+        "type": "solid",
+        "rate": 1.0
+      },
+      {
+        "id": "ae2:cell_component_1k",
+        "count": 1.0,
+        "unit": "item",
+        "type": "solid",
+        "rate": 1.0
+      },
+      {
+        "id": "ae2:energy_cell",
+        "count": 1.0,
+        "unit": "item",
+        "type": "solid",
+        "rate": 1.0
+      },
+      {
+        "id": "appmek:chemical_cell_housing",
+        "count": 1.0,
+        "unit": "item",
+        "type": "solid",
+        "rate": 1.0
+      }
+    ],
+    "outputs": [
+      {
+        "id": "appmek:portable_chemical_cell_1k",
+        "count": 1.0,
+        "unit": "item",
+        "type": "solid",
+        "rate": 1.0
+      }
+    ]
+  },
+  {
+    "recipe_id": "appmek:upgrade/chemical_storage_cell_4k_to_16k",
+    "mod_id": "appmek",
+    "recipe_type": "minecraft:crafting",
+    "inputs": [],
+    "outputs": []
+  },
+  {
+    "recipe_id": "appmek:upgrade/chemical_storage_cell_1k_to_16k",
+    "mod_id": "appmek",
+    "recipe_type": "minecraft:crafting",
+    "inputs": [],
+    "outputs": []
+  },
+  {
+    "recipe_id": "appmek:upgrade/chemical_storage_cell_1k_to_64k",
+    "mod_id": "appmek",
+    "recipe_type": "minecraft:crafting",
+    "inputs": [],
+    "outputs": []
+  },
+  {
+    "recipe_id": "appmek:chemical_storage_cell_64k",
+    "mod_id": "appmek",
+    "recipe_type": "minecraft:crafting_shapeless",
+    "inputs": [
+      {
+        "id": "appmek:chemical_cell_housing",
+        "count": 1.0,
+        "unit": "item",
+        "type": "solid",
+        "rate": 1.0
+      },
+      {
+        "id": "ae2:cell_component_64k",
+        "count": 1.0,
+        "unit": "item",
+        "type": "solid",
+        "rate": 1.0
+      }
+    ],
+    "outputs": [
+      {
+        "id": "appmek:chemical_storage_cell_64k",
+        "count": 1.0,
+        "unit": "item",
+        "type": "solid",
+        "rate": 1.0
+      }
+    ]
+  },
+  {
+    "recipe_id": "appmek:upgrade/portable_chemical_cell_4k_to_64k",
+    "mod_id": "appmek",
+    "recipe_type": "minecraft:crafting",
+    "inputs": [],
+    "outputs": []
+  },
+  {
+    "recipe_id": "appmek:chemical_storage_cell_256k",
+    "mod_id": "appmek",
+    "recipe_type": "minecraft:crafting_shapeless",
+    "inputs": [
+      {
+        "id": "appmek:chemical_cell_housing",
+        "count": 1.0,
+        "unit": "item",
+        "type": "solid",
+        "rate": 1.0
+      },
+      {
+        "id": "ae2:cell_component_256k",
+        "count": 1.0,
+        "unit": "item",
+        "type": "solid",
+        "rate": 1.0
+      }
+    ],
+    "outputs": [
+      {
+        "id": "appmek:chemical_storage_cell_256k",
+        "count": 1.0,
+        "unit": "item",
+        "type": "solid",
+        "rate": 1.0
+      }
+    ]
+  },
+  {
+    "recipe_id": "appmek:upgrade/portable_chemical_cell_1k_to_256k",
+    "mod_id": "appmek",
+    "recipe_type": "minecraft:crafting",
+    "inputs": [],
+    "outputs": []
+  },
+  {
+    "recipe_id": "appmek:portable_chemical_cell_256k",
+    "mod_id": "appmek",
+    "recipe_type": "minecraft:crafting_shapeless",
+    "inputs": [
+      {
+        "id": "ae2:chest",
+        "count": 1.0,
+        "unit": "item",
+        "type": "solid",
+        "rate": 1.0
+      },
+      {
+        "id": "ae2:cell_component_256k",
+        "count": 1.0,
+        "unit": "item",
+        "type": "solid",
+        "rate": 1.0
+      },
+      {
+        "id": "ae2:energy_cell",
+        "count": 1.0,
+        "unit": "item",
+        "type": "solid",
+        "rate": 1.0
+      },
+      {
+        "id": "appmek:chemical_cell_housing",
+        "count": 1.0,
+        "unit": "item",
+        "type": "solid",
+        "rate": 1.0
+      }
+    ],
+    "outputs": [
+      {
+        "id": "appmek:portable_chemical_cell_256k",
+        "count": 1.0,
+        "unit": "item",
+        "type": "solid",
+        "rate": 1.0
+      }
+    ]
+  },
+  {
+    "recipe_id": "appmek:portable_chemical_cell_16k",
+    "mod_id": "appmek",
+    "recipe_type": "minecraft:crafting_shapeless",
+    "inputs": [
+      {
+        "id": "ae2:chest",
+        "count": 1.0,
+        "unit": "item",
+        "type": "solid",
+        "rate": 1.0
+      },
+      {
+        "id": "ae2:cell_component_16k",
+        "count": 1.0,
+        "unit": "item",
+        "type": "solid",
+        "rate": 1.0
+      },
+      {
+        "id": "ae2:energy_cell",
+        "count": 1.0,
+        "unit": "item",
+        "type": "solid",
+        "rate": 1.0
+      },
+      {
+        "id": "appmek:chemical_cell_housing",
+        "count": 1.0,
+        "unit": "item",
+        "type": "solid",
+        "rate": 1.0
+      }
+    ],
+    "outputs": [
+      {
+        "id": "appmek:portable_chemical_cell_16k",
+        "count": 1.0,
+        "unit": "item",
+        "type": "solid",
+        "rate": 1.0
+      }
+    ]
+  },
+  {
+    "recipe_id": "appmek:portable_chemical_cell_4k",
+    "mod_id": "appmek",
+    "recipe_type": "minecraft:crafting_shapeless",
+    "inputs": [
+      {
+        "id": "ae2:chest",
+        "count": 1.0,
+        "unit": "item",
+        "type": "solid",
+        "rate": 1.0
+      },
+      {
+        "id": "ae2:cell_component_4k",
+        "count": 1.0,
+        "unit": "item",
+        "type": "solid",
+        "rate": 1.0
+      },
+      {
+        "id": "ae2:energy_cell",
+        "count": 1.0,
+        "unit": "item",
+        "type": "solid",
+        "rate": 1.0
+      },
+      {
+        "id": "appmek:chemical_cell_housing",
+        "count": 1.0,
+        "unit": "item",
+        "type": "solid",
+        "rate": 1.0
+      }
+    ],
+    "outputs": [
+      {
+        "id": "appmek:portable_chemical_cell_4k",
+        "count": 1.0,
+        "unit": "item",
+        "type": "solid",
+        "rate": 1.0
+      }
+    ]
+  },
+  {
+    "recipe_id": "appmek:portable_chemical_cell_1k",
+    "mod_id": "appmek",
+    "recipe_type": "minecraft:crafting_shapeless",
+    "inputs": [
+      {
+        "id": "ae2:chest",
+        "count": 1.0,
+        "unit": "item",
+        "type": "solid",
+        "rate": 1.0
+      },
+      {
+        "id": "ae2:cell_component_1k",
+        "count": 1.0,
+        "unit": "item",
+        "type": "solid",
+        "rate": 1.0
+      },
+      {
+        "id": "ae2:energy_cell",
+        "count": 1.0,
+        "unit": "item",
+        "type": "solid",
+        "rate": 1.0
+      },
+      {
+        "id": "appmek:chemical_cell_housing",
+        "count": 1.0,
+        "unit": "item",
+        "type": "solid",
+        "rate": 1.0
+      }
+    ],
+    "outputs": [
+      {
+        "id": "appmek:portable_chemical_cell_1k",
+        "count": 1.0,
+        "unit": "item",
+        "type": "solid",
+        "rate": 1.0
+      }
+    ]
+  },
+  {
+    "recipe_id": "appmek:upgrade/chemical_storage_cell_4k_to_16k",
+    "mod_id": "appmek",
+    "recipe_type": "minecraft:crafting",
+    "inputs": [],
+    "outputs": []
+  },
+  {
+    "recipe_id": "appmek:upgrade/chemical_storage_cell_1k_to_256k",
+    "mod_id": "appmek",
+    "recipe_type": "minecraft:crafting",
+    "inputs": [],
+    "outputs": []
+  },
+  {
+    "recipe_id": "appmek:upgrade/chemical_storage_cell_1k_to_16k",
+    "mod_id": "appmek",
+    "recipe_type": "minecraft:crafting",
+    "inputs": [],
+    "outputs": []
+  },
+  {
+    "recipe_id": "appmek:upgrade/portable_chemical_cell_1k_to_64k",
+    "mod_id": "appmek",
+    "recipe_type": "minecraft:crafting",
+    "inputs": [],
+    "outputs": []
+  },
+  {
+    "recipe_id": "appmek:upgrade/portable_chemical_cell_4k_to_64k",
+    "mod_id": "appmek",
+    "recipe_type": "minecraft:crafting",
+    "inputs": [],
+    "outputs": []
+  },
+  {
+    "recipe_id": "appmek:upgrade/chemical_storage_cell_4k_to_64k",
+    "mod_id": "appmek",
+    "recipe_type": "minecraft:crafting",
+    "inputs": [],
+    "outputs": []
+  },
+  {
+    "recipe_id": "appmek:chemical_storage_cell_256k",
+    "mod_id": "appmek",
+    "recipe_type": "minecraft:crafting_shapeless",
+    "inputs": [
+      {
+        "id": "appmek:chemical_cell_housing",
+        "count": 1.0,
+        "unit": "item",
+        "type": "solid",
+        "rate": 1.0
+      },
+      {
+        "id": "ae2:cell_component_256k",
+        "count": 1.0,
+        "unit": "item",
+        "type": "solid",
+        "rate": 1.0
+      }
+    ],
+    "outputs": [
+      {
+        "id": "appmek:chemical_storage_cell_256k",
+        "count": 1.0,
+        "unit": "item",
+        "type": "solid",
+        "rate": 1.0
+      }
+    ]
+  },
+  {
+    "recipe_id": "appmek:portable_chemical_cell_64k",
+    "mod_id": "appmek",
+    "recipe_type": "minecraft:crafting_shapeless",
+    "inputs": [
+      {
+        "id": "ae2:chest",
+        "count": 1.0,
+        "unit": "item",
+        "type": "solid",
+        "rate": 1.0
+      },
+      {
+        "id": "ae2:cell_component_64k",
+        "count": 1.0,
+        "unit": "item",
+        "type": "solid",
+        "rate": 1.0
+      },
+      {
+        "id": "ae2:energy_cell",
+        "count": 1.0,
+        "unit": "item",
+        "type": "solid",
+        "rate": 1.0
+      },
+      {
+        "id": "appmek:chemical_cell_housing",
+        "count": 1.0,
+        "unit": "item",
+        "type": "solid",
+        "rate": 1.0
+      }
+    ],
+    "outputs": [
+      {
+        "id": "appmek:portable_chemical_cell_64k",
+        "count": 1.0,
+        "unit": "item",
+        "type": "solid",
+        "rate": 1.0
+      }
+    ]
+  },
+  {
+    "recipe_id": "appmek:upgrade/portable_chemical_cell_4k_to_16k",
+    "mod_id": "appmek",
+    "recipe_type": "minecraft:crafting",
+    "inputs": [],
+    "outputs": []
+  },
+  {
+    "recipe_id": "appmek:portable_chemical_cell_16k",
+    "mod_id": "appmek",
+    "recipe_type": "minecraft:crafting_shapeless",
+    "inputs": [
+      {
+        "id": "ae2:chest",
+        "count": 1.0,
+        "unit": "item",
+        "type": "solid",
+        "rate": 1.0
+      },
+      {
+        "id": "ae2:cell_component_16k",
+        "count": 1.0,
+        "unit": "item",
+        "type": "solid",
+        "rate": 1.0
+      },
+      {
+        "id": "ae2:energy_cell",
+        "count": 1.0,
+        "unit": "item",
+        "type": "solid",
+        "rate": 1.0
+      },
+      {
+        "id": "appmek:chemical_cell_housing",
+        "count": 1.0,
+        "unit": "item",
+        "type": "solid",
+        "rate": 1.0
+      }
+    ],
+    "outputs": [
+      {
+        "id": "appmek:portable_chemical_cell_16k",
+        "count": 1.0,
+        "unit": "item",
+        "type": "solid",
+        "rate": 1.0
+      }
+    ]
+  },
+  {
+    "recipe_id": "appmek:upgrade/chemical_storage_cell_1k_to_256k",
+    "mod_id": "appmek",
+    "recipe_type": "minecraft:crafting",
+    "inputs": [],
+    "outputs": []
+  },
+  {
+    "recipe_id": "appmek:upgrade/portable_chemical_cell_1k_to_64k",
+    "mod_id": "appmek",
+    "recipe_type": "minecraft:crafting",
+    "inputs": [],
+    "outputs": []
+  },
+  {
+    "recipe_id": "appmek:upgrade/chemical_storage_cell_4k_to_64k",
+    "mod_id": "appmek",
+    "recipe_type": "minecraft:crafting",
+    "inputs": [],
+    "outputs": []
+  },
+  {
+    "recipe_id": "appmek:portable_chemical_cell_64k",
+    "mod_id": "appmek",
+    "recipe_type": "minecraft:crafting_shapeless",
+    "inputs": [
+      {
+        "id": "ae2:chest",
+        "count": 1.0,
+        "unit": "item",
+        "type": "solid",
+        "rate": 1.0
+      },
+      {
+        "id": "ae2:cell_component_64k",
+        "count": 1.0,
+        "unit": "item",
+        "type": "solid",
+        "rate": 1.0
+      },
+      {
+        "id": "ae2:energy_cell",
+        "count": 1.0,
+        "unit": "item",
+        "type": "solid",
+        "rate": 1.0
+      },
+      {
+        "id": "appmek:chemical_cell_housing",
+        "count": 1.0,
+        "unit": "item",
+        "type": "solid",
+        "rate": 1.0
+      }
+    ],
+    "outputs": [
+      {
+        "id": "appmek:portable_chemical_cell_64k",
+        "count": 1.0,
+        "unit": "item",
+        "type": "solid",
+        "rate": 1.0
+      }
+    ]
+  },
+  {
+    "recipe_id": "appmek:upgrade/portable_chemical_cell_4k_to_16k",
+    "mod_id": "appmek",
+    "recipe_type": "minecraft:crafting",
+    "inputs": [],
+    "outputs": []
+  },
+  {
+    "recipe_id": "appmek:upgrade/chemical_storage_cell_1k_to_4k",
+    "mod_id": "appmek",
+    "recipe_type": "minecraft:crafting",
+    "inputs": [],
+    "outputs": []
+  },
+  {
+    "recipe_id": "appmek:upgrade/chemical_storage_cell_16k_to_64k",
+    "mod_id": "appmek",
+    "recipe_type": "minecraft:crafting",
+    "inputs": [],
+    "outputs": []
+  },
+  {
+    "recipe_id": "appmek:upgrade/portable_chemical_cell_1k_to_16k",
+    "mod_id": "appmek",
+    "recipe_type": "minecraft:crafting",
+    "inputs": [],
+    "outputs": []
+  },
+  {
+    "recipe_id": "appmek:upgrade/chemical_storage_cell_64k_to_256k",
+    "mod_id": "appmek",
+    "recipe_type": "minecraft:crafting",
+    "inputs": [],
+    "outputs": []
+  },
+  {
+    "recipe_id": "appmek:upgrade/chemical_storage_cell_1k_to_4k",
+    "mod_id": "appmek",
+    "recipe_type": "minecraft:crafting",
+    "inputs": [],
+    "outputs": []
+  },
+  {
+    "recipe_id": "appmek:upgrade/chemical_storage_cell_16k_to_64k",
+    "mod_id": "appmek",
+    "recipe_type": "minecraft:crafting",
+    "inputs": [],
+    "outputs": []
+  },
+  {
+    "recipe_id": "appmek:upgrade/portable_chemical_cell_1k_to_16k",
+    "mod_id": "appmek",
+    "recipe_type": "minecraft:crafting",
+    "inputs": [],
+    "outputs": []
+  },
+  {
+    "recipe_id": "appmek:upgrade/chemical_storage_cell_64k_to_256k",
+    "mod_id": "appmek",
+    "recipe_type": "minecraft:crafting",
+    "inputs": [],
+    "outputs": []
+  },
+  {
+    "recipe_id": "appmek:chemical_storage_cell_4k",
+    "mod_id": "appmek",
+    "recipe_type": "minecraft:crafting_shapeless",
+    "inputs": [
+      {
+        "id": "appmek:chemical_cell_housing",
+        "count": 1.0,
+        "unit": "item",
+        "type": "solid",
+        "rate": 1.0
+      },
+      {
+        "id": "ae2:cell_component_4k",
+        "count": 1.0,
+        "unit": "item",
+        "type": "solid",
+        "rate": 1.0
+      }
+    ],
+    "outputs": [
+      {
+        "id": "appmek:chemical_storage_cell_4k",
+        "count": 1.0,
+        "unit": "item",
+        "type": "solid",
+        "rate": 1.0
+      }
+    ]
+  },
+  {
+    "recipe_id": "appmek:chemical_storage_cell_1k",
+    "mod_id": "appmek",
+    "recipe_type": "minecraft:crafting_shapeless",
+    "inputs": [
+      {
+        "id": "appmek:chemical_cell_housing",
+        "count": 1.0,
+        "unit": "item",
+        "type": "solid",
+        "rate": 1.0
+      },
+      {
+        "id": "ae2:cell_component_1k",
+        "count": 1.0,
+        "unit": "item",
+        "type": "solid",
+        "rate": 1.0
+      }
+    ],
+    "outputs": [
+      {
+        "id": "appmek:chemical_storage_cell_1k",
+        "count": 1.0,
+        "unit": "item",
+        "type": "solid",
+        "rate": 1.0
+      }
+    ]
+  },
+  {
+    "recipe_id": "appmek:upgrade/portable_chemical_cell_16k_to_64k",
+    "mod_id": "appmek",
+    "recipe_type": "minecraft:crafting",
+    "inputs": [],
+    "outputs": []
+  },
+  {
+    "recipe_id": "appmek:upgrade/chemical_storage_cell_4k_to_256k",
+    "mod_id": "appmek",
+    "recipe_type": "minecraft:crafting",
+    "inputs": [],
+    "outputs": []
+  },
+  {
+    "recipe_id": "appmek:chemical_storage_cell_16k",
+    "mod_id": "appmek",
+    "recipe_type": "minecraft:crafting_shapeless",
+    "inputs": [
+      {
+        "id": "appmek:chemical_cell_housing",
+        "count": 1.0,
+        "unit": "item",
+        "type": "solid",
+        "rate": 1.0
+      },
+      {
+        "id": "ae2:cell_component_16k",
+        "count": 1.0,
+        "unit": "item",
+        "type": "solid",
+        "rate": 1.0
+      }
+    ],
+    "outputs": [
+      {
+        "id": "appmek:chemical_storage_cell_16k",
+        "count": 1.0,
+        "unit": "item",
+        "type": "solid",
+        "rate": 1.0
+      }
+    ]
+  },
+  {
+    "recipe_id": "appmek:upgrade/portable_chemical_cell_16k_to_256k",
+    "mod_id": "appmek",
+    "recipe_type": "minecraft:crafting",
+    "inputs": [],
+    "outputs": []
+  },
+  {
+    "recipe_id": "appmek:upgrade/chemical_storage_cell_16k_to_256k",
+    "mod_id": "appmek",
+    "recipe_type": "minecraft:crafting",
+    "inputs": [],
+    "outputs": []
+  },
+  {
+    "recipe_id": "appmek:upgrade/portable_chemical_cell_1k_to_4k",
+    "mod_id": "appmek",
+    "recipe_type": "minecraft:crafting",
+    "inputs": [],
+    "outputs": []
+  },
+  {
+    "recipe_id": "appmek:upgrade/portable_chemical_cell_64k_to_256k",
+    "mod_id": "appmek",
+    "recipe_type": "minecraft:crafting",
+    "inputs": [],
+    "outputs": []
+  },
+  {
+    "recipe_id": "appmek:chemical_cell_housing",
+    "mod_id": "appmek",
+    "recipe_type": "minecraft:crafting_shaped",
+    "inputs": [
+      {
+        "id": "ae2:quartz_glass",
+        "count": 2.0,
+        "unit": "item",
+        "type": "solid",
+        "rate": 1.0
+      },
+      {
+        "id": "c:dusts/redstone",
+        "count": 3.0,
+        "unit": "item",
+        "type": "solid",
+        "rate": 1.0
+      },
+      {
+        "id": "c:ingots/osmium",
+        "count": 3.0,
+        "unit": "item",
+        "type": "solid",
+        "rate": 1.0
+      }
+    ],
+    "outputs": [
+      {
+        "id": "appmek:chemical_cell_housing",
+        "count": 1.0,
+        "unit": "item",
+        "type": "solid",
+        "rate": 1.0
+      }
+    ]
+  },
+  {
+    "recipe_id": "appmek:upgrade/portable_chemical_cell_4k_to_256k",
+    "mod_id": "appmek",
+    "recipe_type": "minecraft:crafting",
+    "inputs": [],
+    "outputs": []
+  },
+  {
+    "recipe_id": "appmek:upgrade/chemical_storage_cell_1k_to_64k",
+    "mod_id": "appmek",
+    "recipe_type": "minecraft:crafting",
+    "inputs": [],
+    "outputs": []
+  },
+  {
+    "recipe_id": "appmek:chemical_storage_cell_64k",
+    "mod_id": "appmek",
+    "recipe_type": "minecraft:crafting_shapeless",
+    "inputs": [
+      {
+        "id": "appmek:chemical_cell_housing",
+        "count": 1.0,
+        "unit": "item",
+        "type": "solid",
+        "rate": 1.0
+      },
+      {
+        "id": "ae2:cell_component_64k",
+        "count": 1.0,
+        "unit": "item",
+        "type": "solid",
+        "rate": 1.0
+      }
+    ],
+    "outputs": [
+      {
+        "id": "appmek:chemical_storage_cell_64k",
+        "count": 1.0,
+        "unit": "item",
+        "type": "solid",
+        "rate": 1.0
+      }
+    ]
+  },
+  {
+    "recipe_id": "appmek:upgrade/portable_chemical_cell_1k_to_256k",
+    "mod_id": "appmek",
+    "recipe_type": "minecraft:crafting",
+    "inputs": [],
+    "outputs": []
+  },
+  {
+    "recipe_id": "appmek:portable_chemical_cell_256k",
+    "mod_id": "appmek",
+    "recipe_type": "minecraft:crafting_shapeless",
+    "inputs": [
+      {
+        "id": "ae2:chest",
+        "count": 1.0,
+        "unit": "item",
+        "type": "solid",
+        "rate": 1.0
+      },
+      {
+        "id": "ae2:cell_component_256k",
+        "count": 1.0,
+        "unit": "item",
+        "type": "solid",
+        "rate": 1.0
+      },
+      {
+        "id": "ae2:energy_cell",
+        "count": 1.0,
+        "unit": "item",
+        "type": "solid",
+        "rate": 1.0
+      },
+      {
+        "id": "appmek:chemical_cell_housing",
+        "count": 1.0,
+        "unit": "item",
+        "type": "solid",
+        "rate": 1.0
+      }
+    ],
+    "outputs": [
+      {
+        "id": "appmek:portable_chemical_cell_256k",
+        "count": 1.0,
+        "unit": "item",
+        "type": "solid",
+        "rate": 1.0
+      }
+    ]
+  },
+  {
+    "recipe_id": "appmek:portable_chemical_cell_4k",
+    "mod_id": "appmek",
+    "recipe_type": "minecraft:crafting_shapeless",
+    "inputs": [
+      {
+        "id": "ae2:chest",
+        "count": 1.0,
+        "unit": "item",
+        "type": "solid",
+        "rate": 1.0
+      },
+      {
+        "id": "ae2:cell_component_4k",
+        "count": 1.0,
+        "unit": "item",
+        "type": "solid",
+        "rate": 1.0
+      },
+      {
+        "id": "ae2:energy_cell",
+        "count": 1.0,
+        "unit": "item",
+        "type": "solid",
+        "rate": 1.0
+      },
+      {
+        "id": "appmek:chemical_cell_housing",
+        "count": 1.0,
+        "unit": "item",
+        "type": "solid",
+        "rate": 1.0
+      }
+    ],
+    "outputs": [
+      {
+        "id": "appmek:portable_chemical_cell_4k",
+        "count": 1.0,
+        "unit": "item",
+        "type": "solid",
+        "rate": 1.0
+      }
+    ]
+  },
+  {
+    "recipe_id": "appmek:portable_chemical_cell_1k",
+    "mod_id": "appmek",
+    "recipe_type": "minecraft:crafting_shapeless",
+    "inputs": [
+      {
+        "id": "ae2:chest",
+        "count": 1.0,
+        "unit": "item",
+        "type": "solid",
+        "rate": 1.0
+      },
+      {
+        "id": "ae2:cell_component_1k",
+        "count": 1.0,
+        "unit": "item",
+        "type": "solid",
+        "rate": 1.0
+      },
+      {
+        "id": "ae2:energy_cell",
+        "count": 1.0,
+        "unit": "item",
+        "type": "solid",
+        "rate": 1.0
+      },
+      {
+        "id": "appmek:chemical_cell_housing",
+        "count": 1.0,
+        "unit": "item",
+        "type": "solid",
+        "rate": 1.0
+      }
+    ],
+    "outputs": [
+      {
+        "id": "appmek:portable_chemical_cell_1k",
+        "count": 1.0,
+        "unit": "item",
+        "type": "solid",
+        "rate": 1.0
+      }
+    ]
+  },
+  {
+    "recipe_id": "appmek:upgrade/chemical_storage_cell_4k_to_16k",
+    "mod_id": "appmek",
+    "recipe_type": "minecraft:crafting",
+    "inputs": [],
+    "outputs": []
+  },
+  {
+    "recipe_id": "appmek:upgrade/chemical_storage_cell_1k_to_16k",
+    "mod_id": "appmek",
+    "recipe_type": "minecraft:crafting",
+    "inputs": [],
+    "outputs": []
+  },
+  {
+    "recipe_id": "appmek:upgrade/portable_chemical_cell_4k_to_64k",
+    "mod_id": "appmek",
+    "recipe_type": "minecraft:crafting",
+    "inputs": [],
+    "outputs": []
+  },
+  {
+    "recipe_id": "appmek:chemical_storage_cell_256k",
+    "mod_id": "appmek",
+    "recipe_type": "minecraft:crafting_shapeless",
+    "inputs": [
+      {
+        "id": "appmek:chemical_cell_housing",
+        "count": 1.0,
+        "unit": "item",
+        "type": "solid",
+        "rate": 1.0
+      },
+      {
+        "id": "ae2:cell_component_256k",
+        "count": 1.0,
+        "unit": "item",
+        "type": "solid",
+        "rate": 1.0
+      }
+    ],
+    "outputs": [
+      {
+        "id": "appmek:chemical_storage_cell_256k",
+        "count": 1.0,
+        "unit": "item",
+        "type": "solid",
+        "rate": 1.0
+      }
+    ]
+  },
+  {
+    "recipe_id": "appmek:portable_chemical_cell_16k",
+    "mod_id": "appmek",
+    "recipe_type": "minecraft:crafting_shapeless",
+    "inputs": [
+      {
+        "id": "ae2:chest",
+        "count": 1.0,
+        "unit": "item",
+        "type": "solid",
+        "rate": 1.0
+      },
+      {
+        "id": "ae2:cell_component_16k",
+        "count": 1.0,
+        "unit": "item",
+        "type": "solid",
+        "rate": 1.0
+      },
+      {
+        "id": "ae2:energy_cell",
+        "count": 1.0,
+        "unit": "item",
+        "type": "solid",
+        "rate": 1.0
+      },
+      {
+        "id": "appmek:chemical_cell_housing",
+        "count": 1.0,
+        "unit": "item",
+        "type": "solid",
+        "rate": 1.0
+      }
+    ],
+    "outputs": [
+      {
+        "id": "appmek:portable_chemical_cell_16k",
+        "count": 1.0,
+        "unit": "item",
+        "type": "solid",
+        "rate": 1.0
+      }
+    ]
+  },
+  {
+    "recipe_id": "appmek:upgrade/chemical_storage_cell_1k_to_4k",
+    "mod_id": "appmek",
+    "recipe_type": "minecraft:crafting",
+    "inputs": [],
+    "outputs": []
+  },
+  {
+    "recipe_id": "appmek:upgrade/chemical_storage_cell_16k_to_64k",
+    "mod_id": "appmek",
+    "recipe_type": "minecraft:crafting",
+    "inputs": [],
+    "outputs": []
+  },
+  {
+    "recipe_id": "appmek:upgrade/chemical_storage_cell_1k_to_256k",
+    "mod_id": "appmek",
+    "recipe_type": "minecraft:crafting",
+    "inputs": [],
+    "outputs": []
+  },
+  {
+    "recipe_id": "appmek:upgrade/portable_chemical_cell_1k_to_16k",
+    "mod_id": "appmek",
+    "recipe_type": "minecraft:crafting",
+    "inputs": [],
+    "outputs": []
+  },
+  {
+    "recipe_id": "appmek:upgrade/portable_chemical_cell_1k_to_64k",
+    "mod_id": "appmek",
+    "recipe_type": "minecraft:crafting",
+    "inputs": [],
+    "outputs": []
+  },
+  {
+    "recipe_id": "appmek:upgrade/chemical_storage_cell_4k_to_64k",
+    "mod_id": "appmek",
+    "recipe_type": "minecraft:crafting",
+    "inputs": [],
+    "outputs": []
+  },
+  {
+    "recipe_id": "appmek:portable_chemical_cell_64k",
+    "mod_id": "appmek",
+    "recipe_type": "minecraft:crafting_shapeless",
+    "inputs": [
+      {
+        "id": "ae2:chest",
+        "count": 1.0,
+        "unit": "item",
+        "type": "solid",
+        "rate": 1.0
+      },
+      {
+        "id": "ae2:cell_component_64k",
+        "count": 1.0,
+        "unit": "item",
+        "type": "solid",
+        "rate": 1.0
+      },
+      {
+        "id": "ae2:energy_cell",
+        "count": 1.0,
+        "unit": "item",
+        "type": "solid",
+        "rate": 1.0
+      },
+      {
+        "id": "appmek:chemical_cell_housing",
+        "count": 1.0,
+        "unit": "item",
+        "type": "solid",
+        "rate": 1.0
+      }
+    ],
+    "outputs": [
+      {
+        "id": "appmek:portable_chemical_cell_64k",
+        "count": 1.0,
+        "unit": "item",
+        "type": "solid",
+        "rate": 1.0
+      }
+    ]
+  },
+  {
+    "recipe_id": "appmek:upgrade/portable_chemical_cell_4k_to_16k",
+    "mod_id": "appmek",
+    "recipe_type": "minecraft:crafting",
+    "inputs": [],
+    "outputs": []
+  },
+  {
+    "recipe_id": "appmek:upgrade/chemical_storage_cell_64k_to_256k",
+    "mod_id": "appmek",
+    "recipe_type": "minecraft:crafting",
+    "inputs": [],
+    "outputs": []
+  },
+  {
+    "recipe_id": "appmek:chemical_storage_cell_4k",
+    "mod_id": "appmek",
+    "recipe_type": "minecraft:crafting_shapeless",
+    "inputs": [
+      {
+        "id": "appmek:chemical_cell_housing",
+        "count": 1.0,
+        "unit": "item",
+        "type": "solid",
+        "rate": 1.0
+      },
+      {
+        "id": "ae2:cell_component_4k",
+        "count": 1.0,
+        "unit": "item",
+        "type": "solid",
+        "rate": 1.0
+      }
+    ],
+    "outputs": [
+      {
+        "id": "appmek:chemical_storage_cell_4k",
+        "count": 1.0,
+        "unit": "item",
+        "type": "solid",
+        "rate": 1.0
+      }
+    ]
+  },
+  {
+    "recipe_id": "appmek:chemical_storage_cell_1k",
+    "mod_id": "appmek",
+    "recipe_type": "minecraft:crafting_shapeless",
+    "inputs": [
+      {
+        "id": "appmek:chemical_cell_housing",
+        "count": 1.0,
+        "unit": "item",
+        "type": "solid",
+        "rate": 1.0
+      },
+      {
+        "id": "ae2:cell_component_1k",
+        "count": 1.0,
+        "unit": "item",
+        "type": "solid",
+        "rate": 1.0
+      }
+    ],
+    "outputs": [
+      {
+        "id": "appmek:chemical_storage_cell_1k",
+        "count": 1.0,
+        "unit": "item",
+        "type": "solid",
+        "rate": 1.0
+      }
+    ]
+  },
+  {
+    "recipe_id": "appmek:upgrade/portable_chemical_cell_16k_to_64k",
+    "mod_id": "appmek",
+    "recipe_type": "minecraft:crafting",
+    "inputs": [],
+    "outputs": []
+  },
+  {
+    "recipe_id": "appmek:upgrade/chemical_storage_cell_4k_to_256k",
+    "mod_id": "appmek",
+    "recipe_type": "minecraft:crafting",
+    "inputs": [],
+    "outputs": []
+  },
+  {
+    "recipe_id": "appmek:chemical_storage_cell_16k",
+    "mod_id": "appmek",
+    "recipe_type": "minecraft:crafting_shapeless",
+    "inputs": [
+      {
+        "id": "appmek:chemical_cell_housing",
+        "count": 1.0,
+        "unit": "item",
+        "type": "solid",
+        "rate": 1.0
+      },
+      {
+        "id": "ae2:cell_component_16k",
+        "count": 1.0,
+        "unit": "item",
+        "type": "solid",
+        "rate": 1.0
+      }
+    ],
+    "outputs": [
+      {
+        "id": "appmek:chemical_storage_cell_16k",
+        "count": 1.0,
+        "unit": "item",
+        "type": "solid",
+        "rate": 1.0
+      }
+    ]
+  },
+  {
+    "recipe_id": "appmek:upgrade/portable_chemical_cell_16k_to_256k",
+    "mod_id": "appmek",
+    "recipe_type": "minecraft:crafting",
+    "inputs": [],
+    "outputs": []
+  },
+  {
+    "recipe_id": "appmek:upgrade/chemical_storage_cell_16k_to_256k",
+    "mod_id": "appmek",
+    "recipe_type": "minecraft:crafting",
+    "inputs": [],
+    "outputs": []
+  },
+  {
+    "recipe_id": "appmek:upgrade/portable_chemical_cell_1k_to_4k",
+    "mod_id": "appmek",
+    "recipe_type": "minecraft:crafting",
+    "inputs": [],
+    "outputs": []
+  },
+  {
+    "recipe_id": "appmek:upgrade/portable_chemical_cell_64k_to_256k",
+    "mod_id": "appmek",
+    "recipe_type": "minecraft:crafting",
+    "inputs": [],
+    "outputs": []
+  },
+  {
+    "recipe_id": "appmek:chemical_cell_housing",
+    "mod_id": "appmek",
+    "recipe_type": "minecraft:crafting_shaped",
+    "inputs": [
+      {
+        "id": "ae2:quartz_glass",
+        "count": 2.0,
+        "unit": "item",
+        "type": "solid",
+        "rate": 1.0
+      },
+      {
+        "id": "c:dusts/redstone",
+        "count": 3.0,
+        "unit": "item",
+        "type": "solid",
+        "rate": 1.0
+      },
+      {
+        "id": "c:ingots/osmium",
+        "count": 3.0,
+        "unit": "item",
+        "type": "solid",
+        "rate": 1.0
+      }
+    ],
+    "outputs": [
+      {
+        "id": "appmek:chemical_cell_housing",
+        "count": 1.0,
+        "unit": "item",
+        "type": "solid",
+        "rate": 1.0
+      }
+    ]
+  },
+  {
+    "recipe_id": "appmek:upgrade/portable_chemical_cell_4k_to_256k",
+    "mod_id": "appmek",
+    "recipe_type": "minecraft:crafting",
+    "inputs": [],
+    "outputs": []
+  },
+  {
+    "recipe_id": "appmek:upgrade/chemical_storage_cell_1k_to_64k",
+    "mod_id": "appmek",
+    "recipe_type": "minecraft:crafting",
+    "inputs": [],
+    "outputs": []
+  },
+  {
+    "recipe_id": "appmek:chemical_storage_cell_64k",
+    "mod_id": "appmek",
+    "recipe_type": "minecraft:crafting_shapeless",
+    "inputs": [
+      {
+        "id": "appmek:chemical_cell_housing",
+        "count": 1.0,
+        "unit": "item",
+        "type": "solid",
+        "rate": 1.0
+      },
+      {
+        "id": "ae2:cell_component_64k",
+        "count": 1.0,
+        "unit": "item",
+        "type": "solid",
+        "rate": 1.0
+      }
+    ],
+    "outputs": [
+      {
+        "id": "appmek:chemical_storage_cell_64k",
+        "count": 1.0,
+        "unit": "item",
+        "type": "solid",
+        "rate": 1.0
+      }
+    ]
+  },
+  {
+    "recipe_id": "appmek:upgrade/portable_chemical_cell_1k_to_256k",
+    "mod_id": "appmek",
+    "recipe_type": "minecraft:crafting",
+    "inputs": [],
+    "outputs": []
+  },
+  {
+    "recipe_id": "appmek:portable_chemical_cell_256k",
+    "mod_id": "appmek",
+    "recipe_type": "minecraft:crafting_shapeless",
+    "inputs": [
+      {
+        "id": "ae2:chest",
+        "count": 1.0,
+        "unit": "item",
+        "type": "solid",
+        "rate": 1.0
+      },
+      {
+        "id": "ae2:cell_component_256k",
+        "count": 1.0,
+        "unit": "item",
+        "type": "solid",
+        "rate": 1.0
+      },
+      {
+        "id": "ae2:energy_cell",
+        "count": 1.0,
+        "unit": "item",
+        "type": "solid",
+        "rate": 1.0
+      },
+      {
+        "id": "appmek:chemical_cell_housing",
+        "count": 1.0,
+        "unit": "item",
+        "type": "solid",
+        "rate": 1.0
+      }
+    ],
+    "outputs": [
+      {
+        "id": "appmek:portable_chemical_cell_256k",
+        "count": 1.0,
+        "unit": "item",
+        "type": "solid",
+        "rate": 1.0
+      }
+    ]
+  },
+  {
+    "recipe_id": "appmek:portable_chemical_cell_4k",
+    "mod_id": "appmek",
+    "recipe_type": "minecraft:crafting_shapeless",
+    "inputs": [
+      {
+        "id": "ae2:chest",
+        "count": 1.0,
+        "unit": "item",
+        "type": "solid",
+        "rate": 1.0
+      },
+      {
+        "id": "ae2:cell_component_4k",
+        "count": 1.0,
+        "unit": "item",
+        "type": "solid",
+        "rate": 1.0
+      },
+      {
+        "id": "ae2:energy_cell",
+        "count": 1.0,
+        "unit": "item",
+        "type": "solid",
+        "rate": 1.0
+      },
+      {
+        "id": "appmek:chemical_cell_housing",
+        "count": 1.0,
+        "unit": "item",
+        "type": "solid",
+        "rate": 1.0
+      }
+    ],
+    "outputs": [
+      {
+        "id": "appmek:portable_chemical_cell_4k",
+        "count": 1.0,
+        "unit": "item",
+        "type": "solid",
+        "rate": 1.0
+      }
+    ]
+  },
+  {
+    "recipe_id": "appmek:portable_chemical_cell_1k",
+    "mod_id": "appmek",
+    "recipe_type": "minecraft:crafting_shapeless",
+    "inputs": [
+      {
+        "id": "ae2:chest",
+        "count": 1.0,
+        "unit": "item",
+        "type": "solid",
+        "rate": 1.0
+      },
+      {
+        "id": "ae2:cell_component_1k",
+        "count": 1.0,
+        "unit": "item",
+        "type": "solid",
+        "rate": 1.0
+      },
+      {
+        "id": "ae2:energy_cell",
+        "count": 1.0,
+        "unit": "item",
+        "type": "solid",
+        "rate": 1.0
+      },
+      {
+        "id": "appmek:chemical_cell_housing",
+        "count": 1.0,
+        "unit": "item",
+        "type": "solid",
+        "rate": 1.0
+      }
+    ],
+    "outputs": [
+      {
+        "id": "appmek:portable_chemical_cell_1k",
+        "count": 1.0,
+        "unit": "item",
+        "type": "solid",
+        "rate": 1.0
+      }
+    ]
+  },
+  {
+    "recipe_id": "appmek:upgrade/chemical_storage_cell_4k_to_16k",
+    "mod_id": "appmek",
+    "recipe_type": "minecraft:crafting",
+    "inputs": [],
+    "outputs": []
+  },
+  {
+    "recipe_id": "appmek:upgrade/chemical_storage_cell_1k_to_16k",
+    "mod_id": "appmek",
+    "recipe_type": "minecraft:crafting",
+    "inputs": [],
+    "outputs": []
+  },
+  {
+    "recipe_id": "appmek:upgrade/portable_chemical_cell_4k_to_64k",
+    "mod_id": "appmek",
+    "recipe_type": "minecraft:crafting",
+    "inputs": [],
+    "outputs": []
+  },
+  {
+    "recipe_id": "appmek:chemical_storage_cell_256k",
+    "mod_id": "appmek",
+    "recipe_type": "minecraft:crafting_shapeless",
+    "inputs": [
+      {
+        "id": "appmek:chemical_cell_housing",
+        "count": 1.0,
+        "unit": "item",
+        "type": "solid",
+        "rate": 1.0
+      },
+      {
+        "id": "ae2:cell_component_256k",
+        "count": 1.0,
+        "unit": "item",
+        "type": "solid",
+        "rate": 1.0
+      }
+    ],
+    "outputs": [
+      {
+        "id": "appmek:chemical_storage_cell_256k",
+        "count": 1.0,
+        "unit": "item",
+        "type": "solid",
+        "rate": 1.0
+      }
+    ]
+  },
+  {
+    "recipe_id": "appmek:portable_chemical_cell_16k",
+    "mod_id": "appmek",
+    "recipe_type": "minecraft:crafting_shapeless",
+    "inputs": [
+      {
+        "id": "ae2:chest",
+        "count": 1.0,
+        "unit": "item",
+        "type": "solid",
+        "rate": 1.0
+      },
+      {
+        "id": "ae2:cell_component_16k",
+        "count": 1.0,
+        "unit": "item",
+        "type": "solid",
+        "rate": 1.0
+      },
+      {
+        "id": "ae2:energy_cell",
+        "count": 1.0,
+        "unit": "item",
+        "type": "solid",
+        "rate": 1.0
+      },
+      {
+        "id": "appmek:chemical_cell_housing",
+        "count": 1.0,
+        "unit": "item",
+        "type": "solid",
+        "rate": 1.0
+      }
+    ],
+    "outputs": [
+      {
+        "id": "appmek:portable_chemical_cell_16k",
+        "count": 1.0,
+        "unit": "item",
+        "type": "solid",
+        "rate": 1.0
+      }
+    ]
+  },
+  {
+    "recipe_id": "appmek:upgrade/chemical_storage_cell_1k_to_256k",
+    "mod_id": "appmek",
+    "recipe_type": "minecraft:crafting",
+    "inputs": [],
+    "outputs": []
+  },
+  {
+    "recipe_id": "appmek:upgrade/portable_chemical_cell_1k_to_64k",
+    "mod_id": "appmek",
+    "recipe_type": "minecraft:crafting",
+    "inputs": [],
+    "outputs": []
+  },
+  {
+    "recipe_id": "appmek:upgrade/chemical_storage_cell_4k_to_64k",
+    "mod_id": "appmek",
+    "recipe_type": "minecraft:crafting",
+    "inputs": [],
+    "outputs": []
+  },
+  {
+    "recipe_id": "appmek:portable_chemical_cell_64k",
+    "mod_id": "appmek",
+    "recipe_type": "minecraft:crafting_shapeless",
+    "inputs": [
+      {
+        "id": "ae2:chest",
+        "count": 1.0,
+        "unit": "item",
+        "type": "solid",
+        "rate": 1.0
+      },
+      {
+        "id": "ae2:cell_component_64k",
+        "count": 1.0,
+        "unit": "item",
+        "type": "solid",
+        "rate": 1.0
+      },
+      {
+        "id": "ae2:energy_cell",
+        "count": 1.0,
+        "unit": "item",
+        "type": "solid",
+        "rate": 1.0
+      },
+      {
+        "id": "appmek:chemical_cell_housing",
+        "count": 1.0,
+        "unit": "item",
+        "type": "solid",
+        "rate": 1.0
+      }
+    ],
+    "outputs": [
+      {
+        "id": "appmek:portable_chemical_cell_64k",
+        "count": 1.0,
+        "unit": "item",
+        "type": "solid",
+        "rate": 1.0
+      }
+    ]
+  },
+  {
+    "recipe_id": "appmek:upgrade/portable_chemical_cell_4k_to_16k",
+    "mod_id": "appmek",
+    "recipe_type": "minecraft:crafting",
+    "inputs": [],
+    "outputs": []
+  },
+  {
+    "recipe_id": "appmek:upgrade/chemical_storage_cell_1k_to_4k",
+    "mod_id": "appmek",
+    "recipe_type": "minecraft:crafting",
+    "inputs": [],
+    "outputs": []
+  },
+  {
+    "recipe_id": "appmek:upgrade/chemical_storage_cell_16k_to_64k",
+    "mod_id": "appmek",
+    "recipe_type": "minecraft:crafting",
+    "inputs": [],
+    "outputs": []
+  },
+  {
+    "recipe_id": "appmek:upgrade/portable_chemical_cell_1k_to_16k",
+    "mod_id": "appmek",
+    "recipe_type": "minecraft:crafting",
+    "inputs": [],
+    "outputs": []
+  },
+  {
+    "recipe_id": "appmek:upgrade/chemical_storage_cell_64k_to_256k",
+    "mod_id": "appmek",
+    "recipe_type": "minecraft:crafting",
+    "inputs": [],
+    "outputs": []
+  },
+  {
+    "recipe_id": "appmek:chemical_storage_cell_4k",
+    "mod_id": "appmek",
+    "recipe_type": "minecraft:crafting_shapeless",
+    "inputs": [
+      {
+        "id": "appmek:chemical_cell_housing",
+        "count": 1.0,
+        "unit": "item",
+        "type": "solid",
+        "rate": 1.0
+      },
+      {
+        "id": "ae2:cell_component_4k",
+        "count": 1.0,
+        "unit": "item",
+        "type": "solid",
+        "rate": 1.0
+      }
+    ],
+    "outputs": [
+      {
+        "id": "appmek:chemical_storage_cell_4k",
+        "count": 1.0,
+        "unit": "item",
+        "type": "solid",
+        "rate": 1.0
+      }
+    ]
+  },
+  {
+    "recipe_id": "appmek:chemical_storage_cell_1k",
+    "mod_id": "appmek",
+    "recipe_type": "minecraft:crafting_shapeless",
+    "inputs": [
+      {
+        "id": "appmek:chemical_cell_housing",
+        "count": 1.0,
+        "unit": "item",
+        "type": "solid",
+        "rate": 1.0
+      },
+      {
+        "id": "ae2:cell_component_1k",
+        "count": 1.0,
+        "unit": "item",
+        "type": "solid",
+        "rate": 1.0
+      }
+    ],
+    "outputs": [
+      {
+        "id": "appmek:chemical_storage_cell_1k",
+        "count": 1.0,
+        "unit": "item",
+        "type": "solid",
+        "rate": 1.0
+      }
+    ]
+  },
+  {
+    "recipe_id": "appmek:upgrade/portable_chemical_cell_16k_to_64k",
+    "mod_id": "appmek",
+    "recipe_type": "minecraft:crafting",
+    "inputs": [],
+    "outputs": []
+  },
+  {
+    "recipe_id": "appmek:upgrade/chemical_storage_cell_4k_to_256k",
+    "mod_id": "appmek",
+    "recipe_type": "minecraft:crafting",
+    "inputs": [],
+    "outputs": []
+  },
+  {
+    "recipe_id": "appmek:chemical_storage_cell_16k",
+    "mod_id": "appmek",
+    "recipe_type": "minecraft:crafting_shapeless",
+    "inputs": [
+      {
+        "id": "appmek:chemical_cell_housing",
+        "count": 1.0,
+        "unit": "item",
+        "type": "solid",
+        "rate": 1.0
+      },
+      {
+        "id": "ae2:cell_component_16k",
+        "count": 1.0,
+        "unit": "item",
+        "type": "solid",
+        "rate": 1.0
+      }
+    ],
+    "outputs": [
+      {
+        "id": "appmek:chemical_storage_cell_16k",
+        "count": 1.0,
+        "unit": "item",
+        "type": "solid",
+        "rate": 1.0
+      }
+    ]
+  },
+  {
+    "recipe_id": "appmek:upgrade/portable_chemical_cell_16k_to_256k",
+    "mod_id": "appmek",
+    "recipe_type": "minecraft:crafting",
+    "inputs": [],
+    "outputs": []
+  },
+  {
+    "recipe_id": "appmek:upgrade/chemical_storage_cell_16k_to_256k",
+    "mod_id": "appmek",
+    "recipe_type": "minecraft:crafting",
+    "inputs": [],
+    "outputs": []
+  },
+  {
+    "recipe_id": "appmek:upgrade/portable_chemical_cell_1k_to_4k",
+    "mod_id": "appmek",
+    "recipe_type": "minecraft:crafting",
+    "inputs": [],
+    "outputs": []
+  },
+  {
+    "recipe_id": "appmek:upgrade/portable_chemical_cell_64k_to_256k",
+    "mod_id": "appmek",
+    "recipe_type": "minecraft:crafting",
+    "inputs": [],
+    "outputs": []
+  },
+  {
+    "recipe_id": "appmek:chemical_cell_housing",
+    "mod_id": "appmek",
+    "recipe_type": "minecraft:crafting_shaped",
+    "inputs": [
+      {
+        "id": "ae2:quartz_glass",
+        "count": 2.0,
+        "unit": "item",
+        "type": "solid",
+        "rate": 1.0
+      },
+      {
+        "id": "c:dusts/redstone",
+        "count": 3.0,
+        "unit": "item",
+        "type": "solid",
+        "rate": 1.0
+      },
+      {
+        "id": "c:ingots/osmium",
+        "count": 3.0,
+        "unit": "item",
+        "type": "solid",
+        "rate": 1.0
+      }
+    ],
+    "outputs": [
+      {
+        "id": "appmek:chemical_cell_housing",
+        "count": 1.0,
+        "unit": "item",
+        "type": "solid",
+        "rate": 1.0
+      }
+    ]
+  },
+  {
+    "recipe_id": "appmek:upgrade/portable_chemical_cell_4k_to_256k",
+    "mod_id": "appmek",
+    "recipe_type": "minecraft:crafting",
+    "inputs": [],
+    "outputs": []
+  },
+  {
+    "recipe_id": "appmek:upgrade/chemical_storage_cell_1k_to_64k",
+    "mod_id": "appmek",
+    "recipe_type": "minecraft:crafting",
+    "inputs": [],
+    "outputs": []
+  },
+  {
+    "recipe_id": "appmek:chemical_storage_cell_64k",
+    "mod_id": "appmek",
+    "recipe_type": "minecraft:crafting_shapeless",
+    "inputs": [
+      {
+        "id": "appmek:chemical_cell_housing",
+        "count": 1.0,
+        "unit": "item",
+        "type": "solid",
+        "rate": 1.0
+      },
+      {
+        "id": "ae2:cell_component_64k",
+        "count": 1.0,
+        "unit": "item",
+        "type": "solid",
+        "rate": 1.0
+      }
+    ],
+    "outputs": [
+      {
+        "id": "appmek:chemical_storage_cell_64k",
+        "count": 1.0,
+        "unit": "item",
+        "type": "solid",
+        "rate": 1.0
+      }
+    ]
+  },
+  {
+    "recipe_id": "appmek:upgrade/portable_chemical_cell_1k_to_256k",
+    "mod_id": "appmek",
+    "recipe_type": "minecraft:crafting",
+    "inputs": [],
+    "outputs": []
+  },
+  {
+    "recipe_id": "appmek:upgrade/chemical_storage_cell_1k_to_4k",
+    "mod_id": "appmek",
+    "recipe_type": "minecraft:crafting",
+    "inputs": [],
+    "outputs": []
+  },
+  {
+    "recipe_id": "appmek:upgrade/chemical_storage_cell_16k_to_64k",
+    "mod_id": "appmek",
+    "recipe_type": "minecraft:crafting",
+    "inputs": [],
+    "outputs": []
+  },
+  {
+    "recipe_id": "appmek:upgrade/portable_chemical_cell_1k_to_16k",
+    "mod_id": "appmek",
+    "recipe_type": "minecraft:crafting",
+    "inputs": [],
+    "outputs": []
+  },
+  {
+    "recipe_id": "appmek:upgrade/chemical_storage_cell_64k_to_256k",
+    "mod_id": "appmek",
+    "recipe_type": "minecraft:crafting",
+    "inputs": [],
+    "outputs": []
+  },
+  {
+    "recipe_id": "appmek:chemical_storage_cell_4k",
+    "mod_id": "appmek",
+    "recipe_type": "minecraft:crafting_shapeless",
+    "inputs": [
+      {
+        "id": "appmek:chemical_cell_housing",
+        "count": 1.0,
+        "unit": "item",
+        "type": "solid",
+        "rate": 1.0
+      },
+      {
+        "id": "ae2:cell_component_4k",
+        "count": 1.0,
+        "unit": "item",
+        "type": "solid",
+        "rate": 1.0
+      }
+    ],
+    "outputs": [
+      {
+        "id": "appmek:chemical_storage_cell_4k",
+        "count": 1.0,
+        "unit": "item",
+        "type": "solid",
+        "rate": 1.0
+      }
+    ]
+  },
+  {
+    "recipe_id": "appmek:chemical_storage_cell_1k",
+    "mod_id": "appmek",
+    "recipe_type": "minecraft:crafting_shapeless",
+    "inputs": [
+      {
+        "id": "appmek:chemical_cell_housing",
+        "count": 1.0,
+        "unit": "item",
+        "type": "solid",
+        "rate": 1.0
+      },
+      {
+        "id": "ae2:cell_component_1k",
+        "count": 1.0,
+        "unit": "item",
+        "type": "solid",
+        "rate": 1.0
+      }
+    ],
+    "outputs": [
+      {
+        "id": "appmek:chemical_storage_cell_1k",
+        "count": 1.0,
+        "unit": "item",
+        "type": "solid",
+        "rate": 1.0
+      }
+    ]
+  },
+  {
+    "recipe_id": "appmek:upgrade/portable_chemical_cell_16k_to_64k",
+    "mod_id": "appmek",
+    "recipe_type": "minecraft:crafting",
+    "inputs": [],
+    "outputs": []
+  },
+  {
+    "recipe_id": "appmek:upgrade/chemical_storage_cell_4k_to_256k",
+    "mod_id": "appmek",
+    "recipe_type": "minecraft:crafting",
+    "inputs": [],
+    "outputs": []
+  },
+  {
+    "recipe_id": "appmek:chemical_storage_cell_16k",
+    "mod_id": "appmek",
+    "recipe_type": "minecraft:crafting_shapeless",
+    "inputs": [
+      {
+        "id": "appmek:chemical_cell_housing",
+        "count": 1.0,
+        "unit": "item",
+        "type": "solid",
+        "rate": 1.0
+      },
+      {
+        "id": "ae2:cell_component_16k",
+        "count": 1.0,
+        "unit": "item",
+        "type": "solid",
+        "rate": 1.0
+      }
+    ],
+    "outputs": [
+      {
+        "id": "appmek:chemical_storage_cell_16k",
+        "count": 1.0,
+        "unit": "item",
+        "type": "solid",
+        "rate": 1.0
+      }
+    ]
+  },
+  {
+    "recipe_id": "appmek:upgrade/portable_chemical_cell_16k_to_256k",
+    "mod_id": "appmek",
+    "recipe_type": "minecraft:crafting",
+    "inputs": [],
+    "outputs": []
+  },
+  {
+    "recipe_id": "appmek:upgrade/chemical_storage_cell_1k_to_4k",
+    "mod_id": "appmek",
+    "recipe_type": "minecraft:crafting",
+    "inputs": [],
+    "outputs": []
+  },
+  {
+    "recipe_id": "appmek:upgrade/chemical_storage_cell_16k_to_64k",
+    "mod_id": "appmek",
+    "recipe_type": "minecraft:crafting",
+    "inputs": [],
+    "outputs": []
+  },
+  {
+    "recipe_id": "appmek:upgrade/portable_chemical_cell_1k_to_16k",
+    "mod_id": "appmek",
+    "recipe_type": "minecraft:crafting",
+    "inputs": [],
+    "outputs": []
+  },
+  {
+    "recipe_id": "appmek:upgrade/chemical_storage_cell_1k_to_4k",
+    "mod_id": "appmek",
+    "recipe_type": "minecraft:crafting",
+    "inputs": [],
+    "outputs": []
+  },
+  {
+    "recipe_id": "appmek:upgrade/chemical_storage_cell_16k_to_64k",
+    "mod_id": "appmek",
+    "recipe_type": "minecraft:crafting",
+    "inputs": [],
+    "outputs": []
+  },
+  {
+    "recipe_id": "appmek:upgrade/portable_chemical_cell_1k_to_16k",
+    "mod_id": "appmek",
+    "recipe_type": "minecraft:crafting",
+    "inputs": [],
+    "outputs": []
+  },
+  {
+    "recipe_id": "appmek:upgrade/chemical_storage_cell_64k_to_256k",
+    "mod_id": "appmek",
+    "recipe_type": "minecraft:crafting",
+    "inputs": [],
+    "outputs": []
+  },
+  {
+    "recipe_id": "appmek:chemical_storage_cell_4k",
+    "mod_id": "appmek",
+    "recipe_type": "minecraft:crafting_shapeless",
+    "inputs": [
+      {
+        "id": "appmek:chemical_cell_housing",
+        "count": 1.0,
+        "unit": "item",
+        "type": "solid",
+        "rate": 1.0
+      },
+      {
+        "id": "ae2:cell_component_4k",
+        "count": 1.0,
+        "unit": "item",
+        "type": "solid",
+        "rate": 1.0
+      }
+    ],
+    "outputs": [
+      {
+        "id": "appmek:chemical_storage_cell_4k",
+        "count": 1.0,
+        "unit": "item",
+        "type": "solid",
+        "rate": 1.0
+      }
+    ]
+  },
+  {
+    "recipe_id": "appmek:chemical_storage_cell_1k",
+    "mod_id": "appmek",
+    "recipe_type": "minecraft:crafting_shapeless",
+    "inputs": [
+      {
+        "id": "appmek:chemical_cell_housing",
+        "count": 1.0,
+        "unit": "item",
+        "type": "solid",
+        "rate": 1.0
+      },
+      {
+        "id": "ae2:cell_component_1k",
+        "count": 1.0,
+        "unit": "item",
+        "type": "solid",
+        "rate": 1.0
+      }
+    ],
+    "outputs": [
+      {
+        "id": "appmek:chemical_storage_cell_1k",
+        "count": 1.0,
+        "unit": "item",
+        "type": "solid",
+        "rate": 1.0
+      }
+    ]
+  },
+  {
+    "recipe_id": "appmek:upgrade/portable_chemical_cell_16k_to_64k",
+    "mod_id": "appmek",
+    "recipe_type": "minecraft:crafting",
+    "inputs": [],
+    "outputs": []
+  },
+  {
+    "recipe_id": "appmek:upgrade/chemical_storage_cell_4k_to_256k",
+    "mod_id": "appmek",
+    "recipe_type": "minecraft:crafting",
+    "inputs": [],
+    "outputs": []
+  },
+  {
+    "recipe_id": "appmek:chemical_storage_cell_16k",
+    "mod_id": "appmek",
+    "recipe_type": "minecraft:crafting_shapeless",
+    "inputs": [
+      {
+        "id": "appmek:chemical_cell_housing",
+        "count": 1.0,
+        "unit": "item",
+        "type": "solid",
+        "rate": 1.0
+      },
+      {
+        "id": "ae2:cell_component_16k",
+        "count": 1.0,
+        "unit": "item",
+        "type": "solid",
+        "rate": 1.0
+      }
+    ],
+    "outputs": [
+      {
+        "id": "appmek:chemical_storage_cell_16k",
+        "count": 1.0,
+        "unit": "item",
+        "type": "solid",
+        "rate": 1.0
+      }
+    ]
+  },
+  {
+    "recipe_id": "appmek:upgrade/portable_chemical_cell_16k_to_256k",
+    "mod_id": "appmek",
+    "recipe_type": "minecraft:crafting",
+    "inputs": [],
+    "outputs": []
+  },
+  {
+    "recipe_id": "appmek:upgrade/chemical_storage_cell_16k_to_256k",
+    "mod_id": "appmek",
+    "recipe_type": "minecraft:crafting",
+    "inputs": [],
+    "outputs": []
+  },
+  {
+    "recipe_id": "appmek:upgrade/portable_chemical_cell_1k_to_4k",
+    "mod_id": "appmek",
+    "recipe_type": "minecraft:crafting",
+    "inputs": [],
+    "outputs": []
+  },
+  {
+    "recipe_id": "appmek:upgrade/portable_chemical_cell_64k_to_256k",
+    "mod_id": "appmek",
+    "recipe_type": "minecraft:crafting",
+    "inputs": [],
+    "outputs": []
+  },
+  {
+    "recipe_id": "appmek:chemical_cell_housing",
+    "mod_id": "appmek",
+    "recipe_type": "minecraft:crafting_shaped",
+    "inputs": [
+      {
+        "id": "ae2:quartz_glass",
+        "count": 2.0,
+        "unit": "item",
+        "type": "solid",
+        "rate": 1.0
+      },
+      {
+        "id": "c:dusts/redstone",
+        "count": 3.0,
+        "unit": "item",
+        "type": "solid",
+        "rate": 1.0
+      },
+      {
+        "id": "c:ingots/osmium",
+        "count": 3.0,
+        "unit": "item",
+        "type": "solid",
+        "rate": 1.0
+      }
+    ],
+    "outputs": [
+      {
+        "id": "appmek:chemical_cell_housing",
+        "count": 1.0,
+        "unit": "item",
+        "type": "solid",
+        "rate": 1.0
+      }
+    ]
+  },
+  {
+    "recipe_id": "appmek:upgrade/portable_chemical_cell_4k_to_256k",
+    "mod_id": "appmek",
+    "recipe_type": "minecraft:crafting",
+    "inputs": [],
+    "outputs": []
+  },
+  {
+    "recipe_id": "appmek:upgrade/chemical_storage_cell_1k_to_4k",
+    "mod_id": "appmek",
+    "recipe_type": "minecraft:crafting",
+    "inputs": [],
+    "outputs": []
+  },
+  {
+    "recipe_id": "appmek:upgrade/chemical_storage_cell_16k_to_64k",
+    "mod_id": "appmek",
+    "recipe_type": "minecraft:crafting",
+    "inputs": [],
+    "outputs": []
+  },
+  {
+    "recipe_id": "appmek:upgrade/portable_chemical_cell_1k_to_16k",
+    "mod_id": "appmek",
+    "recipe_type": "minecraft:crafting",
+    "inputs": [],
+    "outputs": []
+  },
+  {
+    "recipe_id": "appmek:upgrade/chemical_storage_cell_1k_to_64k",
+    "mod_id": "appmek",
+    "recipe_type": "minecraft:crafting",
+    "inputs": [],
+    "outputs": []
+  },
+  {
+    "recipe_id": "appmek:chemical_storage_cell_64k",
+    "mod_id": "appmek",
+    "recipe_type": "minecraft:crafting_shapeless",
+    "inputs": [
+      {
+        "id": "appmek:chemical_cell_housing",
+        "count": 1.0,
+        "unit": "item",
+        "type": "solid",
+        "rate": 1.0
+      },
+      {
+        "id": "ae2:cell_component_64k",
+        "count": 1.0,
+        "unit": "item",
+        "type": "solid",
+        "rate": 1.0
+      }
+    ],
+    "outputs": [
+      {
+        "id": "appmek:chemical_storage_cell_64k",
+        "count": 1.0,
+        "unit": "item",
+        "type": "solid",
+        "rate": 1.0
+      }
+    ]
+  },
+  {
+    "recipe_id": "appmek:upgrade/portable_chemical_cell_1k_to_256k",
+    "mod_id": "appmek",
+    "recipe_type": "minecraft:crafting",
+    "inputs": [],
+    "outputs": []
+  },
+  {
+    "recipe_id": "appmek:upgrade/chemical_storage_cell_64k_to_256k",
+    "mod_id": "appmek",
+    "recipe_type": "minecraft:crafting",
+    "inputs": [],
+    "outputs": []
+  },
+  {
+    "recipe_id": "appmek:portable_chemical_cell_256k",
+    "mod_id": "appmek",
+    "recipe_type": "minecraft:crafting_shapeless",
+    "inputs": [
+      {
+        "id": "ae2:chest",
+        "count": 1.0,
+        "unit": "item",
+        "type": "solid",
+        "rate": 1.0
+      },
+      {
+        "id": "ae2:cell_component_256k",
+        "count": 1.0,
+        "unit": "item",
+        "type": "solid",
+        "rate": 1.0
+      },
+      {
+        "id": "ae2:energy_cell",
+        "count": 1.0,
+        "unit": "item",
+        "type": "solid",
+        "rate": 1.0
+      },
+      {
+        "id": "appmek:chemical_cell_housing",
+        "count": 1.0,
+        "unit": "item",
+        "type": "solid",
+        "rate": 1.0
+      }
+    ],
+    "outputs": [
+      {
+        "id": "appmek:portable_chemical_cell_256k",
+        "count": 1.0,
+        "unit": "item",
+        "type": "solid",
+        "rate": 1.0
+      }
+    ]
+  },
+  {
+    "recipe_id": "appmek:portable_chemical_cell_4k",
+    "mod_id": "appmek",
+    "recipe_type": "minecraft:crafting_shapeless",
+    "inputs": [
+      {
+        "id": "ae2:chest",
+        "count": 1.0,
+        "unit": "item",
+        "type": "solid",
+        "rate": 1.0
+      },
+      {
+        "id": "ae2:cell_component_4k",
+        "count": 1.0,
+        "unit": "item",
+        "type": "solid",
+        "rate": 1.0
+      },
+      {
+        "id": "ae2:energy_cell",
+        "count": 1.0,
+        "unit": "item",
+        "type": "solid",
+        "rate": 1.0
+      },
+      {
+        "id": "appmek:chemical_cell_housing",
+        "count": 1.0,
+        "unit": "item",
+        "type": "solid",
+        "rate": 1.0
+      }
+    ],
+    "outputs": [
+      {
+        "id": "appmek:portable_chemical_cell_4k",
+        "count": 1.0,
+        "unit": "item",
+        "type": "solid",
+        "rate": 1.0
+      }
+    ]
+  },
+  {
+    "recipe_id": "appmek:portable_chemical_cell_1k",
+    "mod_id": "appmek",
+    "recipe_type": "minecraft:crafting_shapeless",
+    "inputs": [
+      {
+        "id": "ae2:chest",
+        "count": 1.0,
+        "unit": "item",
+        "type": "solid",
+        "rate": 1.0
+      },
+      {
+        "id": "ae2:cell_component_1k",
+        "count": 1.0,
+        "unit": "item",
+        "type": "solid",
+        "rate": 1.0
+      },
+      {
+        "id": "ae2:energy_cell",
+        "count": 1.0,
+        "unit": "item",
+        "type": "solid",
+        "rate": 1.0
+      },
+      {
+        "id": "appmek:chemical_cell_housing",
+        "count": 1.0,
+        "unit": "item",
+        "type": "solid",
+        "rate": 1.0
+      }
+    ],
+    "outputs": [
+      {
+        "id": "appmek:portable_chemical_cell_1k",
+        "count": 1.0,
+        "unit": "item",
+        "type": "solid",
+        "rate": 1.0
+      }
+    ]
+  },
+  {
+    "recipe_id": "appmek:upgrade/chemical_storage_cell_4k_to_16k",
+    "mod_id": "appmek",
+    "recipe_type": "minecraft:crafting",
+    "inputs": [],
+    "outputs": []
+  },
+  {
+    "recipe_id": "appmek:upgrade/chemical_storage_cell_1k_to_16k",
+    "mod_id": "appmek",
+    "recipe_type": "minecraft:crafting",
+    "inputs": [],
+    "outputs": []
+  },
+  {
+    "recipe_id": "appmek:chemical_storage_cell_4k",
+    "mod_id": "appmek",
+    "recipe_type": "minecraft:crafting_shapeless",
+    "inputs": [
+      {
+        "id": "appmek:chemical_cell_housing",
+        "count": 1.0,
+        "unit": "item",
+        "type": "solid",
+        "rate": 1.0
+      },
+      {
+        "id": "ae2:cell_component_4k",
+        "count": 1.0,
+        "unit": "item",
+        "type": "solid",
+        "rate": 1.0
+      }
+    ],
+    "outputs": [
+      {
+        "id": "appmek:chemical_storage_cell_4k",
+        "count": 1.0,
+        "unit": "item",
+        "type": "solid",
+        "rate": 1.0
+      }
+    ]
+  },
+  {
+    "recipe_id": "appmek:chemical_storage_cell_1k",
+    "mod_id": "appmek",
+    "recipe_type": "minecraft:crafting_shapeless",
+    "inputs": [
+      {
+        "id": "appmek:chemical_cell_housing",
+        "count": 1.0,
+        "unit": "item",
+        "type": "solid",
+        "rate": 1.0
+      },
+      {
+        "id": "ae2:cell_component_1k",
+        "count": 1.0,
+        "unit": "item",
+        "type": "solid",
+        "rate": 1.0
+      }
+    ],
+    "outputs": [
+      {
+        "id": "appmek:chemical_storage_cell_1k",
+        "count": 1.0,
+        "unit": "item",
+        "type": "solid",
+        "rate": 1.0
+      }
+    ]
+  },
+  {
+    "recipe_id": "appmek:upgrade/portable_chemical_cell_16k_to_64k",
+    "mod_id": "appmek",
+    "recipe_type": "minecraft:crafting",
+    "inputs": [],
+    "outputs": []
+  },
+  {
+    "recipe_id": "appmek:upgrade/portable_chemical_cell_4k_to_64k",
+    "mod_id": "appmek",
+    "recipe_type": "minecraft:crafting",
+    "inputs": [],
+    "outputs": []
+  },
+  {
+    "recipe_id": "appmek:upgrade/chemical_storage_cell_1k_to_4k",
+    "mod_id": "appmek",
+    "recipe_type": "minecraft:crafting",
+    "inputs": [],
+    "outputs": []
+  },
+  {
+    "recipe_id": "appmek:upgrade/chemical_storage_cell_16k_to_64k",
+    "mod_id": "appmek",
+    "recipe_type": "minecraft:crafting",
+    "inputs": [],
+    "outputs": []
+  },
+  {
+    "recipe_id": "appmek:upgrade/portable_chemical_cell_1k_to_16k",
+    "mod_id": "appmek",
+    "recipe_type": "minecraft:crafting",
+    "inputs": [],
+    "outputs": []
+  },
+  {
+    "recipe_id": "appmek:upgrade/chemical_storage_cell_1k_to_4k",
+    "mod_id": "appmek",
+    "recipe_type": "minecraft:crafting",
+    "inputs": [],
+    "outputs": []
+  },
+  {
+    "recipe_id": "appmek:upgrade/chemical_storage_cell_16k_to_64k",
+    "mod_id": "appmek",
+    "recipe_type": "minecraft:crafting",
+    "inputs": [],
+    "outputs": []
+  },
+  {
+    "recipe_id": "appmek:upgrade/portable_chemical_cell_1k_to_16k",
+    "mod_id": "appmek",
+    "recipe_type": "minecraft:crafting",
+    "inputs": [],
+    "outputs": []
+  },
+  {
+    "recipe_id": "appmek:upgrade/chemical_storage_cell_64k_to_256k",
+    "mod_id": "appmek",
+    "recipe_type": "minecraft:crafting",
+    "inputs": [],
+    "outputs": []
+  },
+  {
+    "recipe_id": "appmek:upgrade/chemical_storage_cell_1k_to_4k",
+    "mod_id": "appmek",
+    "recipe_type": "minecraft:crafting",
+    "inputs": [],
+    "outputs": []
+  },
+  {
+    "recipe_id": "appmek:upgrade/chemical_storage_cell_16k_to_64k",
+    "mod_id": "appmek",
+    "recipe_type": "minecraft:crafting",
+    "inputs": [],
+    "outputs": []
+  },
+  {
+    "recipe_id": "appmek:upgrade/portable_chemical_cell_1k_to_16k",
+    "mod_id": "appmek",
+    "recipe_type": "minecraft:crafting",
+    "inputs": [],
+    "outputs": []
+  },
+  {
+    "recipe_id": "appmek:upgrade/chemical_storage_cell_1k_to_4k",
+    "mod_id": "appmek",
+    "recipe_type": "minecraft:crafting",
+    "inputs": [],
+    "outputs": []
+  },
+  {
+    "recipe_id": "appmek:upgrade/chemical_storage_cell_16k_to_64k",
+    "mod_id": "appmek",
+    "recipe_type": "minecraft:crafting",
+    "inputs": [],
+    "outputs": []
+  },
+  {
+    "recipe_id": "appmek:upgrade/portable_chemical_cell_1k_to_16k",
+    "mod_id": "appmek",
+    "recipe_type": "minecraft:crafting",
+    "inputs": [],
+    "outputs": []
+  },
+  {
+    "recipe_id": "appmek:upgrade/chemical_storage_cell_64k_to_256k",
+    "mod_id": "appmek",
+    "recipe_type": "minecraft:crafting",
+    "inputs": [],
+    "outputs": []
+  },
+  {
+    "recipe_id": "appmek:chemical_storage_cell_4k",
+    "mod_id": "appmek",
+    "recipe_type": "minecraft:crafting_shapeless",
+    "inputs": [
+      {
+        "id": "appmek:chemical_cell_housing",
+        "count": 1.0,
+        "unit": "item",
+        "type": "solid",
+        "rate": 1.0
+      },
+      {
+        "id": "ae2:cell_component_4k",
+        "count": 1.0,
+        "unit": "item",
+        "type": "solid",
+        "rate": 1.0
+      }
+    ],
+    "outputs": [
+      {
+        "id": "appmek:chemical_storage_cell_4k",
+        "count": 1.0,
+        "unit": "item",
+        "type": "solid",
+        "rate": 1.0
+      }
+    ]
+  },
+  {
+    "recipe_id": "appmek:chemical_storage_cell_1k",
+    "mod_id": "appmek",
+    "recipe_type": "minecraft:crafting_shapeless",
+    "inputs": [
+      {
+        "id": "appmek:chemical_cell_housing",
+        "count": 1.0,
+        "unit": "item",
+        "type": "solid",
+        "rate": 1.0
+      },
+      {
+        "id": "ae2:cell_component_1k",
+        "count": 1.0,
+        "unit": "item",
+        "type": "solid",
+        "rate": 1.0
+      }
+    ],
+    "outputs": [
+      {
+        "id": "appmek:chemical_storage_cell_1k",
+        "count": 1.0,
+        "unit": "item",
+        "type": "solid",
+        "rate": 1.0
+      }
+    ]
+  },
+  {
+    "recipe_id": "appmek:upgrade/portable_chemical_cell_16k_to_64k",
+    "mod_id": "appmek",
+    "recipe_type": "minecraft:crafting",
+    "inputs": [],
+    "outputs": []
+  },
+  {
+    "recipe_id": "appmek:upgrade/chemical_storage_cell_4k_to_256k",
+    "mod_id": "appmek",
+    "recipe_type": "minecraft:crafting",
+    "inputs": [],
+    "outputs": []
+  },
+  {
+    "recipe_id": "appmek:chemical_storage_cell_16k",
+    "mod_id": "appmek",
+    "recipe_type": "minecraft:crafting_shapeless",
+    "inputs": [
+      {
+        "id": "appmek:chemical_cell_housing",
+        "count": 1.0,
+        "unit": "item",
+        "type": "solid",
+        "rate": 1.0
+      },
+      {
+        "id": "ae2:cell_component_16k",
+        "count": 1.0,
+        "unit": "item",
+        "type": "solid",
+        "rate": 1.0
+      }
+    ],
+    "outputs": [
+      {
+        "id": "appmek:chemical_storage_cell_16k",
+        "count": 1.0,
+        "unit": "item",
+        "type": "solid",
+        "rate": 1.0
+      }
+    ]
+  },
+  {
+    "recipe_id": "appmek:upgrade/portable_chemical_cell_16k_to_256k",
+    "mod_id": "appmek",
+    "recipe_type": "minecraft:crafting",
+    "inputs": [],
+    "outputs": []
+  },
+  {
+    "recipe_id": "appmek:upgrade/chemical_storage_cell_16k_to_256k",
+    "mod_id": "appmek",
+    "recipe_type": "minecraft:crafting",
+    "inputs": [],
+    "outputs": []
+  },
+  {
+    "recipe_id": "appmek:upgrade/portable_chemical_cell_1k_to_4k",
+    "mod_id": "appmek",
+    "recipe_type": "minecraft:crafting",
+    "inputs": [],
+    "outputs": []
+  },
+  {
+    "recipe_id": "appmek:upgrade/portable_chemical_cell_64k_to_256k",
+    "mod_id": "appmek",
+    "recipe_type": "minecraft:crafting",
+    "inputs": [],
+    "outputs": []
+  },
+  {
+    "recipe_id": "appmek:chemical_cell_housing",
+    "mod_id": "appmek",
+    "recipe_type": "minecraft:crafting_shaped",
+    "inputs": [
+      {
+        "id": "ae2:quartz_glass",
+        "count": 2.0,
+        "unit": "item",
+        "type": "solid",
+        "rate": 1.0
+      },
+      {
+        "id": "c:dusts/redstone",
+        "count": 3.0,
+        "unit": "item",
+        "type": "solid",
+        "rate": 1.0
+      },
+      {
+        "id": "c:ingots/osmium",
+        "count": 3.0,
+        "unit": "item",
+        "type": "solid",
+        "rate": 1.0
+      }
+    ],
+    "outputs": [
+      {
+        "id": "appmek:chemical_cell_housing",
+        "count": 1.0,
+        "unit": "item",
+        "type": "solid",
+        "rate": 1.0
+      }
+    ]
+  },
+  {
+    "recipe_id": "appmek:upgrade/portable_chemical_cell_4k_to_256k",
+    "mod_id": "appmek",
+    "recipe_type": "minecraft:crafting",
+    "inputs": [],
+    "outputs": []
+  },
+  {
+    "recipe_id": "appmek:upgrade/chemical_storage_cell_1k_to_64k",
+    "mod_id": "appmek",
+    "recipe_type": "minecraft:crafting",
+    "inputs": [],
+    "outputs": []
+  },
+  {
+    "recipe_id": "appmek:chemical_storage_cell_64k",
+    "mod_id": "appmek",
+    "recipe_type": "minecraft:crafting_shapeless",
+    "inputs": [
+      {
+        "id": "appmek:chemical_cell_housing",
+        "count": 1.0,
+        "unit": "item",
+        "type": "solid",
+        "rate": 1.0
+      },
+      {
+        "id": "ae2:cell_component_64k",
+        "count": 1.0,
+        "unit": "item",
+        "type": "solid",
+        "rate": 1.0
+      }
+    ],
+    "outputs": [
+      {
+        "id": "appmek:chemical_storage_cell_64k",
+        "count": 1.0,
+        "unit": "item",
+        "type": "solid",
+        "rate": 1.0
+      }
+    ]
+  },
+  {
+    "recipe_id": "appmek:upgrade/portable_chemical_cell_1k_to_256k",
+    "mod_id": "appmek",
+    "recipe_type": "minecraft:crafting",
+    "inputs": [],
+    "outputs": []
+  },
+  {
+    "recipe_id": "appmek:portable_chemical_cell_256k",
+    "mod_id": "appmek",
+    "recipe_type": "minecraft:crafting_shapeless",
+    "inputs": [
+      {
+        "id": "ae2:chest",
+        "count": 1.0,
+        "unit": "item",
+        "type": "solid",
+        "rate": 1.0
+      },
+      {
+        "id": "ae2:cell_component_256k",
+        "count": 1.0,
+        "unit": "item",
+        "type": "solid",
+        "rate": 1.0
+      },
+      {
+        "id": "ae2:energy_cell",
+        "count": 1.0,
+        "unit": "item",
+        "type": "solid",
+        "rate": 1.0
+      },
+      {
+        "id": "appmek:chemical_cell_housing",
+        "count": 1.0,
+        "unit": "item",
+        "type": "solid",
+        "rate": 1.0
+      }
+    ],
+    "outputs": [
+      {
+        "id": "appmek:portable_chemical_cell_256k",
+        "count": 1.0,
+        "unit": "item",
+        "type": "solid",
+        "rate": 1.0
+      }
+    ]
+  },
+  {
+    "recipe_id": "appmek:portable_chemical_cell_4k",
+    "mod_id": "appmek",
+    "recipe_type": "minecraft:crafting_shapeless",
+    "inputs": [
+      {
+        "id": "ae2:chest",
+        "count": 1.0,
+        "unit": "item",
+        "type": "solid",
+        "rate": 1.0
+      },
+      {
+        "id": "ae2:cell_component_4k",
+        "count": 1.0,
+        "unit": "item",
+        "type": "solid",
+        "rate": 1.0
+      },
+      {
+        "id": "ae2:energy_cell",
+        "count": 1.0,
+        "unit": "item",
+        "type": "solid",
+        "rate": 1.0
+      },
+      {
+        "id": "appmek:chemical_cell_housing",
+        "count": 1.0,
+        "unit": "item",
+        "type": "solid",
+        "rate": 1.0
+      }
+    ],
+    "outputs": [
+      {
+        "id": "appmek:portable_chemical_cell_4k",
+        "count": 1.0,
+        "unit": "item",
+        "type": "solid",
+        "rate": 1.0
+      }
+    ]
+  },
+  {
+    "recipe_id": "appmek:portable_chemical_cell_1k",
+    "mod_id": "appmek",
+    "recipe_type": "minecraft:crafting_shapeless",
+    "inputs": [
+      {
+        "id": "ae2:chest",
+        "count": 1.0,
+        "unit": "item",
+        "type": "solid",
+        "rate": 1.0
+      },
+      {
+        "id": "ae2:cell_component_1k",
+        "count": 1.0,
+        "unit": "item",
+        "type": "solid",
+        "rate": 1.0
+      },
+      {
+        "id": "ae2:energy_cell",
+        "count": 1.0,
+        "unit": "item",
+        "type": "solid",
+        "rate": 1.0
+      },
+      {
+        "id": "appmek:chemical_cell_housing",
+        "count": 1.0,
+        "unit": "item",
+        "type": "solid",
+        "rate": 1.0
+      }
+    ],
+    "outputs": [
+      {
+        "id": "appmek:portable_chemical_cell_1k",
+        "count": 1.0,
+        "unit": "item",
+        "type": "solid",
+        "rate": 1.0
+      }
+    ]
+  },
+  {
+    "recipe_id": "appmek:upgrade/chemical_storage_cell_4k_to_16k",
+    "mod_id": "appmek",
+    "recipe_type": "minecraft:crafting",
+    "inputs": [],
+    "outputs": []
+  },
+  {
+    "recipe_id": "appmek:upgrade/chemical_storage_cell_1k_to_16k",
+    "mod_id": "appmek",
+    "recipe_type": "minecraft:crafting",
+    "inputs": [],
+    "outputs": []
+  },
+  {
+    "recipe_id": "appmek:upgrade/portable_chemical_cell_4k_to_64k",
+    "mod_id": "appmek",
+    "recipe_type": "minecraft:crafting",
+    "inputs": [],
+    "outputs": []
+  },
+  {
+    "recipe_id": "appmek:chemical_storage_cell_256k",
+    "mod_id": "appmek",
+    "recipe_type": "minecraft:crafting_shapeless",
+    "inputs": [
+      {
+        "id": "appmek:chemical_cell_housing",
+        "count": 1.0,
+        "unit": "item",
+        "type": "solid",
+        "rate": 1.0
+      },
+      {
+        "id": "ae2:cell_component_256k",
+        "count": 1.0,
+        "unit": "item",
+        "type": "solid",
+        "rate": 1.0
+      }
+    ],
+    "outputs": [
+      {
+        "id": "appmek:chemical_storage_cell_256k",
+        "count": 1.0,
+        "unit": "item",
+        "type": "solid",
+        "rate": 1.0
+      }
+    ]
+  },
+  {
+    "recipe_id": "appmek:portable_chemical_cell_16k",
+    "mod_id": "appmek",
+    "recipe_type": "minecraft:crafting_shapeless",
+    "inputs": [
+      {
+        "id": "ae2:chest",
+        "count": 1.0,
+        "unit": "item",
+        "type": "solid",
+        "rate": 1.0
+      },
+      {
+        "id": "ae2:cell_component_16k",
+        "count": 1.0,
+        "unit": "item",
+        "type": "solid",
+        "rate": 1.0
+      },
+      {
+        "id": "ae2:energy_cell",
+        "count": 1.0,
+        "unit": "item",
+        "type": "solid",
+        "rate": 1.0
+      },
+      {
+        "id": "appmek:chemical_cell_housing",
+        "count": 1.0,
+        "unit": "item",
+        "type": "solid",
+        "rate": 1.0
+      }
+    ],
+    "outputs": [
+      {
+        "id": "appmek:portable_chemical_cell_16k",
+        "count": 1.0,
+        "unit": "item",
+        "type": "solid",
+        "rate": 1.0
+      }
+    ]
+  },
+  {
+    "recipe_id": "appmek:upgrade/chemical_storage_cell_1k_to_256k",
+    "mod_id": "appmek",
+    "recipe_type": "minecraft:crafting",
+    "inputs": [],
+    "outputs": []
+  },
+  {
+    "recipe_id": "appmek:upgrade/portable_chemical_cell_1k_to_64k",
+    "mod_id": "appmek",
+    "recipe_type": "minecraft:crafting",
+    "inputs": [],
+    "outputs": []
+  },
+  {
+    "recipe_id": "appmek:upgrade/chemical_storage_cell_4k_to_64k",
+    "mod_id": "appmek",
+    "recipe_type": "minecraft:crafting",
+    "inputs": [],
+    "outputs": []
+  },
+  {
+    "recipe_id": "appmek:portable_chemical_cell_64k",
+    "mod_id": "appmek",
+    "recipe_type": "minecraft:crafting_shapeless",
+    "inputs": [
+      {
+        "id": "ae2:chest",
+        "count": 1.0,
+        "unit": "item",
+        "type": "solid",
+        "rate": 1.0
+      },
+      {
+        "id": "ae2:cell_component_64k",
+        "count": 1.0,
+        "unit": "item",
+        "type": "solid",
+        "rate": 1.0
+      },
+      {
+        "id": "ae2:energy_cell",
+        "count": 1.0,
+        "unit": "item",
+        "type": "solid",
+        "rate": 1.0
+      },
+      {
+        "id": "appmek:chemical_cell_housing",
+        "count": 1.0,
+        "unit": "item",
+        "type": "solid",
+        "rate": 1.0
+      }
+    ],
+    "outputs": [
+      {
+        "id": "appmek:portable_chemical_cell_64k",
+        "count": 1.0,
+        "unit": "item",
+        "type": "solid",
+        "rate": 1.0
+      }
+    ]
+  },
+  {
+    "recipe_id": "appmek:upgrade/portable_chemical_cell_4k_to_16k",
+    "mod_id": "appmek",
+    "recipe_type": "minecraft:crafting",
+    "inputs": [],
+    "outputs": []
+  }
+]

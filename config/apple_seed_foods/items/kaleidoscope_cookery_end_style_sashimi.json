@@ -1,0 +1,9 @@
+{
+  "source_item": "kaleidoscope_cookery:end_style_sashimi",
+  "comment": "Edit this file to add custom nutrition values",
+  "auto_calculated": false,
+  "nutritions": {
+    "fruits": 0.09,
+    "proteins": 0.04
+  }
+}

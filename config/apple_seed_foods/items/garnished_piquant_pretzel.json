@@ -1,0 +1,9 @@
+{
+  "source_item": "garnished:piquant_pretzel",
+  "comment": "Edit this file to add custom nutrition values",
+  "auto_calculated": false,
+  "nutritions": {
+    "sugars": 0.004,
+    "proteins": 0.01
+  }
+}

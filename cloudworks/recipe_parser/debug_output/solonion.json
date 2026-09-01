@@ -1,0 +1,69 @@
+[
+  {
+    "recipe_id": "solonion:food_book",
+    "mod_id": "solonion",
+    "recipe_type": "minecraft:crafting_shapeless",
+    "inputs": [
+      {
+        "id": "minecraft:book",
+        "count": 1.0,
+        "unit": "item",
+        "type": "solid",
+        "rate": 1.0
+      },
+      {
+        "id": "minecraft:potato",
+        "count": 1.0,
+        "unit": "item",
+        "type": "solid",
+        "rate": 1.0
+      }
+    ],
+    "outputs": [
+      {
+        "id": "solonion:food_book",
+        "count": 1.0,
+        "unit": "item",
+        "type": "solid",
+        "rate": 1.0
+      }
+    ]
+  },
+  {
+    "recipe_id": "solonion:lunchbox",
+    "mod_id": "solonion",
+    "recipe_type": "minecraft:crafting",
+    "inputs": [],
+    "outputs": []
+  },
+  {
+    "recipe_id": "solonion:lunchbag",
+    "mod_id": "solonion",
+    "recipe_type": "minecraft:crafting_shaped",
+    "inputs": [
+      {
+        "id": "minecraft:paper",
+        "count": 6.0,
+        "unit": "item",
+        "type": "solid",
+        "rate": 1.0
+      }
+    ],
+    "outputs": [
+      {
+        "id": "solonion:lunchbag",
+        "count": 1.0,
+        "unit": "item",
+        "type": "solid",
+        "rate": 1.0
+      }
+    ]
+  },
+  {
+    "recipe_id": "solonion:golden_lunchbox",
+    "mod_id": "solonion",
+    "recipe_type": "minecraft:crafting",
+    "inputs": [],
+    "outputs": []
+  }
+]

@@ -1,0 +1,7 @@
+[
+  {"version":2},
+  {"ingredient":{"id":"create_the_air_wars:amalgam_bucket"},"type":"fluid_stack","bookmarkType":"INGREDIENT"},
+  {"ingredient":{"id":"create_the_air_wars:c75"},"type":"item_stack","bookmarkType":"INGREDIENT"},
+  {"ingredient":{"id":"create_the_air_wars:anti_aircraft_launcher"},"type":"item_stack","bookmarkType":"INGREDIENT"},
+  {"ingredient":{"id":"create_the_air_wars:mirror"},"type":"item_stack","bookmarkType":"INGREDIENT"}
+]

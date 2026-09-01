@@ -1,0 +1,8 @@
+{
+  "source_item": "garnished:bitter_apple_cider",
+  "comment": "Edit this file to add custom nutrition values",
+  "auto_calculated": false,
+  "nutritions": {
+    "sugars": 0.04
+  }
+}

@@ -1,0 +1,6375 @@
+[
+  {
+    "recipe_id": "interiors:crafting/chair/brown_chair_from_other_chair",
+    "mod_id": "interiors",
+    "recipe_type": "minecraft:crafting_shapeless",
+    "inputs": [
+      {
+        "id": "interiors:chairs",
+        "count": 1.0,
+        "unit": "item",
+        "type": "tag",
+        "rate": 1.0
+      },
+      {
+        "id": "c:brown_dyes",
+        "count": 1.0,
+        "unit": "item",
+        "type": "tag",
+        "rate": 1.0
+      }
+    ],
+    "outputs": [
+      {
+        "id": "interiors:brown_chair",
+        "count": 1.0,
+        "unit": "item",
+        "type": "solid",
+        "rate": 1.0
+      }
+    ]
+  },
+  {
+    "recipe_id": "interiors:crafting/chair/yellow_chair_from_seat",
+    "mod_id": "interiors",
+    "recipe_type": "minecraft:crafting_shapeless",
+    "inputs": [
+      {
+        "id": "minecraft:planks",
+        "count": 1.0,
+        "unit": "item",
+        "type": "tag",
+        "rate": 1.0
+      },
+      {
+        "id": "create:yellow_seat",
+        "count": 1.0,
+        "unit": "item",
+        "type": "solid",
+        "rate": 1.0
+      }
+    ],
+    "outputs": [
+      {
+        "id": "interiors:yellow_chair",
+        "count": 1.0,
+        "unit": "item",
+        "type": "solid",
+        "rate": 1.0
+      }
+    ]
+  },
+  {
+    "recipe_id": "interiors:crafting/chair/purple_chair_from_floor_chair",
+    "mod_id": "interiors",
+    "recipe_type": "minecraft:crafting_shapeless",
+    "inputs": [
+      {
+        "id": "minecraft:wooden_slabs",
+        "count": 1.0,
+        "unit": "item",
+        "type": "tag",
+        "rate": 1.0
+      },
+      {
+        "id": "interiors:purple_floor_chair",
+        "count": 1.0,
+        "unit": "item",
+        "type": "solid",
+        "rate": 1.0
+      }
+    ],
+    "outputs": [
+      {
+        "id": "interiors:purple_chair",
+        "count": 1.0,
+        "unit": "item",
+        "type": "solid",
+        "rate": 1.0
+      }
+    ]
+  },
+  {
+    "recipe_id": "interiors:crafting/chair/magenta_chair_from_seat",
+    "mod_id": "interiors",
+    "recipe_type": "minecraft:crafting_shapeless",
+    "inputs": [
+      {
+        "id": "minecraft:planks",
+        "count": 1.0,
+        "unit": "item",
+        "type": "tag",
+        "rate": 1.0
+      },
+      {
+        "id": "create:magenta_seat",
+        "count": 1.0,
+        "unit": "item",
+        "type": "solid",
+        "rate": 1.0
+      }
+    ],
+    "outputs": [
+      {
+        "id": "interiors:magenta_chair",
+        "count": 1.0,
+        "unit": "item",
+        "type": "solid",
+        "rate": 1.0
+      }
+    ]
+  },
+  {
+    "recipe_id": "interiors:crafting/chair/black_chair",
+    "mod_id": "interiors",
+    "recipe_type": "minecraft:crafting_shapeless",
+    "inputs": [
+      {
+        "id": "minecraft:wooden_slabs",
+        "count": 1.0,
+        "unit": "item",
+        "type": "tag",
+        "rate": 1.0
+      },
+      {
+        "id": "minecraft:planks",
+        "count": 1.0,
+        "unit": "item",
+        "type": "tag",
+        "rate": 1.0
+      },
+      {
+        "id": "minecraft:black_wool",
+        "count": 1.0,
+        "unit": "item",
+        "type": "solid",
+        "rate": 1.0
+      }
+    ],
+    "outputs": [
+      {
+        "id": "interiors:black_chair",
+        "count": 1.0,
+        "unit": "item",
+        "type": "solid",
+        "rate": 1.0
+      }
+    ]
+  },
+  {
+    "recipe_id": "interiors:crafting/floor_chair/light_blue_floor_chair",
+    "mod_id": "interiors",
+    "recipe_type": "minecraft:crafting_shapeless",
+    "inputs": [
+      {
+        "id": "minecraft:wooden_slabs",
+        "count": 1.0,
+        "unit": "item",
+        "type": "tag",
+        "rate": 1.0
+      },
+      {
+        "id": "minecraft:wooden_slabs",
+        "count": 1.0,
+        "unit": "item",
+        "type": "tag",
+        "rate": 1.0
+      },
+      {
+        "id": "minecraft:light_blue_wool",
+        "count": 1.0,
+        "unit": "item",
+        "type": "solid",
+        "rate": 1.0
+      }
+    ],
+    "outputs": [
+      {
+        "id": "interiors:light_blue_floor_chair",
+        "count": 1.0,
+        "unit": "item",
+        "type": "solid",
+        "rate": 1.0
+      }
+    ]
+  },
+  {
+    "recipe_id": "interiors:crafting/floor_chair/green_floor_chair",
+    "mod_id": "interiors",
+    "recipe_type": "minecraft:crafting_shapeless",
+    "inputs": [
+      {
+        "id": "minecraft:wooden_slabs",
+        "count": 1.0,
+        "unit": "item",
+        "type": "tag",
+        "rate": 1.0
+      },
+      {
+        "id": "minecraft:wooden_slabs",
+        "count": 1.0,
+        "unit": "item",
+        "type": "tag",
+        "rate": 1.0
+      },
+      {
+        "id": "minecraft:green_wool",
+        "count": 1.0,
+        "unit": "item",
+        "type": "solid",
+        "rate": 1.0
+      }
+    ],
+    "outputs": [
+      {
+        "id": "interiors:green_floor_chair",
+        "count": 1.0,
+        "unit": "item",
+        "type": "solid",
+        "rate": 1.0
+      }
+    ]
+  },
+  {
+    "recipe_id": "interiors:crafting/chair/gray_chair_from_seat",
+    "mod_id": "interiors",
+    "recipe_type": "minecraft:crafting_shapeless",
+    "inputs": [
+      {
+        "id": "minecraft:planks",
+        "count": 1.0,
+        "unit": "item",
+        "type": "tag",
+        "rate": 1.0
+      },
+      {
+        "id": "create:gray_seat",
+        "count": 1.0,
+        "unit": "item",
+        "type": "solid",
+        "rate": 1.0
+      }
+    ],
+    "outputs": [
+      {
+        "id": "interiors:gray_chair",
+        "count": 1.0,
+        "unit": "item",
+        "type": "solid",
+        "rate": 1.0
+      }
+    ]
+  },
+  {
+    "recipe_id": "interiors:crafting/chair/black_chair_from_floor_chair",
+    "mod_id": "interiors",
+    "recipe_type": "minecraft:crafting_shapeless",
+    "inputs": [
+      {
+        "id": "minecraft:wooden_slabs",
+        "count": 1.0,
+        "unit": "item",
+        "type": "tag",
+        "rate": 1.0
+      },
+      {
+        "id": "interiors:black_floor_chair",
+        "count": 1.0,
+        "unit": "item",
+        "type": "solid",
+        "rate": 1.0
+      }
+    ],
+    "outputs": [
+      {
+        "id": "interiors:black_chair",
+        "count": 1.0,
+        "unit": "item",
+        "type": "solid",
+        "rate": 1.0
+      }
+    ]
+  },
+  {
+    "recipe_id": "interiors:crafting/chair/orange_chair_from_other_chair",
+    "mod_id": "interiors",
+    "recipe_type": "minecraft:crafting_shapeless",
+    "inputs": [
+      {
+        "id": "interiors:chairs",
+        "count": 1.0,
+        "unit": "item",
+        "type": "tag",
+        "rate": 1.0
+      },
+      {
+        "id": "c:orange_dyes",
+        "count": 1.0,
+        "unit": "item",
+        "type": "tag",
+        "rate": 1.0
+      }
+    ],
+    "outputs": [
+      {
+        "id": "interiors:orange_chair",
+        "count": 1.0,
+        "unit": "item",
+        "type": "solid",
+        "rate": 1.0
+      }
+    ]
+  },
+  {
+    "recipe_id": "interiors:crafting/cushion/blue_cushion",
+    "mod_id": "interiors",
+    "recipe_type": "minecraft:crafting_shapeless",
+    "inputs": [
+      {
+        "id": "minecraft:planks",
+        "count": 1.0,
+        "unit": "item",
+        "type": "tag",
+        "rate": 1.0
+      },
+      {
+        "id": "minecraft:blue_wool",
+        "count": 1.0,
+        "unit": "item",
+        "type": "solid",
+        "rate": 1.0
+      }
+    ],
+    "outputs": [
+      {
+        "id": "interiors:blue_cushion",
+        "count": 2.0,
+        "unit": "item",
+        "type": "solid",
+        "rate": 1.0
+      }
+    ]
+  },
+  {
+    "recipe_id": "interiors:crafting/chair/lime_chair_from_seat",
+    "mod_id": "interiors",
+    "recipe_type": "minecraft:crafting_shapeless",
+    "inputs": [
+      {
+        "id": "minecraft:planks",
+        "count": 1.0,
+        "unit": "item",
+        "type": "tag",
+        "rate": 1.0
+      },
+      {
+        "id": "create:lime_seat",
+        "count": 1.0,
+        "unit": "item",
+        "type": "solid",
+        "rate": 1.0
+      }
+    ],
+    "outputs": [
+      {
+        "id": "interiors:lime_chair",
+        "count": 1.0,
+        "unit": "item",
+        "type": "solid",
+        "rate": 1.0
+      }
+    ]
+  },
+  {
+    "recipe_id": "interiors:crafting/floor_chair/pink_floor_chair",
+    "mod_id": "interiors",
+    "recipe_type": "minecraft:crafting_shapeless",
+    "inputs": [
+      {
+        "id": "minecraft:wooden_slabs",
+        "count": 1.0,
+        "unit": "item",
+        "type": "tag",
+        "rate": 1.0
+      },
+      {
+        "id": "minecraft:wooden_slabs",
+        "count": 1.0,
+        "unit": "item",
+        "type": "tag",
+        "rate": 1.0
+      },
+      {
+        "id": "minecraft:pink_wool",
+        "count": 1.0,
+        "unit": "item",
+        "type": "solid",
+        "rate": 1.0
+      }
+    ],
+    "outputs": [
+      {
+        "id": "interiors:pink_floor_chair",
+        "count": 1.0,
+        "unit": "item",
+        "type": "solid",
+        "rate": 1.0
+      }
+    ]
+  },
+  {
+    "recipe_id": "interiors:crafting/floor_chair/light_gray_floor_chair_from_other_floor_chair",
+    "mod_id": "interiors",
+    "recipe_type": "minecraft:crafting_shapeless",
+    "inputs": [
+      {
+        "id": "interiors:floor_chairs",
+        "count": 1.0,
+        "unit": "item",
+        "type": "tag",
+        "rate": 1.0
+      },
+      {
+        "id": "c:light_gray_dyes",
+        "count": 1.0,
+        "unit": "item",
+        "type": "tag",
+        "rate": 1.0
+      }
+    ],
+    "outputs": [
+      {
+        "id": "interiors:light_gray_floor_chair",
+        "count": 1.0,
+        "unit": "item",
+        "type": "solid",
+        "rate": 1.0
+      }
+    ]
+  },
+  {
+    "recipe_id": "interiors:crafting/floor_chair/gray_floor_chair",
+    "mod_id": "interiors",
+    "recipe_type": "minecraft:crafting_shapeless",
+    "inputs": [
+      {
+        "id": "minecraft:wooden_slabs",
+        "count": 1.0,
+        "unit": "item",
+        "type": "tag",
+        "rate": 1.0
+      },
+      {
+        "id": "minecraft:wooden_slabs",
+        "count": 1.0,
+        "unit": "item",
+        "type": "tag",
+        "rate": 1.0
+      },
+      {
+        "id": "minecraft:gray_wool",
+        "count": 1.0,
+        "unit": "item",
+        "type": "solid",
+        "rate": 1.0
+      }
+    ],
+    "outputs": [
+      {
+        "id": "interiors:gray_floor_chair",
+        "count": 1.0,
+        "unit": "item",
+        "type": "solid",
+        "rate": 1.0
+      }
+    ]
+  },
+  {
+    "recipe_id": "interiors:crafting/chair/light_blue_chair_from_floor_chair",
+    "mod_id": "interiors",
+    "recipe_type": "minecraft:crafting_shapeless",
+    "inputs": [
+      {
+        "id": "minecraft:wooden_slabs",
+        "count": 1.0,
+        "unit": "item",
+        "type": "tag",
+        "rate": 1.0
+      },
+      {
+        "id": "interiors:light_blue_floor_chair",
+        "count": 1.0,
+        "unit": "item",
+        "type": "solid",
+        "rate": 1.0
+      }
+    ],
+    "outputs": [
+      {
+        "id": "interiors:light_blue_chair",
+        "count": 1.0,
+        "unit": "item",
+        "type": "solid",
+        "rate": 1.0
+      }
+    ]
+  },
+  {
+    "recipe_id": "interiors:crafting/floor_chair/pink_floor_chair_from_seat",
+    "mod_id": "interiors",
+    "recipe_type": "minecraft:crafting_shapeless",
+    "inputs": [
+      {
+        "id": "minecraft:wooden_slabs",
+        "count": 1.0,
+        "unit": "item",
+        "type": "tag",
+        "rate": 1.0
+      },
+      {
+        "id": "create:pink_seat",
+        "count": 1.0,
+        "unit": "item",
+        "type": "solid",
+        "rate": 1.0
+      }
+    ],
+    "outputs": [
+      {
+        "id": "interiors:pink_floor_chair",
+        "count": 1.0,
+        "unit": "item",
+        "type": "solid",
+        "rate": 1.0
+      }
+    ]
+  },
+  {
+    "recipe_id": "interiors:crafting/floor_chair/light_gray_floor_chair_from_seat",
+    "mod_id": "interiors",
+    "recipe_type": "minecraft:crafting_shapeless",
+    "inputs": [
+      {
+        "id": "minecraft:wooden_slabs",
+        "count": 1.0,
+        "unit": "item",
+        "type": "tag",
+        "rate": 1.0
+      },
+      {
+        "id": "create:light_gray_seat",
+        "count": 1.0,
+        "unit": "item",
+        "type": "solid",
+        "rate": 1.0
+      }
+    ],
+    "outputs": [
+      {
+        "id": "interiors:light_gray_floor_chair",
+        "count": 1.0,
+        "unit": "item",
+        "type": "solid",
+        "rate": 1.0
+      }
+    ]
+  },
+  {
+    "recipe_id": "interiors:crafting/floor_chair/brown_floor_chair",
+    "mod_id": "interiors",
+    "recipe_type": "minecraft:crafting_shapeless",
+    "inputs": [
+      {
+        "id": "minecraft:wooden_slabs",
+        "count": 1.0,
+        "unit": "item",
+        "type": "tag",
+        "rate": 1.0
+      },
+      {
+        "id": "minecraft:wooden_slabs",
+        "count": 1.0,
+        "unit": "item",
+        "type": "tag",
+        "rate": 1.0
+      },
+      {
+        "id": "minecraft:brown_wool",
+        "count": 1.0,
+        "unit": "item",
+        "type": "solid",
+        "rate": 1.0
+      }
+    ],
+    "outputs": [
+      {
+        "id": "interiors:brown_floor_chair",
+        "count": 1.0,
+        "unit": "item",
+        "type": "solid",
+        "rate": 1.0
+      }
+    ]
+  },
+  {
+    "recipe_id": "interiors:crafting/floor_chair/cyan_floor_chair_from_seat",
+    "mod_id": "interiors",
+    "recipe_type": "minecraft:crafting_shapeless",
+    "inputs": [
+      {
+        "id": "minecraft:wooden_slabs",
+        "count": 1.0,
+        "unit": "item",
+        "type": "tag",
+        "rate": 1.0
+      },
+      {
+        "id": "create:cyan_seat",
+        "count": 1.0,
+        "unit": "item",
+        "type": "solid",
+        "rate": 1.0
+      }
+    ],
+    "outputs": [
+      {
+        "id": "interiors:cyan_floor_chair",
+        "count": 1.0,
+        "unit": "item",
+        "type": "solid",
+        "rate": 1.0
+      }
+    ]
+  },
+  {
+    "recipe_id": "interiors:crafting/floor_chair/light_blue_floor_chair_from_seat",
+    "mod_id": "interiors",
+    "recipe_type": "minecraft:crafting_shapeless",
+    "inputs": [
+      {
+        "id": "minecraft:wooden_slabs",
+        "count": 1.0,
+        "unit": "item",
+        "type": "tag",
+        "rate": 1.0
+      },
+      {
+        "id": "create:light_blue_seat",
+        "count": 1.0,
+        "unit": "item",
+        "type": "solid",
+        "rate": 1.0
+      }
+    ],
+    "outputs": [
+      {
+        "id": "interiors:light_blue_floor_chair",
+        "count": 1.0,
+        "unit": "item",
+        "type": "solid",
+        "rate": 1.0
+      }
+    ]
+  },
+  {
+    "recipe_id": "interiors:crafting/chair/yellow_chair_from_other_chair",
+    "mod_id": "interiors",
+    "recipe_type": "minecraft:crafting_shapeless",
+    "inputs": [
+      {
+        "id": "interiors:chairs",
+        "count": 1.0,
+        "unit": "item",
+        "type": "tag",
+        "rate": 1.0
+      },
+      {
+        "id": "c:yellow_dyes",
+        "count": 1.0,
+        "unit": "item",
+        "type": "tag",
+        "rate": 1.0
+      }
+    ],
+    "outputs": [
+      {
+        "id": "interiors:yellow_chair",
+        "count": 1.0,
+        "unit": "item",
+        "type": "solid",
+        "rate": 1.0
+      }
+    ]
+  },
+  {
+    "recipe_id": "interiors:crafting/cushion/lime_cushion",
+    "mod_id": "interiors",
+    "recipe_type": "minecraft:crafting_shapeless",
+    "inputs": [
+      {
+        "id": "minecraft:planks",
+        "count": 1.0,
+        "unit": "item",
+        "type": "tag",
+        "rate": 1.0
+      },
+      {
+        "id": "minecraft:lime_wool",
+        "count": 1.0,
+        "unit": "item",
+        "type": "solid",
+        "rate": 1.0
+      }
+    ],
+    "outputs": [
+      {
+        "id": "interiors:lime_cushion",
+        "count": 2.0,
+        "unit": "item",
+        "type": "solid",
+        "rate": 1.0
+      }
+    ]
+  },
+  {
+    "recipe_id": "interiors:crafting/floor_chair/purple_floor_chair",
+    "mod_id": "interiors",
+    "recipe_type": "minecraft:crafting_shapeless",
+    "inputs": [
+      {
+        "id": "minecraft:wooden_slabs",
+        "count": 1.0,
+        "unit": "item",
+        "type": "tag",
+        "rate": 1.0
+      },
+      {
+        "id": "minecraft:wooden_slabs",
+        "count": 1.0,
+        "unit": "item",
+        "type": "tag",
+        "rate": 1.0
+      },
+      {
+        "id": "minecraft:purple_wool",
+        "count": 1.0,
+        "unit": "item",
+        "type": "solid",
+        "rate": 1.0
+      }
+    ],
+    "outputs": [
+      {
+        "id": "interiors:purple_floor_chair",
+        "count": 1.0,
+        "unit": "item",
+        "type": "solid",
+        "rate": 1.0
+      }
+    ]
+  },
+  {
+    "recipe_id": "interiors:crafting/floor_chair/red_floor_chair_from_seat",
+    "mod_id": "interiors",
+    "recipe_type": "minecraft:crafting_shapeless",
+    "inputs": [
+      {
+        "id": "minecraft:wooden_slabs",
+        "count": 1.0,
+        "unit": "item",
+        "type": "tag",
+        "rate": 1.0
+      },
+      {
+        "id": "create:red_seat",
+        "count": 1.0,
+        "unit": "item",
+        "type": "solid",
+        "rate": 1.0
+      }
+    ],
+    "outputs": [
+      {
+        "id": "interiors:red_floor_chair",
+        "count": 1.0,
+        "unit": "item",
+        "type": "solid",
+        "rate": 1.0
+      }
+    ]
+  },
+  {
+    "recipe_id": "interiors:crafting/cushion/orange_cushion",
+    "mod_id": "interiors",
+    "recipe_type": "minecraft:crafting_shapeless",
+    "inputs": [
+      {
+        "id": "minecraft:planks",
+        "count": 1.0,
+        "unit": "item",
+        "type": "tag",
+        "rate": 1.0
+      },
+      {
+        "id": "minecraft:orange_wool",
+        "count": 1.0,
+        "unit": "item",
+        "type": "solid",
+        "rate": 1.0
+      }
+    ],
+    "outputs": [
+      {
+        "id": "interiors:orange_cushion",
+        "count": 2.0,
+        "unit": "item",
+        "type": "solid",
+        "rate": 1.0
+      }
+    ]
+  },
+  {
+    "recipe_id": "interiors:crafting/chair/purple_chair_from_other_chair",
+    "mod_id": "interiors",
+    "recipe_type": "minecraft:crafting_shapeless",
+    "inputs": [
+      {
+        "id": "interiors:chairs",
+        "count": 1.0,
+        "unit": "item",
+        "type": "tag",
+        "rate": 1.0
+      },
+      {
+        "id": "c:purple_dyes",
+        "count": 1.0,
+        "unit": "item",
+        "type": "tag",
+        "rate": 1.0
+      }
+    ],
+    "outputs": [
+      {
+        "id": "interiors:purple_chair",
+        "count": 1.0,
+        "unit": "item",
+        "type": "solid",
+        "rate": 1.0
+      }
+    ]
+  },
+  {
+    "recipe_id": "interiors:crafting/chair/purple_chair",
+    "mod_id": "interiors",
+    "recipe_type": "minecraft:crafting_shapeless",
+    "inputs": [
+      {
+        "id": "minecraft:wooden_slabs",
+        "count": 1.0,
+        "unit": "item",
+        "type": "tag",
+        "rate": 1.0
+      },
+      {
+        "id": "minecraft:planks",
+        "count": 1.0,
+        "unit": "item",
+        "type": "tag",
+        "rate": 1.0
+      },
+      {
+        "id": "minecraft:purple_wool",
+        "count": 1.0,
+        "unit": "item",
+        "type": "solid",
+        "rate": 1.0
+      }
+    ],
+    "outputs": [
+      {
+        "id": "interiors:purple_chair",
+        "count": 1.0,
+        "unit": "item",
+        "type": "solid",
+        "rate": 1.0
+      }
+    ]
+  },
+  {
+    "recipe_id": "interiors:crafting/chair/magenta_chair_from_floor_chair",
+    "mod_id": "interiors",
+    "recipe_type": "minecraft:crafting_shapeless",
+    "inputs": [
+      {
+        "id": "minecraft:wooden_slabs",
+        "count": 1.0,
+        "unit": "item",
+        "type": "tag",
+        "rate": 1.0
+      },
+      {
+        "id": "interiors:magenta_floor_chair",
+        "count": 1.0,
+        "unit": "item",
+        "type": "solid",
+        "rate": 1.0
+      }
+    ],
+    "outputs": [
+      {
+        "id": "interiors:magenta_chair",
+        "count": 1.0,
+        "unit": "item",
+        "type": "solid",
+        "rate": 1.0
+      }
+    ]
+  },
+  {
+    "recipe_id": "interiors:crafting/chair/blue_chair_from_seat",
+    "mod_id": "interiors",
+    "recipe_type": "minecraft:crafting_shapeless",
+    "inputs": [
+      {
+        "id": "minecraft:planks",
+        "count": 1.0,
+        "unit": "item",
+        "type": "tag",
+        "rate": 1.0
+      },
+      {
+        "id": "create:blue_seat",
+        "count": 1.0,
+        "unit": "item",
+        "type": "solid",
+        "rate": 1.0
+      }
+    ],
+    "outputs": [
+      {
+        "id": "interiors:blue_chair",
+        "count": 1.0,
+        "unit": "item",
+        "type": "solid",
+        "rate": 1.0
+      }
+    ]
+  },
+  {
+    "recipe_id": "interiors:crafting/floor_chair/red_floor_chair_from_other_floor_chair",
+    "mod_id": "interiors",
+    "recipe_type": "minecraft:crafting_shapeless",
+    "inputs": [
+      {
+        "id": "interiors:floor_chairs",
+        "count": 1.0,
+        "unit": "item",
+        "type": "tag",
+        "rate": 1.0
+      },
+      {
+        "id": "c:red_dyes",
+        "count": 1.0,
+        "unit": "item",
+        "type": "tag",
+        "rate": 1.0
+      }
+    ],
+    "outputs": [
+      {
+        "id": "interiors:red_floor_chair",
+        "count": 1.0,
+        "unit": "item",
+        "type": "solid",
+        "rate": 1.0
+      }
+    ]
+  },
+  {
+    "recipe_id": "interiors:crafting/chair/green_chair_from_seat",
+    "mod_id": "interiors",
+    "recipe_type": "minecraft:crafting_shapeless",
+    "inputs": [
+      {
+        "id": "minecraft:planks",
+        "count": 1.0,
+        "unit": "item",
+        "type": "tag",
+        "rate": 1.0
+      },
+      {
+        "id": "create:green_seat",
+        "count": 1.0,
+        "unit": "item",
+        "type": "solid",
+        "rate": 1.0
+      }
+    ],
+    "outputs": [
+      {
+        "id": "interiors:green_chair",
+        "count": 1.0,
+        "unit": "item",
+        "type": "solid",
+        "rate": 1.0
+      }
+    ]
+  },
+  {
+    "recipe_id": "interiors:crafting/cushion/black_cushion",
+    "mod_id": "interiors",
+    "recipe_type": "minecraft:crafting_shapeless",
+    "inputs": [
+      {
+        "id": "minecraft:planks",
+        "count": 1.0,
+        "unit": "item",
+        "type": "tag",
+        "rate": 1.0
+      },
+      {
+        "id": "minecraft:black_wool",
+        "count": 1.0,
+        "unit": "item",
+        "type": "solid",
+        "rate": 1.0
+      }
+    ],
+    "outputs": [
+      {
+        "id": "interiors:black_cushion",
+        "count": 2.0,
+        "unit": "item",
+        "type": "solid",
+        "rate": 1.0
+      }
+    ]
+  },
+  {
+    "recipe_id": "interiors:crafting/floor_chair/light_gray_floor_chair_from_seat",
+    "mod_id": "interiors",
+    "recipe_type": "minecraft:crafting_shapeless",
+    "inputs": [
+      {
+        "id": "minecraft:wooden_slabs",
+        "count": 1.0,
+        "unit": "item",
+        "type": "tag",
+        "rate": 1.0
+      },
+      {
+        "id": "create:light_gray_seat",
+        "count": 1.0,
+        "unit": "item",
+        "type": "solid",
+        "rate": 1.0
+      }
+    ],
+    "outputs": [
+      {
+        "id": "interiors:light_gray_floor_chair",
+        "count": 1.0,
+        "unit": "item",
+        "type": "solid",
+        "rate": 1.0
+      }
+    ]
+  },
+  {
+    "recipe_id": "interiors:crafting/floor_chair/brown_floor_chair",
+    "mod_id": "interiors",
+    "recipe_type": "minecraft:crafting_shapeless",
+    "inputs": [
+      {
+        "id": "minecraft:wooden_slabs",
+        "count": 1.0,
+        "unit": "item",
+        "type": "tag",
+        "rate": 1.0
+      },
+      {
+        "id": "minecraft:wooden_slabs",
+        "count": 1.0,
+        "unit": "item",
+        "type": "tag",
+        "rate": 1.0
+      },
+      {
+        "id": "minecraft:brown_wool",
+        "count": 1.0,
+        "unit": "item",
+        "type": "solid",
+        "rate": 1.0
+      }
+    ],
+    "outputs": [
+      {
+        "id": "interiors:brown_floor_chair",
+        "count": 1.0,
+        "unit": "item",
+        "type": "solid",
+        "rate": 1.0
+      }
+    ]
+  },
+  {
+    "recipe_id": "interiors:crafting/floor_chair/cyan_floor_chair_from_seat",
+    "mod_id": "interiors",
+    "recipe_type": "minecraft:crafting_shapeless",
+    "inputs": [
+      {
+        "id": "minecraft:wooden_slabs",
+        "count": 1.0,
+        "unit": "item",
+        "type": "tag",
+        "rate": 1.0
+      },
+      {
+        "id": "create:cyan_seat",
+        "count": 1.0,
+        "unit": "item",
+        "type": "solid",
+        "rate": 1.0
+      }
+    ],
+    "outputs": [
+      {
+        "id": "interiors:cyan_floor_chair",
+        "count": 1.0,
+        "unit": "item",
+        "type": "solid",
+        "rate": 1.0
+      }
+    ]
+  },
+  {
+    "recipe_id": "interiors:crafting/floor_chair/light_blue_floor_chair_from_seat",
+    "mod_id": "interiors",
+    "recipe_type": "minecraft:crafting_shapeless",
+    "inputs": [
+      {
+        "id": "minecraft:wooden_slabs",
+        "count": 1.0,
+        "unit": "item",
+        "type": "tag",
+        "rate": 1.0
+      },
+      {
+        "id": "create:light_blue_seat",
+        "count": 1.0,
+        "unit": "item",
+        "type": "solid",
+        "rate": 1.0
+      }
+    ],
+    "outputs": [
+      {
+        "id": "interiors:light_blue_floor_chair",
+        "count": 1.0,
+        "unit": "item",
+        "type": "solid",
+        "rate": 1.0
+      }
+    ]
+  },
+  {
+    "recipe_id": "interiors:crafting/chair/yellow_chair_from_other_chair",
+    "mod_id": "interiors",
+    "recipe_type": "minecraft:crafting_shapeless",
+    "inputs": [
+      {
+        "id": "interiors:chairs",
+        "count": 1.0,
+        "unit": "item",
+        "type": "tag",
+        "rate": 1.0
+      },
+      {
+        "id": "c:yellow_dyes",
+        "count": 1.0,
+        "unit": "item",
+        "type": "tag",
+        "rate": 1.0
+      }
+    ],
+    "outputs": [
+      {
+        "id": "interiors:yellow_chair",
+        "count": 1.0,
+        "unit": "item",
+        "type": "solid",
+        "rate": 1.0
+      }
+    ]
+  },
+  {
+    "recipe_id": "interiors:crafting/cushion/lime_cushion",
+    "mod_id": "interiors",
+    "recipe_type": "minecraft:crafting_shapeless",
+    "inputs": [
+      {
+        "id": "minecraft:planks",
+        "count": 1.0,
+        "unit": "item",
+        "type": "tag",
+        "rate": 1.0
+      },
+      {
+        "id": "minecraft:lime_wool",
+        "count": 1.0,
+        "unit": "item",
+        "type": "solid",
+        "rate": 1.0
+      }
+    ],
+    "outputs": [
+      {
+        "id": "interiors:lime_cushion",
+        "count": 2.0,
+        "unit": "item",
+        "type": "solid",
+        "rate": 1.0
+      }
+    ]
+  },
+  {
+    "recipe_id": "interiors:crafting/floor_chair/purple_floor_chair",
+    "mod_id": "interiors",
+    "recipe_type": "minecraft:crafting_shapeless",
+    "inputs": [
+      {
+        "id": "minecraft:wooden_slabs",
+        "count": 1.0,
+        "unit": "item",
+        "type": "tag",
+        "rate": 1.0
+      },
+      {
+        "id": "minecraft:wooden_slabs",
+        "count": 1.0,
+        "unit": "item",
+        "type": "tag",
+        "rate": 1.0
+      },
+      {
+        "id": "minecraft:purple_wool",
+        "count": 1.0,
+        "unit": "item",
+        "type": "solid",
+        "rate": 1.0
+      }
+    ],
+    "outputs": [
+      {
+        "id": "interiors:purple_floor_chair",
+        "count": 1.0,
+        "unit": "item",
+        "type": "solid",
+        "rate": 1.0
+      }
+    ]
+  },
+  {
+    "recipe_id": "interiors:crafting/floor_chair/red_floor_chair_from_seat",
+    "mod_id": "interiors",
+    "recipe_type": "minecraft:crafting_shapeless",
+    "inputs": [
+      {
+        "id": "minecraft:wooden_slabs",
+        "count": 1.0,
+        "unit": "item",
+        "type": "tag",
+        "rate": 1.0
+      },
+      {
+        "id": "create:red_seat",
+        "count": 1.0,
+        "unit": "item",
+        "type": "solid",
+        "rate": 1.0
+      }
+    ],
+    "outputs": [
+      {
+        "id": "interiors:red_floor_chair",
+        "count": 1.0,
+        "unit": "item",
+        "type": "solid",
+        "rate": 1.0
+      }
+    ]
+  },
+  {
+    "recipe_id": "interiors:crafting/cushion/orange_cushion",
+    "mod_id": "interiors",
+    "recipe_type": "minecraft:crafting_shapeless",
+    "inputs": [
+      {
+        "id": "minecraft:planks",
+        "count": 1.0,
+        "unit": "item",
+        "type": "tag",
+        "rate": 1.0
+      },
+      {
+        "id": "minecraft:orange_wool",
+        "count": 1.0,
+        "unit": "item",
+        "type": "solid",
+        "rate": 1.0
+      }
+    ],
+    "outputs": [
+      {
+        "id": "interiors:orange_cushion",
+        "count": 2.0,
+        "unit": "item",
+        "type": "solid",
+        "rate": 1.0
+      }
+    ]
+  },
+  {
+    "recipe_id": "interiors:crafting/chair/purple_chair_from_other_chair",
+    "mod_id": "interiors",
+    "recipe_type": "minecraft:crafting_shapeless",
+    "inputs": [
+      {
+        "id": "interiors:chairs",
+        "count": 1.0,
+        "unit": "item",
+        "type": "tag",
+        "rate": 1.0
+      },
+      {
+        "id": "c:purple_dyes",
+        "count": 1.0,
+        "unit": "item",
+        "type": "tag",
+        "rate": 1.0
+      }
+    ],
+    "outputs": [
+      {
+        "id": "interiors:purple_chair",
+        "count": 1.0,
+        "unit": "item",
+        "type": "solid",
+        "rate": 1.0
+      }
+    ]
+  },
+  {
+    "recipe_id": "interiors:crafting/chair/purple_chair",
+    "mod_id": "interiors",
+    "recipe_type": "minecraft:crafting_shapeless",
+    "inputs": [
+      {
+        "id": "minecraft:wooden_slabs",
+        "count": 1.0,
+        "unit": "item",
+        "type": "tag",
+        "rate": 1.0
+      },
+      {
+        "id": "minecraft:planks",
+        "count": 1.0,
+        "unit": "item",
+        "type": "tag",
+        "rate": 1.0
+      },
+      {
+        "id": "minecraft:purple_wool",
+        "count": 1.0,
+        "unit": "item",
+        "type": "solid",
+        "rate": 1.0
+      }
+    ],
+    "outputs": [
+      {
+        "id": "interiors:purple_chair",
+        "count": 1.0,
+        "unit": "item",
+        "type": "solid",
+        "rate": 1.0
+      }
+    ]
+  },
+  {
+    "recipe_id": "interiors:crafting/chair/magenta_chair_from_floor_chair",
+    "mod_id": "interiors",
+    "recipe_type": "minecraft:crafting_shapeless",
+    "inputs": [
+      {
+        "id": "minecraft:wooden_slabs",
+        "count": 1.0,
+        "unit": "item",
+        "type": "tag",
+        "rate": 1.0
+      },
+      {
+        "id": "interiors:magenta_floor_chair",
+        "count": 1.0,
+        "unit": "item",
+        "type": "solid",
+        "rate": 1.0
+      }
+    ],
+    "outputs": [
+      {
+        "id": "interiors:magenta_chair",
+        "count": 1.0,
+        "unit": "item",
+        "type": "solid",
+        "rate": 1.0
+      }
+    ]
+  },
+  {
+    "recipe_id": "interiors:crafting/chair/blue_chair_from_seat",
+    "mod_id": "interiors",
+    "recipe_type": "minecraft:crafting_shapeless",
+    "inputs": [
+      {
+        "id": "minecraft:planks",
+        "count": 1.0,
+        "unit": "item",
+        "type": "tag",
+        "rate": 1.0
+      },
+      {
+        "id": "create:blue_seat",
+        "count": 1.0,
+        "unit": "item",
+        "type": "solid",
+        "rate": 1.0
+      }
+    ],
+    "outputs": [
+      {
+        "id": "interiors:blue_chair",
+        "count": 1.0,
+        "unit": "item",
+        "type": "solid",
+        "rate": 1.0
+      }
+    ]
+  },
+  {
+    "recipe_id": "interiors:crafting/floor_chair/red_floor_chair_from_other_floor_chair",
+    "mod_id": "interiors",
+    "recipe_type": "minecraft:crafting_shapeless",
+    "inputs": [
+      {
+        "id": "interiors:floor_chairs",
+        "count": 1.0,
+        "unit": "item",
+        "type": "tag",
+        "rate": 1.0
+      },
+      {
+        "id": "c:red_dyes",
+        "count": 1.0,
+        "unit": "item",
+        "type": "tag",
+        "rate": 1.0
+      }
+    ],
+    "outputs": [
+      {
+        "id": "interiors:red_floor_chair",
+        "count": 1.0,
+        "unit": "item",
+        "type": "solid",
+        "rate": 1.0
+      }
+    ]
+  },
+  {
+    "recipe_id": "interiors:crafting/chair/green_chair_from_seat",
+    "mod_id": "interiors",
+    "recipe_type": "minecraft:crafting_shapeless",
+    "inputs": [
+      {
+        "id": "minecraft:planks",
+        "count": 1.0,
+        "unit": "item",
+        "type": "tag",
+        "rate": 1.0
+      },
+      {
+        "id": "create:green_seat",
+        "count": 1.0,
+        "unit": "item",
+        "type": "solid",
+        "rate": 1.0
+      }
+    ],
+    "outputs": [
+      {
+        "id": "interiors:green_chair",
+        "count": 1.0,
+        "unit": "item",
+        "type": "solid",
+        "rate": 1.0
+      }
+    ]
+  },
+  {
+    "recipe_id": "interiors:crafting/cushion/black_cushion",
+    "mod_id": "interiors",
+    "recipe_type": "minecraft:crafting_shapeless",
+    "inputs": [
+      {
+        "id": "minecraft:planks",
+        "count": 1.0,
+        "unit": "item",
+        "type": "tag",
+        "rate": 1.0
+      },
+      {
+        "id": "minecraft:black_wool",
+        "count": 1.0,
+        "unit": "item",
+        "type": "solid",
+        "rate": 1.0
+      }
+    ],
+    "outputs": [
+      {
+        "id": "interiors:black_cushion",
+        "count": 2.0,
+        "unit": "item",
+        "type": "solid",
+        "rate": 1.0
+      }
+    ]
+  },
+  {
+    "recipe_id": "interiors:crafting/floor_chair/purple_floor_chair_from_seat",
+    "mod_id": "interiors",
+    "recipe_type": "minecraft:crafting_shapeless",
+    "inputs": [
+      {
+        "id": "minecraft:wooden_slabs",
+        "count": 1.0,
+        "unit": "item",
+        "type": "tag",
+        "rate": 1.0
+      },
+      {
+        "id": "create:purple_seat",
+        "count": 1.0,
+        "unit": "item",
+        "type": "solid",
+        "rate": 1.0
+      }
+    ],
+    "outputs": [
+      {
+        "id": "interiors:purple_floor_chair",
+        "count": 1.0,
+        "unit": "item",
+        "type": "solid",
+        "rate": 1.0
+      }
+    ]
+  },
+  {
+    "recipe_id": "interiors:crafting/floor_chair/black_floor_chair_from_other_floor_chair",
+    "mod_id": "interiors",
+    "recipe_type": "minecraft:crafting_shapeless",
+    "inputs": [
+      {
+        "id": "interiors:floor_chairs",
+        "count": 1.0,
+        "unit": "item",
+        "type": "tag",
+        "rate": 1.0
+      },
+      {
+        "id": "c:black_dyes",
+        "count": 1.0,
+        "unit": "item",
+        "type": "tag",
+        "rate": 1.0
+      }
+    ],
+    "outputs": [
+      {
+        "id": "interiors:black_floor_chair",
+        "count": 1.0,
+        "unit": "item",
+        "type": "solid",
+        "rate": 1.0
+      }
+    ]
+  },
+  {
+    "recipe_id": "interiors:crafting/chair/magenta_chair",
+    "mod_id": "interiors",
+    "recipe_type": "minecraft:crafting_shapeless",
+    "inputs": [
+      {
+        "id": "minecraft:wooden_slabs",
+        "count": 1.0,
+        "unit": "item",
+        "type": "tag",
+        "rate": 1.0
+      },
+      {
+        "id": "minecraft:planks",
+        "count": 1.0,
+        "unit": "item",
+        "type": "tag",
+        "rate": 1.0
+      },
+      {
+        "id": "minecraft:magenta_wool",
+        "count": 1.0,
+        "unit": "item",
+        "type": "solid",
+        "rate": 1.0
+      }
+    ],
+    "outputs": [
+      {
+        "id": "interiors:magenta_chair",
+        "count": 1.0,
+        "unit": "item",
+        "type": "solid",
+        "rate": 1.0
+      }
+    ]
+  },
+  {
+    "recipe_id": "interiors:crafting/chair/green_chair_from_floor_chair",
+    "mod_id": "interiors",
+    "recipe_type": "minecraft:crafting_shapeless",
+    "inputs": [
+      {
+        "id": "minecraft:wooden_slabs",
+        "count": 1.0,
+        "unit": "item",
+        "type": "tag",
+        "rate": 1.0
+      },
+      {
+        "id": "interiors:green_floor_chair",
+        "count": 1.0,
+        "unit": "item",
+        "type": "solid",
+        "rate": 1.0
+      }
+    ],
+    "outputs": [
+      {
+        "id": "interiors:green_chair",
+        "count": 1.0,
+        "unit": "item",
+        "type": "solid",
+        "rate": 1.0
+      }
+    ]
+  },
+  {
+    "recipe_id": "interiors:crafting/chair/gray_chair",
+    "mod_id": "interiors",
+    "recipe_type": "minecraft:crafting_shapeless",
+    "inputs": [
+      {
+        "id": "minecraft:wooden_slabs",
+        "count": 1.0,
+        "unit": "item",
+        "type": "tag",
+        "rate": 1.0
+      },
+      {
+        "id": "minecraft:planks",
+        "count": 1.0,
+        "unit": "item",
+        "type": "tag",
+        "rate": 1.0
+      },
+      {
+        "id": "minecraft:gray_wool",
+        "count": 1.0,
+        "unit": "item",
+        "type": "solid",
+        "rate": 1.0
+      }
+    ],
+    "outputs": [
+      {
+        "id": "interiors:gray_chair",
+        "count": 1.0,
+        "unit": "item",
+        "type": "solid",
+        "rate": 1.0
+      }
+    ]
+  },
+  {
+    "recipe_id": "interiors:crafting/cushion/pink_cushion",
+    "mod_id": "interiors",
+    "recipe_type": "minecraft:crafting_shapeless",
+    "inputs": [
+      {
+        "id": "minecraft:planks",
+        "count": 1.0,
+        "unit": "item",
+        "type": "tag",
+        "rate": 1.0
+      },
+      {
+        "id": "minecraft:pink_wool",
+        "count": 1.0,
+        "unit": "item",
+        "type": "solid",
+        "rate": 1.0
+      }
+    ],
+    "outputs": [
+      {
+        "id": "interiors:pink_cushion",
+        "count": 2.0,
+        "unit": "item",
+        "type": "solid",
+        "rate": 1.0
+      }
+    ]
+  },
+  {
+    "recipe_id": "interiors:crafting/floor_chair/yellow_floor_chair",
+    "mod_id": "interiors",
+    "recipe_type": "minecraft:crafting_shapeless",
+    "inputs": [
+      {
+        "id": "minecraft:wooden_slabs",
+        "count": 1.0,
+        "unit": "item",
+        "type": "tag",
+        "rate": 1.0
+      },
+      {
+        "id": "minecraft:wooden_slabs",
+        "count": 1.0,
+        "unit": "item",
+        "type": "tag",
+        "rate": 1.0
+      },
+      {
+        "id": "minecraft:yellow_wool",
+        "count": 1.0,
+        "unit": "item",
+        "type": "solid",
+        "rate": 1.0
+      }
+    ],
+    "outputs": [
+      {
+        "id": "interiors:yellow_floor_chair",
+        "count": 1.0,
+        "unit": "item",
+        "type": "solid",
+        "rate": 1.0
+      }
+    ]
+  },
+  {
+    "recipe_id": "interiors:crafting/chair/pink_chair_from_floor_chair",
+    "mod_id": "interiors",
+    "recipe_type": "minecraft:crafting_shapeless",
+    "inputs": [
+      {
+        "id": "minecraft:wooden_slabs",
+        "count": 1.0,
+        "unit": "item",
+        "type": "tag",
+        "rate": 1.0
+      },
+      {
+        "id": "interiors:pink_floor_chair",
+        "count": 1.0,
+        "unit": "item",
+        "type": "solid",
+        "rate": 1.0
+      }
+    ],
+    "outputs": [
+      {
+        "id": "interiors:pink_chair",
+        "count": 1.0,
+        "unit": "item",
+        "type": "solid",
+        "rate": 1.0
+      }
+    ]
+  },
+  {
+    "recipe_id": "interiors:crafting/floor_chair/light_gray_floor_chair_from_seat",
+    "mod_id": "interiors",
+    "recipe_type": "minecraft:crafting_shapeless",
+    "inputs": [
+      {
+        "id": "minecraft:wooden_slabs",
+        "count": 1.0,
+        "unit": "item",
+        "type": "tag",
+        "rate": 1.0
+      },
+      {
+        "id": "create:light_gray_seat",
+        "count": 1.0,
+        "unit": "item",
+        "type": "solid",
+        "rate": 1.0
+      }
+    ],
+    "outputs": [
+      {
+        "id": "interiors:light_gray_floor_chair",
+        "count": 1.0,
+        "unit": "item",
+        "type": "solid",
+        "rate": 1.0
+      }
+    ]
+  },
+  {
+    "recipe_id": "interiors:crafting/floor_chair/brown_floor_chair",
+    "mod_id": "interiors",
+    "recipe_type": "minecraft:crafting_shapeless",
+    "inputs": [
+      {
+        "id": "minecraft:wooden_slabs",
+        "count": 1.0,
+        "unit": "item",
+        "type": "tag",
+        "rate": 1.0
+      },
+      {
+        "id": "minecraft:wooden_slabs",
+        "count": 1.0,
+        "unit": "item",
+        "type": "tag",
+        "rate": 1.0
+      },
+      {
+        "id": "minecraft:brown_wool",
+        "count": 1.0,
+        "unit": "item",
+        "type": "solid",
+        "rate": 1.0
+      }
+    ],
+    "outputs": [
+      {
+        "id": "interiors:brown_floor_chair",
+        "count": 1.0,
+        "unit": "item",
+        "type": "solid",
+        "rate": 1.0
+      }
+    ]
+  },
+  {
+    "recipe_id": "interiors:crafting/floor_chair/cyan_floor_chair_from_seat",
+    "mod_id": "interiors",
+    "recipe_type": "minecraft:crafting_shapeless",
+    "inputs": [
+      {
+        "id": "minecraft:wooden_slabs",
+        "count": 1.0,
+        "unit": "item",
+        "type": "tag",
+        "rate": 1.0
+      },
+      {
+        "id": "create:cyan_seat",
+        "count": 1.0,
+        "unit": "item",
+        "type": "solid",
+        "rate": 1.0
+      }
+    ],
+    "outputs": [
+      {
+        "id": "interiors:cyan_floor_chair",
+        "count": 1.0,
+        "unit": "item",
+        "type": "solid",
+        "rate": 1.0
+      }
+    ]
+  },
+  {
+    "recipe_id": "interiors:crafting/floor_chair/light_blue_floor_chair_from_seat",
+    "mod_id": "interiors",
+    "recipe_type": "minecraft:crafting_shapeless",
+    "inputs": [
+      {
+        "id": "minecraft:wooden_slabs",
+        "count": 1.0,
+        "unit": "item",
+        "type": "tag",
+        "rate": 1.0
+      },
+      {
+        "id": "create:light_blue_seat",
+        "count": 1.0,
+        "unit": "item",
+        "type": "solid",
+        "rate": 1.0
+      }
+    ],
+    "outputs": [
+      {
+        "id": "interiors:light_blue_floor_chair",
+        "count": 1.0,
+        "unit": "item",
+        "type": "solid",
+        "rate": 1.0
+      }
+    ]
+  },
+  {
+    "recipe_id": "interiors:crafting/chair/yellow_chair_from_other_chair",
+    "mod_id": "interiors",
+    "recipe_type": "minecraft:crafting_shapeless",
+    "inputs": [
+      {
+        "id": "interiors:chairs",
+        "count": 1.0,
+        "unit": "item",
+        "type": "tag",
+        "rate": 1.0
+      },
+      {
+        "id": "c:yellow_dyes",
+        "count": 1.0,
+        "unit": "item",
+        "type": "tag",
+        "rate": 1.0
+      }
+    ],
+    "outputs": [
+      {
+        "id": "interiors:yellow_chair",
+        "count": 1.0,
+        "unit": "item",
+        "type": "solid",
+        "rate": 1.0
+      }
+    ]
+  },
+  {
+    "recipe_id": "interiors:crafting/cushion/lime_cushion",
+    "mod_id": "interiors",
+    "recipe_type": "minecraft:crafting_shapeless",
+    "inputs": [
+      {
+        "id": "minecraft:planks",
+        "count": 1.0,
+        "unit": "item",
+        "type": "tag",
+        "rate": 1.0
+      },
+      {
+        "id": "minecraft:lime_wool",
+        "count": 1.0,
+        "unit": "item",
+        "type": "solid",
+        "rate": 1.0
+      }
+    ],
+    "outputs": [
+      {
+        "id": "interiors:lime_cushion",
+        "count": 2.0,
+        "unit": "item",
+        "type": "solid",
+        "rate": 1.0
+      }
+    ]
+  },
+  {
+    "recipe_id": "interiors:crafting/floor_chair/purple_floor_chair",
+    "mod_id": "interiors",
+    "recipe_type": "minecraft:crafting_shapeless",
+    "inputs": [
+      {
+        "id": "minecraft:wooden_slabs",
+        "count": 1.0,
+        "unit": "item",
+        "type": "tag",
+        "rate": 1.0
+      },
+      {
+        "id": "minecraft:wooden_slabs",
+        "count": 1.0,
+        "unit": "item",
+        "type": "tag",
+        "rate": 1.0
+      },
+      {
+        "id": "minecraft:purple_wool",
+        "count": 1.0,
+        "unit": "item",
+        "type": "solid",
+        "rate": 1.0
+      }
+    ],
+    "outputs": [
+      {
+        "id": "interiors:purple_floor_chair",
+        "count": 1.0,
+        "unit": "item",
+        "type": "solid",
+        "rate": 1.0
+      }
+    ]
+  },
+  {
+    "recipe_id": "interiors:crafting/floor_chair/red_floor_chair_from_seat",
+    "mod_id": "interiors",
+    "recipe_type": "minecraft:crafting_shapeless",
+    "inputs": [
+      {
+        "id": "minecraft:wooden_slabs",
+        "count": 1.0,
+        "unit": "item",
+        "type": "tag",
+        "rate": 1.0
+      },
+      {
+        "id": "create:red_seat",
+        "count": 1.0,
+        "unit": "item",
+        "type": "solid",
+        "rate": 1.0
+      }
+    ],
+    "outputs": [
+      {
+        "id": "interiors:red_floor_chair",
+        "count": 1.0,
+        "unit": "item",
+        "type": "solid",
+        "rate": 1.0
+      }
+    ]
+  },
+  {
+    "recipe_id": "interiors:crafting/cushion/orange_cushion",
+    "mod_id": "interiors",
+    "recipe_type": "minecraft:crafting_shapeless",
+    "inputs": [
+      {
+        "id": "minecraft:planks",
+        "count": 1.0,
+        "unit": "item",
+        "type": "tag",
+        "rate": 1.0
+      },
+      {
+        "id": "minecraft:orange_wool",
+        "count": 1.0,
+        "unit": "item",
+        "type": "solid",
+        "rate": 1.0
+      }
+    ],
+    "outputs": [
+      {
+        "id": "interiors:orange_cushion",
+        "count": 2.0,
+        "unit": "item",
+        "type": "solid",
+        "rate": 1.0
+      }
+    ]
+  },
+  {
+    "recipe_id": "interiors:crafting/chair/purple_chair_from_other_chair",
+    "mod_id": "interiors",
+    "recipe_type": "minecraft:crafting_shapeless",
+    "inputs": [
+      {
+        "id": "interiors:chairs",
+        "count": 1.0,
+        "unit": "item",
+        "type": "tag",
+        "rate": 1.0
+      },
+      {
+        "id": "c:purple_dyes",
+        "count": 1.0,
+        "unit": "item",
+        "type": "tag",
+        "rate": 1.0
+      }
+    ],
+    "outputs": [
+      {
+        "id": "interiors:purple_chair",
+        "count": 1.0,
+        "unit": "item",
+        "type": "solid",
+        "rate": 1.0
+      }
+    ]
+  },
+  {
+    "recipe_id": "interiors:crafting/chair/purple_chair",
+    "mod_id": "interiors",
+    "recipe_type": "minecraft:crafting_shapeless",
+    "inputs": [
+      {
+        "id": "minecraft:wooden_slabs",
+        "count": 1.0,
+        "unit": "item",
+        "type": "tag",
+        "rate": 1.0
+      },
+      {
+        "id": "minecraft:planks",
+        "count": 1.0,
+        "unit": "item",
+        "type": "tag",
+        "rate": 1.0
+      },
+      {
+        "id": "minecraft:purple_wool",
+        "count": 1.0,
+        "unit": "item",
+        "type": "solid",
+        "rate": 1.0
+      }
+    ],
+    "outputs": [
+      {
+        "id": "interiors:purple_chair",
+        "count": 1.0,
+        "unit": "item",
+        "type": "solid",
+        "rate": 1.0
+      }
+    ]
+  },
+  {
+    "recipe_id": "interiors:crafting/chair/magenta_chair_from_floor_chair",
+    "mod_id": "interiors",
+    "recipe_type": "minecraft:crafting_shapeless",
+    "inputs": [
+      {
+        "id": "minecraft:wooden_slabs",
+        "count": 1.0,
+        "unit": "item",
+        "type": "tag",
+        "rate": 1.0
+      },
+      {
+        "id": "interiors:magenta_floor_chair",
+        "count": 1.0,
+        "unit": "item",
+        "type": "solid",
+        "rate": 1.0
+      }
+    ],
+    "outputs": [
+      {
+        "id": "interiors:magenta_chair",
+        "count": 1.0,
+        "unit": "item",
+        "type": "solid",
+        "rate": 1.0
+      }
+    ]
+  },
+  {
+    "recipe_id": "interiors:crafting/chair/blue_chair_from_seat",
+    "mod_id": "interiors",
+    "recipe_type": "minecraft:crafting_shapeless",
+    "inputs": [
+      {
+        "id": "minecraft:planks",
+        "count": 1.0,
+        "unit": "item",
+        "type": "tag",
+        "rate": 1.0
+      },
+      {
+        "id": "create:blue_seat",
+        "count": 1.0,
+        "unit": "item",
+        "type": "solid",
+        "rate": 1.0
+      }
+    ],
+    "outputs": [
+      {
+        "id": "interiors:blue_chair",
+        "count": 1.0,
+        "unit": "item",
+        "type": "solid",
+        "rate": 1.0
+      }
+    ]
+  },
+  {
+    "recipe_id": "interiors:crafting/floor_chair/red_floor_chair_from_other_floor_chair",
+    "mod_id": "interiors",
+    "recipe_type": "minecraft:crafting_shapeless",
+    "inputs": [
+      {
+        "id": "interiors:floor_chairs",
+        "count": 1.0,
+        "unit": "item",
+        "type": "tag",
+        "rate": 1.0
+      },
+      {
+        "id": "c:red_dyes",
+        "count": 1.0,
+        "unit": "item",
+        "type": "tag",
+        "rate": 1.0
+      }
+    ],
+    "outputs": [
+      {
+        "id": "interiors:red_floor_chair",
+        "count": 1.0,
+        "unit": "item",
+        "type": "solid",
+        "rate": 1.0
+      }
+    ]
+  },
+  {
+    "recipe_id": "interiors:crafting/chair/green_chair_from_seat",
+    "mod_id": "interiors",
+    "recipe_type": "minecraft:crafting_shapeless",
+    "inputs": [
+      {
+        "id": "minecraft:planks",
+        "count": 1.0,
+        "unit": "item",
+        "type": "tag",
+        "rate": 1.0
+      },
+      {
+        "id": "create:green_seat",
+        "count": 1.0,
+        "unit": "item",
+        "type": "solid",
+        "rate": 1.0
+      }
+    ],
+    "outputs": [
+      {
+        "id": "interiors:green_chair",
+        "count": 1.0,
+        "unit": "item",
+        "type": "solid",
+        "rate": 1.0
+      }
+    ]
+  },
+  {
+    "recipe_id": "interiors:crafting/cushion/black_cushion",
+    "mod_id": "interiors",
+    "recipe_type": "minecraft:crafting_shapeless",
+    "inputs": [
+      {
+        "id": "minecraft:planks",
+        "count": 1.0,
+        "unit": "item",
+        "type": "tag",
+        "rate": 1.0
+      },
+      {
+        "id": "minecraft:black_wool",
+        "count": 1.0,
+        "unit": "item",
+        "type": "solid",
+        "rate": 1.0
+      }
+    ],
+    "outputs": [
+      {
+        "id": "interiors:black_cushion",
+        "count": 2.0,
+        "unit": "item",
+        "type": "solid",
+        "rate": 1.0
+      }
+    ]
+  },
+  {
+    "recipe_id": "interiors:crafting/floor_chair/light_gray_floor_chair_from_seat",
+    "mod_id": "interiors",
+    "recipe_type": "minecraft:crafting_shapeless",
+    "inputs": [
+      {
+        "id": "minecraft:wooden_slabs",
+        "count": 1.0,
+        "unit": "item",
+        "type": "tag",
+        "rate": 1.0
+      },
+      {
+        "id": "create:light_gray_seat",
+        "count": 1.0,
+        "unit": "item",
+        "type": "solid",
+        "rate": 1.0
+      }
+    ],
+    "outputs": [
+      {
+        "id": "interiors:light_gray_floor_chair",
+        "count": 1.0,
+        "unit": "item",
+        "type": "solid",
+        "rate": 1.0
+      }
+    ]
+  },
+  {
+    "recipe_id": "interiors:crafting/floor_chair/brown_floor_chair",
+    "mod_id": "interiors",
+    "recipe_type": "minecraft:crafting_shapeless",
+    "inputs": [
+      {
+        "id": "minecraft:wooden_slabs",
+        "count": 1.0,
+        "unit": "item",
+        "type": "tag",
+        "rate": 1.0
+      },
+      {
+        "id": "minecraft:wooden_slabs",
+        "count": 1.0,
+        "unit": "item",
+        "type": "tag",
+        "rate": 1.0
+      },
+      {
+        "id": "minecraft:brown_wool",
+        "count": 1.0,
+        "unit": "item",
+        "type": "solid",
+        "rate": 1.0
+      }
+    ],
+    "outputs": [
+      {
+        "id": "interiors:brown_floor_chair",
+        "count": 1.0,
+        "unit": "item",
+        "type": "solid",
+        "rate": 1.0
+      }
+    ]
+  },
+  {
+    "recipe_id": "interiors:crafting/floor_chair/cyan_floor_chair_from_seat",
+    "mod_id": "interiors",
+    "recipe_type": "minecraft:crafting_shapeless",
+    "inputs": [
+      {
+        "id": "minecraft:wooden_slabs",
+        "count": 1.0,
+        "unit": "item",
+        "type": "tag",
+        "rate": 1.0
+      },
+      {
+        "id": "create:cyan_seat",
+        "count": 1.0,
+        "unit": "item",
+        "type": "solid",
+        "rate": 1.0
+      }
+    ],
+    "outputs": [
+      {
+        "id": "interiors:cyan_floor_chair",
+        "count": 1.0,
+        "unit": "item",
+        "type": "solid",
+        "rate": 1.0
+      }
+    ]
+  },
+  {
+    "recipe_id": "interiors:crafting/floor_chair/light_blue_floor_chair_from_seat",
+    "mod_id": "interiors",
+    "recipe_type": "minecraft:crafting_shapeless",
+    "inputs": [
+      {
+        "id": "minecraft:wooden_slabs",
+        "count": 1.0,
+        "unit": "item",
+        "type": "tag",
+        "rate": 1.0
+      },
+      {
+        "id": "create:light_blue_seat",
+        "count": 1.0,
+        "unit": "item",
+        "type": "solid",
+        "rate": 1.0
+      }
+    ],
+    "outputs": [
+      {
+        "id": "interiors:light_blue_floor_chair",
+        "count": 1.0,
+        "unit": "item",
+        "type": "solid",
+        "rate": 1.0
+      }
+    ]
+  },
+  {
+    "recipe_id": "interiors:crafting/chair/yellow_chair_from_other_chair",
+    "mod_id": "interiors",
+    "recipe_type": "minecraft:crafting_shapeless",
+    "inputs": [
+      {
+        "id": "interiors:chairs",
+        "count": 1.0,
+        "unit": "item",
+        "type": "tag",
+        "rate": 1.0
+      },
+      {
+        "id": "c:yellow_dyes",
+        "count": 1.0,
+        "unit": "item",
+        "type": "tag",
+        "rate": 1.0
+      }
+    ],
+    "outputs": [
+      {
+        "id": "interiors:yellow_chair",
+        "count": 1.0,
+        "unit": "item",
+        "type": "solid",
+        "rate": 1.0
+      }
+    ]
+  },
+  {
+    "recipe_id": "interiors:crafting/cushion/lime_cushion",
+    "mod_id": "interiors",
+    "recipe_type": "minecraft:crafting_shapeless",
+    "inputs": [
+      {
+        "id": "minecraft:planks",
+        "count": 1.0,
+        "unit": "item",
+        "type": "tag",
+        "rate": 1.0
+      },
+      {
+        "id": "minecraft:lime_wool",
+        "count": 1.0,
+        "unit": "item",
+        "type": "solid",
+        "rate": 1.0
+      }
+    ],
+    "outputs": [
+      {
+        "id": "interiors:lime_cushion",
+        "count": 2.0,
+        "unit": "item",
+        "type": "solid",
+        "rate": 1.0
+      }
+    ]
+  },
+  {
+    "recipe_id": "interiors:crafting/floor_chair/purple_floor_chair",
+    "mod_id": "interiors",
+    "recipe_type": "minecraft:crafting_shapeless",
+    "inputs": [
+      {
+        "id": "minecraft:wooden_slabs",
+        "count": 1.0,
+        "unit": "item",
+        "type": "tag",
+        "rate": 1.0
+      },
+      {
+        "id": "minecraft:wooden_slabs",
+        "count": 1.0,
+        "unit": "item",
+        "type": "tag",
+        "rate": 1.0
+      },
+      {
+        "id": "minecraft:purple_wool",
+        "count": 1.0,
+        "unit": "item",
+        "type": "solid",
+        "rate": 1.0
+      }
+    ],
+    "outputs": [
+      {
+        "id": "interiors:purple_floor_chair",
+        "count": 1.0,
+        "unit": "item",
+        "type": "solid",
+        "rate": 1.0
+      }
+    ]
+  },
+  {
+    "recipe_id": "interiors:crafting/floor_chair/red_floor_chair_from_seat",
+    "mod_id": "interiors",
+    "recipe_type": "minecraft:crafting_shapeless",
+    "inputs": [
+      {
+        "id": "minecraft:wooden_slabs",
+        "count": 1.0,
+        "unit": "item",
+        "type": "tag",
+        "rate": 1.0
+      },
+      {
+        "id": "create:red_seat",
+        "count": 1.0,
+        "unit": "item",
+        "type": "solid",
+        "rate": 1.0
+      }
+    ],
+    "outputs": [
+      {
+        "id": "interiors:red_floor_chair",
+        "count": 1.0,
+        "unit": "item",
+        "type": "solid",
+        "rate": 1.0
+      }
+    ]
+  },
+  {
+    "recipe_id": "interiors:crafting/cushion/orange_cushion",
+    "mod_id": "interiors",
+    "recipe_type": "minecraft:crafting_shapeless",
+    "inputs": [
+      {
+        "id": "minecraft:planks",
+        "count": 1.0,
+        "unit": "item",
+        "type": "tag",
+        "rate": 1.0
+      },
+      {
+        "id": "minecraft:orange_wool",
+        "count": 1.0,
+        "unit": "item",
+        "type": "solid",
+        "rate": 1.0
+      }
+    ],
+    "outputs": [
+      {
+        "id": "interiors:orange_cushion",
+        "count": 2.0,
+        "unit": "item",
+        "type": "solid",
+        "rate": 1.0
+      }
+    ]
+  },
+  {
+    "recipe_id": "interiors:crafting/chair/purple_chair_from_other_chair",
+    "mod_id": "interiors",
+    "recipe_type": "minecraft:crafting_shapeless",
+    "inputs": [
+      {
+        "id": "interiors:chairs",
+        "count": 1.0,
+        "unit": "item",
+        "type": "tag",
+        "rate": 1.0
+      },
+      {
+        "id": "c:purple_dyes",
+        "count": 1.0,
+        "unit": "item",
+        "type": "tag",
+        "rate": 1.0
+      }
+    ],
+    "outputs": [
+      {
+        "id": "interiors:purple_chair",
+        "count": 1.0,
+        "unit": "item",
+        "type": "solid",
+        "rate": 1.0
+      }
+    ]
+  },
+  {
+    "recipe_id": "interiors:crafting/chair/purple_chair",
+    "mod_id": "interiors",
+    "recipe_type": "minecraft:crafting_shapeless",
+    "inputs": [
+      {
+        "id": "minecraft:wooden_slabs",
+        "count": 1.0,
+        "unit": "item",
+        "type": "tag",
+        "rate": 1.0
+      },
+      {
+        "id": "minecraft:planks",
+        "count": 1.0,
+        "unit": "item",
+        "type": "tag",
+        "rate": 1.0
+      },
+      {
+        "id": "minecraft:purple_wool",
+        "count": 1.0,
+        "unit": "item",
+        "type": "solid",
+        "rate": 1.0
+      }
+    ],
+    "outputs": [
+      {
+        "id": "interiors:purple_chair",
+        "count": 1.0,
+        "unit": "item",
+        "type": "solid",
+        "rate": 1.0
+      }
+    ]
+  },
+  {
+    "recipe_id": "interiors:crafting/chair/magenta_chair_from_floor_chair",
+    "mod_id": "interiors",
+    "recipe_type": "minecraft:crafting_shapeless",
+    "inputs": [
+      {
+        "id": "minecraft:wooden_slabs",
+        "count": 1.0,
+        "unit": "item",
+        "type": "tag",
+        "rate": 1.0
+      },
+      {
+        "id": "interiors:magenta_floor_chair",
+        "count": 1.0,
+        "unit": "item",
+        "type": "solid",
+        "rate": 1.0
+      }
+    ],
+    "outputs": [
+      {
+        "id": "interiors:magenta_chair",
+        "count": 1.0,
+        "unit": "item",
+        "type": "solid",
+        "rate": 1.0
+      }
+    ]
+  },
+  {
+    "recipe_id": "interiors:crafting/chair/blue_chair_from_seat",
+    "mod_id": "interiors",
+    "recipe_type": "minecraft:crafting_shapeless",
+    "inputs": [
+      {
+        "id": "minecraft:planks",
+        "count": 1.0,
+        "unit": "item",
+        "type": "tag",
+        "rate": 1.0
+      },
+      {
+        "id": "create:blue_seat",
+        "count": 1.0,
+        "unit": "item",
+        "type": "solid",
+        "rate": 1.0
+      }
+    ],
+    "outputs": [
+      {
+        "id": "interiors:blue_chair",
+        "count": 1.0,
+        "unit": "item",
+        "type": "solid",
+        "rate": 1.0
+      }
+    ]
+  },
+  {
+    "recipe_id": "interiors:crafting/floor_chair/red_floor_chair_from_other_floor_chair",
+    "mod_id": "interiors",
+    "recipe_type": "minecraft:crafting_shapeless",
+    "inputs": [
+      {
+        "id": "interiors:floor_chairs",
+        "count": 1.0,
+        "unit": "item",
+        "type": "tag",
+        "rate": 1.0
+      },
+      {
+        "id": "c:red_dyes",
+        "count": 1.0,
+        "unit": "item",
+        "type": "tag",
+        "rate": 1.0
+      }
+    ],
+    "outputs": [
+      {
+        "id": "interiors:red_floor_chair",
+        "count": 1.0,
+        "unit": "item",
+        "type": "solid",
+        "rate": 1.0
+      }
+    ]
+  },
+  {
+    "recipe_id": "interiors:crafting/chair/green_chair_from_seat",
+    "mod_id": "interiors",
+    "recipe_type": "minecraft:crafting_shapeless",
+    "inputs": [
+      {
+        "id": "minecraft:planks",
+        "count": 1.0,
+        "unit": "item",
+        "type": "tag",
+        "rate": 1.0
+      },
+      {
+        "id": "create:green_seat",
+        "count": 1.0,
+        "unit": "item",
+        "type": "solid",
+        "rate": 1.0
+      }
+    ],
+    "outputs": [
+      {
+        "id": "interiors:green_chair",
+        "count": 1.0,
+        "unit": "item",
+        "type": "solid",
+        "rate": 1.0
+      }
+    ]
+  },
+  {
+    "recipe_id": "interiors:crafting/cushion/black_cushion",
+    "mod_id": "interiors",
+    "recipe_type": "minecraft:crafting_shapeless",
+    "inputs": [
+      {
+        "id": "minecraft:planks",
+        "count": 1.0,
+        "unit": "item",
+        "type": "tag",
+        "rate": 1.0
+      },
+      {
+        "id": "minecraft:black_wool",
+        "count": 1.0,
+        "unit": "item",
+        "type": "solid",
+        "rate": 1.0
+      }
+    ],
+    "outputs": [
+      {
+        "id": "interiors:black_cushion",
+        "count": 2.0,
+        "unit": "item",
+        "type": "solid",
+        "rate": 1.0
+      }
+    ]
+  },
+  {
+    "recipe_id": "interiors:crafting/floor_chair/purple_floor_chair_from_seat",
+    "mod_id": "interiors",
+    "recipe_type": "minecraft:crafting_shapeless",
+    "inputs": [
+      {
+        "id": "minecraft:wooden_slabs",
+        "count": 1.0,
+        "unit": "item",
+        "type": "tag",
+        "rate": 1.0
+      },
+      {
+        "id": "create:purple_seat",
+        "count": 1.0,
+        "unit": "item",
+        "type": "solid",
+        "rate": 1.0
+      }
+    ],
+    "outputs": [
+      {
+        "id": "interiors:purple_floor_chair",
+        "count": 1.0,
+        "unit": "item",
+        "type": "solid",
+        "rate": 1.0
+      }
+    ]
+  },
+  {
+    "recipe_id": "interiors:crafting/floor_chair/black_floor_chair_from_other_floor_chair",
+    "mod_id": "interiors",
+    "recipe_type": "minecraft:crafting_shapeless",
+    "inputs": [
+      {
+        "id": "interiors:floor_chairs",
+        "count": 1.0,
+        "unit": "item",
+        "type": "tag",
+        "rate": 1.0
+      },
+      {
+        "id": "c:black_dyes",
+        "count": 1.0,
+        "unit": "item",
+        "type": "tag",
+        "rate": 1.0
+      }
+    ],
+    "outputs": [
+      {
+        "id": "interiors:black_floor_chair",
+        "count": 1.0,
+        "unit": "item",
+        "type": "solid",
+        "rate": 1.0
+      }
+    ]
+  },
+  {
+    "recipe_id": "interiors:crafting/chair/magenta_chair",
+    "mod_id": "interiors",
+    "recipe_type": "minecraft:crafting_shapeless",
+    "inputs": [
+      {
+        "id": "minecraft:wooden_slabs",
+        "count": 1.0,
+        "unit": "item",
+        "type": "tag",
+        "rate": 1.0
+      },
+      {
+        "id": "minecraft:planks",
+        "count": 1.0,
+        "unit": "item",
+        "type": "tag",
+        "rate": 1.0
+      },
+      {
+        "id": "minecraft:magenta_wool",
+        "count": 1.0,
+        "unit": "item",
+        "type": "solid",
+        "rate": 1.0
+      }
+    ],
+    "outputs": [
+      {
+        "id": "interiors:magenta_chair",
+        "count": 1.0,
+        "unit": "item",
+        "type": "solid",
+        "rate": 1.0
+      }
+    ]
+  },
+  {
+    "recipe_id": "interiors:crafting/chair/green_chair_from_floor_chair",
+    "mod_id": "interiors",
+    "recipe_type": "minecraft:crafting_shapeless",
+    "inputs": [
+      {
+        "id": "minecraft:wooden_slabs",
+        "count": 1.0,
+        "unit": "item",
+        "type": "tag",
+        "rate": 1.0
+      },
+      {
+        "id": "interiors:green_floor_chair",
+        "count": 1.0,
+        "unit": "item",
+        "type": "solid",
+        "rate": 1.0
+      }
+    ],
+    "outputs": [
+      {
+        "id": "interiors:green_chair",
+        "count": 1.0,
+        "unit": "item",
+        "type": "solid",
+        "rate": 1.0
+      }
+    ]
+  },
+  {
+    "recipe_id": "interiors:crafting/chair/gray_chair",
+    "mod_id": "interiors",
+    "recipe_type": "minecraft:crafting_shapeless",
+    "inputs": [
+      {
+        "id": "minecraft:wooden_slabs",
+        "count": 1.0,
+        "unit": "item",
+        "type": "tag",
+        "rate": 1.0
+      },
+      {
+        "id": "minecraft:planks",
+        "count": 1.0,
+        "unit": "item",
+        "type": "tag",
+        "rate": 1.0
+      },
+      {
+        "id": "minecraft:gray_wool",
+        "count": 1.0,
+        "unit": "item",
+        "type": "solid",
+        "rate": 1.0
+      }
+    ],
+    "outputs": [
+      {
+        "id": "interiors:gray_chair",
+        "count": 1.0,
+        "unit": "item",
+        "type": "solid",
+        "rate": 1.0
+      }
+    ]
+  },
+  {
+    "recipe_id": "interiors:crafting/cushion/pink_cushion",
+    "mod_id": "interiors",
+    "recipe_type": "minecraft:crafting_shapeless",
+    "inputs": [
+      {
+        "id": "minecraft:planks",
+        "count": 1.0,
+        "unit": "item",
+        "type": "tag",
+        "rate": 1.0
+      },
+      {
+        "id": "minecraft:pink_wool",
+        "count": 1.0,
+        "unit": "item",
+        "type": "solid",
+        "rate": 1.0
+      }
+    ],
+    "outputs": [
+      {
+        "id": "interiors:pink_cushion",
+        "count": 2.0,
+        "unit": "item",
+        "type": "solid",
+        "rate": 1.0
+      }
+    ]
+  },
+  {
+    "recipe_id": "interiors:crafting/floor_chair/yellow_floor_chair",
+    "mod_id": "interiors",
+    "recipe_type": "minecraft:crafting_shapeless",
+    "inputs": [
+      {
+        "id": "minecraft:wooden_slabs",
+        "count": 1.0,
+        "unit": "item",
+        "type": "tag",
+        "rate": 1.0
+      },
+      {
+        "id": "minecraft:wooden_slabs",
+        "count": 1.0,
+        "unit": "item",
+        "type": "tag",
+        "rate": 1.0
+      },
+      {
+        "id": "minecraft:yellow_wool",
+        "count": 1.0,
+        "unit": "item",
+        "type": "solid",
+        "rate": 1.0
+      }
+    ],
+    "outputs": [
+      {
+        "id": "interiors:yellow_floor_chair",
+        "count": 1.0,
+        "unit": "item",
+        "type": "solid",
+        "rate": 1.0
+      }
+    ]
+  },
+  {
+    "recipe_id": "interiors:crafting/chair/pink_chair_from_floor_chair",
+    "mod_id": "interiors",
+    "recipe_type": "minecraft:crafting_shapeless",
+    "inputs": [
+      {
+        "id": "minecraft:wooden_slabs",
+        "count": 1.0,
+        "unit": "item",
+        "type": "tag",
+        "rate": 1.0
+      },
+      {
+        "id": "interiors:pink_floor_chair",
+        "count": 1.0,
+        "unit": "item",
+        "type": "solid",
+        "rate": 1.0
+      }
+    ],
+    "outputs": [
+      {
+        "id": "interiors:pink_chair",
+        "count": 1.0,
+        "unit": "item",
+        "type": "solid",
+        "rate": 1.0
+      }
+    ]
+  },
+  {
+    "recipe_id": "interiors:crafting/chair/yellow_chair",
+    "mod_id": "interiors",
+    "recipe_type": "minecraft:crafting_shapeless",
+    "inputs": [
+      {
+        "id": "minecraft:wooden_slabs",
+        "count": 1.0,
+        "unit": "item",
+        "type": "tag",
+        "rate": 1.0
+      },
+      {
+        "id": "minecraft:planks",
+        "count": 1.0,
+        "unit": "item",
+        "type": "tag",
+        "rate": 1.0
+      },
+      {
+        "id": "minecraft:yellow_wool",
+        "count": 1.0,
+        "unit": "item",
+        "type": "solid",
+        "rate": 1.0
+      }
+    ],
+    "outputs": [
+      {
+        "id": "interiors:yellow_chair",
+        "count": 1.0,
+        "unit": "item",
+        "type": "solid",
+        "rate": 1.0
+      }
+    ]
+  },
+  {
+    "recipe_id": "interiors:crafting/chair/light_gray_chair_from_floor_chair",
+    "mod_id": "interiors",
+    "recipe_type": "minecraft:crafting_shapeless",
+    "inputs": [
+      {
+        "id": "minecraft:wooden_slabs",
+        "count": 1.0,
+        "unit": "item",
+        "type": "tag",
+        "rate": 1.0
+      },
+      {
+        "id": "interiors:light_gray_floor_chair",
+        "count": 1.0,
+        "unit": "item",
+        "type": "solid",
+        "rate": 1.0
+      }
+    ],
+    "outputs": [
+      {
+        "id": "interiors:light_gray_chair",
+        "count": 1.0,
+        "unit": "item",
+        "type": "solid",
+        "rate": 1.0
+      }
+    ]
+  },
+  {
+    "recipe_id": "interiors:crafting/chair/brown_chair_from_other_chair",
+    "mod_id": "interiors",
+    "recipe_type": "minecraft:crafting_shapeless",
+    "inputs": [
+      {
+        "id": "interiors:chairs",
+        "count": 1.0,
+        "unit": "item",
+        "type": "tag",
+        "rate": 1.0
+      },
+      {
+        "id": "c:brown_dyes",
+        "count": 1.0,
+        "unit": "item",
+        "type": "tag",
+        "rate": 1.0
+      }
+    ],
+    "outputs": [
+      {
+        "id": "interiors:brown_chair",
+        "count": 1.0,
+        "unit": "item",
+        "type": "solid",
+        "rate": 1.0
+      }
+    ]
+  },
+  {
+    "recipe_id": "interiors:crafting/chair/yellow_chair_from_seat",
+    "mod_id": "interiors",
+    "recipe_type": "minecraft:crafting_shapeless",
+    "inputs": [
+      {
+        "id": "minecraft:planks",
+        "count": 1.0,
+        "unit": "item",
+        "type": "tag",
+        "rate": 1.0
+      },
+      {
+        "id": "create:yellow_seat",
+        "count": 1.0,
+        "unit": "item",
+        "type": "solid",
+        "rate": 1.0
+      }
+    ],
+    "outputs": [
+      {
+        "id": "interiors:yellow_chair",
+        "count": 1.0,
+        "unit": "item",
+        "type": "solid",
+        "rate": 1.0
+      }
+    ]
+  },
+  {
+    "recipe_id": "interiors:crafting/chair/magenta_chair_from_seat",
+    "mod_id": "interiors",
+    "recipe_type": "minecraft:crafting_shapeless",
+    "inputs": [
+      {
+        "id": "minecraft:planks",
+        "count": 1.0,
+        "unit": "item",
+        "type": "tag",
+        "rate": 1.0
+      },
+      {
+        "id": "create:magenta_seat",
+        "count": 1.0,
+        "unit": "item",
+        "type": "solid",
+        "rate": 1.0
+      }
+    ],
+    "outputs": [
+      {
+        "id": "interiors:magenta_chair",
+        "count": 1.0,
+        "unit": "item",
+        "type": "solid",
+        "rate": 1.0
+      }
+    ]
+  },
+  {
+    "recipe_id": "interiors:crafting/chair/black_chair",
+    "mod_id": "interiors",
+    "recipe_type": "minecraft:crafting_shapeless",
+    "inputs": [
+      {
+        "id": "minecraft:wooden_slabs",
+        "count": 1.0,
+        "unit": "item",
+        "type": "tag",
+        "rate": 1.0
+      },
+      {
+        "id": "minecraft:planks",
+        "count": 1.0,
+        "unit": "item",
+        "type": "tag",
+        "rate": 1.0
+      },
+      {
+        "id": "minecraft:black_wool",
+        "count": 1.0,
+        "unit": "item",
+        "type": "solid",
+        "rate": 1.0
+      }
+    ],
+    "outputs": [
+      {
+        "id": "interiors:black_chair",
+        "count": 1.0,
+        "unit": "item",
+        "type": "solid",
+        "rate": 1.0
+      }
+    ]
+  },
+  {
+    "recipe_id": "interiors:crafting/chair/black_chair_from_floor_chair",
+    "mod_id": "interiors",
+    "recipe_type": "minecraft:crafting_shapeless",
+    "inputs": [
+      {
+        "id": "minecraft:wooden_slabs",
+        "count": 1.0,
+        "unit": "item",
+        "type": "tag",
+        "rate": 1.0
+      },
+      {
+        "id": "interiors:black_floor_chair",
+        "count": 1.0,
+        "unit": "item",
+        "type": "solid",
+        "rate": 1.0
+      }
+    ],
+    "outputs": [
+      {
+        "id": "interiors:black_chair",
+        "count": 1.0,
+        "unit": "item",
+        "type": "solid",
+        "rate": 1.0
+      }
+    ]
+  },
+  {
+    "recipe_id": "interiors:crafting/cushion/blue_cushion",
+    "mod_id": "interiors",
+    "recipe_type": "minecraft:crafting_shapeless",
+    "inputs": [
+      {
+        "id": "minecraft:planks",
+        "count": 1.0,
+        "unit": "item",
+        "type": "tag",
+        "rate": 1.0
+      },
+      {
+        "id": "minecraft:blue_wool",
+        "count": 1.0,
+        "unit": "item",
+        "type": "solid",
+        "rate": 1.0
+      }
+    ],
+    "outputs": [
+      {
+        "id": "interiors:blue_cushion",
+        "count": 2.0,
+        "unit": "item",
+        "type": "solid",
+        "rate": 1.0
+      }
+    ]
+  },
+  {
+    "recipe_id": "interiors:crafting/chair/lime_chair_from_seat",
+    "mod_id": "interiors",
+    "recipe_type": "minecraft:crafting_shapeless",
+    "inputs": [
+      {
+        "id": "minecraft:planks",
+        "count": 1.0,
+        "unit": "item",
+        "type": "tag",
+        "rate": 1.0
+      },
+      {
+        "id": "create:lime_seat",
+        "count": 1.0,
+        "unit": "item",
+        "type": "solid",
+        "rate": 1.0
+      }
+    ],
+    "outputs": [
+      {
+        "id": "interiors:lime_chair",
+        "count": 1.0,
+        "unit": "item",
+        "type": "solid",
+        "rate": 1.0
+      }
+    ]
+  },
+  {
+    "recipe_id": "interiors:crafting/floor_chair/pink_floor_chair_from_seat",
+    "mod_id": "interiors",
+    "recipe_type": "minecraft:crafting_shapeless",
+    "inputs": [
+      {
+        "id": "minecraft:wooden_slabs",
+        "count": 1.0,
+        "unit": "item",
+        "type": "tag",
+        "rate": 1.0
+      },
+      {
+        "id": "create:pink_seat",
+        "count": 1.0,
+        "unit": "item",
+        "type": "solid",
+        "rate": 1.0
+      }
+    ],
+    "outputs": [
+      {
+        "id": "interiors:pink_floor_chair",
+        "count": 1.0,
+        "unit": "item",
+        "type": "solid",
+        "rate": 1.0
+      }
+    ]
+  },
+  {
+    "recipe_id": "interiors:crafting/chair/light_blue_chair_from_other_chair",
+    "mod_id": "interiors",
+    "recipe_type": "minecraft:crafting_shapeless",
+    "inputs": [
+      {
+        "id": "interiors:chairs",
+        "count": 1.0,
+        "unit": "item",
+        "type": "tag",
+        "rate": 1.0
+      },
+      {
+        "id": "c:light_blue_dyes",
+        "count": 1.0,
+        "unit": "item",
+        "type": "tag",
+        "rate": 1.0
+      }
+    ],
+    "outputs": [
+      {
+        "id": "interiors:light_blue_chair",
+        "count": 1.0,
+        "unit": "item",
+        "type": "solid",
+        "rate": 1.0
+      }
+    ]
+  },
+  {
+    "recipe_id": "interiors:crafting/chair/blue_chair_from_other_chair",
+    "mod_id": "interiors",
+    "recipe_type": "minecraft:crafting_shapeless",
+    "inputs": [
+      {
+        "id": "interiors:chairs",
+        "count": 1.0,
+        "unit": "item",
+        "type": "tag",
+        "rate": 1.0
+      },
+      {
+        "id": "c:blue_dyes",
+        "count": 1.0,
+        "unit": "item",
+        "type": "tag",
+        "rate": 1.0
+      }
+    ],
+    "outputs": [
+      {
+        "id": "interiors:blue_chair",
+        "count": 1.0,
+        "unit": "item",
+        "type": "solid",
+        "rate": 1.0
+      }
+    ]
+  },
+  {
+    "recipe_id": "interiors:crafting/chair/lime_chair_from_other_chair",
+    "mod_id": "interiors",
+    "recipe_type": "minecraft:crafting_shapeless",
+    "inputs": [
+      {
+        "id": "interiors:chairs",
+        "count": 1.0,
+        "unit": "item",
+        "type": "tag",
+        "rate": 1.0
+      },
+      {
+        "id": "c:lime_dyes",
+        "count": 1.0,
+        "unit": "item",
+        "type": "tag",
+        "rate": 1.0
+      }
+    ],
+    "outputs": [
+      {
+        "id": "interiors:lime_chair",
+        "count": 1.0,
+        "unit": "item",
+        "type": "solid",
+        "rate": 1.0
+      }
+    ]
+  },
+  {
+    "recipe_id": "interiors:crafting/chair/black_chair_from_seat",
+    "mod_id": "interiors",
+    "recipe_type": "minecraft:crafting_shapeless",
+    "inputs": [
+      {
+        "id": "minecraft:planks",
+        "count": 1.0,
+        "unit": "item",
+        "type": "tag",
+        "rate": 1.0
+      },
+      {
+        "id": "create:black_seat",
+        "count": 1.0,
+        "unit": "item",
+        "type": "solid",
+        "rate": 1.0
+      }
+    ],
+    "outputs": [
+      {
+        "id": "interiors:black_chair",
+        "count": 1.0,
+        "unit": "item",
+        "type": "solid",
+        "rate": 1.0
+      }
+    ]
+  },
+  {
+    "recipe_id": "interiors:crafting/floor_chair/red_floor_chair",
+    "mod_id": "interiors",
+    "recipe_type": "minecraft:crafting_shapeless",
+    "inputs": [
+      {
+        "id": "minecraft:wooden_slabs",
+        "count": 1.0,
+        "unit": "item",
+        "type": "tag",
+        "rate": 1.0
+      },
+      {
+        "id": "minecraft:wooden_slabs",
+        "count": 1.0,
+        "unit": "item",
+        "type": "tag",
+        "rate": 1.0
+      },
+      {
+        "id": "minecraft:red_wool",
+        "count": 1.0,
+        "unit": "item",
+        "type": "solid",
+        "rate": 1.0
+      }
+    ],
+    "outputs": [
+      {
+        "id": "interiors:red_floor_chair",
+        "count": 1.0,
+        "unit": "item",
+        "type": "solid",
+        "rate": 1.0
+      }
+    ]
+  },
+  {
+    "recipe_id": "interiors:crafting/chair/cyan_chair_from_floor_chair",
+    "mod_id": "interiors",
+    "recipe_type": "minecraft:crafting_shapeless",
+    "inputs": [
+      {
+        "id": "minecraft:wooden_slabs",
+        "count": 1.0,
+        "unit": "item",
+        "type": "tag",
+        "rate": 1.0
+      },
+      {
+        "id": "interiors:cyan_floor_chair",
+        "count": 1.0,
+        "unit": "item",
+        "type": "solid",
+        "rate": 1.0
+      }
+    ],
+    "outputs": [
+      {
+        "id": "interiors:cyan_chair",
+        "count": 1.0,
+        "unit": "item",
+        "type": "solid",
+        "rate": 1.0
+      }
+    ]
+  },
+  {
+    "recipe_id": "interiors:crafting/floor_chair/magenta_floor_chair",
+    "mod_id": "interiors",
+    "recipe_type": "minecraft:crafting_shapeless",
+    "inputs": [
+      {
+        "id": "minecraft:wooden_slabs",
+        "count": 1.0,
+        "unit": "item",
+        "type": "tag",
+        "rate": 1.0
+      },
+      {
+        "id": "minecraft:wooden_slabs",
+        "count": 1.0,
+        "unit": "item",
+        "type": "tag",
+        "rate": 1.0
+      },
+      {
+        "id": "minecraft:magenta_wool",
+        "count": 1.0,
+        "unit": "item",
+        "type": "solid",
+        "rate": 1.0
+      }
+    ],
+    "outputs": [
+      {
+        "id": "interiors:magenta_floor_chair",
+        "count": 1.0,
+        "unit": "item",
+        "type": "solid",
+        "rate": 1.0
+      }
+    ]
+  },
+  {
+    "recipe_id": "interiors:crafting/floor_chair/yellow_floor_chair_from_seat",
+    "mod_id": "interiors",
+    "recipe_type": "minecraft:crafting_shapeless",
+    "inputs": [
+      {
+        "id": "minecraft:wooden_slabs",
+        "count": 1.0,
+        "unit": "item",
+        "type": "tag",
+        "rate": 1.0
+      },
+      {
+        "id": "create:yellow_seat",
+        "count": 1.0,
+        "unit": "item",
+        "type": "solid",
+        "rate": 1.0
+      }
+    ],
+    "outputs": [
+      {
+        "id": "interiors:yellow_floor_chair",
+        "count": 1.0,
+        "unit": "item",
+        "type": "solid",
+        "rate": 1.0
+      }
+    ]
+  },
+  {
+    "recipe_id": "interiors:crafting/floor_chair/white_floor_chair_from_seat",
+    "mod_id": "interiors",
+    "recipe_type": "minecraft:crafting_shapeless",
+    "inputs": [
+      {
+        "id": "minecraft:wooden_slabs",
+        "count": 1.0,
+        "unit": "item",
+        "type": "tag",
+        "rate": 1.0
+      },
+      {
+        "id": "create:white_seat",
+        "count": 1.0,
+        "unit": "item",
+        "type": "solid",
+        "rate": 1.0
+      }
+    ],
+    "outputs": [
+      {
+        "id": "interiors:white_floor_chair",
+        "count": 1.0,
+        "unit": "item",
+        "type": "solid",
+        "rate": 1.0
+      }
+    ]
+  },
+  {
+    "recipe_id": "interiors:crafting/floor_chair/blue_floor_chair_from_other_floor_chair",
+    "mod_id": "interiors",
+    "recipe_type": "minecraft:crafting_shapeless",
+    "inputs": [
+      {
+        "id": "interiors:floor_chairs",
+        "count": 1.0,
+        "unit": "item",
+        "type": "tag",
+        "rate": 1.0
+      },
+      {
+        "id": "c:blue_dyes",
+        "count": 1.0,
+        "unit": "item",
+        "type": "tag",
+        "rate": 1.0
+      }
+    ],
+    "outputs": [
+      {
+        "id": "interiors:blue_floor_chair",
+        "count": 1.0,
+        "unit": "item",
+        "type": "solid",
+        "rate": 1.0
+      }
+    ]
+  },
+  {
+    "recipe_id": "interiors:crafting/chair/green_chair_from_other_chair",
+    "mod_id": "interiors",
+    "recipe_type": "minecraft:crafting_shapeless",
+    "inputs": [
+      {
+        "id": "interiors:chairs",
+        "count": 1.0,
+        "unit": "item",
+        "type": "tag",
+        "rate": 1.0
+      },
+      {
+        "id": "c:green_dyes",
+        "count": 1.0,
+        "unit": "item",
+        "type": "tag",
+        "rate": 1.0
+      }
+    ],
+    "outputs": [
+      {
+        "id": "interiors:green_chair",
+        "count": 1.0,
+        "unit": "item",
+        "type": "solid",
+        "rate": 1.0
+      }
+    ]
+  },
+  {
+    "recipe_id": "interiors:crafting/chair/gray_chair_from_other_chair",
+    "mod_id": "interiors",
+    "recipe_type": "minecraft:crafting_shapeless",
+    "inputs": [
+      {
+        "id": "interiors:chairs",
+        "count": 1.0,
+        "unit": "item",
+        "type": "tag",
+        "rate": 1.0
+      },
+      {
+        "id": "c:gray_dyes",
+        "count": 1.0,
+        "unit": "item",
+        "type": "tag",
+        "rate": 1.0
+      }
+    ],
+    "outputs": [
+      {
+        "id": "interiors:gray_chair",
+        "count": 1.0,
+        "unit": "item",
+        "type": "solid",
+        "rate": 1.0
+      }
+    ]
+  },
+  {
+    "recipe_id": "interiors:crafting/floor_chair/black_floor_chair",
+    "mod_id": "interiors",
+    "recipe_type": "minecraft:crafting_shapeless",
+    "inputs": [
+      {
+        "id": "minecraft:wooden_slabs",
+        "count": 1.0,
+        "unit": "item",
+        "type": "tag",
+        "rate": 1.0
+      },
+      {
+        "id": "minecraft:wooden_slabs",
+        "count": 1.0,
+        "unit": "item",
+        "type": "tag",
+        "rate": 1.0
+      },
+      {
+        "id": "minecraft:black_wool",
+        "count": 1.0,
+        "unit": "item",
+        "type": "solid",
+        "rate": 1.0
+      }
+    ],
+    "outputs": [
+      {
+        "id": "interiors:black_floor_chair",
+        "count": 1.0,
+        "unit": "item",
+        "type": "solid",
+        "rate": 1.0
+      }
+    ]
+  },
+  {
+    "recipe_id": "interiors:crafting/chair/blue_chair",
+    "mod_id": "interiors",
+    "recipe_type": "minecraft:crafting_shapeless",
+    "inputs": [
+      {
+        "id": "minecraft:wooden_slabs",
+        "count": 1.0,
+        "unit": "item",
+        "type": "tag",
+        "rate": 1.0
+      },
+      {
+        "id": "minecraft:planks",
+        "count": 1.0,
+        "unit": "item",
+        "type": "tag",
+        "rate": 1.0
+      },
+      {
+        "id": "minecraft:blue_wool",
+        "count": 1.0,
+        "unit": "item",
+        "type": "solid",
+        "rate": 1.0
+      }
+    ],
+    "outputs": [
+      {
+        "id": "interiors:blue_chair",
+        "count": 1.0,
+        "unit": "item",
+        "type": "solid",
+        "rate": 1.0
+      }
+    ]
+  },
+  {
+    "recipe_id": "interiors:crafting/cushion/white_cushion",
+    "mod_id": "interiors",
+    "recipe_type": "minecraft:crafting_shapeless",
+    "inputs": [
+      {
+        "id": "minecraft:planks",
+        "count": 1.0,
+        "unit": "item",
+        "type": "tag",
+        "rate": 1.0
+      },
+      {
+        "id": "minecraft:white_wool",
+        "count": 1.0,
+        "unit": "item",
+        "type": "solid",
+        "rate": 1.0
+      }
+    ],
+    "outputs": [
+      {
+        "id": "interiors:white_cushion",
+        "count": 2.0,
+        "unit": "item",
+        "type": "solid",
+        "rate": 1.0
+      }
+    ]
+  },
+  {
+    "recipe_id": "interiors:crafting/cushion/magenta_cushion",
+    "mod_id": "interiors",
+    "recipe_type": "minecraft:crafting_shapeless",
+    "inputs": [
+      {
+        "id": "minecraft:planks",
+        "count": 1.0,
+        "unit": "item",
+        "type": "tag",
+        "rate": 1.0
+      },
+      {
+        "id": "minecraft:magenta_wool",
+        "count": 1.0,
+        "unit": "item",
+        "type": "solid",
+        "rate": 1.0
+      }
+    ],
+    "outputs": [
+      {
+        "id": "interiors:magenta_cushion",
+        "count": 2.0,
+        "unit": "item",
+        "type": "solid",
+        "rate": 1.0
+      }
+    ]
+  },
+  {
+    "recipe_id": "interiors:crafting/chair/pink_chair",
+    "mod_id": "interiors",
+    "recipe_type": "minecraft:crafting_shapeless",
+    "inputs": [
+      {
+        "id": "minecraft:wooden_slabs",
+        "count": 1.0,
+        "unit": "item",
+        "type": "tag",
+        "rate": 1.0
+      },
+      {
+        "id": "minecraft:planks",
+        "count": 1.0,
+        "unit": "item",
+        "type": "tag",
+        "rate": 1.0
+      },
+      {
+        "id": "minecraft:pink_wool",
+        "count": 1.0,
+        "unit": "item",
+        "type": "solid",
+        "rate": 1.0
+      }
+    ],
+    "outputs": [
+      {
+        "id": "interiors:pink_chair",
+        "count": 1.0,
+        "unit": "item",
+        "type": "solid",
+        "rate": 1.0
+      }
+    ]
+  },
+  {
+    "recipe_id": "interiors:crafting/cushion/cyan_cushion",
+    "mod_id": "interiors",
+    "recipe_type": "minecraft:crafting_shapeless",
+    "inputs": [
+      {
+        "id": "minecraft:planks",
+        "count": 1.0,
+        "unit": "item",
+        "type": "tag",
+        "rate": 1.0
+      },
+      {
+        "id": "minecraft:cyan_wool",
+        "count": 1.0,
+        "unit": "item",
+        "type": "solid",
+        "rate": 1.0
+      }
+    ],
+    "outputs": [
+      {
+        "id": "interiors:cyan_cushion",
+        "count": 2.0,
+        "unit": "item",
+        "type": "solid",
+        "rate": 1.0
+      }
+    ]
+  },
+  {
+    "recipe_id": "interiors:crafting/chair/red_chair_from_other_chair",
+    "mod_id": "interiors",
+    "recipe_type": "minecraft:crafting_shapeless",
+    "inputs": [
+      {
+        "id": "interiors:chairs",
+        "count": 1.0,
+        "unit": "item",
+        "type": "tag",
+        "rate": 1.0
+      },
+      {
+        "id": "c:red_dyes",
+        "count": 1.0,
+        "unit": "item",
+        "type": "tag",
+        "rate": 1.0
+      }
+    ],
+    "outputs": [
+      {
+        "id": "interiors:red_chair",
+        "count": 1.0,
+        "unit": "item",
+        "type": "solid",
+        "rate": 1.0
+      }
+    ]
+  },
+  {
+    "recipe_id": "interiors:crafting/floor_chair/magenta_floor_chair_from_other_floor_chair",
+    "mod_id": "interiors",
+    "recipe_type": "minecraft:crafting_shapeless",
+    "inputs": [
+      {
+        "id": "interiors:floor_chairs",
+        "count": 1.0,
+        "unit": "item",
+        "type": "tag",
+        "rate": 1.0
+      },
+      {
+        "id": "c:magenta_dyes",
+        "count": 1.0,
+        "unit": "item",
+        "type": "tag",
+        "rate": 1.0
+      }
+    ],
+    "outputs": [
+      {
+        "id": "interiors:magenta_floor_chair",
+        "count": 1.0,
+        "unit": "item",
+        "type": "solid",
+        "rate": 1.0
+      }
+    ]
+  },
+  {
+    "recipe_id": "interiors:crafting/chair/white_chair_from_floor_chair",
+    "mod_id": "interiors",
+    "recipe_type": "minecraft:crafting_shapeless",
+    "inputs": [
+      {
+        "id": "minecraft:wooden_slabs",
+        "count": 1.0,
+        "unit": "item",
+        "type": "tag",
+        "rate": 1.0
+      },
+      {
+        "id": "interiors:white_floor_chair",
+        "count": 1.0,
+        "unit": "item",
+        "type": "solid",
+        "rate": 1.0
+      }
+    ],
+    "outputs": [
+      {
+        "id": "interiors:white_chair",
+        "count": 1.0,
+        "unit": "item",
+        "type": "solid",
+        "rate": 1.0
+      }
+    ]
+  },
+  {
+    "recipe_id": "interiors:crafting/chair/orange_chair_from_floor_chair",
+    "mod_id": "interiors",
+    "recipe_type": "minecraft:crafting_shapeless",
+    "inputs": [
+      {
+        "id": "minecraft:wooden_slabs",
+        "count": 1.0,
+        "unit": "item",
+        "type": "tag",
+        "rate": 1.0
+      },
+      {
+        "id": "interiors:orange_floor_chair",
+        "count": 1.0,
+        "unit": "item",
+        "type": "solid",
+        "rate": 1.0
+      }
+    ],
+    "outputs": [
+      {
+        "id": "interiors:orange_chair",
+        "count": 1.0,
+        "unit": "item",
+        "type": "solid",
+        "rate": 1.0
+      }
+    ]
+  },
+  {
+    "recipe_id": "interiors:crafting/chair/brown_chair",
+    "mod_id": "interiors",
+    "recipe_type": "minecraft:crafting_shapeless",
+    "inputs": [
+      {
+        "id": "minecraft:wooden_slabs",
+        "count": 1.0,
+        "unit": "item",
+        "type": "tag",
+        "rate": 1.0
+      },
+      {
+        "id": "minecraft:planks",
+        "count": 1.0,
+        "unit": "item",
+        "type": "tag",
+        "rate": 1.0
+      },
+      {
+        "id": "minecraft:brown_wool",
+        "count": 1.0,
+        "unit": "item",
+        "type": "solid",
+        "rate": 1.0
+      }
+    ],
+    "outputs": [
+      {
+        "id": "interiors:brown_chair",
+        "count": 1.0,
+        "unit": "item",
+        "type": "solid",
+        "rate": 1.0
+      }
+    ]
+  },
+  {
+    "recipe_id": "interiors:crafting/floor_chair/cyan_floor_chair",
+    "mod_id": "interiors",
+    "recipe_type": "minecraft:crafting_shapeless",
+    "inputs": [
+      {
+        "id": "minecraft:wooden_slabs",
+        "count": 1.0,
+        "unit": "item",
+        "type": "tag",
+        "rate": 1.0
+      },
+      {
+        "id": "minecraft:wooden_slabs",
+        "count": 1.0,
+        "unit": "item",
+        "type": "tag",
+        "rate": 1.0
+      },
+      {
+        "id": "minecraft:cyan_wool",
+        "count": 1.0,
+        "unit": "item",
+        "type": "solid",
+        "rate": 1.0
+      }
+    ],
+    "outputs": [
+      {
+        "id": "interiors:cyan_floor_chair",
+        "count": 1.0,
+        "unit": "item",
+        "type": "solid",
+        "rate": 1.0
+      }
+    ]
+  },
+  {
+    "recipe_id": "interiors:crafting/floor_chair/yellow_floor_chair_from_other_floor_chair",
+    "mod_id": "interiors",
+    "recipe_type": "minecraft:crafting_shapeless",
+    "inputs": [
+      {
+        "id": "interiors:floor_chairs",
+        "count": 1.0,
+        "unit": "item",
+        "type": "tag",
+        "rate": 1.0
+      },
+      {
+        "id": "c:yellow_dyes",
+        "count": 1.0,
+        "unit": "item",
+        "type": "tag",
+        "rate": 1.0
+      }
+    ],
+    "outputs": [
+      {
+        "id": "interiors:yellow_floor_chair",
+        "count": 1.0,
+        "unit": "item",
+        "type": "solid",
+        "rate": 1.0
+      }
+    ]
+  },
+  {
+    "recipe_id": "interiors:crafting/chair/brown_chair_from_seat",
+    "mod_id": "interiors",
+    "recipe_type": "minecraft:crafting_shapeless",
+    "inputs": [
+      {
+        "id": "minecraft:planks",
+        "count": 1.0,
+        "unit": "item",
+        "type": "tag",
+        "rate": 1.0
+      },
+      {
+        "id": "create:brown_seat",
+        "count": 1.0,
+        "unit": "item",
+        "type": "solid",
+        "rate": 1.0
+      }
+    ],
+    "outputs": [
+      {
+        "id": "interiors:brown_chair",
+        "count": 1.0,
+        "unit": "item",
+        "type": "solid",
+        "rate": 1.0
+      }
+    ]
+  },
+  {
+    "recipe_id": "interiors:crafting/floor_chair/light_blue_floor_chair_from_other_floor_chair",
+    "mod_id": "interiors",
+    "recipe_type": "minecraft:crafting_shapeless",
+    "inputs": [
+      {
+        "id": "interiors:floor_chairs",
+        "count": 1.0,
+        "unit": "item",
+        "type": "tag",
+        "rate": 1.0
+      },
+      {
+        "id": "c:light_blue_dyes",
+        "count": 1.0,
+        "unit": "item",
+        "type": "tag",
+        "rate": 1.0
+      }
+    ],
+    "outputs": [
+      {
+        "id": "interiors:light_blue_floor_chair",
+        "count": 1.0,
+        "unit": "item",
+        "type": "solid",
+        "rate": 1.0
+      }
+    ]
+  },
+  {
+    "recipe_id": "interiors:crafting/chair/white_chair_from_seat",
+    "mod_id": "interiors",
+    "recipe_type": "minecraft:crafting_shapeless",
+    "inputs": [
+      {
+        "id": "minecraft:planks",
+        "count": 1.0,
+        "unit": "item",
+        "type": "tag",
+        "rate": 1.0
+      },
+      {
+        "id": "create:white_seat",
+        "count": 1.0,
+        "unit": "item",
+        "type": "solid",
+        "rate": 1.0
+      }
+    ],
+    "outputs": [
+      {
+        "id": "interiors:white_chair",
+        "count": 1.0,
+        "unit": "item",
+        "type": "solid",
+        "rate": 1.0
+      }
+    ]
+  },
+  {
+    "recipe_id": "interiors:crafting/cushion/red_cushion",
+    "mod_id": "interiors",
+    "recipe_type": "minecraft:crafting_shapeless",
+    "inputs": [
+      {
+        "id": "minecraft:planks",
+        "count": 1.0,
+        "unit": "item",
+        "type": "tag",
+        "rate": 1.0
+      },
+      {
+        "id": "minecraft:red_wool",
+        "count": 1.0,
+        "unit": "item",
+        "type": "solid",
+        "rate": 1.0
+      }
+    ],
+    "outputs": [
+      {
+        "id": "interiors:red_cushion",
+        "count": 2.0,
+        "unit": "item",
+        "type": "solid",
+        "rate": 1.0
+      }
+    ]
+  },
+  {
+    "recipe_id": "interiors:crafting/floor_chair/pink_floor_chair_from_other_floor_chair",
+    "mod_id": "interiors",
+    "recipe_type": "minecraft:crafting_shapeless",
+    "inputs": [
+      {
+        "id": "interiors:floor_chairs",
+        "count": 1.0,
+        "unit": "item",
+        "type": "tag",
+        "rate": 1.0
+      },
+      {
+        "id": "c:pink_dyes",
+        "count": 1.0,
+        "unit": "item",
+        "type": "tag",
+        "rate": 1.0
+      }
+    ],
+    "outputs": [
+      {
+        "id": "interiors:pink_floor_chair",
+        "count": 1.0,
+        "unit": "item",
+        "type": "solid",
+        "rate": 1.0
+      }
+    ]
+  },
+  {
+    "recipe_id": "interiors:crafting/chair/brown_chair_from_floor_chair",
+    "mod_id": "interiors",
+    "recipe_type": "minecraft:crafting_shapeless",
+    "inputs": [
+      {
+        "id": "minecraft:wooden_slabs",
+        "count": 1.0,
+        "unit": "item",
+        "type": "tag",
+        "rate": 1.0
+      },
+      {
+        "id": "interiors:brown_floor_chair",
+        "count": 1.0,
+        "unit": "item",
+        "type": "solid",
+        "rate": 1.0
+      }
+    ],
+    "outputs": [
+      {
+        "id": "interiors:brown_chair",
+        "count": 1.0,
+        "unit": "item",
+        "type": "solid",
+        "rate": 1.0
+      }
+    ]
+  },
+  {
+    "recipe_id": "interiors:crafting/cushion/green_cushion",
+    "mod_id": "interiors",
+    "recipe_type": "minecraft:crafting_shapeless",
+    "inputs": [
+      {
+        "id": "minecraft:planks",
+        "count": 1.0,
+        "unit": "item",
+        "type": "tag",
+        "rate": 1.0
+      },
+      {
+        "id": "minecraft:green_wool",
+        "count": 1.0,
+        "unit": "item",
+        "type": "solid",
+        "rate": 1.0
+      }
+    ],
+    "outputs": [
+      {
+        "id": "interiors:green_cushion",
+        "count": 2.0,
+        "unit": "item",
+        "type": "solid",
+        "rate": 1.0
+      }
+    ]
+  },
+  {
+    "recipe_id": "interiors:crafting/chair/magenta_chair_from_other_chair",
+    "mod_id": "interiors",
+    "recipe_type": "minecraft:crafting_shapeless",
+    "inputs": [
+      {
+        "id": "interiors:chairs",
+        "count": 1.0,
+        "unit": "item",
+        "type": "tag",
+        "rate": 1.0
+      },
+      {
+        "id": "c:magenta_dyes",
+        "count": 1.0,
+        "unit": "item",
+        "type": "tag",
+        "rate": 1.0
+      }
+    ],
+    "outputs": [
+      {
+        "id": "interiors:magenta_chair",
+        "count": 1.0,
+        "unit": "item",
+        "type": "solid",
+        "rate": 1.0
+      }
+    ]
+  },
+  {
+    "recipe_id": "interiors:crafting/chair/purple_chair_from_seat",
+    "mod_id": "interiors",
+    "recipe_type": "minecraft:crafting_shapeless",
+    "inputs": [
+      {
+        "id": "minecraft:planks",
+        "count": 1.0,
+        "unit": "item",
+        "type": "tag",
+        "rate": 1.0
+      },
+      {
+        "id": "create:purple_seat",
+        "count": 1.0,
+        "unit": "item",
+        "type": "solid",
+        "rate": 1.0
+      }
+    ],
+    "outputs": [
+      {
+        "id": "interiors:purple_chair",
+        "count": 1.0,
+        "unit": "item",
+        "type": "solid",
+        "rate": 1.0
+      }
+    ]
+  },
+  {
+    "recipe_id": "interiors:crafting/chair/light_gray_chair_from_seat",
+    "mod_id": "interiors",
+    "recipe_type": "minecraft:crafting_shapeless",
+    "inputs": [
+      {
+        "id": "minecraft:planks",
+        "count": 1.0,
+        "unit": "item",
+        "type": "tag",
+        "rate": 1.0
+      },
+      {
+        "id": "create:light_gray_seat",
+        "count": 1.0,
+        "unit": "item",
+        "type": "solid",
+        "rate": 1.0
+      }
+    ],
+    "outputs": [
+      {
+        "id": "interiors:light_gray_chair",
+        "count": 1.0,
+        "unit": "item",
+        "type": "solid",
+        "rate": 1.0
+      }
+    ]
+  },
+  {
+    "recipe_id": "interiors:crafting/chair/pink_chair_from_seat",
+    "mod_id": "interiors",
+    "recipe_type": "minecraft:crafting_shapeless",
+    "inputs": [
+      {
+        "id": "minecraft:planks",
+        "count": 1.0,
+        "unit": "item",
+        "type": "tag",
+        "rate": 1.0
+      },
+      {
+        "id": "create:pink_seat",
+        "count": 1.0,
+        "unit": "item",
+        "type": "solid",
+        "rate": 1.0
+      }
+    ],
+    "outputs": [
+      {
+        "id": "interiors:pink_chair",
+        "count": 1.0,
+        "unit": "item",
+        "type": "solid",
+        "rate": 1.0
+      }
+    ]
+  },
+  {
+    "recipe_id": "interiors:crafting/cushion/light_gray_cushion",
+    "mod_id": "interiors",
+    "recipe_type": "minecraft:crafting_shapeless",
+    "inputs": [
+      {
+        "id": "minecraft:planks",
+        "count": 1.0,
+        "unit": "item",
+        "type": "tag",
+        "rate": 1.0
+      },
+      {
+        "id": "minecraft:light_gray_wool",
+        "count": 1.0,
+        "unit": "item",
+        "type": "solid",
+        "rate": 1.0
+      }
+    ],
+    "outputs": [
+      {
+        "id": "interiors:light_gray_cushion",
+        "count": 2.0,
+        "unit": "item",
+        "type": "solid",
+        "rate": 1.0
+      }
+    ]
+  },
+  {
+    "recipe_id": "interiors:crafting/floor_chair/white_floor_chair",
+    "mod_id": "interiors",
+    "recipe_type": "minecraft:crafting_shapeless",
+    "inputs": [
+      {
+        "id": "minecraft:wooden_slabs",
+        "count": 1.0,
+        "unit": "item",
+        "type": "tag",
+        "rate": 1.0
+      },
+      {
+        "id": "minecraft:wooden_slabs",
+        "count": 1.0,
+        "unit": "item",
+        "type": "tag",
+        "rate": 1.0
+      },
+      {
+        "id": "minecraft:white_wool",
+        "count": 1.0,
+        "unit": "item",
+        "type": "solid",
+        "rate": 1.0
+      }
+    ],
+    "outputs": [
+      {
+        "id": "interiors:white_floor_chair",
+        "count": 1.0,
+        "unit": "item",
+        "type": "solid",
+        "rate": 1.0
+      }
+    ]
+  },
+  {
+    "recipe_id": "interiors:crafting/floor_chair/orange_floor_chair",
+    "mod_id": "interiors",
+    "recipe_type": "minecraft:crafting_shapeless",
+    "inputs": [
+      {
+        "id": "minecraft:wooden_slabs",
+        "count": 1.0,
+        "unit": "item",
+        "type": "tag",
+        "rate": 1.0
+      },
+      {
+        "id": "minecraft:wooden_slabs",
+        "count": 1.0,
+        "unit": "item",
+        "type": "tag",
+        "rate": 1.0
+      },
+      {
+        "id": "minecraft:orange_wool",
+        "count": 1.0,
+        "unit": "item",
+        "type": "solid",
+        "rate": 1.0
+      }
+    ],
+    "outputs": [
+      {
+        "id": "interiors:orange_floor_chair",
+        "count": 1.0,
+        "unit": "item",
+        "type": "solid",
+        "rate": 1.0
+      }
+    ]
+  },
+  {
+    "recipe_id": "interiors:crafting/chair/pink_chair_from_other_chair",
+    "mod_id": "interiors",
+    "recipe_type": "minecraft:crafting_shapeless",
+    "inputs": [
+      {
+        "id": "interiors:chairs",
+        "count": 1.0,
+        "unit": "item",
+        "type": "tag",
+        "rate": 1.0
+      },
+      {
+        "id": "c:pink_dyes",
+        "count": 1.0,
+        "unit": "item",
+        "type": "tag",
+        "rate": 1.0
+      }
+    ],
+    "outputs": [
+      {
+        "id": "interiors:pink_chair",
+        "count": 1.0,
+        "unit": "item",
+        "type": "solid",
+        "rate": 1.0
+      }
+    ]
+  },
+  {
+    "recipe_id": "interiors:crafting/floor_chair/gray_floor_chair_from_other_floor_chair",
+    "mod_id": "interiors",
+    "recipe_type": "minecraft:crafting_shapeless",
+    "inputs": [
+      {
+        "id": "interiors:floor_chairs",
+        "count": 1.0,
+        "unit": "item",
+        "type": "tag",
+        "rate": 1.0
+      },
+      {
+        "id": "c:gray_dyes",
+        "count": 1.0,
+        "unit": "item",
+        "type": "tag",
+        "rate": 1.0
+      }
+    ],
+    "outputs": [
+      {
+        "id": "interiors:gray_floor_chair",
+        "count": 1.0,
+        "unit": "item",
+        "type": "solid",
+        "rate": 1.0
+      }
+    ]
+  },
+  {
+    "recipe_id": "interiors:crafting/chair/light_gray_chair",
+    "mod_id": "interiors",
+    "recipe_type": "minecraft:crafting_shapeless",
+    "inputs": [
+      {
+        "id": "minecraft:wooden_slabs",
+        "count": 1.0,
+        "unit": "item",
+        "type": "tag",
+        "rate": 1.0
+      },
+      {
+        "id": "minecraft:planks",
+        "count": 1.0,
+        "unit": "item",
+        "type": "tag",
+        "rate": 1.0
+      },
+      {
+        "id": "minecraft:light_gray_wool",
+        "count": 1.0,
+        "unit": "item",
+        "type": "solid",
+        "rate": 1.0
+      }
+    ],
+    "outputs": [
+      {
+        "id": "interiors:light_gray_chair",
+        "count": 1.0,
+        "unit": "item",
+        "type": "solid",
+        "rate": 1.0
+      }
+    ]
+  },
+  {
+    "recipe_id": "interiors:crafting/floor_chair/purple_floor_chair_from_other_floor_chair",
+    "mod_id": "interiors",
+    "recipe_type": "minecraft:crafting_shapeless",
+    "inputs": [
+      {
+        "id": "interiors:floor_chairs",
+        "count": 1.0,
+        "unit": "item",
+        "type": "tag",
+        "rate": 1.0
+      },
+      {
+        "id": "c:purple_dyes",
+        "count": 1.0,
+        "unit": "item",
+        "type": "tag",
+        "rate": 1.0
+      }
+    ],
+    "outputs": [
+      {
+        "id": "interiors:purple_floor_chair",
+        "count": 1.0,
+        "unit": "item",
+        "type": "solid",
+        "rate": 1.0
+      }
+    ]
+  },
+  {
+    "recipe_id": "interiors:crafting/chair/lime_chair_from_floor_chair",
+    "mod_id": "interiors",
+    "recipe_type": "minecraft:crafting_shapeless",
+    "inputs": [
+      {
+        "id": "minecraft:wooden_slabs",
+        "count": 1.0,
+        "unit": "item",
+        "type": "tag",
+        "rate": 1.0
+      },
+      {
+        "id": "interiors:lime_floor_chair",
+        "count": 1.0,
+        "unit": "item",
+        "type": "solid",
+        "rate": 1.0
+      }
+    ],
+    "outputs": [
+      {
+        "id": "interiors:lime_chair",
+        "count": 1.0,
+        "unit": "item",
+        "type": "solid",
+        "rate": 1.0
+      }
+    ]
+  },
+  {
+    "recipe_id": "interiors:crafting/floor_chair/magenta_floor_chair_from_seat",
+    "mod_id": "interiors",
+    "recipe_type": "minecraft:crafting_shapeless",
+    "inputs": [
+      {
+        "id": "minecraft:wooden_slabs",
+        "count": 1.0,
+        "unit": "item",
+        "type": "tag",
+        "rate": 1.0
+      },
+      {
+        "id": "create:magenta_seat",
+        "count": 1.0,
+        "unit": "item",
+        "type": "solid",
+        "rate": 1.0
+      }
+    ],
+    "outputs": [
+      {
+        "id": "interiors:magenta_floor_chair",
+        "count": 1.0,
+        "unit": "item",
+        "type": "solid",
+        "rate": 1.0
+      }
+    ]
+  },
+  {
+    "recipe_id": "interiors:crafting/floor_chair/blue_floor_chair",
+    "mod_id": "interiors",
+    "recipe_type": "minecraft:crafting_shapeless",
+    "inputs": [
+      {
+        "id": "minecraft:wooden_slabs",
+        "count": 1.0,
+        "unit": "item",
+        "type": "tag",
+        "rate": 1.0
+      },
+      {
+        "id": "minecraft:wooden_slabs",
+        "count": 1.0,
+        "unit": "item",
+        "type": "tag",
+        "rate": 1.0
+      },
+      {
+        "id": "minecraft:blue_wool",
+        "count": 1.0,
+        "unit": "item",
+        "type": "solid",
+        "rate": 1.0
+      }
+    ],
+    "outputs": [
+      {
+        "id": "interiors:blue_floor_chair",
+        "count": 1.0,
+        "unit": "item",
+        "type": "solid",
+        "rate": 1.0
+      }
+    ]
+  },
+  {
+    "recipe_id": "interiors:crafting/chair/light_gray_chair_from_other_chair",
+    "mod_id": "interiors",
+    "recipe_type": "minecraft:crafting_shapeless",
+    "inputs": [
+      {
+        "id": "interiors:chairs",
+        "count": 1.0,
+        "unit": "item",
+        "type": "tag",
+        "rate": 1.0
+      },
+      {
+        "id": "c:light_gray_dyes",
+        "count": 1.0,
+        "unit": "item",
+        "type": "tag",
+        "rate": 1.0
+      }
+    ],
+    "outputs": [
+      {
+        "id": "interiors:light_gray_chair",
+        "count": 1.0,
+        "unit": "item",
+        "type": "solid",
+        "rate": 1.0
+      }
+    ]
+  },
+  {
+    "recipe_id": "interiors:crafting/floor_chair/lime_floor_chair",
+    "mod_id": "interiors",
+    "recipe_type": "minecraft:crafting_shapeless",
+    "inputs": [
+      {
+        "id": "minecraft:wooden_slabs",
+        "count": 1.0,
+        "unit": "item",
+        "type": "tag",
+        "rate": 1.0
+      },
+      {
+        "id": "minecraft:wooden_slabs",
+        "count": 1.0,
+        "unit": "item",
+        "type": "tag",
+        "rate": 1.0
+      },
+      {
+        "id": "minecraft:lime_wool",
+        "count": 1.0,
+        "unit": "item",
+        "type": "solid",
+        "rate": 1.0
+      }
+    ],
+    "outputs": [
+      {
+        "id": "interiors:lime_floor_chair",
+        "count": 1.0,
+        "unit": "item",
+        "type": "solid",
+        "rate": 1.0
+      }
+    ]
+  },
+  {
+    "recipe_id": "interiors:crafting/chair/orange_chair",
+    "mod_id": "interiors",
+    "recipe_type": "minecraft:crafting_shapeless",
+    "inputs": [
+      {
+        "id": "minecraft:wooden_slabs",
+        "count": 1.0,
+        "unit": "item",
+        "type": "tag",
+        "rate": 1.0
+      },
+      {
+        "id": "minecraft:planks",
+        "count": 1.0,
+        "unit": "item",
+        "type": "tag",
+        "rate": 1.0
+      },
+      {
+        "id": "minecraft:orange_wool",
+        "count": 1.0,
+        "unit": "item",
+        "type": "solid",
+        "rate": 1.0
+      }
+    ],
+    "outputs": [
+      {
+        "id": "interiors:orange_chair",
+        "count": 1.0,
+        "unit": "item",
+        "type": "solid",
+        "rate": 1.0
+      }
+    ]
+  },
+  {
+    "recipe_id": "interiors:crafting/floor_chair/green_floor_chair_from_other_floor_chair",
+    "mod_id": "interiors",
+    "recipe_type": "minecraft:crafting_shapeless",
+    "inputs": [
+      {
+        "id": "interiors:floor_chairs",
+        "count": 1.0,
+        "unit": "item",
+        "type": "tag",
+        "rate": 1.0
+      },
+      {
+        "id": "c:green_dyes",
+        "count": 1.0,
+        "unit": "item",
+        "type": "tag",
+        "rate": 1.0
+      }
+    ],
+    "outputs": [
+      {
+        "id": "interiors:green_floor_chair",
+        "count": 1.0,
+        "unit": "item",
+        "type": "solid",
+        "rate": 1.0
+      }
+    ]
+  },
+  {
+    "recipe_id": "interiors:crafting/floor_chair/cyan_floor_chair_from_other_floor_chair",
+    "mod_id": "interiors",
+    "recipe_type": "minecraft:crafting_shapeless",
+    "inputs": [
+      {
+        "id": "interiors:floor_chairs",
+        "count": 1.0,
+        "unit": "item",
+        "type": "tag",
+        "rate": 1.0
+      },
+      {
+        "id": "c:cyan_dyes",
+        "count": 1.0,
+        "unit": "item",
+        "type": "tag",
+        "rate": 1.0
+      }
+    ],
+    "outputs": [
+      {
+        "id": "interiors:cyan_floor_chair",
+        "count": 1.0,
+        "unit": "item",
+        "type": "solid",
+        "rate": 1.0
+      }
+    ]
+  },
+  {
+    "recipe_id": "interiors:crafting/cushion/gray_cushion",
+    "mod_id": "interiors",
+    "recipe_type": "minecraft:crafting_shapeless",
+    "inputs": [
+      {
+        "id": "minecraft:planks",
+        "count": 1.0,
+        "unit": "item",
+        "type": "tag",
+        "rate": 1.0
+      },
+      {
+        "id": "minecraft:gray_wool",
+        "count": 1.0,
+        "unit": "item",
+        "type": "solid",
+        "rate": 1.0
+      }
+    ],
+    "outputs": [
+      {
+        "id": "interiors:gray_cushion",
+        "count": 2.0,
+        "unit": "item",
+        "type": "solid",
+        "rate": 1.0
+      }
+    ]
+  },
+  {
+    "recipe_id": "interiors:crafting/floor_chair/brown_floor_chair_from_other_floor_chair",
+    "mod_id": "interiors",
+    "recipe_type": "minecraft:crafting_shapeless",
+    "inputs": [
+      {
+        "id": "interiors:floor_chairs",
+        "count": 1.0,
+        "unit": "item",
+        "type": "tag",
+        "rate": 1.0
+      },
+      {
+        "id": "c:brown_dyes",
+        "count": 1.0,
+        "unit": "item",
+        "type": "tag",
+        "rate": 1.0
+      }
+    ],
+    "outputs": [
+      {
+        "id": "interiors:brown_floor_chair",
+        "count": 1.0,
+        "unit": "item",
+        "type": "solid",
+        "rate": 1.0
+      }
+    ]
+  },
+  {
+    "recipe_id": "interiors:crafting/cushion/brown_cushion",
+    "mod_id": "interiors",
+    "recipe_type": "minecraft:crafting_shapeless",
+    "inputs": [
+      {
+        "id": "minecraft:planks",
+        "count": 1.0,
+        "unit": "item",
+        "type": "tag",
+        "rate": 1.0
+      },
+      {
+        "id": "minecraft:brown_wool",
+        "count": 1.0,
+        "unit": "item",
+        "type": "solid",
+        "rate": 1.0
+      }
+    ],
+    "outputs": [
+      {
+        "id": "interiors:brown_cushion",
+        "count": 2.0,
+        "unit": "item",
+        "type": "solid",
+        "rate": 1.0
+      }
+    ]
+  },
+  {
+    "recipe_id": "interiors:crafting/chair/light_blue_chair",
+    "mod_id": "interiors",
+    "recipe_type": "minecraft:crafting_shapeless",
+    "inputs": [
+      {
+        "id": "minecraft:wooden_slabs",
+        "count": 1.0,
+        "unit": "item",
+        "type": "tag",
+        "rate": 1.0
+      },
+      {
+        "id": "minecraft:planks",
+        "count": 1.0,
+        "unit": "item",
+        "type": "tag",
+        "rate": 1.0
+      },
+      {
+        "id": "minecraft:light_blue_wool",
+        "count": 1.0,
+        "unit": "item",
+        "type": "solid",
+        "rate": 1.0
+      }
+    ],
+    "outputs": [
+      {
+        "id": "interiors:light_blue_chair",
+        "count": 1.0,
+        "unit": "item",
+        "type": "solid",
+        "rate": 1.0
+      }
+    ]
+  },
+  {
+    "recipe_id": "interiors:crafting/chair/purple_chair_from_floor_chair",
+    "mod_id": "interiors",
+    "recipe_type": "minecraft:crafting_shapeless",
+    "inputs": [
+      {
+        "id": "minecraft:wooden_slabs",
+        "count": 1.0,
+        "unit": "item",
+        "type": "tag",
+        "rate": 1.0
+      },
+      {
+        "id": "interiors:purple_floor_chair",
+        "count": 1.0,
+        "unit": "item",
+        "type": "solid",
+        "rate": 1.0
+      }
+    ],
+    "outputs": [
+      {
+        "id": "interiors:purple_chair",
+        "count": 1.0,
+        "unit": "item",
+        "type": "solid",
+        "rate": 1.0
+      }
+    ]
+  },
+  {
+    "recipe_id": "interiors:crafting/floor_chair/light_blue_floor_chair",
+    "mod_id": "interiors",
+    "recipe_type": "minecraft:crafting_shapeless",
+    "inputs": [
+      {
+        "id": "minecraft:wooden_slabs",
+        "count": 1.0,
+        "unit": "item",
+        "type": "tag",
+        "rate": 1.0
+      },
+      {
+        "id": "minecraft:wooden_slabs",
+        "count": 1.0,
+        "unit": "item",
+        "type": "tag",
+        "rate": 1.0
+      },
+      {
+        "id": "minecraft:light_blue_wool",
+        "count": 1.0,
+        "unit": "item",
+        "type": "solid",
+        "rate": 1.0
+      }
+    ],
+    "outputs": [
+      {
+        "id": "interiors:light_blue_floor_chair",
+        "count": 1.0,
+        "unit": "item",
+        "type": "solid",
+        "rate": 1.0
+      }
+    ]
+  },
+  {
+    "recipe_id": "interiors:crafting/floor_chair/green_floor_chair",
+    "mod_id": "interiors",
+    "recipe_type": "minecraft:crafting_shapeless",
+    "inputs": [
+      {
+        "id": "minecraft:wooden_slabs",
+        "count": 1.0,
+        "unit": "item",
+        "type": "tag",
+        "rate": 1.0
+      },
+      {
+        "id": "minecraft:wooden_slabs",
+        "count": 1.0,
+        "unit": "item",
+        "type": "tag",
+        "rate": 1.0
+      },
+      {
+        "id": "minecraft:green_wool",
+        "count": 1.0,
+        "unit": "item",
+        "type": "solid",
+        "rate": 1.0
+      }
+    ],
+    "outputs": [
+      {
+        "id": "interiors:green_floor_chair",
+        "count": 1.0,
+        "unit": "item",
+        "type": "solid",
+        "rate": 1.0
+      }
+    ]
+  },
+  {
+    "recipe_id": "interiors:crafting/chair/gray_chair_from_seat",
+    "mod_id": "interiors",
+    "recipe_type": "minecraft:crafting_shapeless",
+    "inputs": [
+      {
+        "id": "minecraft:planks",
+        "count": 1.0,
+        "unit": "item",
+        "type": "tag",
+        "rate": 1.0
+      },
+      {
+        "id": "create:gray_seat",
+        "count": 1.0,
+        "unit": "item",
+        "type": "solid",
+        "rate": 1.0
+      }
+    ],
+    "outputs": [
+      {
+        "id": "interiors:gray_chair",
+        "count": 1.0,
+        "unit": "item",
+        "type": "solid",
+        "rate": 1.0
+      }
+    ]
+  },
+  {
+    "recipe_id": "interiors:crafting/chair/orange_chair_from_other_chair",
+    "mod_id": "interiors",
+    "recipe_type": "minecraft:crafting_shapeless",
+    "inputs": [
+      {
+        "id": "interiors:chairs",
+        "count": 1.0,
+        "unit": "item",
+        "type": "tag",
+        "rate": 1.0
+      },
+      {
+        "id": "c:orange_dyes",
+        "count": 1.0,
+        "unit": "item",
+        "type": "tag",
+        "rate": 1.0
+      }
+    ],
+    "outputs": [
+      {
+        "id": "interiors:orange_chair",
+        "count": 1.0,
+        "unit": "item",
+        "type": "solid",
+        "rate": 1.0
+      }
+    ]
+  },
+  {
+    "recipe_id": "interiors:crafting/floor_chair/pink_floor_chair",
+    "mod_id": "interiors",
+    "recipe_type": "minecraft:crafting_shapeless",
+    "inputs": [
+      {
+        "id": "minecraft:wooden_slabs",
+        "count": 1.0,
+        "unit": "item",
+        "type": "tag",
+        "rate": 1.0
+      },
+      {
+        "id": "minecraft:wooden_slabs",
+        "count": 1.0,
+        "unit": "item",
+        "type": "tag",
+        "rate": 1.0
+      },
+      {
+        "id": "minecraft:pink_wool",
+        "count": 1.0,
+        "unit": "item",
+        "type": "solid",
+        "rate": 1.0
+      }
+    ],
+    "outputs": [
+      {
+        "id": "interiors:pink_floor_chair",
+        "count": 1.0,
+        "unit": "item",
+        "type": "solid",
+        "rate": 1.0
+      }
+    ]
+  },
+  {
+    "recipe_id": "interiors:crafting/floor_chair/light_gray_floor_chair_from_other_floor_chair",
+    "mod_id": "interiors",
+    "recipe_type": "minecraft:crafting_shapeless",
+    "inputs": [
+      {
+        "id": "interiors:floor_chairs",
+        "count": 1.0,
+        "unit": "item",
+        "type": "tag",
+        "rate": 1.0
+      },
+      {
+        "id": "c:light_gray_dyes",
+        "count": 1.0,
+        "unit": "item",
+        "type": "tag",
+        "rate": 1.0
+      }
+    ],
+    "outputs": [
+      {
+        "id": "interiors:light_gray_floor_chair",
+        "count": 1.0,
+        "unit": "item",
+        "type": "solid",
+        "rate": 1.0
+      }
+    ]
+  },
+  {
+    "recipe_id": "interiors:crafting/floor_chair/gray_floor_chair",
+    "mod_id": "interiors",
+    "recipe_type": "minecraft:crafting_shapeless",
+    "inputs": [
+      {
+        "id": "minecraft:wooden_slabs",
+        "count": 1.0,
+        "unit": "item",
+        "type": "tag",
+        "rate": 1.0
+      },
+      {
+        "id": "minecraft:wooden_slabs",
+        "count": 1.0,
+        "unit": "item",
+        "type": "tag",
+        "rate": 1.0
+      },
+      {
+        "id": "minecraft:gray_wool",
+        "count": 1.0,
+        "unit": "item",
+        "type": "solid",
+        "rate": 1.0
+      }
+    ],
+    "outputs": [
+      {
+        "id": "interiors:gray_floor_chair",
+        "count": 1.0,
+        "unit": "item",
+        "type": "solid",
+        "rate": 1.0
+      }
+    ]
+  },
+  {
+    "recipe_id": "interiors:crafting/chair/light_blue_chair_from_floor_chair",
+    "mod_id": "interiors",
+    "recipe_type": "minecraft:crafting_shapeless",
+    "inputs": [
+      {
+        "id": "minecraft:wooden_slabs",
+        "count": 1.0,
+        "unit": "item",
+        "type": "tag",
+        "rate": 1.0
+      },
+      {
+        "id": "interiors:light_blue_floor_chair",
+        "count": 1.0,
+        "unit": "item",
+        "type": "solid",
+        "rate": 1.0
+      }
+    ],
+    "outputs": [
+      {
+        "id": "interiors:light_blue_chair",
+        "count": 1.0,
+        "unit": "item",
+        "type": "solid",
+        "rate": 1.0
+      }
+    ]
+  },
+  {
+    "recipe_id": "interiors:crafting/floor_chair/black_floor_chair_from_seat",
+    "mod_id": "interiors",
+    "recipe_type": "minecraft:crafting_shapeless",
+    "inputs": [
+      {
+        "id": "minecraft:wooden_slabs",
+        "count": 1.0,
+        "unit": "item",
+        "type": "tag",
+        "rate": 1.0
+      },
+      {
+        "id": "create:black_seat",
+        "count": 1.0,
+        "unit": "item",
+        "type": "solid",
+        "rate": 1.0
+      }
+    ],
+    "outputs": [
+      {
+        "id": "interiors:black_floor_chair",
+        "count": 1.0,
+        "unit": "item",
+        "type": "solid",
+        "rate": 1.0
+      }
+    ]
+  },
+  {
+    "recipe_id": "interiors:crafting/floor_chair/orange_floor_chair_from_other_floor_chair",
+    "mod_id": "interiors",
+    "recipe_type": "minecraft:crafting_shapeless",
+    "inputs": [
+      {
+        "id": "interiors:floor_chairs",
+        "count": 1.0,
+        "unit": "item",
+        "type": "tag",
+        "rate": 1.0
+      },
+      {
+        "id": "c:orange_dyes",
+        "count": 1.0,
+        "unit": "item",
+        "type": "tag",
+        "rate": 1.0
+      }
+    ],
+    "outputs": [
+      {
+        "id": "interiors:orange_floor_chair",
+        "count": 1.0,
+        "unit": "item",
+        "type": "solid",
+        "rate": 1.0
+      }
+    ]
+  },
+  {
+    "recipe_id": "interiors:crafting/chair/black_chair_from_other_chair",
+    "mod_id": "interiors",
+    "recipe_type": "minecraft:crafting_shapeless",
+    "inputs": [
+      {
+        "id": "interiors:chairs",
+        "count": 1.0,
+        "unit": "item",
+        "type": "tag",
+        "rate": 1.0
+      },
+      {
+        "id": "c:black_dyes",
+        "count": 1.0,
+        "unit": "item",
+        "type": "tag",
+        "rate": 1.0
+      }
+    ],
+    "outputs": [
+      {
+        "id": "interiors:black_chair",
+        "count": 1.0,
+        "unit": "item",
+        "type": "solid",
+        "rate": 1.0
+      }
+    ]
+  },
+  {
+    "recipe_id": "interiors:crafting/chair/blue_chair_from_floor_chair",
+    "mod_id": "interiors",
+    "recipe_type": "minecraft:crafting_shapeless",
+    "inputs": [
+      {
+        "id": "minecraft:wooden_slabs",
+        "count": 1.0,
+        "unit": "item",
+        "type": "tag",
+        "rate": 1.0
+      },
+      {
+        "id": "interiors:blue_floor_chair",
+        "count": 1.0,
+        "unit": "item",
+        "type": "solid",
+        "rate": 1.0
+      }
+    ],
+    "outputs": [
+      {
+        "id": "interiors:blue_chair",
+        "count": 1.0,
+        "unit": "item",
+        "type": "solid",
+        "rate": 1.0
+      }
+    ]
+  },
+  {
+    "recipe_id": "interiors:crafting/chair/cyan_chair",
+    "mod_id": "interiors",
+    "recipe_type": "minecraft:crafting_shapeless",
+    "inputs": [
+      {
+        "id": "minecraft:wooden_slabs",
+        "count": 1.0,
+        "unit": "item",
+        "type": "tag",
+        "rate": 1.0
+      },
+      {
+        "id": "minecraft:planks",
+        "count": 1.0,
+        "unit": "item",
+        "type": "tag",
+        "rate": 1.0
+      },
+      {
+        "id": "minecraft:cyan_wool",
+        "count": 1.0,
+        "unit": "item",
+        "type": "solid",
+        "rate": 1.0
+      }
+    ],
+    "outputs": [
+      {
+        "id": "interiors:cyan_chair",
+        "count": 1.0,
+        "unit": "item",
+        "type": "solid",
+        "rate": 1.0
+      }
+    ]
+  },
+  {
+    "recipe_id": "interiors:crafting/floor_chair/orange_floor_chair_from_seat",
+    "mod_id": "interiors",
+    "recipe_type": "minecraft:crafting_shapeless",
+    "inputs": [
+      {
+        "id": "minecraft:wooden_slabs",
+        "count": 1.0,
+        "unit": "item",
+        "type": "tag",
+        "rate": 1.0
+      },
+      {
+        "id": "create:orange_seat",
+        "count": 1.0,
+        "unit": "item",
+        "type": "solid",
+        "rate": 1.0
+      }
+    ],
+    "outputs": [
+      {
+        "id": "interiors:orange_floor_chair",
+        "count": 1.0,
+        "unit": "item",
+        "type": "solid",
+        "rate": 1.0
+      }
+    ]
+  },
+  {
+    "recipe_id": "interiors:crafting/chair/red_chair_from_seat",
+    "mod_id": "interiors",
+    "recipe_type": "minecraft:crafting_shapeless",
+    "inputs": [
+      {
+        "id": "minecraft:planks",
+        "count": 1.0,
+        "unit": "item",
+        "type": "tag",
+        "rate": 1.0
+      },
+      {
+        "id": "create:red_seat",
+        "count": 1.0,
+        "unit": "item",
+        "type": "solid",
+        "rate": 1.0
+      }
+    ],
+    "outputs": [
+      {
+        "id": "interiors:red_chair",
+        "count": 1.0,
+        "unit": "item",
+        "type": "solid",
+        "rate": 1.0
+      }
+    ]
+  },
+  {
+    "recipe_id": "interiors:crafting/chair/white_chair",
+    "mod_id": "interiors",
+    "recipe_type": "minecraft:crafting_shapeless",
+    "inputs": [
+      {
+        "id": "minecraft:wooden_slabs",
+        "count": 1.0,
+        "unit": "item",
+        "type": "tag",
+        "rate": 1.0
+      },
+      {
+        "id": "minecraft:planks",
+        "count": 1.0,
+        "unit": "item",
+        "type": "tag",
+        "rate": 1.0
+      },
+      {
+        "id": "minecraft:white_wool",
+        "count": 1.0,
+        "unit": "item",
+        "type": "solid",
+        "rate": 1.0
+      }
+    ],
+    "outputs": [
+      {
+        "id": "interiors:white_chair",
+        "count": 1.0,
+        "unit": "item",
+        "type": "solid",
+        "rate": 1.0
+      }
+    ]
+  },
+  {
+    "recipe_id": "interiors:crafting/chair/cyan_chair_from_other_chair",
+    "mod_id": "interiors",
+    "recipe_type": "minecraft:crafting_shapeless",
+    "inputs": [
+      {
+        "id": "interiors:chairs",
+        "count": 1.0,
+        "unit": "item",
+        "type": "tag",
+        "rate": 1.0
+      },
+      {
+        "id": "c:cyan_dyes",
+        "count": 1.0,
+        "unit": "item",
+        "type": "tag",
+        "rate": 1.0
+      }
+    ],
+    "outputs": [
+      {
+        "id": "interiors:cyan_chair",
+        "count": 1.0,
+        "unit": "item",
+        "type": "solid",
+        "rate": 1.0
+      }
+    ]
+  },
+  {
+    "recipe_id": "interiors:crafting/cushion/light_blue_cushion",
+    "mod_id": "interiors",
+    "recipe_type": "minecraft:crafting_shapeless",
+    "inputs": [
+      {
+        "id": "minecraft:planks",
+        "count": 1.0,
+        "unit": "item",
+        "type": "tag",
+        "rate": 1.0
+      },
+      {
+        "id": "minecraft:light_blue_wool",
+        "count": 1.0,
+        "unit": "item",
+        "type": "solid",
+        "rate": 1.0
+      }
+    ],
+    "outputs": [
+      {
+        "id": "interiors:light_blue_cushion",
+        "count": 2.0,
+        "unit": "item",
+        "type": "solid",
+        "rate": 1.0
+      }
+    ]
+  },
+  {
+    "recipe_id": "interiors:crafting/floor_chair/lime_floor_chair_from_seat",
+    "mod_id": "interiors",
+    "recipe_type": "minecraft:crafting_shapeless",
+    "inputs": [
+      {
+        "id": "minecraft:wooden_slabs",
+        "count": 1.0,
+        "unit": "item",
+        "type": "tag",
+        "rate": 1.0
+      },
+      {
+        "id": "create:lime_seat",
+        "count": 1.0,
+        "unit": "item",
+        "type": "solid",
+        "rate": 1.0
+      }
+    ],
+    "outputs": [
+      {
+        "id": "interiors:lime_floor_chair",
+        "count": 1.0,
+        "unit": "item",
+        "type": "solid",
+        "rate": 1.0
+      }
+    ]
+  },
+  {
+    "recipe_id": "interiors:crafting/chair/cyan_chair_from_seat",
+    "mod_id": "interiors",
+    "recipe_type": "minecraft:crafting_shapeless",
+    "inputs": [
+      {
+        "id": "minecraft:planks",
+        "count": 1.0,
+        "unit": "item",
+        "type": "tag",
+        "rate": 1.0
+      },
+      {
+        "id": "create:cyan_seat",
+        "count": 1.0,
+        "unit": "item",
+        "type": "solid",
+        "rate": 1.0
+      }
+    ],
+    "outputs": [
+      {
+        "id": "interiors:cyan_chair",
+        "count": 1.0,
+        "unit": "item",
+        "type": "solid",
+        "rate": 1.0
+      }
+    ]
+  },
+  {
+    "recipe_id": "interiors:crafting/floor_chair/brown_floor_chair_from_seat",
+    "mod_id": "interiors",
+    "recipe_type": "minecraft:crafting_shapeless",
+    "inputs": [
+      {
+        "id": "minecraft:wooden_slabs",
+        "count": 1.0,
+        "unit": "item",
+        "type": "tag",
+        "rate": 1.0
+      },
+      {
+        "id": "create:brown_seat",
+        "count": 1.0,
+        "unit": "item",
+        "type": "solid",
+        "rate": 1.0
+      }
+    ],
+    "outputs": [
+      {
+        "id": "interiors:brown_floor_chair",
+        "count": 1.0,
+        "unit": "item",
+        "type": "solid",
+        "rate": 1.0
+      }
+    ]
+  },
+  {
+    "recipe_id": "interiors:crafting/chair/green_chair",
+    "mod_id": "interiors",
+    "recipe_type": "minecraft:crafting_shapeless",
+    "inputs": [
+      {
+        "id": "minecraft:wooden_slabs",
+        "count": 1.0,
+        "unit": "item",
+        "type": "tag",
+        "rate": 1.0
+      },
+      {
+        "id": "minecraft:planks",
+        "count": 1.0,
+        "unit": "item",
+        "type": "tag",
+        "rate": 1.0
+      },
+      {
+        "id": "minecraft:green_wool",
+        "count": 1.0,
+        "unit": "item",
+        "type": "solid",
+        "rate": 1.0
+      }
+    ],
+    "outputs": [
+      {
+        "id": "interiors:green_chair",
+        "count": 1.0,
+        "unit": "item",
+        "type": "solid",
+        "rate": 1.0
+      }
+    ]
+  },
+  {
+    "recipe_id": "interiors:crafting/floor_chair/white_floor_chair_from_other_floor_chair",
+    "mod_id": "interiors",
+    "recipe_type": "minecraft:crafting_shapeless",
+    "inputs": [
+      {
+        "id": "interiors:floor_chairs",
+        "count": 1.0,
+        "unit": "item",
+        "type": "tag",
+        "rate": 1.0
+      },
+      {
+        "id": "c:white_dyes",
+        "count": 1.0,
+        "unit": "item",
+        "type": "tag",
+        "rate": 1.0
+      }
+    ],
+    "outputs": [
+      {
+        "id": "interiors:white_floor_chair",
+        "count": 1.0,
+        "unit": "item",
+        "type": "solid",
+        "rate": 1.0
+      }
+    ]
+  },
+  {
+    "recipe_id": "interiors:crafting/cushion/yellow_cushion",
+    "mod_id": "interiors",
+    "recipe_type": "minecraft:crafting_shapeless",
+    "inputs": [
+      {
+        "id": "minecraft:planks",
+        "count": 1.0,
+        "unit": "item",
+        "type": "tag",
+        "rate": 1.0
+      },
+      {
+        "id": "minecraft:yellow_wool",
+        "count": 1.0,
+        "unit": "item",
+        "type": "solid",
+        "rate": 1.0
+      }
+    ],
+    "outputs": [
+      {
+        "id": "interiors:yellow_cushion",
+        "count": 2.0,
+        "unit": "item",
+        "type": "solid",
+        "rate": 1.0
+      }
+    ]
+  },
+  {
+    "recipe_id": "interiors:crafting/floor_chair/green_floor_chair_from_seat",
+    "mod_id": "interiors",
+    "recipe_type": "minecraft:crafting_shapeless",
+    "inputs": [
+      {
+        "id": "minecraft:wooden_slabs",
+        "count": 1.0,
+        "unit": "item",
+        "type": "tag",
+        "rate": 1.0
+      },
+      {
+        "id": "create:green_seat",
+        "count": 1.0,
+        "unit": "item",
+        "type": "solid",
+        "rate": 1.0
+      }
+    ],
+    "outputs": [
+      {
+        "id": "interiors:green_floor_chair",
+        "count": 1.0,
+        "unit": "item",
+        "type": "solid",
+        "rate": 1.0
+      }
+    ]
+  },
+  {
+    "recipe_id": "interiors:crafting/chair/orange_chair_from_seat",
+    "mod_id": "interiors",
+    "recipe_type": "minecraft:crafting_shapeless",
+    "inputs": [
+      {
+        "id": "minecraft:planks",
+        "count": 1.0,
+        "unit": "item",
+        "type": "tag",
+        "rate": 1.0
+      },
+      {
+        "id": "create:orange_seat",
+        "count": 1.0,
+        "unit": "item",
+        "type": "solid",
+        "rate": 1.0
+      }
+    ],
+    "outputs": [
+      {
+        "id": "interiors:orange_chair",
+        "count": 1.0,
+        "unit": "item",
+        "type": "solid",
+        "rate": 1.0
+      }
+    ]
+  },
+  {
+    "recipe_id": "interiors:crafting/floor_chair/light_gray_floor_chair",
+    "mod_id": "interiors",
+    "recipe_type": "minecraft:crafting_shapeless",
+    "inputs": [
+      {
+        "id": "minecraft:wooden_slabs",
+        "count": 1.0,
+        "unit": "item",
+        "type": "tag",
+        "rate": 1.0
+      },
+      {
+        "id": "minecraft:wooden_slabs",
+        "count": 1.0,
+        "unit": "item",
+        "type": "tag",
+        "rate": 1.0
+      },
+      {
+        "id": "minecraft:light_gray_wool",
+        "count": 1.0,
+        "unit": "item",
+        "type": "solid",
+        "rate": 1.0
+      }
+    ],
+    "outputs": [
+      {
+        "id": "interiors:light_gray_floor_chair",
+        "count": 1.0,
+        "unit": "item",
+        "type": "solid",
+        "rate": 1.0
+      }
+    ]
+  },
+  {
+    "recipe_id": "interiors:crafting/floor_chair/blue_floor_chair_from_seat",
+    "mod_id": "interiors",
+    "recipe_type": "minecraft:crafting_shapeless",
+    "inputs": [
+      {
+        "id": "minecraft:wooden_slabs",
+        "count": 1.0,
+        "unit": "item",
+        "type": "tag",
+        "rate": 1.0
+      },
+      {
+        "id": "create:blue_seat",
+        "count": 1.0,
+        "unit": "item",
+        "type": "solid",
+        "rate": 1.0
+      }
+    ],
+    "outputs": [
+      {
+        "id": "interiors:blue_floor_chair",
+        "count": 1.0,
+        "unit": "item",
+        "type": "solid",
+        "rate": 1.0
+      }
+    ]
+  },
+  {
+    "recipe_id": "interiors:crafting/chair/white_chair_from_other_chair",
+    "mod_id": "interiors",
+    "recipe_type": "minecraft:crafting_shapeless",
+    "inputs": [
+      {
+        "id": "interiors:chairs",
+        "count": 1.0,
+        "unit": "item",
+        "type": "tag",
+        "rate": 1.0
+      },
+      {
+        "id": "c:white_dyes",
+        "count": 1.0,
+        "unit": "item",
+        "type": "tag",
+        "rate": 1.0
+      }
+    ],
+    "outputs": [
+      {
+        "id": "interiors:white_chair",
+        "count": 1.0,
+        "unit": "item",
+        "type": "solid",
+        "rate": 1.0
+      }
+    ]
+  },
+  {
+    "recipe_id": "interiors:crafting/floor_chair/gray_floor_chair_from_seat",
+    "mod_id": "interiors",
+    "recipe_type": "minecraft:crafting_shapeless",
+    "inputs": [
+      {
+        "id": "minecraft:wooden_slabs",
+        "count": 1.0,
+        "unit": "item",
+        "type": "tag",
+        "rate": 1.0
+      },
+      {
+        "id": "create:gray_seat",
+        "count": 1.0,
+        "unit": "item",
+        "type": "solid",
+        "rate": 1.0
+      }
+    ],
+    "outputs": [
+      {
+        "id": "interiors:gray_floor_chair",
+        "count": 1.0,
+        "unit": "item",
+        "type": "solid",
+        "rate": 1.0
+      }
+    ]
+  },
+  {
+    "recipe_id": "interiors:crafting/chair/lime_chair",
+    "mod_id": "interiors",
+    "recipe_type": "minecraft:crafting_shapeless",
+    "inputs": [
+      {
+        "id": "minecraft:wooden_slabs",
+        "count": 1.0,
+        "unit": "item",
+        "type": "tag",
+        "rate": 1.0
+      },
+      {
+        "id": "minecraft:planks",
+        "count": 1.0,
+        "unit": "item",
+        "type": "tag",
+        "rate": 1.0
+      },
+      {
+        "id": "minecraft:lime_wool",
+        "count": 1.0,
+        "unit": "item",
+        "type": "solid",
+        "rate": 1.0
+      }
+    ],
+    "outputs": [
+      {
+        "id": "interiors:lime_chair",
+        "count": 1.0,
+        "unit": "item",
+        "type": "solid",
+        "rate": 1.0
+      }
+    ]
+  },
+  {
+    "recipe_id": "interiors:crafting/floor_chair/lime_floor_chair_from_other_floor_chair",
+    "mod_id": "interiors",
+    "recipe_type": "minecraft:crafting_shapeless",
+    "inputs": [
+      {
+        "id": "interiors:floor_chairs",
+        "count": 1.0,
+        "unit": "item",
+        "type": "tag",
+        "rate": 1.0
+      },
+      {
+        "id": "c:lime_dyes",
+        "count": 1.0,
+        "unit": "item",
+        "type": "tag",
+        "rate": 1.0
+      }
+    ],
+    "outputs": [
+      {
+        "id": "interiors:lime_floor_chair",
+        "count": 1.0,
+        "unit": "item",
+        "type": "solid",
+        "rate": 1.0
+      }
+    ]
+  },
+  {
+    "recipe_id": "interiors:crafting/cushion/purple_cushion",
+    "mod_id": "interiors",
+    "recipe_type": "minecraft:crafting_shapeless",
+    "inputs": [
+      {
+        "id": "minecraft:planks",
+        "count": 1.0,
+        "unit": "item",
+        "type": "tag",
+        "rate": 1.0
+      },
+      {
+        "id": "minecraft:purple_wool",
+        "count": 1.0,
+        "unit": "item",
+        "type": "solid",
+        "rate": 1.0
+      }
+    ],
+    "outputs": [
+      {
+        "id": "interiors:purple_cushion",
+        "count": 2.0,
+        "unit": "item",
+        "type": "solid",
+        "rate": 1.0
+      }
+    ]
+  },
+  {
+    "recipe_id": "interiors:crafting/chair/gray_chair_from_floor_chair",
+    "mod_id": "interiors",
+    "recipe_type": "minecraft:crafting_shapeless",
+    "inputs": [
+      {
+        "id": "minecraft:wooden_slabs",
+        "count": 1.0,
+        "unit": "item",
+        "type": "tag",
+        "rate": 1.0
+      },
+      {
+        "id": "interiors:gray_floor_chair",
+        "count": 1.0,
+        "unit": "item",
+        "type": "solid",
+        "rate": 1.0
+      }
+    ],
+    "outputs": [
+      {
+        "id": "interiors:gray_chair",
+        "count": 1.0,
+        "unit": "item",
+        "type": "solid",
+        "rate": 1.0
+      }
+    ]
+  },
+  {
+    "recipe_id": "interiors:crafting/chair/red_chair",
+    "mod_id": "interiors",
+    "recipe_type": "minecraft:crafting_shapeless",
+    "inputs": [
+      {
+        "id": "minecraft:wooden_slabs",
+        "count": 1.0,
+        "unit": "item",
+        "type": "tag",
+        "rate": 1.0
+      },
+      {
+        "id": "minecraft:planks",
+        "count": 1.0,
+        "unit": "item",
+        "type": "tag",
+        "rate": 1.0
+      },
+      {
+        "id": "minecraft:red_wool",
+        "count": 1.0,
+        "unit": "item",
+        "type": "solid",
+        "rate": 1.0
+      }
+    ],
+    "outputs": [
+      {
+        "id": "interiors:red_chair",
+        "count": 1.0,
+        "unit": "item",
+        "type": "solid",
+        "rate": 1.0
+      }
+    ]
+  },
+  {
+    "recipe_id": "interiors:crafting/chair/red_chair_from_floor_chair",
+    "mod_id": "interiors",
+    "recipe_type": "minecraft:crafting_shapeless",
+    "inputs": [
+      {
+        "id": "minecraft:wooden_slabs",
+        "count": 1.0,
+        "unit": "item",
+        "type": "tag",
+        "rate": 1.0
+      },
+      {
+        "id": "interiors:red_floor_chair",
+        "count": 1.0,
+        "unit": "item",
+        "type": "solid",
+        "rate": 1.0
+      }
+    ],
+    "outputs": [
+      {
+        "id": "interiors:red_chair",
+        "count": 1.0,
+        "unit": "item",
+        "type": "solid",
+        "rate": 1.0
+      }
+    ]
+  },
+  {
+    "recipe_id": "interiors:crafting/chair/yellow_chair_from_floor_chair",
+    "mod_id": "interiors",
+    "recipe_type": "minecraft:crafting_shapeless",
+    "inputs": [
+      {
+        "id": "minecraft:wooden_slabs",
+        "count": 1.0,
+        "unit": "item",
+        "type": "tag",
+        "rate": 1.0
+      },
+      {
+        "id": "interiors:yellow_floor_chair",
+        "count": 1.0,
+        "unit": "item",
+        "type": "solid",
+        "rate": 1.0
+      }
+    ],
+    "outputs": [
+      {
+        "id": "interiors:yellow_chair",
+        "count": 1.0,
+        "unit": "item",
+        "type": "solid",
+        "rate": 1.0
+      }
+    ]
+  },
+  {
+    "recipe_id": "interiors:crafting/chair/light_blue_chair_from_seat",
+    "mod_id": "interiors",
+    "recipe_type": "minecraft:crafting_shapeless",
+    "inputs": [
+      {
+        "id": "minecraft:planks",
+        "count": 1.0,
+        "unit": "item",
+        "type": "tag",
+        "rate": 1.0
+      },
+      {
+        "id": "create:light_blue_seat",
+        "count": 1.0,
+        "unit": "item",
+        "type": "solid",
+        "rate": 1.0
+      }
+    ],
+    "outputs": [
+      {
+        "id": "interiors:light_blue_chair",
+        "count": 1.0,
+        "unit": "item",
+        "type": "solid",
+        "rate": 1.0
+      }
+    ]
+  }
+]

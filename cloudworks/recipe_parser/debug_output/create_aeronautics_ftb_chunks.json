@@ -1,0 +1,1410 @@
+[
+  {
+    "recipe_id": "create_aeronautics_ftb_chunks:mechanical_crafting/contraption_claim_block",
+    "mod_id": "create_aeronautics_ftb_chunks",
+    "recipe_type": "create:mechanical_crafting",
+    "inputs": [
+      {
+        "id": "create:sturdy_sheet",
+        "count": 12.0,
+        "unit": "item",
+        "type": "solid",
+        "rate": 1.0
+      },
+      {
+        "id": "create:brass_ingot",
+        "count": 5.0,
+        "unit": "item",
+        "type": "solid",
+        "rate": 1.0
+      },
+      {
+        "id": "create:precision_mechanism",
+        "count": 3.0,
+        "unit": "item",
+        "type": "solid",
+        "rate": 1.0
+      },
+      {
+        "id": "minecraft:ender_pearl",
+        "count": 1.0,
+        "unit": "item",
+        "type": "solid",
+        "rate": 1.0
+      }
+    ],
+    "outputs": [
+      {
+        "id": "create_aeronautics_ftb_chunks:contraption_claim_block",
+        "count": 1.0,
+        "unit": "item",
+        "type": "solid",
+        "rate": 1.0
+      }
+    ]
+  },
+  {
+    "recipe_id": "create_aeronautics_ftb_chunks:mechanical_crafting/contraption_claim_block",
+    "mod_id": "create_aeronautics_ftb_chunks",
+    "recipe_type": "create:mechanical_crafting",
+    "inputs": [
+      {
+        "id": "create:sturdy_sheet",
+        "count": 12.0,
+        "unit": "item",
+        "type": "solid",
+        "rate": 1.0
+      },
+      {
+        "id": "create:brass_ingot",
+        "count": 5.0,
+        "unit": "item",
+        "type": "solid",
+        "rate": 1.0
+      },
+      {
+        "id": "create:precision_mechanism",
+        "count": 3.0,
+        "unit": "item",
+        "type": "solid",
+        "rate": 1.0
+      },
+      {
+        "id": "minecraft:ender_pearl",
+        "count": 1.0,
+        "unit": "item",
+        "type": "solid",
+        "rate": 1.0
+      }
+    ],
+    "outputs": [
+      {
+        "id": "create_aeronautics_ftb_chunks:contraption_claim_block",
+        "count": 1.0,
+        "unit": "item",
+        "type": "solid",
+        "rate": 1.0
+      }
+    ]
+  },
+  {
+    "recipe_id": "create_aeronautics_ftb_chunks:mechanical_crafting/contraption_claim_block",
+    "mod_id": "create_aeronautics_ftb_chunks",
+    "recipe_type": "create:mechanical_crafting",
+    "inputs": [
+      {
+        "id": "create:sturdy_sheet",
+        "count": 12.0,
+        "unit": "item",
+        "type": "solid",
+        "rate": 1.0
+      },
+      {
+        "id": "create:brass_ingot",
+        "count": 5.0,
+        "unit": "item",
+        "type": "solid",
+        "rate": 1.0
+      },
+      {
+        "id": "create:precision_mechanism",
+        "count": 3.0,
+        "unit": "item",
+        "type": "solid",
+        "rate": 1.0
+      },
+      {
+        "id": "minecraft:ender_pearl",
+        "count": 1.0,
+        "unit": "item",
+        "type": "solid",
+        "rate": 1.0
+      }
+    ],
+    "outputs": [
+      {
+        "id": "create_aeronautics_ftb_chunks:contraption_claim_block",
+        "count": 1.0,
+        "unit": "item",
+        "type": "solid",
+        "rate": 1.0
+      }
+    ]
+  },
+  {
+    "recipe_id": "create_aeronautics_ftb_chunks:mechanical_crafting/contraption_claim_block",
+    "mod_id": "create_aeronautics_ftb_chunks",
+    "recipe_type": "create:mechanical_crafting",
+    "inputs": [
+      {
+        "id": "create:sturdy_sheet",
+        "count": 12.0,
+        "unit": "item",
+        "type": "solid",
+        "rate": 1.0
+      },
+      {
+        "id": "create:brass_ingot",
+        "count": 5.0,
+        "unit": "item",
+        "type": "solid",
+        "rate": 1.0
+      },
+      {
+        "id": "create:precision_mechanism",
+        "count": 3.0,
+        "unit": "item",
+        "type": "solid",
+        "rate": 1.0
+      },
+      {
+        "id": "minecraft:ender_pearl",
+        "count": 1.0,
+        "unit": "item",
+        "type": "solid",
+        "rate": 1.0
+      }
+    ],
+    "outputs": [
+      {
+        "id": "create_aeronautics_ftb_chunks:contraption_claim_block",
+        "count": 1.0,
+        "unit": "item",
+        "type": "solid",
+        "rate": 1.0
+      }
+    ]
+  },
+  {
+    "recipe_id": "create_aeronautics_ftb_chunks:mechanical_crafting/contraption_claim_block",
+    "mod_id": "create_aeronautics_ftb_chunks",
+    "recipe_type": "create:mechanical_crafting",
+    "inputs": [
+      {
+        "id": "create:sturdy_sheet",
+        "count": 12.0,
+        "unit": "item",
+        "type": "solid",
+        "rate": 1.0
+      },
+      {
+        "id": "create:brass_ingot",
+        "count": 5.0,
+        "unit": "item",
+        "type": "solid",
+        "rate": 1.0
+      },
+      {
+        "id": "create:precision_mechanism",
+        "count": 3.0,
+        "unit": "item",
+        "type": "solid",
+        "rate": 1.0
+      },
+      {
+        "id": "minecraft:ender_pearl",
+        "count": 1.0,
+        "unit": "item",
+        "type": "solid",
+        "rate": 1.0
+      }
+    ],
+    "outputs": [
+      {
+        "id": "create_aeronautics_ftb_chunks:contraption_claim_block",
+        "count": 1.0,
+        "unit": "item",
+        "type": "solid",
+        "rate": 1.0
+      }
+    ]
+  },
+  {
+    "recipe_id": "create_aeronautics_ftb_chunks:mechanical_crafting/contraption_claim_block",
+    "mod_id": "create_aeronautics_ftb_chunks",
+    "recipe_type": "create:mechanical_crafting",
+    "inputs": [
+      {
+        "id": "create:sturdy_sheet",
+        "count": 12.0,
+        "unit": "item",
+        "type": "solid",
+        "rate": 1.0
+      },
+      {
+        "id": "create:brass_ingot",
+        "count": 5.0,
+        "unit": "item",
+        "type": "solid",
+        "rate": 1.0
+      },
+      {
+        "id": "create:precision_mechanism",
+        "count": 3.0,
+        "unit": "item",
+        "type": "solid",
+        "rate": 1.0
+      },
+      {
+        "id": "minecraft:ender_pearl",
+        "count": 1.0,
+        "unit": "item",
+        "type": "solid",
+        "rate": 1.0
+      }
+    ],
+    "outputs": [
+      {
+        "id": "create_aeronautics_ftb_chunks:contraption_claim_block",
+        "count": 1.0,
+        "unit": "item",
+        "type": "solid",
+        "rate": 1.0
+      }
+    ]
+  },
+  {
+    "recipe_id": "create_aeronautics_ftb_chunks:mechanical_crafting/contraption_claim_block",
+    "mod_id": "create_aeronautics_ftb_chunks",
+    "recipe_type": "create:mechanical_crafting",
+    "inputs": [
+      {
+        "id": "create:sturdy_sheet",
+        "count": 12.0,
+        "unit": "item",
+        "type": "solid",
+        "rate": 1.0
+      },
+      {
+        "id": "create:brass_ingot",
+        "count": 5.0,
+        "unit": "item",
+        "type": "solid",
+        "rate": 1.0
+      },
+      {
+        "id": "create:precision_mechanism",
+        "count": 3.0,
+        "unit": "item",
+        "type": "solid",
+        "rate": 1.0
+      },
+      {
+        "id": "minecraft:ender_pearl",
+        "count": 1.0,
+        "unit": "item",
+        "type": "solid",
+        "rate": 1.0
+      }
+    ],
+    "outputs": [
+      {
+        "id": "create_aeronautics_ftb_chunks:contraption_claim_block",
+        "count": 1.0,
+        "unit": "item",
+        "type": "solid",
+        "rate": 1.0
+      }
+    ]
+  },
+  {
+    "recipe_id": "create_aeronautics_ftb_chunks:mechanical_crafting/contraption_claim_block",
+    "mod_id": "create_aeronautics_ftb_chunks",
+    "recipe_type": "create:mechanical_crafting",
+    "inputs": [
+      {
+        "id": "create:sturdy_sheet",
+        "count": 12.0,
+        "unit": "item",
+        "type": "solid",
+        "rate": 1.0
+      },
+      {
+        "id": "create:brass_ingot",
+        "count": 5.0,
+        "unit": "item",
+        "type": "solid",
+        "rate": 1.0
+      },
+      {
+        "id": "create:precision_mechanism",
+        "count": 3.0,
+        "unit": "item",
+        "type": "solid",
+        "rate": 1.0
+      },
+      {
+        "id": "minecraft:ender_pearl",
+        "count": 1.0,
+        "unit": "item",
+        "type": "solid",
+        "rate": 1.0
+      }
+    ],
+    "outputs": [
+      {
+        "id": "create_aeronautics_ftb_chunks:contraption_claim_block",
+        "count": 1.0,
+        "unit": "item",
+        "type": "solid",
+        "rate": 1.0
+      }
+    ]
+  },
+  {
+    "recipe_id": "create_aeronautics_ftb_chunks:mechanical_crafting/contraption_claim_block",
+    "mod_id": "create_aeronautics_ftb_chunks",
+    "recipe_type": "create:mechanical_crafting",
+    "inputs": [
+      {
+        "id": "create:sturdy_sheet",
+        "count": 12.0,
+        "unit": "item",
+        "type": "solid",
+        "rate": 1.0
+      },
+      {
+        "id": "create:brass_ingot",
+        "count": 5.0,
+        "unit": "item",
+        "type": "solid",
+        "rate": 1.0
+      },
+      {
+        "id": "create:precision_mechanism",
+        "count": 3.0,
+        "unit": "item",
+        "type": "solid",
+        "rate": 1.0
+      },
+      {
+        "id": "minecraft:ender_pearl",
+        "count": 1.0,
+        "unit": "item",
+        "type": "solid",
+        "rate": 1.0
+      }
+    ],
+    "outputs": [
+      {
+        "id": "create_aeronautics_ftb_chunks:contraption_claim_block",
+        "count": 1.0,
+        "unit": "item",
+        "type": "solid",
+        "rate": 1.0
+      }
+    ]
+  },
+  {
+    "recipe_id": "create_aeronautics_ftb_chunks:mechanical_crafting/contraption_claim_block",
+    "mod_id": "create_aeronautics_ftb_chunks",
+    "recipe_type": "create:mechanical_crafting",
+    "inputs": [
+      {
+        "id": "create:sturdy_sheet",
+        "count": 12.0,
+        "unit": "item",
+        "type": "solid",
+        "rate": 1.0
+      },
+      {
+        "id": "create:brass_ingot",
+        "count": 5.0,
+        "unit": "item",
+        "type": "solid",
+        "rate": 1.0
+      },
+      {
+        "id": "create:precision_mechanism",
+        "count": 3.0,
+        "unit": "item",
+        "type": "solid",
+        "rate": 1.0
+      },
+      {
+        "id": "minecraft:ender_pearl",
+        "count": 1.0,
+        "unit": "item",
+        "type": "solid",
+        "rate": 1.0
+      }
+    ],
+    "outputs": [
+      {
+        "id": "create_aeronautics_ftb_chunks:contraption_claim_block",
+        "count": 1.0,
+        "unit": "item",
+        "type": "solid",
+        "rate": 1.0
+      }
+    ]
+  },
+  {
+    "recipe_id": "create_aeronautics_ftb_chunks:mechanical_crafting/contraption_claim_block",
+    "mod_id": "create_aeronautics_ftb_chunks",
+    "recipe_type": "create:mechanical_crafting",
+    "inputs": [
+      {
+        "id": "create:sturdy_sheet",
+        "count": 12.0,
+        "unit": "item",
+        "type": "solid",
+        "rate": 1.0
+      },
+      {
+        "id": "create:brass_ingot",
+        "count": 5.0,
+        "unit": "item",
+        "type": "solid",
+        "rate": 1.0
+      },
+      {
+        "id": "create:precision_mechanism",
+        "count": 3.0,
+        "unit": "item",
+        "type": "solid",
+        "rate": 1.0
+      },
+      {
+        "id": "minecraft:ender_pearl",
+        "count": 1.0,
+        "unit": "item",
+        "type": "solid",
+        "rate": 1.0
+      }
+    ],
+    "outputs": [
+      {
+        "id": "create_aeronautics_ftb_chunks:contraption_claim_block",
+        "count": 1.0,
+        "unit": "item",
+        "type": "solid",
+        "rate": 1.0
+      }
+    ]
+  },
+  {
+    "recipe_id": "create_aeronautics_ftb_chunks:mechanical_crafting/contraption_claim_block",
+    "mod_id": "create_aeronautics_ftb_chunks",
+    "recipe_type": "create:mechanical_crafting",
+    "inputs": [
+      {
+        "id": "create:sturdy_sheet",
+        "count": 12.0,
+        "unit": "item",
+        "type": "solid",
+        "rate": 1.0
+      },
+      {
+        "id": "create:brass_ingot",
+        "count": 5.0,
+        "unit": "item",
+        "type": "solid",
+        "rate": 1.0
+      },
+      {
+        "id": "create:precision_mechanism",
+        "count": 3.0,
+        "unit": "item",
+        "type": "solid",
+        "rate": 1.0
+      },
+      {
+        "id": "minecraft:ender_pearl",
+        "count": 1.0,
+        "unit": "item",
+        "type": "solid",
+        "rate": 1.0
+      }
+    ],
+    "outputs": [
+      {
+        "id": "create_aeronautics_ftb_chunks:contraption_claim_block",
+        "count": 1.0,
+        "unit": "item",
+        "type": "solid",
+        "rate": 1.0
+      }
+    ]
+  },
+  {
+    "recipe_id": "create_aeronautics_ftb_chunks:mechanical_crafting/contraption_claim_block",
+    "mod_id": "create_aeronautics_ftb_chunks",
+    "recipe_type": "create:mechanical_crafting",
+    "inputs": [
+      {
+        "id": "create:sturdy_sheet",
+        "count": 12.0,
+        "unit": "item",
+        "type": "solid",
+        "rate": 1.0
+      },
+      {
+        "id": "create:brass_ingot",
+        "count": 5.0,
+        "unit": "item",
+        "type": "solid",
+        "rate": 1.0
+      },
+      {
+        "id": "create:precision_mechanism",
+        "count": 3.0,
+        "unit": "item",
+        "type": "solid",
+        "rate": 1.0
+      },
+      {
+        "id": "minecraft:ender_pearl",
+        "count": 1.0,
+        "unit": "item",
+        "type": "solid",
+        "rate": 1.0
+      }
+    ],
+    "outputs": [
+      {
+        "id": "create_aeronautics_ftb_chunks:contraption_claim_block",
+        "count": 1.0,
+        "unit": "item",
+        "type": "solid",
+        "rate": 1.0
+      }
+    ]
+  },
+  {
+    "recipe_id": "create_aeronautics_ftb_chunks:mechanical_crafting/contraption_claim_block",
+    "mod_id": "create_aeronautics_ftb_chunks",
+    "recipe_type": "create:mechanical_crafting",
+    "inputs": [
+      {
+        "id": "create:sturdy_sheet",
+        "count": 12.0,
+        "unit": "item",
+        "type": "solid",
+        "rate": 1.0
+      },
+      {
+        "id": "create:brass_ingot",
+        "count": 5.0,
+        "unit": "item",
+        "type": "solid",
+        "rate": 1.0
+      },
+      {
+        "id": "create:precision_mechanism",
+        "count": 3.0,
+        "unit": "item",
+        "type": "solid",
+        "rate": 1.0
+      },
+      {
+        "id": "minecraft:ender_pearl",
+        "count": 1.0,
+        "unit": "item",
+        "type": "solid",
+        "rate": 1.0
+      }
+    ],
+    "outputs": [
+      {
+        "id": "create_aeronautics_ftb_chunks:contraption_claim_block",
+        "count": 1.0,
+        "unit": "item",
+        "type": "solid",
+        "rate": 1.0
+      }
+    ]
+  },
+  {
+    "recipe_id": "create_aeronautics_ftb_chunks:mechanical_crafting/contraption_claim_block",
+    "mod_id": "create_aeronautics_ftb_chunks",
+    "recipe_type": "create:mechanical_crafting",
+    "inputs": [
+      {
+        "id": "create:sturdy_sheet",
+        "count": 12.0,
+        "unit": "item",
+        "type": "solid",
+        "rate": 1.0
+      },
+      {
+        "id": "create:brass_ingot",
+        "count": 5.0,
+        "unit": "item",
+        "type": "solid",
+        "rate": 1.0
+      },
+      {
+        "id": "create:precision_mechanism",
+        "count": 3.0,
+        "unit": "item",
+        "type": "solid",
+        "rate": 1.0
+      },
+      {
+        "id": "minecraft:ender_pearl",
+        "count": 1.0,
+        "unit": "item",
+        "type": "solid",
+        "rate": 1.0
+      }
+    ],
+    "outputs": [
+      {
+        "id": "create_aeronautics_ftb_chunks:contraption_claim_block",
+        "count": 1.0,
+        "unit": "item",
+        "type": "solid",
+        "rate": 1.0
+      }
+    ]
+  },
+  {
+    "recipe_id": "create_aeronautics_ftb_chunks:mechanical_crafting/contraption_claim_block",
+    "mod_id": "create_aeronautics_ftb_chunks",
+    "recipe_type": "create:mechanical_crafting",
+    "inputs": [
+      {
+        "id": "create:sturdy_sheet",
+        "count": 12.0,
+        "unit": "item",
+        "type": "solid",
+        "rate": 1.0
+      },
+      {
+        "id": "create:brass_ingot",
+        "count": 5.0,
+        "unit": "item",
+        "type": "solid",
+        "rate": 1.0
+      },
+      {
+        "id": "create:precision_mechanism",
+        "count": 3.0,
+        "unit": "item",
+        "type": "solid",
+        "rate": 1.0
+      },
+      {
+        "id": "minecraft:ender_pearl",
+        "count": 1.0,
+        "unit": "item",
+        "type": "solid",
+        "rate": 1.0
+      }
+    ],
+    "outputs": [
+      {
+        "id": "create_aeronautics_ftb_chunks:contraption_claim_block",
+        "count": 1.0,
+        "unit": "item",
+        "type": "solid",
+        "rate": 1.0
+      }
+    ]
+  },
+  {
+    "recipe_id": "create_aeronautics_ftb_chunks:mechanical_crafting/contraption_claim_block",
+    "mod_id": "create_aeronautics_ftb_chunks",
+    "recipe_type": "create:mechanical_crafting",
+    "inputs": [
+      {
+        "id": "create:sturdy_sheet",
+        "count": 12.0,
+        "unit": "item",
+        "type": "solid",
+        "rate": 1.0
+      },
+      {
+        "id": "create:brass_ingot",
+        "count": 5.0,
+        "unit": "item",
+        "type": "solid",
+        "rate": 1.0
+      },
+      {
+        "id": "create:precision_mechanism",
+        "count": 3.0,
+        "unit": "item",
+        "type": "solid",
+        "rate": 1.0
+      },
+      {
+        "id": "minecraft:ender_pearl",
+        "count": 1.0,
+        "unit": "item",
+        "type": "solid",
+        "rate": 1.0
+      }
+    ],
+    "outputs": [
+      {
+        "id": "create_aeronautics_ftb_chunks:contraption_claim_block",
+        "count": 1.0,
+        "unit": "item",
+        "type": "solid",
+        "rate": 1.0
+      }
+    ]
+  },
+  {
+    "recipe_id": "create_aeronautics_ftb_chunks:mechanical_crafting/contraption_claim_block",
+    "mod_id": "create_aeronautics_ftb_chunks",
+    "recipe_type": "create:mechanical_crafting",
+    "inputs": [
+      {
+        "id": "create:sturdy_sheet",
+        "count": 12.0,
+        "unit": "item",
+        "type": "solid",
+        "rate": 1.0
+      },
+      {
+        "id": "create:brass_ingot",
+        "count": 5.0,
+        "unit": "item",
+        "type": "solid",
+        "rate": 1.0
+      },
+      {
+        "id": "create:precision_mechanism",
+        "count": 3.0,
+        "unit": "item",
+        "type": "solid",
+        "rate": 1.0
+      },
+      {
+        "id": "minecraft:ender_pearl",
+        "count": 1.0,
+        "unit": "item",
+        "type": "solid",
+        "rate": 1.0
+      }
+    ],
+    "outputs": [
+      {
+        "id": "create_aeronautics_ftb_chunks:contraption_claim_block",
+        "count": 1.0,
+        "unit": "item",
+        "type": "solid",
+        "rate": 1.0
+      }
+    ]
+  },
+  {
+    "recipe_id": "create_aeronautics_ftb_chunks:mechanical_crafting/contraption_claim_block",
+    "mod_id": "create_aeronautics_ftb_chunks",
+    "recipe_type": "create:mechanical_crafting",
+    "inputs": [
+      {
+        "id": "create:sturdy_sheet",
+        "count": 12.0,
+        "unit": "item",
+        "type": "solid",
+        "rate": 1.0
+      },
+      {
+        "id": "create:brass_ingot",
+        "count": 5.0,
+        "unit": "item",
+        "type": "solid",
+        "rate": 1.0
+      },
+      {
+        "id": "create:precision_mechanism",
+        "count": 3.0,
+        "unit": "item",
+        "type": "solid",
+        "rate": 1.0
+      },
+      {
+        "id": "minecraft:ender_pearl",
+        "count": 1.0,
+        "unit": "item",
+        "type": "solid",
+        "rate": 1.0
+      }
+    ],
+    "outputs": [
+      {
+        "id": "create_aeronautics_ftb_chunks:contraption_claim_block",
+        "count": 1.0,
+        "unit": "item",
+        "type": "solid",
+        "rate": 1.0
+      }
+    ]
+  },
+  {
+    "recipe_id": "create_aeronautics_ftb_chunks:mechanical_crafting/contraption_claim_block",
+    "mod_id": "create_aeronautics_ftb_chunks",
+    "recipe_type": "create:mechanical_crafting",
+    "inputs": [
+      {
+        "id": "create:sturdy_sheet",
+        "count": 12.0,
+        "unit": "item",
+        "type": "solid",
+        "rate": 1.0
+      },
+      {
+        "id": "create:brass_ingot",
+        "count": 5.0,
+        "unit": "item",
+        "type": "solid",
+        "rate": 1.0
+      },
+      {
+        "id": "create:precision_mechanism",
+        "count": 3.0,
+        "unit": "item",
+        "type": "solid",
+        "rate": 1.0
+      },
+      {
+        "id": "minecraft:ender_pearl",
+        "count": 1.0,
+        "unit": "item",
+        "type": "solid",
+        "rate": 1.0
+      }
+    ],
+    "outputs": [
+      {
+        "id": "create_aeronautics_ftb_chunks:contraption_claim_block",
+        "count": 1.0,
+        "unit": "item",
+        "type": "solid",
+        "rate": 1.0
+      }
+    ]
+  },
+  {
+    "recipe_id": "create_aeronautics_ftb_chunks:mechanical_crafting/contraption_claim_block",
+    "mod_id": "create_aeronautics_ftb_chunks",
+    "recipe_type": "create:mechanical_crafting",
+    "inputs": [
+      {
+        "id": "create:sturdy_sheet",
+        "count": 12.0,
+        "unit": "item",
+        "type": "solid",
+        "rate": 1.0
+      },
+      {
+        "id": "create:brass_ingot",
+        "count": 5.0,
+        "unit": "item",
+        "type": "solid",
+        "rate": 1.0
+      },
+      {
+        "id": "create:precision_mechanism",
+        "count": 3.0,
+        "unit": "item",
+        "type": "solid",
+        "rate": 1.0
+      },
+      {
+        "id": "minecraft:ender_pearl",
+        "count": 1.0,
+        "unit": "item",
+        "type": "solid",
+        "rate": 1.0
+      }
+    ],
+    "outputs": [
+      {
+        "id": "create_aeronautics_ftb_chunks:contraption_claim_block",
+        "count": 1.0,
+        "unit": "item",
+        "type": "solid",
+        "rate": 1.0
+      }
+    ]
+  },
+  {
+    "recipe_id": "create_aeronautics_ftb_chunks:mechanical_crafting/contraption_claim_block",
+    "mod_id": "create_aeronautics_ftb_chunks",
+    "recipe_type": "create:mechanical_crafting",
+    "inputs": [
+      {
+        "id": "create:sturdy_sheet",
+        "count": 12.0,
+        "unit": "item",
+        "type": "solid",
+        "rate": 1.0
+      },
+      {
+        "id": "create:brass_ingot",
+        "count": 5.0,
+        "unit": "item",
+        "type": "solid",
+        "rate": 1.0
+      },
+      {
+        "id": "create:precision_mechanism",
+        "count": 3.0,
+        "unit": "item",
+        "type": "solid",
+        "rate": 1.0
+      },
+      {
+        "id": "minecraft:ender_pearl",
+        "count": 1.0,
+        "unit": "item",
+        "type": "solid",
+        "rate": 1.0
+      }
+    ],
+    "outputs": [
+      {
+        "id": "create_aeronautics_ftb_chunks:contraption_claim_block",
+        "count": 1.0,
+        "unit": "item",
+        "type": "solid",
+        "rate": 1.0
+      }
+    ]
+  },
+  {
+    "recipe_id": "create_aeronautics_ftb_chunks:mechanical_crafting/contraption_claim_block",
+    "mod_id": "create_aeronautics_ftb_chunks",
+    "recipe_type": "create:mechanical_crafting",
+    "inputs": [
+      {
+        "id": "create:sturdy_sheet",
+        "count": 12.0,
+        "unit": "item",
+        "type": "solid",
+        "rate": 1.0
+      },
+      {
+        "id": "create:brass_ingot",
+        "count": 5.0,
+        "unit": "item",
+        "type": "solid",
+        "rate": 1.0
+      },
+      {
+        "id": "create:precision_mechanism",
+        "count": 3.0,
+        "unit": "item",
+        "type": "solid",
+        "rate": 1.0
+      },
+      {
+        "id": "minecraft:ender_pearl",
+        "count": 1.0,
+        "unit": "item",
+        "type": "solid",
+        "rate": 1.0
+      }
+    ],
+    "outputs": [
+      {
+        "id": "create_aeronautics_ftb_chunks:contraption_claim_block",
+        "count": 1.0,
+        "unit": "item",
+        "type": "solid",
+        "rate": 1.0
+      }
+    ]
+  },
+  {
+    "recipe_id": "create_aeronautics_ftb_chunks:mechanical_crafting/contraption_claim_block",
+    "mod_id": "create_aeronautics_ftb_chunks",
+    "recipe_type": "create:mechanical_crafting",
+    "inputs": [
+      {
+        "id": "create:sturdy_sheet",
+        "count": 12.0,
+        "unit": "item",
+        "type": "solid",
+        "rate": 1.0
+      },
+      {
+        "id": "create:brass_ingot",
+        "count": 5.0,
+        "unit": "item",
+        "type": "solid",
+        "rate": 1.0
+      },
+      {
+        "id": "create:precision_mechanism",
+        "count": 3.0,
+        "unit": "item",
+        "type": "solid",
+        "rate": 1.0
+      },
+      {
+        "id": "minecraft:ender_pearl",
+        "count": 1.0,
+        "unit": "item",
+        "type": "solid",
+        "rate": 1.0
+      }
+    ],
+    "outputs": [
+      {
+        "id": "create_aeronautics_ftb_chunks:contraption_claim_block",
+        "count": 1.0,
+        "unit": "item",
+        "type": "solid",
+        "rate": 1.0
+      }
+    ]
+  },
+  {
+    "recipe_id": "create_aeronautics_ftb_chunks:mechanical_crafting/contraption_claim_block",
+    "mod_id": "create_aeronautics_ftb_chunks",
+    "recipe_type": "create:mechanical_crafting",
+    "inputs": [
+      {
+        "id": "create:sturdy_sheet",
+        "count": 12.0,
+        "unit": "item",
+        "type": "solid",
+        "rate": 1.0
+      },
+      {
+        "id": "create:brass_ingot",
+        "count": 5.0,
+        "unit": "item",
+        "type": "solid",
+        "rate": 1.0
+      },
+      {
+        "id": "create:precision_mechanism",
+        "count": 3.0,
+        "unit": "item",
+        "type": "solid",
+        "rate": 1.0
+      },
+      {
+        "id": "minecraft:ender_pearl",
+        "count": 1.0,
+        "unit": "item",
+        "type": "solid",
+        "rate": 1.0
+      }
+    ],
+    "outputs": [
+      {
+        "id": "create_aeronautics_ftb_chunks:contraption_claim_block",
+        "count": 1.0,
+        "unit": "item",
+        "type": "solid",
+        "rate": 1.0
+      }
+    ]
+  },
+  {
+    "recipe_id": "create_aeronautics_ftb_chunks:mechanical_crafting/contraption_claim_block",
+    "mod_id": "create_aeronautics_ftb_chunks",
+    "recipe_type": "create:mechanical_crafting",
+    "inputs": [
+      {
+        "id": "create:sturdy_sheet",
+        "count": 12.0,
+        "unit": "item",
+        "type": "solid",
+        "rate": 1.0
+      },
+      {
+        "id": "create:brass_ingot",
+        "count": 5.0,
+        "unit": "item",
+        "type": "solid",
+        "rate": 1.0
+      },
+      {
+        "id": "create:precision_mechanism",
+        "count": 3.0,
+        "unit": "item",
+        "type": "solid",
+        "rate": 1.0
+      },
+      {
+        "id": "minecraft:ender_pearl",
+        "count": 1.0,
+        "unit": "item",
+        "type": "solid",
+        "rate": 1.0
+      }
+    ],
+    "outputs": [
+      {
+        "id": "create_aeronautics_ftb_chunks:contraption_claim_block",
+        "count": 1.0,
+        "unit": "item",
+        "type": "solid",
+        "rate": 1.0
+      }
+    ]
+  },
+  {
+    "recipe_id": "create_aeronautics_ftb_chunks:mechanical_crafting/contraption_claim_block",
+    "mod_id": "create_aeronautics_ftb_chunks",
+    "recipe_type": "create:mechanical_crafting",
+    "inputs": [
+      {
+        "id": "create:sturdy_sheet",
+        "count": 12.0,
+        "unit": "item",
+        "type": "solid",
+        "rate": 1.0
+      },
+      {
+        "id": "create:brass_ingot",
+        "count": 5.0,
+        "unit": "item",
+        "type": "solid",
+        "rate": 1.0
+      },
+      {
+        "id": "create:precision_mechanism",
+        "count": 3.0,
+        "unit": "item",
+        "type": "solid",
+        "rate": 1.0
+      },
+      {
+        "id": "minecraft:ender_pearl",
+        "count": 1.0,
+        "unit": "item",
+        "type": "solid",
+        "rate": 1.0
+      }
+    ],
+    "outputs": [
+      {
+        "id": "create_aeronautics_ftb_chunks:contraption_claim_block",
+        "count": 1.0,
+        "unit": "item",
+        "type": "solid",
+        "rate": 1.0
+      }
+    ]
+  },
+  {
+    "recipe_id": "create_aeronautics_ftb_chunks:mechanical_crafting/contraption_claim_block",
+    "mod_id": "create_aeronautics_ftb_chunks",
+    "recipe_type": "create:mechanical_crafting",
+    "inputs": [
+      {
+        "id": "create:sturdy_sheet",
+        "count": 12.0,
+        "unit": "item",
+        "type": "solid",
+        "rate": 1.0
+      },
+      {
+        "id": "create:brass_ingot",
+        "count": 5.0,
+        "unit": "item",
+        "type": "solid",
+        "rate": 1.0
+      },
+      {
+        "id": "create:precision_mechanism",
+        "count": 3.0,
+        "unit": "item",
+        "type": "solid",
+        "rate": 1.0
+      },
+      {
+        "id": "minecraft:ender_pearl",
+        "count": 1.0,
+        "unit": "item",
+        "type": "solid",
+        "rate": 1.0
+      }
+    ],
+    "outputs": [
+      {
+        "id": "create_aeronautics_ftb_chunks:contraption_claim_block",
+        "count": 1.0,
+        "unit": "item",
+        "type": "solid",
+        "rate": 1.0
+      }
+    ]
+  },
+  {
+    "recipe_id": "create_aeronautics_ftb_chunks:mechanical_crafting/contraption_claim_block",
+    "mod_id": "create_aeronautics_ftb_chunks",
+    "recipe_type": "create:mechanical_crafting",
+    "inputs": [
+      {
+        "id": "create:sturdy_sheet",
+        "count": 12.0,
+        "unit": "item",
+        "type": "solid",
+        "rate": 1.0
+      },
+      {
+        "id": "create:brass_ingot",
+        "count": 5.0,
+        "unit": "item",
+        "type": "solid",
+        "rate": 1.0
+      },
+      {
+        "id": "create:precision_mechanism",
+        "count": 3.0,
+        "unit": "item",
+        "type": "solid",
+        "rate": 1.0
+      },
+      {
+        "id": "minecraft:ender_pearl",
+        "count": 1.0,
+        "unit": "item",
+        "type": "solid",
+        "rate": 1.0
+      }
+    ],
+    "outputs": [
+      {
+        "id": "create_aeronautics_ftb_chunks:contraption_claim_block",
+        "count": 1.0,
+        "unit": "item",
+        "type": "solid",
+        "rate": 1.0
+      }
+    ]
+  },
+  {
+    "recipe_id": "create_aeronautics_ftb_chunks:mechanical_crafting/contraption_claim_block",
+    "mod_id": "create_aeronautics_ftb_chunks",
+    "recipe_type": "create:mechanical_crafting",
+    "inputs": [
+      {
+        "id": "create:sturdy_sheet",
+        "count": 12.0,
+        "unit": "item",
+        "type": "solid",
+        "rate": 1.0
+      },
+      {
+        "id": "create:brass_ingot",
+        "count": 5.0,
+        "unit": "item",
+        "type": "solid",
+        "rate": 1.0
+      },
+      {
+        "id": "create:precision_mechanism",
+        "count": 3.0,
+        "unit": "item",
+        "type": "solid",
+        "rate": 1.0
+      },
+      {
+        "id": "minecraft:ender_pearl",
+        "count": 1.0,
+        "unit": "item",
+        "type": "solid",
+        "rate": 1.0
+      }
+    ],
+    "outputs": [
+      {
+        "id": "create_aeronautics_ftb_chunks:contraption_claim_block",
+        "count": 1.0,
+        "unit": "item",
+        "type": "solid",
+        "rate": 1.0
+      }
+    ]
+  },
+  {
+    "recipe_id": "create_aeronautics_ftb_chunks:mechanical_crafting/contraption_claim_block",
+    "mod_id": "create_aeronautics_ftb_chunks",
+    "recipe_type": "create:mechanical_crafting",
+    "inputs": [
+      {
+        "id": "create:sturdy_sheet",
+        "count": 12.0,
+        "unit": "item",
+        "type": "solid",
+        "rate": 1.0
+      },
+      {
+        "id": "create:brass_ingot",
+        "count": 5.0,
+        "unit": "item",
+        "type": "solid",
+        "rate": 1.0
+      },
+      {
+        "id": "create:precision_mechanism",
+        "count": 3.0,
+        "unit": "item",
+        "type": "solid",
+        "rate": 1.0
+      },
+      {
+        "id": "minecraft:ender_pearl",
+        "count": 1.0,
+        "unit": "item",
+        "type": "solid",
+        "rate": 1.0
+      }
+    ],
+    "outputs": [
+      {
+        "id": "create_aeronautics_ftb_chunks:contraption_claim_block",
+        "count": 1.0,
+        "unit": "item",
+        "type": "solid",
+        "rate": 1.0
+      }
+    ]
+  },
+  {
+    "recipe_id": "create_aeronautics_ftb_chunks:mechanical_crafting/contraption_claim_block",
+    "mod_id": "create_aeronautics_ftb_chunks",
+    "recipe_type": "create:mechanical_crafting",
+    "inputs": [
+      {
+        "id": "create:sturdy_sheet",
+        "count": 12.0,
+        "unit": "item",
+        "type": "solid",
+        "rate": 1.0
+      },
+      {
+        "id": "create:brass_ingot",
+        "count": 5.0,
+        "unit": "item",
+        "type": "solid",
+        "rate": 1.0
+      },
+      {
+        "id": "create:precision_mechanism",
+        "count": 3.0,
+        "unit": "item",
+        "type": "solid",
+        "rate": 1.0
+      },
+      {
+        "id": "minecraft:ender_pearl",
+        "count": 1.0,
+        "unit": "item",
+        "type": "solid",
+        "rate": 1.0
+      }
+    ],
+    "outputs": [
+      {
+        "id": "create_aeronautics_ftb_chunks:contraption_claim_block",
+        "count": 1.0,
+        "unit": "item",
+        "type": "solid",
+        "rate": 1.0
+      }
+    ]
+  }
+]

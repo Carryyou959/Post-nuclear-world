@@ -1,0 +1,9 @@
+{
+  "source_item": "kaleidoscope_end:chorus_seed_cookie",
+  "comment": "Edit this file to add custom nutrition values",
+  "auto_calculated": false,
+  "nutritions": {
+    "fruits": 0.0019,
+    "grains": 0.0025
+  }
+}

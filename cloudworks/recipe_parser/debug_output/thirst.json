@@ -1,0 +1,4186 @@
+[
+  {
+    "recipe_id": "thirst:terracotta_bowl_from_smelting",
+    "mod_id": "thirst",
+    "recipe_type": "minecraft:smelting",
+    "inputs": [
+      {
+        "id": "thirst:clay_bowl",
+        "count": 1.0,
+        "unit": "item",
+        "type": "solid",
+        "rate": 1.0
+      }
+    ],
+    "outputs": [
+      {
+        "id": "thirst:terracotta_bowl",
+        "count": 1.0,
+        "unit": "item",
+        "type": "solid",
+        "rate": 1.0
+      }
+    ]
+  },
+  {
+    "recipe_id": "thirst:water_bottle_from_campfire_cooking_acceptable",
+    "mod_id": "thirst",
+    "recipe_type": "minecraft:campfire_cooking",
+    "inputs": [],
+    "outputs": [
+      {
+        "id": "minecraft:potion",
+        "count": 1.0,
+        "unit": "item",
+        "type": "solid",
+        "rate": 1.0
+      }
+    ]
+  },
+  {
+    "recipe_id": "thirst:clay_bowl",
+    "mod_id": "thirst",
+    "recipe_type": "minecraft:crafting_shaped",
+    "inputs": [
+      {
+        "id": "minecraft:clay_ball",
+        "count": 3.0,
+        "unit": "item",
+        "type": "solid",
+        "rate": 1.0
+      }
+    ],
+    "outputs": [
+      {
+        "id": "thirst:clay_bowl",
+        "count": 4.0,
+        "unit": "item",
+        "type": "solid",
+        "rate": 1.0
+      }
+    ]
+  },
+  {
+    "recipe_id": "thirst:terracotta_bowl_from_campfire_cooking",
+    "mod_id": "thirst",
+    "recipe_type": "minecraft:campfire_cooking",
+    "inputs": [
+      {
+        "id": "thirst:clay_bowl",
+        "count": 1.0,
+        "unit": "item",
+        "type": "solid",
+        "rate": 1.0
+      }
+    ],
+    "outputs": [
+      {
+        "id": "thirst:terracotta_bowl",
+        "count": 1.0,
+        "unit": "item",
+        "type": "solid",
+        "rate": 1.0
+      }
+    ]
+  },
+  {
+    "recipe_id": "thirst:water_bucket_from_campfire_cooking_slight_dirty",
+    "mod_id": "thirst",
+    "recipe_type": "minecraft:campfire_cooking",
+    "inputs": [],
+    "outputs": [
+      {
+        "id": "minecraft:water_bucket",
+        "count": 1.0,
+        "unit": "item",
+        "type": "solid",
+        "rate": 1.0
+      }
+    ]
+  },
+  {
+    "recipe_id": "thirst:water_bottle_from_campfire_cooking_purified",
+    "mod_id": "thirst",
+    "recipe_type": "minecraft:campfire_cooking",
+    "inputs": [],
+    "outputs": [
+      {
+        "id": "minecraft:potion",
+        "count": 1.0,
+        "unit": "item",
+        "type": "solid",
+        "rate": 1.0
+      }
+    ]
+  },
+  {
+    "recipe_id": "thirst:water_bottle_from_smelting_purified",
+    "mod_id": "thirst",
+    "recipe_type": "minecraft:smelting",
+    "inputs": [],
+    "outputs": [
+      {
+        "id": "minecraft:potion",
+        "count": 1.0,
+        "unit": "item",
+        "type": "solid",
+        "rate": 1.0
+      }
+    ]
+  },
+  {
+    "recipe_id": "thirst:water_bucket_from_smelting_purfied",
+    "mod_id": "thirst",
+    "recipe_type": "minecraft:smelting",
+    "inputs": [],
+    "outputs": [
+      {
+        "id": "minecraft:water_bucket",
+        "count": 1.0,
+        "unit": "item",
+        "type": "solid",
+        "rate": 1.0
+      }
+    ]
+  },
+  {
+    "recipe_id": "thirst:water_bucket_from_campfire_purified",
+    "mod_id": "thirst",
+    "recipe_type": "minecraft:campfire_cooking",
+    "inputs": [],
+    "outputs": [
+      {
+        "id": "minecraft:water_bucket",
+        "count": 1.0,
+        "unit": "item",
+        "type": "solid",
+        "rate": 1.0
+      }
+    ]
+  },
+  {
+    "recipe_id": "thirst:terracotta_water_bowl_from_campfire_cooking_acceptable",
+    "mod_id": "thirst",
+    "recipe_type": "minecraft:campfire_cooking",
+    "inputs": [],
+    "outputs": [
+      {
+        "id": "thirst:terracotta_water_bowl",
+        "count": 1.0,
+        "unit": "item",
+        "type": "solid",
+        "rate": 1.0
+      }
+    ]
+  },
+  {
+    "recipe_id": "thirst:compat/create/sand_filter",
+    "mod_id": "thirst",
+    "recipe_type": "minecraft:crafting_shaped",
+    "inputs": [
+      {
+        "id": "minecraft:sand",
+        "count": 1.0,
+        "unit": "item",
+        "type": "solid",
+        "rate": 1.0
+      },
+      {
+        "id": "create:nozzle",
+        "count": 1.0,
+        "unit": "item",
+        "type": "solid",
+        "rate": 1.0
+      },
+      {
+        "id": "create:fluid_tank",
+        "count": 1.0,
+        "unit": "item",
+        "type": "solid",
+        "rate": 1.0
+      }
+    ],
+    "outputs": [
+      {
+        "id": "thirst:sand_filter",
+        "count": 1.0,
+        "unit": "item",
+        "type": "solid",
+        "rate": 1.0
+      }
+    ]
+  },
+  {
+    "recipe_id": "thirst:terracotta_water_bowl_from_smelting_acceptable",
+    "mod_id": "thirst",
+    "recipe_type": "minecraft:smelting",
+    "inputs": [],
+    "outputs": [
+      {
+        "id": "thirst:terracotta_water_bowl",
+        "count": 1.0,
+        "unit": "item",
+        "type": "solid",
+        "rate": 1.0
+      }
+    ]
+  },
+  {
+    "recipe_id": "thirst:water_bottle_from_smelting_acceptable",
+    "mod_id": "thirst",
+    "recipe_type": "minecraft:smelting",
+    "inputs": [],
+    "outputs": [
+      {
+        "id": "minecraft:potion",
+        "count": 1.0,
+        "unit": "item",
+        "type": "solid",
+        "rate": 1.0
+      }
+    ]
+  },
+  {
+    "recipe_id": "thirst:water_bucket_from_campfire_cooking_acceptable",
+    "mod_id": "thirst",
+    "recipe_type": "minecraft:campfire_cooking",
+    "inputs": [],
+    "outputs": [
+      {
+        "id": "minecraft:water_bucket",
+        "count": 1.0,
+        "unit": "item",
+        "type": "solid",
+        "rate": 1.0
+      }
+    ]
+  },
+  {
+    "recipe_id": "thirst:terracotta_water_bowl_from_campfire_cooking_slightly_dirty",
+    "mod_id": "thirst",
+    "recipe_type": "minecraft:campfire_cooking",
+    "inputs": [],
+    "outputs": [
+      {
+        "id": "thirst:terracotta_water_bowl",
+        "count": 1.0,
+        "unit": "item",
+        "type": "solid",
+        "rate": 1.0
+      }
+    ]
+  },
+  {
+    "recipe_id": "thirst:water_bucket_from_smelting_acceptable",
+    "mod_id": "thirst",
+    "recipe_type": "minecraft:smelting",
+    "inputs": [],
+    "outputs": [
+      {
+        "id": "minecraft:water_bucket",
+        "count": 1.0,
+        "unit": "item",
+        "type": "solid",
+        "rate": 1.0
+      }
+    ]
+  },
+  {
+    "recipe_id": "thirst:terracotta_water_bowl_from_campfire_cooking_purified",
+    "mod_id": "thirst",
+    "recipe_type": "minecraft:campfire_cooking",
+    "inputs": [],
+    "outputs": [
+      {
+        "id": "thirst:terracotta_water_bowl",
+        "count": 1.0,
+        "unit": "item",
+        "type": "solid",
+        "rate": 1.0
+      }
+    ]
+  },
+  {
+    "recipe_id": "thirst:water_bottle_from_campfire_cooking_slightly_dirty",
+    "mod_id": "thirst",
+    "recipe_type": "minecraft:campfire_cooking",
+    "inputs": [],
+    "outputs": [
+      {
+        "id": "minecraft:potion",
+        "count": 1.0,
+        "unit": "item",
+        "type": "solid",
+        "rate": 1.0
+      }
+    ]
+  },
+  {
+    "recipe_id": "thirst:terracotta_water_bowl_from_smelting_purified",
+    "mod_id": "thirst",
+    "recipe_type": "minecraft:smelting",
+    "inputs": [],
+    "outputs": [
+      {
+        "id": "thirst:terracotta_water_bowl",
+        "count": 1.0,
+        "unit": "item",
+        "type": "solid",
+        "rate": 1.0
+      }
+    ]
+  },
+  {
+    "recipe_id": "thirst:terracotta_bowl_from_smelting",
+    "mod_id": "thirst",
+    "recipe_type": "minecraft:smelting",
+    "inputs": [
+      {
+        "id": "thirst:clay_bowl",
+        "count": 1.0,
+        "unit": "item",
+        "type": "solid",
+        "rate": 1.0
+      }
+    ],
+    "outputs": [
+      {
+        "id": "thirst:terracotta_bowl",
+        "count": 1.0,
+        "unit": "item",
+        "type": "solid",
+        "rate": 1.0
+      }
+    ]
+  },
+  {
+    "recipe_id": "thirst:water_bottle_from_campfire_cooking_acceptable",
+    "mod_id": "thirst",
+    "recipe_type": "minecraft:campfire_cooking",
+    "inputs": [],
+    "outputs": [
+      {
+        "id": "minecraft:potion",
+        "count": 1.0,
+        "unit": "item",
+        "type": "solid",
+        "rate": 1.0
+      }
+    ]
+  },
+  {
+    "recipe_id": "thirst:clay_bowl",
+    "mod_id": "thirst",
+    "recipe_type": "minecraft:crafting_shaped",
+    "inputs": [
+      {
+        "id": "minecraft:clay_ball",
+        "count": 3.0,
+        "unit": "item",
+        "type": "solid",
+        "rate": 1.0
+      }
+    ],
+    "outputs": [
+      {
+        "id": "thirst:clay_bowl",
+        "count": 4.0,
+        "unit": "item",
+        "type": "solid",
+        "rate": 1.0
+      }
+    ]
+  },
+  {
+    "recipe_id": "thirst:terracotta_bowl_from_campfire_cooking",
+    "mod_id": "thirst",
+    "recipe_type": "minecraft:campfire_cooking",
+    "inputs": [
+      {
+        "id": "thirst:clay_bowl",
+        "count": 1.0,
+        "unit": "item",
+        "type": "solid",
+        "rate": 1.0
+      }
+    ],
+    "outputs": [
+      {
+        "id": "thirst:terracotta_bowl",
+        "count": 1.0,
+        "unit": "item",
+        "type": "solid",
+        "rate": 1.0
+      }
+    ]
+  },
+  {
+    "recipe_id": "thirst:water_bucket_from_campfire_cooking_slight_dirty",
+    "mod_id": "thirst",
+    "recipe_type": "minecraft:campfire_cooking",
+    "inputs": [],
+    "outputs": [
+      {
+        "id": "minecraft:water_bucket",
+        "count": 1.0,
+        "unit": "item",
+        "type": "solid",
+        "rate": 1.0
+      }
+    ]
+  },
+  {
+    "recipe_id": "thirst:water_bottle_from_campfire_cooking_purified",
+    "mod_id": "thirst",
+    "recipe_type": "minecraft:campfire_cooking",
+    "inputs": [],
+    "outputs": [
+      {
+        "id": "minecraft:potion",
+        "count": 1.0,
+        "unit": "item",
+        "type": "solid",
+        "rate": 1.0
+      }
+    ]
+  },
+  {
+    "recipe_id": "thirst:water_bottle_from_smelting_purified",
+    "mod_id": "thirst",
+    "recipe_type": "minecraft:smelting",
+    "inputs": [],
+    "outputs": [
+      {
+        "id": "minecraft:potion",
+        "count": 1.0,
+        "unit": "item",
+        "type": "solid",
+        "rate": 1.0
+      }
+    ]
+  },
+  {
+    "recipe_id": "thirst:water_bucket_from_smelting_purfied",
+    "mod_id": "thirst",
+    "recipe_type": "minecraft:smelting",
+    "inputs": [],
+    "outputs": [
+      {
+        "id": "minecraft:water_bucket",
+        "count": 1.0,
+        "unit": "item",
+        "type": "solid",
+        "rate": 1.0
+      }
+    ]
+  },
+  {
+    "recipe_id": "thirst:water_bucket_from_campfire_purified",
+    "mod_id": "thirst",
+    "recipe_type": "minecraft:campfire_cooking",
+    "inputs": [],
+    "outputs": [
+      {
+        "id": "minecraft:water_bucket",
+        "count": 1.0,
+        "unit": "item",
+        "type": "solid",
+        "rate": 1.0
+      }
+    ]
+  },
+  {
+    "recipe_id": "thirst:terracotta_water_bowl_from_campfire_cooking_acceptable",
+    "mod_id": "thirst",
+    "recipe_type": "minecraft:campfire_cooking",
+    "inputs": [],
+    "outputs": [
+      {
+        "id": "thirst:terracotta_water_bowl",
+        "count": 1.0,
+        "unit": "item",
+        "type": "solid",
+        "rate": 1.0
+      }
+    ]
+  },
+  {
+    "recipe_id": "thirst:compat/create/sand_filter",
+    "mod_id": "thirst",
+    "recipe_type": "minecraft:crafting_shaped",
+    "inputs": [
+      {
+        "id": "minecraft:sand",
+        "count": 1.0,
+        "unit": "item",
+        "type": "solid",
+        "rate": 1.0
+      },
+      {
+        "id": "create:nozzle",
+        "count": 1.0,
+        "unit": "item",
+        "type": "solid",
+        "rate": 1.0
+      },
+      {
+        "id": "create:fluid_tank",
+        "count": 1.0,
+        "unit": "item",
+        "type": "solid",
+        "rate": 1.0
+      }
+    ],
+    "outputs": [
+      {
+        "id": "thirst:sand_filter",
+        "count": 1.0,
+        "unit": "item",
+        "type": "solid",
+        "rate": 1.0
+      }
+    ]
+  },
+  {
+    "recipe_id": "thirst:terracotta_water_bowl_from_smelting_acceptable",
+    "mod_id": "thirst",
+    "recipe_type": "minecraft:smelting",
+    "inputs": [],
+    "outputs": [
+      {
+        "id": "thirst:terracotta_water_bowl",
+        "count": 1.0,
+        "unit": "item",
+        "type": "solid",
+        "rate": 1.0
+      }
+    ]
+  },
+  {
+    "recipe_id": "thirst:water_bottle_from_smelting_acceptable",
+    "mod_id": "thirst",
+    "recipe_type": "minecraft:smelting",
+    "inputs": [],
+    "outputs": [
+      {
+        "id": "minecraft:potion",
+        "count": 1.0,
+        "unit": "item",
+        "type": "solid",
+        "rate": 1.0
+      }
+    ]
+  },
+  {
+    "recipe_id": "thirst:water_bucket_from_campfire_cooking_acceptable",
+    "mod_id": "thirst",
+    "recipe_type": "minecraft:campfire_cooking",
+    "inputs": [],
+    "outputs": [
+      {
+        "id": "minecraft:water_bucket",
+        "count": 1.0,
+        "unit": "item",
+        "type": "solid",
+        "rate": 1.0
+      }
+    ]
+  },
+  {
+    "recipe_id": "thirst:terracotta_water_bowl_from_campfire_cooking_slightly_dirty",
+    "mod_id": "thirst",
+    "recipe_type": "minecraft:campfire_cooking",
+    "inputs": [],
+    "outputs": [
+      {
+        "id": "thirst:terracotta_water_bowl",
+        "count": 1.0,
+        "unit": "item",
+        "type": "solid",
+        "rate": 1.0
+      }
+    ]
+  },
+  {
+    "recipe_id": "thirst:water_bucket_from_smelting_acceptable",
+    "mod_id": "thirst",
+    "recipe_type": "minecraft:smelting",
+    "inputs": [],
+    "outputs": [
+      {
+        "id": "minecraft:water_bucket",
+        "count": 1.0,
+        "unit": "item",
+        "type": "solid",
+        "rate": 1.0
+      }
+    ]
+  },
+  {
+    "recipe_id": "thirst:terracotta_water_bowl_from_campfire_cooking_purified",
+    "mod_id": "thirst",
+    "recipe_type": "minecraft:campfire_cooking",
+    "inputs": [],
+    "outputs": [
+      {
+        "id": "thirst:terracotta_water_bowl",
+        "count": 1.0,
+        "unit": "item",
+        "type": "solid",
+        "rate": 1.0
+      }
+    ]
+  },
+  {
+    "recipe_id": "thirst:water_bottle_from_campfire_cooking_slightly_dirty",
+    "mod_id": "thirst",
+    "recipe_type": "minecraft:campfire_cooking",
+    "inputs": [],
+    "outputs": [
+      {
+        "id": "minecraft:potion",
+        "count": 1.0,
+        "unit": "item",
+        "type": "solid",
+        "rate": 1.0
+      }
+    ]
+  },
+  {
+    "recipe_id": "thirst:terracotta_water_bowl_from_smelting_purified",
+    "mod_id": "thirst",
+    "recipe_type": "minecraft:smelting",
+    "inputs": [],
+    "outputs": [
+      {
+        "id": "thirst:terracotta_water_bowl",
+        "count": 1.0,
+        "unit": "item",
+        "type": "solid",
+        "rate": 1.0
+      }
+    ]
+  },
+  {
+    "recipe_id": "thirst:terracotta_bowl_from_smelting",
+    "mod_id": "thirst",
+    "recipe_type": "minecraft:smelting",
+    "inputs": [
+      {
+        "id": "thirst:clay_bowl",
+        "count": 1.0,
+        "unit": "item",
+        "type": "solid",
+        "rate": 1.0
+      }
+    ],
+    "outputs": [
+      {
+        "id": "thirst:terracotta_bowl",
+        "count": 1.0,
+        "unit": "item",
+        "type": "solid",
+        "rate": 1.0
+      }
+    ]
+  },
+  {
+    "recipe_id": "thirst:water_bottle_from_campfire_cooking_acceptable",
+    "mod_id": "thirst",
+    "recipe_type": "minecraft:campfire_cooking",
+    "inputs": [],
+    "outputs": [
+      {
+        "id": "minecraft:potion",
+        "count": 1.0,
+        "unit": "item",
+        "type": "solid",
+        "rate": 1.0
+      }
+    ]
+  },
+  {
+    "recipe_id": "thirst:clay_bowl",
+    "mod_id": "thirst",
+    "recipe_type": "minecraft:crafting_shaped",
+    "inputs": [
+      {
+        "id": "minecraft:clay_ball",
+        "count": 3.0,
+        "unit": "item",
+        "type": "solid",
+        "rate": 1.0
+      }
+    ],
+    "outputs": [
+      {
+        "id": "thirst:clay_bowl",
+        "count": 4.0,
+        "unit": "item",
+        "type": "solid",
+        "rate": 1.0
+      }
+    ]
+  },
+  {
+    "recipe_id": "thirst:terracotta_bowl_from_campfire_cooking",
+    "mod_id": "thirst",
+    "recipe_type": "minecraft:campfire_cooking",
+    "inputs": [
+      {
+        "id": "thirst:clay_bowl",
+        "count": 1.0,
+        "unit": "item",
+        "type": "solid",
+        "rate": 1.0
+      }
+    ],
+    "outputs": [
+      {
+        "id": "thirst:terracotta_bowl",
+        "count": 1.0,
+        "unit": "item",
+        "type": "solid",
+        "rate": 1.0
+      }
+    ]
+  },
+  {
+    "recipe_id": "thirst:water_bucket_from_campfire_cooking_slight_dirty",
+    "mod_id": "thirst",
+    "recipe_type": "minecraft:campfire_cooking",
+    "inputs": [],
+    "outputs": [
+      {
+        "id": "minecraft:water_bucket",
+        "count": 1.0,
+        "unit": "item",
+        "type": "solid",
+        "rate": 1.0
+      }
+    ]
+  },
+  {
+    "recipe_id": "thirst:water_bottle_from_campfire_cooking_purified",
+    "mod_id": "thirst",
+    "recipe_type": "minecraft:campfire_cooking",
+    "inputs": [],
+    "outputs": [
+      {
+        "id": "minecraft:potion",
+        "count": 1.0,
+        "unit": "item",
+        "type": "solid",
+        "rate": 1.0
+      }
+    ]
+  },
+  {
+    "recipe_id": "thirst:water_bottle_from_smelting_purified",
+    "mod_id": "thirst",
+    "recipe_type": "minecraft:smelting",
+    "inputs": [],
+    "outputs": [
+      {
+        "id": "minecraft:potion",
+        "count": 1.0,
+        "unit": "item",
+        "type": "solid",
+        "rate": 1.0
+      }
+    ]
+  },
+  {
+    "recipe_id": "thirst:water_bucket_from_smelting_purfied",
+    "mod_id": "thirst",
+    "recipe_type": "minecraft:smelting",
+    "inputs": [],
+    "outputs": [
+      {
+        "id": "minecraft:water_bucket",
+        "count": 1.0,
+        "unit": "item",
+        "type": "solid",
+        "rate": 1.0
+      }
+    ]
+  },
+  {
+    "recipe_id": "thirst:water_bucket_from_campfire_purified",
+    "mod_id": "thirst",
+    "recipe_type": "minecraft:campfire_cooking",
+    "inputs": [],
+    "outputs": [
+      {
+        "id": "minecraft:water_bucket",
+        "count": 1.0,
+        "unit": "item",
+        "type": "solid",
+        "rate": 1.0
+      }
+    ]
+  },
+  {
+    "recipe_id": "thirst:terracotta_water_bowl_from_campfire_cooking_acceptable",
+    "mod_id": "thirst",
+    "recipe_type": "minecraft:campfire_cooking",
+    "inputs": [],
+    "outputs": [
+      {
+        "id": "thirst:terracotta_water_bowl",
+        "count": 1.0,
+        "unit": "item",
+        "type": "solid",
+        "rate": 1.0
+      }
+    ]
+  },
+  {
+    "recipe_id": "thirst:compat/create/sand_filter",
+    "mod_id": "thirst",
+    "recipe_type": "minecraft:crafting_shaped",
+    "inputs": [
+      {
+        "id": "minecraft:sand",
+        "count": 1.0,
+        "unit": "item",
+        "type": "solid",
+        "rate": 1.0
+      },
+      {
+        "id": "create:nozzle",
+        "count": 1.0,
+        "unit": "item",
+        "type": "solid",
+        "rate": 1.0
+      },
+      {
+        "id": "create:fluid_tank",
+        "count": 1.0,
+        "unit": "item",
+        "type": "solid",
+        "rate": 1.0
+      }
+    ],
+    "outputs": [
+      {
+        "id": "thirst:sand_filter",
+        "count": 1.0,
+        "unit": "item",
+        "type": "solid",
+        "rate": 1.0
+      }
+    ]
+  },
+  {
+    "recipe_id": "thirst:terracotta_water_bowl_from_smelting_acceptable",
+    "mod_id": "thirst",
+    "recipe_type": "minecraft:smelting",
+    "inputs": [],
+    "outputs": [
+      {
+        "id": "thirst:terracotta_water_bowl",
+        "count": 1.0,
+        "unit": "item",
+        "type": "solid",
+        "rate": 1.0
+      }
+    ]
+  },
+  {
+    "recipe_id": "thirst:water_bottle_from_smelting_acceptable",
+    "mod_id": "thirst",
+    "recipe_type": "minecraft:smelting",
+    "inputs": [],
+    "outputs": [
+      {
+        "id": "minecraft:potion",
+        "count": 1.0,
+        "unit": "item",
+        "type": "solid",
+        "rate": 1.0
+      }
+    ]
+  },
+  {
+    "recipe_id": "thirst:water_bucket_from_campfire_cooking_acceptable",
+    "mod_id": "thirst",
+    "recipe_type": "minecraft:campfire_cooking",
+    "inputs": [],
+    "outputs": [
+      {
+        "id": "minecraft:water_bucket",
+        "count": 1.0,
+        "unit": "item",
+        "type": "solid",
+        "rate": 1.0
+      }
+    ]
+  },
+  {
+    "recipe_id": "thirst:terracotta_water_bowl_from_campfire_cooking_slightly_dirty",
+    "mod_id": "thirst",
+    "recipe_type": "minecraft:campfire_cooking",
+    "inputs": [],
+    "outputs": [
+      {
+        "id": "thirst:terracotta_water_bowl",
+        "count": 1.0,
+        "unit": "item",
+        "type": "solid",
+        "rate": 1.0
+      }
+    ]
+  },
+  {
+    "recipe_id": "thirst:water_bucket_from_smelting_acceptable",
+    "mod_id": "thirst",
+    "recipe_type": "minecraft:smelting",
+    "inputs": [],
+    "outputs": [
+      {
+        "id": "minecraft:water_bucket",
+        "count": 1.0,
+        "unit": "item",
+        "type": "solid",
+        "rate": 1.0
+      }
+    ]
+  },
+  {
+    "recipe_id": "thirst:terracotta_water_bowl_from_campfire_cooking_purified",
+    "mod_id": "thirst",
+    "recipe_type": "minecraft:campfire_cooking",
+    "inputs": [],
+    "outputs": [
+      {
+        "id": "thirst:terracotta_water_bowl",
+        "count": 1.0,
+        "unit": "item",
+        "type": "solid",
+        "rate": 1.0
+      }
+    ]
+  },
+  {
+    "recipe_id": "thirst:water_bottle_from_campfire_cooking_slightly_dirty",
+    "mod_id": "thirst",
+    "recipe_type": "minecraft:campfire_cooking",
+    "inputs": [],
+    "outputs": [
+      {
+        "id": "minecraft:potion",
+        "count": 1.0,
+        "unit": "item",
+        "type": "solid",
+        "rate": 1.0
+      }
+    ]
+  },
+  {
+    "recipe_id": "thirst:terracotta_water_bowl_from_smelting_purified",
+    "mod_id": "thirst",
+    "recipe_type": "minecraft:smelting",
+    "inputs": [],
+    "outputs": [
+      {
+        "id": "thirst:terracotta_water_bowl",
+        "count": 1.0,
+        "unit": "item",
+        "type": "solid",
+        "rate": 1.0
+      }
+    ]
+  },
+  {
+    "recipe_id": "thirst:terracotta_bowl_from_smelting",
+    "mod_id": "thirst",
+    "recipe_type": "minecraft:smelting",
+    "inputs": [
+      {
+        "id": "thirst:clay_bowl",
+        "count": 1.0,
+        "unit": "item",
+        "type": "solid",
+        "rate": 1.0
+      }
+    ],
+    "outputs": [
+      {
+        "id": "thirst:terracotta_bowl",
+        "count": 1.0,
+        "unit": "item",
+        "type": "solid",
+        "rate": 1.0
+      }
+    ]
+  },
+  {
+    "recipe_id": "thirst:water_bottle_from_campfire_cooking_acceptable",
+    "mod_id": "thirst",
+    "recipe_type": "minecraft:campfire_cooking",
+    "inputs": [],
+    "outputs": [
+      {
+        "id": "minecraft:potion",
+        "count": 1.0,
+        "unit": "item",
+        "type": "solid",
+        "rate": 1.0
+      }
+    ]
+  },
+  {
+    "recipe_id": "thirst:clay_bowl",
+    "mod_id": "thirst",
+    "recipe_type": "minecraft:crafting_shaped",
+    "inputs": [
+      {
+        "id": "minecraft:clay_ball",
+        "count": 3.0,
+        "unit": "item",
+        "type": "solid",
+        "rate": 1.0
+      }
+    ],
+    "outputs": [
+      {
+        "id": "thirst:clay_bowl",
+        "count": 4.0,
+        "unit": "item",
+        "type": "solid",
+        "rate": 1.0
+      }
+    ]
+  },
+  {
+    "recipe_id": "thirst:terracotta_bowl_from_campfire_cooking",
+    "mod_id": "thirst",
+    "recipe_type": "minecraft:campfire_cooking",
+    "inputs": [
+      {
+        "id": "thirst:clay_bowl",
+        "count": 1.0,
+        "unit": "item",
+        "type": "solid",
+        "rate": 1.0
+      }
+    ],
+    "outputs": [
+      {
+        "id": "thirst:terracotta_bowl",
+        "count": 1.0,
+        "unit": "item",
+        "type": "solid",
+        "rate": 1.0
+      }
+    ]
+  },
+  {
+    "recipe_id": "thirst:water_bucket_from_campfire_cooking_slight_dirty",
+    "mod_id": "thirst",
+    "recipe_type": "minecraft:campfire_cooking",
+    "inputs": [],
+    "outputs": [
+      {
+        "id": "minecraft:water_bucket",
+        "count": 1.0,
+        "unit": "item",
+        "type": "solid",
+        "rate": 1.0
+      }
+    ]
+  },
+  {
+    "recipe_id": "thirst:water_bottle_from_campfire_cooking_purified",
+    "mod_id": "thirst",
+    "recipe_type": "minecraft:campfire_cooking",
+    "inputs": [],
+    "outputs": [
+      {
+        "id": "minecraft:potion",
+        "count": 1.0,
+        "unit": "item",
+        "type": "solid",
+        "rate": 1.0
+      }
+    ]
+  },
+  {
+    "recipe_id": "thirst:water_bottle_from_smelting_purified",
+    "mod_id": "thirst",
+    "recipe_type": "minecraft:smelting",
+    "inputs": [],
+    "outputs": [
+      {
+        "id": "minecraft:potion",
+        "count": 1.0,
+        "unit": "item",
+        "type": "solid",
+        "rate": 1.0
+      }
+    ]
+  },
+  {
+    "recipe_id": "thirst:water_bucket_from_smelting_purfied",
+    "mod_id": "thirst",
+    "recipe_type": "minecraft:smelting",
+    "inputs": [],
+    "outputs": [
+      {
+        "id": "minecraft:water_bucket",
+        "count": 1.0,
+        "unit": "item",
+        "type": "solid",
+        "rate": 1.0
+      }
+    ]
+  },
+  {
+    "recipe_id": "thirst:water_bucket_from_campfire_purified",
+    "mod_id": "thirst",
+    "recipe_type": "minecraft:campfire_cooking",
+    "inputs": [],
+    "outputs": [
+      {
+        "id": "minecraft:water_bucket",
+        "count": 1.0,
+        "unit": "item",
+        "type": "solid",
+        "rate": 1.0
+      }
+    ]
+  },
+  {
+    "recipe_id": "thirst:terracotta_water_bowl_from_campfire_cooking_acceptable",
+    "mod_id": "thirst",
+    "recipe_type": "minecraft:campfire_cooking",
+    "inputs": [],
+    "outputs": [
+      {
+        "id": "thirst:terracotta_water_bowl",
+        "count": 1.0,
+        "unit": "item",
+        "type": "solid",
+        "rate": 1.0
+      }
+    ]
+  },
+  {
+    "recipe_id": "thirst:compat/create/sand_filter",
+    "mod_id": "thirst",
+    "recipe_type": "minecraft:crafting_shaped",
+    "inputs": [
+      {
+        "id": "minecraft:sand",
+        "count": 1.0,
+        "unit": "item",
+        "type": "solid",
+        "rate": 1.0
+      },
+      {
+        "id": "create:nozzle",
+        "count": 1.0,
+        "unit": "item",
+        "type": "solid",
+        "rate": 1.0
+      },
+      {
+        "id": "create:fluid_tank",
+        "count": 1.0,
+        "unit": "item",
+        "type": "solid",
+        "rate": 1.0
+      }
+    ],
+    "outputs": [
+      {
+        "id": "thirst:sand_filter",
+        "count": 1.0,
+        "unit": "item",
+        "type": "solid",
+        "rate": 1.0
+      }
+    ]
+  },
+  {
+    "recipe_id": "thirst:terracotta_water_bowl_from_smelting_acceptable",
+    "mod_id": "thirst",
+    "recipe_type": "minecraft:smelting",
+    "inputs": [],
+    "outputs": [
+      {
+        "id": "thirst:terracotta_water_bowl",
+        "count": 1.0,
+        "unit": "item",
+        "type": "solid",
+        "rate": 1.0
+      }
+    ]
+  },
+  {
+    "recipe_id": "thirst:water_bottle_from_smelting_acceptable",
+    "mod_id": "thirst",
+    "recipe_type": "minecraft:smelting",
+    "inputs": [],
+    "outputs": [
+      {
+        "id": "minecraft:potion",
+        "count": 1.0,
+        "unit": "item",
+        "type": "solid",
+        "rate": 1.0
+      }
+    ]
+  },
+  {
+    "recipe_id": "thirst:water_bucket_from_campfire_cooking_acceptable",
+    "mod_id": "thirst",
+    "recipe_type": "minecraft:campfire_cooking",
+    "inputs": [],
+    "outputs": [
+      {
+        "id": "minecraft:water_bucket",
+        "count": 1.0,
+        "unit": "item",
+        "type": "solid",
+        "rate": 1.0
+      }
+    ]
+  },
+  {
+    "recipe_id": "thirst:terracotta_water_bowl_from_campfire_cooking_slightly_dirty",
+    "mod_id": "thirst",
+    "recipe_type": "minecraft:campfire_cooking",
+    "inputs": [],
+    "outputs": [
+      {
+        "id": "thirst:terracotta_water_bowl",
+        "count": 1.0,
+        "unit": "item",
+        "type": "solid",
+        "rate": 1.0
+      }
+    ]
+  },
+  {
+    "recipe_id": "thirst:water_bucket_from_smelting_acceptable",
+    "mod_id": "thirst",
+    "recipe_type": "minecraft:smelting",
+    "inputs": [],
+    "outputs": [
+      {
+        "id": "minecraft:water_bucket",
+        "count": 1.0,
+        "unit": "item",
+        "type": "solid",
+        "rate": 1.0
+      }
+    ]
+  },
+  {
+    "recipe_id": "thirst:terracotta_water_bowl_from_campfire_cooking_purified",
+    "mod_id": "thirst",
+    "recipe_type": "minecraft:campfire_cooking",
+    "inputs": [],
+    "outputs": [
+      {
+        "id": "thirst:terracotta_water_bowl",
+        "count": 1.0,
+        "unit": "item",
+        "type": "solid",
+        "rate": 1.0
+      }
+    ]
+  },
+  {
+    "recipe_id": "thirst:water_bottle_from_campfire_cooking_slightly_dirty",
+    "mod_id": "thirst",
+    "recipe_type": "minecraft:campfire_cooking",
+    "inputs": [],
+    "outputs": [
+      {
+        "id": "minecraft:potion",
+        "count": 1.0,
+        "unit": "item",
+        "type": "solid",
+        "rate": 1.0
+      }
+    ]
+  },
+  {
+    "recipe_id": "thirst:terracotta_water_bowl_from_smelting_purified",
+    "mod_id": "thirst",
+    "recipe_type": "minecraft:smelting",
+    "inputs": [],
+    "outputs": [
+      {
+        "id": "thirst:terracotta_water_bowl",
+        "count": 1.0,
+        "unit": "item",
+        "type": "solid",
+        "rate": 1.0
+      }
+    ]
+  },
+  {
+    "recipe_id": "thirst:terracotta_bowl_from_smelting",
+    "mod_id": "thirst",
+    "recipe_type": "minecraft:smelting",
+    "inputs": [
+      {
+        "id": "thirst:clay_bowl",
+        "count": 1.0,
+        "unit": "item",
+        "type": "solid",
+        "rate": 1.0
+      }
+    ],
+    "outputs": [
+      {
+        "id": "thirst:terracotta_bowl",
+        "count": 1.0,
+        "unit": "item",
+        "type": "solid",
+        "rate": 1.0
+      }
+    ]
+  },
+  {
+    "recipe_id": "thirst:water_bottle_from_campfire_cooking_acceptable",
+    "mod_id": "thirst",
+    "recipe_type": "minecraft:campfire_cooking",
+    "inputs": [],
+    "outputs": [
+      {
+        "id": "minecraft:potion",
+        "count": 1.0,
+        "unit": "item",
+        "type": "solid",
+        "rate": 1.0
+      }
+    ]
+  },
+  {
+    "recipe_id": "thirst:clay_bowl",
+    "mod_id": "thirst",
+    "recipe_type": "minecraft:crafting_shaped",
+    "inputs": [
+      {
+        "id": "minecraft:clay_ball",
+        "count": 3.0,
+        "unit": "item",
+        "type": "solid",
+        "rate": 1.0
+      }
+    ],
+    "outputs": [
+      {
+        "id": "thirst:clay_bowl",
+        "count": 4.0,
+        "unit": "item",
+        "type": "solid",
+        "rate": 1.0
+      }
+    ]
+  },
+  {
+    "recipe_id": "thirst:terracotta_bowl_from_campfire_cooking",
+    "mod_id": "thirst",
+    "recipe_type": "minecraft:campfire_cooking",
+    "inputs": [
+      {
+        "id": "thirst:clay_bowl",
+        "count": 1.0,
+        "unit": "item",
+        "type": "solid",
+        "rate": 1.0
+      }
+    ],
+    "outputs": [
+      {
+        "id": "thirst:terracotta_bowl",
+        "count": 1.0,
+        "unit": "item",
+        "type": "solid",
+        "rate": 1.0
+      }
+    ]
+  },
+  {
+    "recipe_id": "thirst:water_bucket_from_campfire_cooking_slight_dirty",
+    "mod_id": "thirst",
+    "recipe_type": "minecraft:campfire_cooking",
+    "inputs": [],
+    "outputs": [
+      {
+        "id": "minecraft:water_bucket",
+        "count": 1.0,
+        "unit": "item",
+        "type": "solid",
+        "rate": 1.0
+      }
+    ]
+  },
+  {
+    "recipe_id": "thirst:water_bottle_from_campfire_cooking_purified",
+    "mod_id": "thirst",
+    "recipe_type": "minecraft:campfire_cooking",
+    "inputs": [],
+    "outputs": [
+      {
+        "id": "minecraft:potion",
+        "count": 1.0,
+        "unit": "item",
+        "type": "solid",
+        "rate": 1.0
+      }
+    ]
+  },
+  {
+    "recipe_id": "thirst:water_bottle_from_smelting_purified",
+    "mod_id": "thirst",
+    "recipe_type": "minecraft:smelting",
+    "inputs": [],
+    "outputs": [
+      {
+        "id": "minecraft:potion",
+        "count": 1.0,
+        "unit": "item",
+        "type": "solid",
+        "rate": 1.0
+      }
+    ]
+  },
+  {
+    "recipe_id": "thirst:water_bucket_from_smelting_purfied",
+    "mod_id": "thirst",
+    "recipe_type": "minecraft:smelting",
+    "inputs": [],
+    "outputs": [
+      {
+        "id": "minecraft:water_bucket",
+        "count": 1.0,
+        "unit": "item",
+        "type": "solid",
+        "rate": 1.0
+      }
+    ]
+  },
+  {
+    "recipe_id": "thirst:water_bucket_from_campfire_purified",
+    "mod_id": "thirst",
+    "recipe_type": "minecraft:campfire_cooking",
+    "inputs": [],
+    "outputs": [
+      {
+        "id": "minecraft:water_bucket",
+        "count": 1.0,
+        "unit": "item",
+        "type": "solid",
+        "rate": 1.0
+      }
+    ]
+  },
+  {
+    "recipe_id": "thirst:terracotta_water_bowl_from_campfire_cooking_acceptable",
+    "mod_id": "thirst",
+    "recipe_type": "minecraft:campfire_cooking",
+    "inputs": [],
+    "outputs": [
+      {
+        "id": "thirst:terracotta_water_bowl",
+        "count": 1.0,
+        "unit": "item",
+        "type": "solid",
+        "rate": 1.0
+      }
+    ]
+  },
+  {
+    "recipe_id": "thirst:compat/create/sand_filter",
+    "mod_id": "thirst",
+    "recipe_type": "minecraft:crafting_shaped",
+    "inputs": [
+      {
+        "id": "minecraft:sand",
+        "count": 1.0,
+        "unit": "item",
+        "type": "solid",
+        "rate": 1.0
+      },
+      {
+        "id": "create:nozzle",
+        "count": 1.0,
+        "unit": "item",
+        "type": "solid",
+        "rate": 1.0
+      },
+      {
+        "id": "create:fluid_tank",
+        "count": 1.0,
+        "unit": "item",
+        "type": "solid",
+        "rate": 1.0
+      }
+    ],
+    "outputs": [
+      {
+        "id": "thirst:sand_filter",
+        "count": 1.0,
+        "unit": "item",
+        "type": "solid",
+        "rate": 1.0
+      }
+    ]
+  },
+  {
+    "recipe_id": "thirst:terracotta_water_bowl_from_smelting_acceptable",
+    "mod_id": "thirst",
+    "recipe_type": "minecraft:smelting",
+    "inputs": [],
+    "outputs": [
+      {
+        "id": "thirst:terracotta_water_bowl",
+        "count": 1.0,
+        "unit": "item",
+        "type": "solid",
+        "rate": 1.0
+      }
+    ]
+  },
+  {
+    "recipe_id": "thirst:water_bottle_from_smelting_acceptable",
+    "mod_id": "thirst",
+    "recipe_type": "minecraft:smelting",
+    "inputs": [],
+    "outputs": [
+      {
+        "id": "minecraft:potion",
+        "count": 1.0,
+        "unit": "item",
+        "type": "solid",
+        "rate": 1.0
+      }
+    ]
+  },
+  {
+    "recipe_id": "thirst:water_bucket_from_campfire_cooking_acceptable",
+    "mod_id": "thirst",
+    "recipe_type": "minecraft:campfire_cooking",
+    "inputs": [],
+    "outputs": [
+      {
+        "id": "minecraft:water_bucket",
+        "count": 1.0,
+        "unit": "item",
+        "type": "solid",
+        "rate": 1.0
+      }
+    ]
+  },
+  {
+    "recipe_id": "thirst:terracotta_water_bowl_from_campfire_cooking_slightly_dirty",
+    "mod_id": "thirst",
+    "recipe_type": "minecraft:campfire_cooking",
+    "inputs": [],
+    "outputs": [
+      {
+        "id": "thirst:terracotta_water_bowl",
+        "count": 1.0,
+        "unit": "item",
+        "type": "solid",
+        "rate": 1.0
+      }
+    ]
+  },
+  {
+    "recipe_id": "thirst:water_bucket_from_smelting_acceptable",
+    "mod_id": "thirst",
+    "recipe_type": "minecraft:smelting",
+    "inputs": [],
+    "outputs": [
+      {
+        "id": "minecraft:water_bucket",
+        "count": 1.0,
+        "unit": "item",
+        "type": "solid",
+        "rate": 1.0
+      }
+    ]
+  },
+  {
+    "recipe_id": "thirst:terracotta_water_bowl_from_campfire_cooking_purified",
+    "mod_id": "thirst",
+    "recipe_type": "minecraft:campfire_cooking",
+    "inputs": [],
+    "outputs": [
+      {
+        "id": "thirst:terracotta_water_bowl",
+        "count": 1.0,
+        "unit": "item",
+        "type": "solid",
+        "rate": 1.0
+      }
+    ]
+  },
+  {
+    "recipe_id": "thirst:water_bottle_from_campfire_cooking_slightly_dirty",
+    "mod_id": "thirst",
+    "recipe_type": "minecraft:campfire_cooking",
+    "inputs": [],
+    "outputs": [
+      {
+        "id": "minecraft:potion",
+        "count": 1.0,
+        "unit": "item",
+        "type": "solid",
+        "rate": 1.0
+      }
+    ]
+  },
+  {
+    "recipe_id": "thirst:terracotta_water_bowl_from_smelting_purified",
+    "mod_id": "thirst",
+    "recipe_type": "minecraft:smelting",
+    "inputs": [],
+    "outputs": [
+      {
+        "id": "thirst:terracotta_water_bowl",
+        "count": 1.0,
+        "unit": "item",
+        "type": "solid",
+        "rate": 1.0
+      }
+    ]
+  },
+  {
+    "recipe_id": "thirst:terracotta_bowl_from_smelting",
+    "mod_id": "thirst",
+    "recipe_type": "minecraft:smelting",
+    "inputs": [
+      {
+        "id": "thirst:clay_bowl",
+        "count": 1.0,
+        "unit": "item",
+        "type": "solid",
+        "rate": 1.0
+      }
+    ],
+    "outputs": [
+      {
+        "id": "thirst:terracotta_bowl",
+        "count": 1.0,
+        "unit": "item",
+        "type": "solid",
+        "rate": 1.0
+      }
+    ]
+  },
+  {
+    "recipe_id": "thirst:water_bottle_from_campfire_cooking_acceptable",
+    "mod_id": "thirst",
+    "recipe_type": "minecraft:campfire_cooking",
+    "inputs": [],
+    "outputs": [
+      {
+        "id": "minecraft:potion",
+        "count": 1.0,
+        "unit": "item",
+        "type": "solid",
+        "rate": 1.0
+      }
+    ]
+  },
+  {
+    "recipe_id": "thirst:clay_bowl",
+    "mod_id": "thirst",
+    "recipe_type": "minecraft:crafting_shaped",
+    "inputs": [
+      {
+        "id": "minecraft:clay_ball",
+        "count": 3.0,
+        "unit": "item",
+        "type": "solid",
+        "rate": 1.0
+      }
+    ],
+    "outputs": [
+      {
+        "id": "thirst:clay_bowl",
+        "count": 4.0,
+        "unit": "item",
+        "type": "solid",
+        "rate": 1.0
+      }
+    ]
+  },
+  {
+    "recipe_id": "thirst:terracotta_bowl_from_campfire_cooking",
+    "mod_id": "thirst",
+    "recipe_type": "minecraft:campfire_cooking",
+    "inputs": [
+      {
+        "id": "thirst:clay_bowl",
+        "count": 1.0,
+        "unit": "item",
+        "type": "solid",
+        "rate": 1.0
+      }
+    ],
+    "outputs": [
+      {
+        "id": "thirst:terracotta_bowl",
+        "count": 1.0,
+        "unit": "item",
+        "type": "solid",
+        "rate": 1.0
+      }
+    ]
+  },
+  {
+    "recipe_id": "thirst:water_bucket_from_campfire_cooking_slight_dirty",
+    "mod_id": "thirst",
+    "recipe_type": "minecraft:campfire_cooking",
+    "inputs": [],
+    "outputs": [
+      {
+        "id": "minecraft:water_bucket",
+        "count": 1.0,
+        "unit": "item",
+        "type": "solid",
+        "rate": 1.0
+      }
+    ]
+  },
+  {
+    "recipe_id": "thirst:water_bottle_from_campfire_cooking_purified",
+    "mod_id": "thirst",
+    "recipe_type": "minecraft:campfire_cooking",
+    "inputs": [],
+    "outputs": [
+      {
+        "id": "minecraft:potion",
+        "count": 1.0,
+        "unit": "item",
+        "type": "solid",
+        "rate": 1.0
+      }
+    ]
+  },
+  {
+    "recipe_id": "thirst:water_bottle_from_smelting_purified",
+    "mod_id": "thirst",
+    "recipe_type": "minecraft:smelting",
+    "inputs": [],
+    "outputs": [
+      {
+        "id": "minecraft:potion",
+        "count": 1.0,
+        "unit": "item",
+        "type": "solid",
+        "rate": 1.0
+      }
+    ]
+  },
+  {
+    "recipe_id": "thirst:water_bucket_from_smelting_purfied",
+    "mod_id": "thirst",
+    "recipe_type": "minecraft:smelting",
+    "inputs": [],
+    "outputs": [
+      {
+        "id": "minecraft:water_bucket",
+        "count": 1.0,
+        "unit": "item",
+        "type": "solid",
+        "rate": 1.0
+      }
+    ]
+  },
+  {
+    "recipe_id": "thirst:water_bucket_from_campfire_purified",
+    "mod_id": "thirst",
+    "recipe_type": "minecraft:campfire_cooking",
+    "inputs": [],
+    "outputs": [
+      {
+        "id": "minecraft:water_bucket",
+        "count": 1.0,
+        "unit": "item",
+        "type": "solid",
+        "rate": 1.0
+      }
+    ]
+  },
+  {
+    "recipe_id": "thirst:terracotta_water_bowl_from_campfire_cooking_acceptable",
+    "mod_id": "thirst",
+    "recipe_type": "minecraft:campfire_cooking",
+    "inputs": [],
+    "outputs": [
+      {
+        "id": "thirst:terracotta_water_bowl",
+        "count": 1.0,
+        "unit": "item",
+        "type": "solid",
+        "rate": 1.0
+      }
+    ]
+  },
+  {
+    "recipe_id": "thirst:compat/create/sand_filter",
+    "mod_id": "thirst",
+    "recipe_type": "minecraft:crafting_shaped",
+    "inputs": [
+      {
+        "id": "minecraft:sand",
+        "count": 1.0,
+        "unit": "item",
+        "type": "solid",
+        "rate": 1.0
+      },
+      {
+        "id": "create:nozzle",
+        "count": 1.0,
+        "unit": "item",
+        "type": "solid",
+        "rate": 1.0
+      },
+      {
+        "id": "create:fluid_tank",
+        "count": 1.0,
+        "unit": "item",
+        "type": "solid",
+        "rate": 1.0
+      }
+    ],
+    "outputs": [
+      {
+        "id": "thirst:sand_filter",
+        "count": 1.0,
+        "unit": "item",
+        "type": "solid",
+        "rate": 1.0
+      }
+    ]
+  },
+  {
+    "recipe_id": "thirst:terracotta_water_bowl_from_smelting_acceptable",
+    "mod_id": "thirst",
+    "recipe_type": "minecraft:smelting",
+    "inputs": [],
+    "outputs": [
+      {
+        "id": "thirst:terracotta_water_bowl",
+        "count": 1.0,
+        "unit": "item",
+        "type": "solid",
+        "rate": 1.0
+      }
+    ]
+  },
+  {
+    "recipe_id": "thirst:water_bottle_from_smelting_acceptable",
+    "mod_id": "thirst",
+    "recipe_type": "minecraft:smelting",
+    "inputs": [],
+    "outputs": [
+      {
+        "id": "minecraft:potion",
+        "count": 1.0,
+        "unit": "item",
+        "type": "solid",
+        "rate": 1.0
+      }
+    ]
+  },
+  {
+    "recipe_id": "thirst:water_bucket_from_campfire_cooking_acceptable",
+    "mod_id": "thirst",
+    "recipe_type": "minecraft:campfire_cooking",
+    "inputs": [],
+    "outputs": [
+      {
+        "id": "minecraft:water_bucket",
+        "count": 1.0,
+        "unit": "item",
+        "type": "solid",
+        "rate": 1.0
+      }
+    ]
+  },
+  {
+    "recipe_id": "thirst:terracotta_water_bowl_from_campfire_cooking_slightly_dirty",
+    "mod_id": "thirst",
+    "recipe_type": "minecraft:campfire_cooking",
+    "inputs": [],
+    "outputs": [
+      {
+        "id": "thirst:terracotta_water_bowl",
+        "count": 1.0,
+        "unit": "item",
+        "type": "solid",
+        "rate": 1.0
+      }
+    ]
+  },
+  {
+    "recipe_id": "thirst:water_bucket_from_smelting_acceptable",
+    "mod_id": "thirst",
+    "recipe_type": "minecraft:smelting",
+    "inputs": [],
+    "outputs": [
+      {
+        "id": "minecraft:water_bucket",
+        "count": 1.0,
+        "unit": "item",
+        "type": "solid",
+        "rate": 1.0
+      }
+    ]
+  },
+  {
+    "recipe_id": "thirst:terracotta_water_bowl_from_campfire_cooking_purified",
+    "mod_id": "thirst",
+    "recipe_type": "minecraft:campfire_cooking",
+    "inputs": [],
+    "outputs": [
+      {
+        "id": "thirst:terracotta_water_bowl",
+        "count": 1.0,
+        "unit": "item",
+        "type": "solid",
+        "rate": 1.0
+      }
+    ]
+  },
+  {
+    "recipe_id": "thirst:water_bottle_from_campfire_cooking_slightly_dirty",
+    "mod_id": "thirst",
+    "recipe_type": "minecraft:campfire_cooking",
+    "inputs": [],
+    "outputs": [
+      {
+        "id": "minecraft:potion",
+        "count": 1.0,
+        "unit": "item",
+        "type": "solid",
+        "rate": 1.0
+      }
+    ]
+  },
+  {
+    "recipe_id": "thirst:terracotta_water_bowl_from_smelting_purified",
+    "mod_id": "thirst",
+    "recipe_type": "minecraft:smelting",
+    "inputs": [],
+    "outputs": [
+      {
+        "id": "thirst:terracotta_water_bowl",
+        "count": 1.0,
+        "unit": "item",
+        "type": "solid",
+        "rate": 1.0
+      }
+    ]
+  },
+  {
+    "recipe_id": "thirst:terracotta_bowl_from_smelting",
+    "mod_id": "thirst",
+    "recipe_type": "minecraft:smelting",
+    "inputs": [
+      {
+        "id": "thirst:clay_bowl",
+        "count": 1.0,
+        "unit": "item",
+        "type": "solid",
+        "rate": 1.0
+      }
+    ],
+    "outputs": [
+      {
+        "id": "thirst:terracotta_bowl",
+        "count": 1.0,
+        "unit": "item",
+        "type": "solid",
+        "rate": 1.0
+      }
+    ]
+  },
+  {
+    "recipe_id": "thirst:water_bottle_from_campfire_cooking_acceptable",
+    "mod_id": "thirst",
+    "recipe_type": "minecraft:campfire_cooking",
+    "inputs": [],
+    "outputs": [
+      {
+        "id": "minecraft:potion",
+        "count": 1.0,
+        "unit": "item",
+        "type": "solid",
+        "rate": 1.0
+      }
+    ]
+  },
+  {
+    "recipe_id": "thirst:clay_bowl",
+    "mod_id": "thirst",
+    "recipe_type": "minecraft:crafting_shaped",
+    "inputs": [
+      {
+        "id": "minecraft:clay_ball",
+        "count": 3.0,
+        "unit": "item",
+        "type": "solid",
+        "rate": 1.0
+      }
+    ],
+    "outputs": [
+      {
+        "id": "thirst:clay_bowl",
+        "count": 4.0,
+        "unit": "item",
+        "type": "solid",
+        "rate": 1.0
+      }
+    ]
+  },
+  {
+    "recipe_id": "thirst:terracotta_bowl_from_campfire_cooking",
+    "mod_id": "thirst",
+    "recipe_type": "minecraft:campfire_cooking",
+    "inputs": [
+      {
+        "id": "thirst:clay_bowl",
+        "count": 1.0,
+        "unit": "item",
+        "type": "solid",
+        "rate": 1.0
+      }
+    ],
+    "outputs": [
+      {
+        "id": "thirst:terracotta_bowl",
+        "count": 1.0,
+        "unit": "item",
+        "type": "solid",
+        "rate": 1.0
+      }
+    ]
+  },
+  {
+    "recipe_id": "thirst:water_bucket_from_campfire_cooking_slight_dirty",
+    "mod_id": "thirst",
+    "recipe_type": "minecraft:campfire_cooking",
+    "inputs": [],
+    "outputs": [
+      {
+        "id": "minecraft:water_bucket",
+        "count": 1.0,
+        "unit": "item",
+        "type": "solid",
+        "rate": 1.0
+      }
+    ]
+  },
+  {
+    "recipe_id": "thirst:water_bottle_from_campfire_cooking_purified",
+    "mod_id": "thirst",
+    "recipe_type": "minecraft:campfire_cooking",
+    "inputs": [],
+    "outputs": [
+      {
+        "id": "minecraft:potion",
+        "count": 1.0,
+        "unit": "item",
+        "type": "solid",
+        "rate": 1.0
+      }
+    ]
+  },
+  {
+    "recipe_id": "thirst:water_bottle_from_smelting_purified",
+    "mod_id": "thirst",
+    "recipe_type": "minecraft:smelting",
+    "inputs": [],
+    "outputs": [
+      {
+        "id": "minecraft:potion",
+        "count": 1.0,
+        "unit": "item",
+        "type": "solid",
+        "rate": 1.0
+      }
+    ]
+  },
+  {
+    "recipe_id": "thirst:water_bucket_from_smelting_purfied",
+    "mod_id": "thirst",
+    "recipe_type": "minecraft:smelting",
+    "inputs": [],
+    "outputs": [
+      {
+        "id": "minecraft:water_bucket",
+        "count": 1.0,
+        "unit": "item",
+        "type": "solid",
+        "rate": 1.0
+      }
+    ]
+  },
+  {
+    "recipe_id": "thirst:water_bucket_from_campfire_purified",
+    "mod_id": "thirst",
+    "recipe_type": "minecraft:campfire_cooking",
+    "inputs": [],
+    "outputs": [
+      {
+        "id": "minecraft:water_bucket",
+        "count": 1.0,
+        "unit": "item",
+        "type": "solid",
+        "rate": 1.0
+      }
+    ]
+  },
+  {
+    "recipe_id": "thirst:terracotta_water_bowl_from_campfire_cooking_acceptable",
+    "mod_id": "thirst",
+    "recipe_type": "minecraft:campfire_cooking",
+    "inputs": [],
+    "outputs": [
+      {
+        "id": "thirst:terracotta_water_bowl",
+        "count": 1.0,
+        "unit": "item",
+        "type": "solid",
+        "rate": 1.0
+      }
+    ]
+  },
+  {
+    "recipe_id": "thirst:compat/create/sand_filter",
+    "mod_id": "thirst",
+    "recipe_type": "minecraft:crafting_shaped",
+    "inputs": [
+      {
+        "id": "minecraft:sand",
+        "count": 1.0,
+        "unit": "item",
+        "type": "solid",
+        "rate": 1.0
+      },
+      {
+        "id": "create:nozzle",
+        "count": 1.0,
+        "unit": "item",
+        "type": "solid",
+        "rate": 1.0
+      },
+      {
+        "id": "create:fluid_tank",
+        "count": 1.0,
+        "unit": "item",
+        "type": "solid",
+        "rate": 1.0
+      }
+    ],
+    "outputs": [
+      {
+        "id": "thirst:sand_filter",
+        "count": 1.0,
+        "unit": "item",
+        "type": "solid",
+        "rate": 1.0
+      }
+    ]
+  },
+  {
+    "recipe_id": "thirst:terracotta_water_bowl_from_smelting_acceptable",
+    "mod_id": "thirst",
+    "recipe_type": "minecraft:smelting",
+    "inputs": [],
+    "outputs": [
+      {
+        "id": "thirst:terracotta_water_bowl",
+        "count": 1.0,
+        "unit": "item",
+        "type": "solid",
+        "rate": 1.0
+      }
+    ]
+  },
+  {
+    "recipe_id": "thirst:water_bottle_from_smelting_acceptable",
+    "mod_id": "thirst",
+    "recipe_type": "minecraft:smelting",
+    "inputs": [],
+    "outputs": [
+      {
+        "id": "minecraft:potion",
+        "count": 1.0,
+        "unit": "item",
+        "type": "solid",
+        "rate": 1.0
+      }
+    ]
+  },
+  {
+    "recipe_id": "thirst:terracotta_bowl_from_smelting",
+    "mod_id": "thirst",
+    "recipe_type": "minecraft:smelting",
+    "inputs": [
+      {
+        "id": "thirst:clay_bowl",
+        "count": 1.0,
+        "unit": "item",
+        "type": "solid",
+        "rate": 1.0
+      }
+    ],
+    "outputs": [
+      {
+        "id": "thirst:terracotta_bowl",
+        "count": 1.0,
+        "unit": "item",
+        "type": "solid",
+        "rate": 1.0
+      }
+    ]
+  },
+  {
+    "recipe_id": "thirst:water_bottle_from_campfire_cooking_acceptable",
+    "mod_id": "thirst",
+    "recipe_type": "minecraft:campfire_cooking",
+    "inputs": [],
+    "outputs": [
+      {
+        "id": "minecraft:potion",
+        "count": 1.0,
+        "unit": "item",
+        "type": "solid",
+        "rate": 1.0
+      }
+    ]
+  },
+  {
+    "recipe_id": "thirst:clay_bowl",
+    "mod_id": "thirst",
+    "recipe_type": "minecraft:crafting_shaped",
+    "inputs": [
+      {
+        "id": "minecraft:clay_ball",
+        "count": 3.0,
+        "unit": "item",
+        "type": "solid",
+        "rate": 1.0
+      }
+    ],
+    "outputs": [
+      {
+        "id": "thirst:clay_bowl",
+        "count": 4.0,
+        "unit": "item",
+        "type": "solid",
+        "rate": 1.0
+      }
+    ]
+  },
+  {
+    "recipe_id": "thirst:terracotta_bowl_from_smelting",
+    "mod_id": "thirst",
+    "recipe_type": "minecraft:smelting",
+    "inputs": [
+      {
+        "id": "thirst:clay_bowl",
+        "count": 1.0,
+        "unit": "item",
+        "type": "solid",
+        "rate": 1.0
+      }
+    ],
+    "outputs": [
+      {
+        "id": "thirst:terracotta_bowl",
+        "count": 1.0,
+        "unit": "item",
+        "type": "solid",
+        "rate": 1.0
+      }
+    ]
+  },
+  {
+    "recipe_id": "thirst:water_bottle_from_campfire_cooking_acceptable",
+    "mod_id": "thirst",
+    "recipe_type": "minecraft:campfire_cooking",
+    "inputs": [],
+    "outputs": [
+      {
+        "id": "minecraft:potion",
+        "count": 1.0,
+        "unit": "item",
+        "type": "solid",
+        "rate": 1.0
+      }
+    ]
+  },
+  {
+    "recipe_id": "thirst:clay_bowl",
+    "mod_id": "thirst",
+    "recipe_type": "minecraft:crafting_shaped",
+    "inputs": [
+      {
+        "id": "minecraft:clay_ball",
+        "count": 3.0,
+        "unit": "item",
+        "type": "solid",
+        "rate": 1.0
+      }
+    ],
+    "outputs": [
+      {
+        "id": "thirst:clay_bowl",
+        "count": 4.0,
+        "unit": "item",
+        "type": "solid",
+        "rate": 1.0
+      }
+    ]
+  },
+  {
+    "recipe_id": "thirst:terracotta_bowl_from_campfire_cooking",
+    "mod_id": "thirst",
+    "recipe_type": "minecraft:campfire_cooking",
+    "inputs": [
+      {
+        "id": "thirst:clay_bowl",
+        "count": 1.0,
+        "unit": "item",
+        "type": "solid",
+        "rate": 1.0
+      }
+    ],
+    "outputs": [
+      {
+        "id": "thirst:terracotta_bowl",
+        "count": 1.0,
+        "unit": "item",
+        "type": "solid",
+        "rate": 1.0
+      }
+    ]
+  },
+  {
+    "recipe_id": "thirst:water_bucket_from_campfire_cooking_slight_dirty",
+    "mod_id": "thirst",
+    "recipe_type": "minecraft:campfire_cooking",
+    "inputs": [],
+    "outputs": [
+      {
+        "id": "minecraft:water_bucket",
+        "count": 1.0,
+        "unit": "item",
+        "type": "solid",
+        "rate": 1.0
+      }
+    ]
+  },
+  {
+    "recipe_id": "thirst:water_bottle_from_campfire_cooking_purified",
+    "mod_id": "thirst",
+    "recipe_type": "minecraft:campfire_cooking",
+    "inputs": [],
+    "outputs": [
+      {
+        "id": "minecraft:potion",
+        "count": 1.0,
+        "unit": "item",
+        "type": "solid",
+        "rate": 1.0
+      }
+    ]
+  },
+  {
+    "recipe_id": "thirst:water_bottle_from_smelting_purified",
+    "mod_id": "thirst",
+    "recipe_type": "minecraft:smelting",
+    "inputs": [],
+    "outputs": [
+      {
+        "id": "minecraft:potion",
+        "count": 1.0,
+        "unit": "item",
+        "type": "solid",
+        "rate": 1.0
+      }
+    ]
+  },
+  {
+    "recipe_id": "thirst:water_bucket_from_smelting_purfied",
+    "mod_id": "thirst",
+    "recipe_type": "minecraft:smelting",
+    "inputs": [],
+    "outputs": [
+      {
+        "id": "minecraft:water_bucket",
+        "count": 1.0,
+        "unit": "item",
+        "type": "solid",
+        "rate": 1.0
+      }
+    ]
+  },
+  {
+    "recipe_id": "thirst:water_bucket_from_campfire_purified",
+    "mod_id": "thirst",
+    "recipe_type": "minecraft:campfire_cooking",
+    "inputs": [],
+    "outputs": [
+      {
+        "id": "minecraft:water_bucket",
+        "count": 1.0,
+        "unit": "item",
+        "type": "solid",
+        "rate": 1.0
+      }
+    ]
+  },
+  {
+    "recipe_id": "thirst:terracotta_water_bowl_from_campfire_cooking_acceptable",
+    "mod_id": "thirst",
+    "recipe_type": "minecraft:campfire_cooking",
+    "inputs": [],
+    "outputs": [
+      {
+        "id": "thirst:terracotta_water_bowl",
+        "count": 1.0,
+        "unit": "item",
+        "type": "solid",
+        "rate": 1.0
+      }
+    ]
+  },
+  {
+    "recipe_id": "thirst:compat/create/sand_filter",
+    "mod_id": "thirst",
+    "recipe_type": "minecraft:crafting_shaped",
+    "inputs": [
+      {
+        "id": "minecraft:sand",
+        "count": 1.0,
+        "unit": "item",
+        "type": "solid",
+        "rate": 1.0
+      },
+      {
+        "id": "create:nozzle",
+        "count": 1.0,
+        "unit": "item",
+        "type": "solid",
+        "rate": 1.0
+      },
+      {
+        "id": "create:fluid_tank",
+        "count": 1.0,
+        "unit": "item",
+        "type": "solid",
+        "rate": 1.0
+      }
+    ],
+    "outputs": [
+      {
+        "id": "thirst:sand_filter",
+        "count": 1.0,
+        "unit": "item",
+        "type": "solid",
+        "rate": 1.0
+      }
+    ]
+  },
+  {
+    "recipe_id": "thirst:terracotta_water_bowl_from_smelting_acceptable",
+    "mod_id": "thirst",
+    "recipe_type": "minecraft:smelting",
+    "inputs": [],
+    "outputs": [
+      {
+        "id": "thirst:terracotta_water_bowl",
+        "count": 1.0,
+        "unit": "item",
+        "type": "solid",
+        "rate": 1.0
+      }
+    ]
+  },
+  {
+    "recipe_id": "thirst:water_bottle_from_smelting_acceptable",
+    "mod_id": "thirst",
+    "recipe_type": "minecraft:smelting",
+    "inputs": [],
+    "outputs": [
+      {
+        "id": "minecraft:potion",
+        "count": 1.0,
+        "unit": "item",
+        "type": "solid",
+        "rate": 1.0
+      }
+    ]
+  },
+  {
+    "recipe_id": "thirst:water_bucket_from_campfire_cooking_acceptable",
+    "mod_id": "thirst",
+    "recipe_type": "minecraft:campfire_cooking",
+    "inputs": [],
+    "outputs": [
+      {
+        "id": "minecraft:water_bucket",
+        "count": 1.0,
+        "unit": "item",
+        "type": "solid",
+        "rate": 1.0
+      }
+    ]
+  },
+  {
+    "recipe_id": "thirst:terracotta_water_bowl_from_campfire_cooking_slightly_dirty",
+    "mod_id": "thirst",
+    "recipe_type": "minecraft:campfire_cooking",
+    "inputs": [],
+    "outputs": [
+      {
+        "id": "thirst:terracotta_water_bowl",
+        "count": 1.0,
+        "unit": "item",
+        "type": "solid",
+        "rate": 1.0
+      }
+    ]
+  },
+  {
+    "recipe_id": "thirst:water_bucket_from_smelting_acceptable",
+    "mod_id": "thirst",
+    "recipe_type": "minecraft:smelting",
+    "inputs": [],
+    "outputs": [
+      {
+        "id": "minecraft:water_bucket",
+        "count": 1.0,
+        "unit": "item",
+        "type": "solid",
+        "rate": 1.0
+      }
+    ]
+  },
+  {
+    "recipe_id": "thirst:terracotta_water_bowl_from_campfire_cooking_purified",
+    "mod_id": "thirst",
+    "recipe_type": "minecraft:campfire_cooking",
+    "inputs": [],
+    "outputs": [
+      {
+        "id": "thirst:terracotta_water_bowl",
+        "count": 1.0,
+        "unit": "item",
+        "type": "solid",
+        "rate": 1.0
+      }
+    ]
+  },
+  {
+    "recipe_id": "thirst:water_bottle_from_campfire_cooking_slightly_dirty",
+    "mod_id": "thirst",
+    "recipe_type": "minecraft:campfire_cooking",
+    "inputs": [],
+    "outputs": [
+      {
+        "id": "minecraft:potion",
+        "count": 1.0,
+        "unit": "item",
+        "type": "solid",
+        "rate": 1.0
+      }
+    ]
+  },
+  {
+    "recipe_id": "thirst:terracotta_water_bowl_from_smelting_purified",
+    "mod_id": "thirst",
+    "recipe_type": "minecraft:smelting",
+    "inputs": [],
+    "outputs": [
+      {
+        "id": "thirst:terracotta_water_bowl",
+        "count": 1.0,
+        "unit": "item",
+        "type": "solid",
+        "rate": 1.0
+      }
+    ]
+  },
+  {
+    "recipe_id": "thirst:terracotta_bowl_from_smelting",
+    "mod_id": "thirst",
+    "recipe_type": "minecraft:smelting",
+    "inputs": [
+      {
+        "id": "thirst:clay_bowl",
+        "count": 1.0,
+        "unit": "item",
+        "type": "solid",
+        "rate": 1.0
+      }
+    ],
+    "outputs": [
+      {
+        "id": "thirst:terracotta_bowl",
+        "count": 1.0,
+        "unit": "item",
+        "type": "solid",
+        "rate": 1.0
+      }
+    ]
+  },
+  {
+    "recipe_id": "thirst:water_bottle_from_campfire_cooking_acceptable",
+    "mod_id": "thirst",
+    "recipe_type": "minecraft:campfire_cooking",
+    "inputs": [],
+    "outputs": [
+      {
+        "id": "minecraft:potion",
+        "count": 1.0,
+        "unit": "item",
+        "type": "solid",
+        "rate": 1.0
+      }
+    ]
+  },
+  {
+    "recipe_id": "thirst:clay_bowl",
+    "mod_id": "thirst",
+    "recipe_type": "minecraft:crafting_shaped",
+    "inputs": [
+      {
+        "id": "minecraft:clay_ball",
+        "count": 3.0,
+        "unit": "item",
+        "type": "solid",
+        "rate": 1.0
+      }
+    ],
+    "outputs": [
+      {
+        "id": "thirst:clay_bowl",
+        "count": 4.0,
+        "unit": "item",
+        "type": "solid",
+        "rate": 1.0
+      }
+    ]
+  },
+  {
+    "recipe_id": "thirst:terracotta_bowl_from_campfire_cooking",
+    "mod_id": "thirst",
+    "recipe_type": "minecraft:campfire_cooking",
+    "inputs": [
+      {
+        "id": "thirst:clay_bowl",
+        "count": 1.0,
+        "unit": "item",
+        "type": "solid",
+        "rate": 1.0
+      }
+    ],
+    "outputs": [
+      {
+        "id": "thirst:terracotta_bowl",
+        "count": 1.0,
+        "unit": "item",
+        "type": "solid",
+        "rate": 1.0
+      }
+    ]
+  },
+  {
+    "recipe_id": "thirst:water_bucket_from_campfire_cooking_slight_dirty",
+    "mod_id": "thirst",
+    "recipe_type": "minecraft:campfire_cooking",
+    "inputs": [],
+    "outputs": [
+      {
+        "id": "minecraft:water_bucket",
+        "count": 1.0,
+        "unit": "item",
+        "type": "solid",
+        "rate": 1.0
+      }
+    ]
+  },
+  {
+    "recipe_id": "thirst:water_bottle_from_campfire_cooking_purified",
+    "mod_id": "thirst",
+    "recipe_type": "minecraft:campfire_cooking",
+    "inputs": [],
+    "outputs": [
+      {
+        "id": "minecraft:potion",
+        "count": 1.0,
+        "unit": "item",
+        "type": "solid",
+        "rate": 1.0
+      }
+    ]
+  },
+  {
+    "recipe_id": "thirst:water_bottle_from_smelting_purified",
+    "mod_id": "thirst",
+    "recipe_type": "minecraft:smelting",
+    "inputs": [],
+    "outputs": [
+      {
+        "id": "minecraft:potion",
+        "count": 1.0,
+        "unit": "item",
+        "type": "solid",
+        "rate": 1.0
+      }
+    ]
+  },
+  {
+    "recipe_id": "thirst:water_bucket_from_smelting_purfied",
+    "mod_id": "thirst",
+    "recipe_type": "minecraft:smelting",
+    "inputs": [],
+    "outputs": [
+      {
+        "id": "minecraft:water_bucket",
+        "count": 1.0,
+        "unit": "item",
+        "type": "solid",
+        "rate": 1.0
+      }
+    ]
+  },
+  {
+    "recipe_id": "thirst:water_bucket_from_campfire_purified",
+    "mod_id": "thirst",
+    "recipe_type": "minecraft:campfire_cooking",
+    "inputs": [],
+    "outputs": [
+      {
+        "id": "minecraft:water_bucket",
+        "count": 1.0,
+        "unit": "item",
+        "type": "solid",
+        "rate": 1.0
+      }
+    ]
+  },
+  {
+    "recipe_id": "thirst:terracotta_water_bowl_from_campfire_cooking_acceptable",
+    "mod_id": "thirst",
+    "recipe_type": "minecraft:campfire_cooking",
+    "inputs": [],
+    "outputs": [
+      {
+        "id": "thirst:terracotta_water_bowl",
+        "count": 1.0,
+        "unit": "item",
+        "type": "solid",
+        "rate": 1.0
+      }
+    ]
+  },
+  {
+    "recipe_id": "thirst:compat/create/sand_filter",
+    "mod_id": "thirst",
+    "recipe_type": "minecraft:crafting_shaped",
+    "inputs": [
+      {
+        "id": "minecraft:sand",
+        "count": 1.0,
+        "unit": "item",
+        "type": "solid",
+        "rate": 1.0
+      },
+      {
+        "id": "create:nozzle",
+        "count": 1.0,
+        "unit": "item",
+        "type": "solid",
+        "rate": 1.0
+      },
+      {
+        "id": "create:fluid_tank",
+        "count": 1.0,
+        "unit": "item",
+        "type": "solid",
+        "rate": 1.0
+      }
+    ],
+    "outputs": [
+      {
+        "id": "thirst:sand_filter",
+        "count": 1.0,
+        "unit": "item",
+        "type": "solid",
+        "rate": 1.0
+      }
+    ]
+  },
+  {
+    "recipe_id": "thirst:terracotta_water_bowl_from_smelting_acceptable",
+    "mod_id": "thirst",
+    "recipe_type": "minecraft:smelting",
+    "inputs": [],
+    "outputs": [
+      {
+        "id": "thirst:terracotta_water_bowl",
+        "count": 1.0,
+        "unit": "item",
+        "type": "solid",
+        "rate": 1.0
+      }
+    ]
+  },
+  {
+    "recipe_id": "thirst:water_bottle_from_smelting_acceptable",
+    "mod_id": "thirst",
+    "recipe_type": "minecraft:smelting",
+    "inputs": [],
+    "outputs": [
+      {
+        "id": "minecraft:potion",
+        "count": 1.0,
+        "unit": "item",
+        "type": "solid",
+        "rate": 1.0
+      }
+    ]
+  },
+  {
+    "recipe_id": "thirst:terracotta_bowl_from_smelting",
+    "mod_id": "thirst",
+    "recipe_type": "minecraft:smelting",
+    "inputs": [
+      {
+        "id": "thirst:clay_bowl",
+        "count": 1.0,
+        "unit": "item",
+        "type": "solid",
+        "rate": 1.0
+      }
+    ],
+    "outputs": [
+      {
+        "id": "thirst:terracotta_bowl",
+        "count": 1.0,
+        "unit": "item",
+        "type": "solid",
+        "rate": 1.0
+      }
+    ]
+  },
+  {
+    "recipe_id": "thirst:water_bottle_from_campfire_cooking_acceptable",
+    "mod_id": "thirst",
+    "recipe_type": "minecraft:campfire_cooking",
+    "inputs": [],
+    "outputs": [
+      {
+        "id": "minecraft:potion",
+        "count": 1.0,
+        "unit": "item",
+        "type": "solid",
+        "rate": 1.0
+      }
+    ]
+  },
+  {
+    "recipe_id": "thirst:clay_bowl",
+    "mod_id": "thirst",
+    "recipe_type": "minecraft:crafting_shaped",
+    "inputs": [
+      {
+        "id": "minecraft:clay_ball",
+        "count": 3.0,
+        "unit": "item",
+        "type": "solid",
+        "rate": 1.0
+      }
+    ],
+    "outputs": [
+      {
+        "id": "thirst:clay_bowl",
+        "count": 4.0,
+        "unit": "item",
+        "type": "solid",
+        "rate": 1.0
+      }
+    ]
+  },
+  {
+    "recipe_id": "thirst:terracotta_bowl_from_campfire_cooking",
+    "mod_id": "thirst",
+    "recipe_type": "minecraft:campfire_cooking",
+    "inputs": [
+      {
+        "id": "thirst:clay_bowl",
+        "count": 1.0,
+        "unit": "item",
+        "type": "solid",
+        "rate": 1.0
+      }
+    ],
+    "outputs": [
+      {
+        "id": "thirst:terracotta_bowl",
+        "count": 1.0,
+        "unit": "item",
+        "type": "solid",
+        "rate": 1.0
+      }
+    ]
+  },
+  {
+    "recipe_id": "thirst:water_bucket_from_campfire_cooking_slight_dirty",
+    "mod_id": "thirst",
+    "recipe_type": "minecraft:campfire_cooking",
+    "inputs": [],
+    "outputs": [
+      {
+        "id": "minecraft:water_bucket",
+        "count": 1.0,
+        "unit": "item",
+        "type": "solid",
+        "rate": 1.0
+      }
+    ]
+  },
+  {
+    "recipe_id": "thirst:water_bottle_from_campfire_cooking_purified",
+    "mod_id": "thirst",
+    "recipe_type": "minecraft:campfire_cooking",
+    "inputs": [],
+    "outputs": [
+      {
+        "id": "minecraft:potion",
+        "count": 1.0,
+        "unit": "item",
+        "type": "solid",
+        "rate": 1.0
+      }
+    ]
+  },
+  {
+    "recipe_id": "thirst:water_bottle_from_smelting_purified",
+    "mod_id": "thirst",
+    "recipe_type": "minecraft:smelting",
+    "inputs": [],
+    "outputs": [
+      {
+        "id": "minecraft:potion",
+        "count": 1.0,
+        "unit": "item",
+        "type": "solid",
+        "rate": 1.0
+      }
+    ]
+  },
+  {
+    "recipe_id": "thirst:water_bucket_from_smelting_purfied",
+    "mod_id": "thirst",
+    "recipe_type": "minecraft:smelting",
+    "inputs": [],
+    "outputs": [
+      {
+        "id": "minecraft:water_bucket",
+        "count": 1.0,
+        "unit": "item",
+        "type": "solid",
+        "rate": 1.0
+      }
+    ]
+  },
+  {
+    "recipe_id": "thirst:water_bucket_from_campfire_purified",
+    "mod_id": "thirst",
+    "recipe_type": "minecraft:campfire_cooking",
+    "inputs": [],
+    "outputs": [
+      {
+        "id": "minecraft:water_bucket",
+        "count": 1.0,
+        "unit": "item",
+        "type": "solid",
+        "rate": 1.0
+      }
+    ]
+  },
+  {
+    "recipe_id": "thirst:terracotta_water_bowl_from_campfire_cooking_acceptable",
+    "mod_id": "thirst",
+    "recipe_type": "minecraft:campfire_cooking",
+    "inputs": [],
+    "outputs": [
+      {
+        "id": "thirst:terracotta_water_bowl",
+        "count": 1.0,
+        "unit": "item",
+        "type": "solid",
+        "rate": 1.0
+      }
+    ]
+  },
+  {
+    "recipe_id": "thirst:compat/create/sand_filter",
+    "mod_id": "thirst",
+    "recipe_type": "minecraft:crafting_shaped",
+    "inputs": [
+      {
+        "id": "minecraft:sand",
+        "count": 1.0,
+        "unit": "item",
+        "type": "solid",
+        "rate": 1.0
+      },
+      {
+        "id": "create:nozzle",
+        "count": 1.0,
+        "unit": "item",
+        "type": "solid",
+        "rate": 1.0
+      },
+      {
+        "id": "create:fluid_tank",
+        "count": 1.0,
+        "unit": "item",
+        "type": "solid",
+        "rate": 1.0
+      }
+    ],
+    "outputs": [
+      {
+        "id": "thirst:sand_filter",
+        "count": 1.0,
+        "unit": "item",
+        "type": "solid",
+        "rate": 1.0
+      }
+    ]
+  },
+  {
+    "recipe_id": "thirst:terracotta_water_bowl_from_smelting_acceptable",
+    "mod_id": "thirst",
+    "recipe_type": "minecraft:smelting",
+    "inputs": [],
+    "outputs": [
+      {
+        "id": "thirst:terracotta_water_bowl",
+        "count": 1.0,
+        "unit": "item",
+        "type": "solid",
+        "rate": 1.0
+      }
+    ]
+  },
+  {
+    "recipe_id": "thirst:water_bottle_from_smelting_acceptable",
+    "mod_id": "thirst",
+    "recipe_type": "minecraft:smelting",
+    "inputs": [],
+    "outputs": [
+      {
+        "id": "minecraft:potion",
+        "count": 1.0,
+        "unit": "item",
+        "type": "solid",
+        "rate": 1.0
+      }
+    ]
+  },
+  {
+    "recipe_id": "thirst:water_bucket_from_campfire_cooking_acceptable",
+    "mod_id": "thirst",
+    "recipe_type": "minecraft:campfire_cooking",
+    "inputs": [],
+    "outputs": [
+      {
+        "id": "minecraft:water_bucket",
+        "count": 1.0,
+        "unit": "item",
+        "type": "solid",
+        "rate": 1.0
+      }
+    ]
+  },
+  {
+    "recipe_id": "thirst:terracotta_water_bowl_from_campfire_cooking_slightly_dirty",
+    "mod_id": "thirst",
+    "recipe_type": "minecraft:campfire_cooking",
+    "inputs": [],
+    "outputs": [
+      {
+        "id": "thirst:terracotta_water_bowl",
+        "count": 1.0,
+        "unit": "item",
+        "type": "solid",
+        "rate": 1.0
+      }
+    ]
+  },
+  {
+    "recipe_id": "thirst:water_bucket_from_smelting_acceptable",
+    "mod_id": "thirst",
+    "recipe_type": "minecraft:smelting",
+    "inputs": [],
+    "outputs": [
+      {
+        "id": "minecraft:water_bucket",
+        "count": 1.0,
+        "unit": "item",
+        "type": "solid",
+        "rate": 1.0
+      }
+    ]
+  },
+  {
+    "recipe_id": "thirst:terracotta_water_bowl_from_campfire_cooking_purified",
+    "mod_id": "thirst",
+    "recipe_type": "minecraft:campfire_cooking",
+    "inputs": [],
+    "outputs": [
+      {
+        "id": "thirst:terracotta_water_bowl",
+        "count": 1.0,
+        "unit": "item",
+        "type": "solid",
+        "rate": 1.0
+      }
+    ]
+  },
+  {
+    "recipe_id": "thirst:water_bottle_from_campfire_cooking_slightly_dirty",
+    "mod_id": "thirst",
+    "recipe_type": "minecraft:campfire_cooking",
+    "inputs": [],
+    "outputs": [
+      {
+        "id": "minecraft:potion",
+        "count": 1.0,
+        "unit": "item",
+        "type": "solid",
+        "rate": 1.0
+      }
+    ]
+  },
+  {
+    "recipe_id": "thirst:terracotta_water_bowl_from_smelting_purified",
+    "mod_id": "thirst",
+    "recipe_type": "minecraft:smelting",
+    "inputs": [],
+    "outputs": [
+      {
+        "id": "thirst:terracotta_water_bowl",
+        "count": 1.0,
+        "unit": "item",
+        "type": "solid",
+        "rate": 1.0
+      }
+    ]
+  },
+  {
+    "recipe_id": "thirst:terracotta_bowl_from_smelting",
+    "mod_id": "thirst",
+    "recipe_type": "minecraft:smelting",
+    "inputs": [
+      {
+        "id": "thirst:clay_bowl",
+        "count": 1.0,
+        "unit": "item",
+        "type": "solid",
+        "rate": 1.0
+      }
+    ],
+    "outputs": [
+      {
+        "id": "thirst:terracotta_bowl",
+        "count": 1.0,
+        "unit": "item",
+        "type": "solid",
+        "rate": 1.0
+      }
+    ]
+  },
+  {
+    "recipe_id": "thirst:water_bottle_from_campfire_cooking_acceptable",
+    "mod_id": "thirst",
+    "recipe_type": "minecraft:campfire_cooking",
+    "inputs": [],
+    "outputs": [
+      {
+        "id": "minecraft:potion",
+        "count": 1.0,
+        "unit": "item",
+        "type": "solid",
+        "rate": 1.0
+      }
+    ]
+  },
+  {
+    "recipe_id": "thirst:clay_bowl",
+    "mod_id": "thirst",
+    "recipe_type": "minecraft:crafting_shaped",
+    "inputs": [
+      {
+        "id": "minecraft:clay_ball",
+        "count": 3.0,
+        "unit": "item",
+        "type": "solid",
+        "rate": 1.0
+      }
+    ],
+    "outputs": [
+      {
+        "id": "thirst:clay_bowl",
+        "count": 4.0,
+        "unit": "item",
+        "type": "solid",
+        "rate": 1.0
+      }
+    ]
+  },
+  {
+    "recipe_id": "thirst:terracotta_bowl_from_campfire_cooking",
+    "mod_id": "thirst",
+    "recipe_type": "minecraft:campfire_cooking",
+    "inputs": [
+      {
+        "id": "thirst:clay_bowl",
+        "count": 1.0,
+        "unit": "item",
+        "type": "solid",
+        "rate": 1.0
+      }
+    ],
+    "outputs": [
+      {
+        "id": "thirst:terracotta_bowl",
+        "count": 1.0,
+        "unit": "item",
+        "type": "solid",
+        "rate": 1.0
+      }
+    ]
+  },
+  {
+    "recipe_id": "thirst:water_bucket_from_campfire_cooking_slight_dirty",
+    "mod_id": "thirst",
+    "recipe_type": "minecraft:campfire_cooking",
+    "inputs": [],
+    "outputs": [
+      {
+        "id": "minecraft:water_bucket",
+        "count": 1.0,
+        "unit": "item",
+        "type": "solid",
+        "rate": 1.0
+      }
+    ]
+  },
+  {
+    "recipe_id": "thirst:water_bottle_from_campfire_cooking_purified",
+    "mod_id": "thirst",
+    "recipe_type": "minecraft:campfire_cooking",
+    "inputs": [],
+    "outputs": [
+      {
+        "id": "minecraft:potion",
+        "count": 1.0,
+        "unit": "item",
+        "type": "solid",
+        "rate": 1.0
+      }
+    ]
+  },
+  {
+    "recipe_id": "thirst:water_bottle_from_smelting_purified",
+    "mod_id": "thirst",
+    "recipe_type": "minecraft:smelting",
+    "inputs": [],
+    "outputs": [
+      {
+        "id": "minecraft:potion",
+        "count": 1.0,
+        "unit": "item",
+        "type": "solid",
+        "rate": 1.0
+      }
+    ]
+  },
+  {
+    "recipe_id": "thirst:water_bucket_from_smelting_purfied",
+    "mod_id": "thirst",
+    "recipe_type": "minecraft:smelting",
+    "inputs": [],
+    "outputs": [
+      {
+        "id": "minecraft:water_bucket",
+        "count": 1.0,
+        "unit": "item",
+        "type": "solid",
+        "rate": 1.0
+      }
+    ]
+  },
+  {
+    "recipe_id": "thirst:water_bucket_from_campfire_purified",
+    "mod_id": "thirst",
+    "recipe_type": "minecraft:campfire_cooking",
+    "inputs": [],
+    "outputs": [
+      {
+        "id": "minecraft:water_bucket",
+        "count": 1.0,
+        "unit": "item",
+        "type": "solid",
+        "rate": 1.0
+      }
+    ]
+  },
+  {
+    "recipe_id": "thirst:terracotta_water_bowl_from_campfire_cooking_acceptable",
+    "mod_id": "thirst",
+    "recipe_type": "minecraft:campfire_cooking",
+    "inputs": [],
+    "outputs": [
+      {
+        "id": "thirst:terracotta_water_bowl",
+        "count": 1.0,
+        "unit": "item",
+        "type": "solid",
+        "rate": 1.0
+      }
+    ]
+  },
+  {
+    "recipe_id": "thirst:compat/create/sand_filter",
+    "mod_id": "thirst",
+    "recipe_type": "minecraft:crafting_shaped",
+    "inputs": [
+      {
+        "id": "minecraft:sand",
+        "count": 1.0,
+        "unit": "item",
+        "type": "solid",
+        "rate": 1.0
+      },
+      {
+        "id": "create:nozzle",
+        "count": 1.0,
+        "unit": "item",
+        "type": "solid",
+        "rate": 1.0
+      },
+      {
+        "id": "create:fluid_tank",
+        "count": 1.0,
+        "unit": "item",
+        "type": "solid",
+        "rate": 1.0
+      }
+    ],
+    "outputs": [
+      {
+        "id": "thirst:sand_filter",
+        "count": 1.0,
+        "unit": "item",
+        "type": "solid",
+        "rate": 1.0
+      }
+    ]
+  },
+  {
+    "recipe_id": "thirst:terracotta_water_bowl_from_smelting_acceptable",
+    "mod_id": "thirst",
+    "recipe_type": "minecraft:smelting",
+    "inputs": [],
+    "outputs": [
+      {
+        "id": "thirst:terracotta_water_bowl",
+        "count": 1.0,
+        "unit": "item",
+        "type": "solid",
+        "rate": 1.0
+      }
+    ]
+  },
+  {
+    "recipe_id": "thirst:water_bottle_from_smelting_acceptable",
+    "mod_id": "thirst",
+    "recipe_type": "minecraft:smelting",
+    "inputs": [],
+    "outputs": [
+      {
+        "id": "minecraft:potion",
+        "count": 1.0,
+        "unit": "item",
+        "type": "solid",
+        "rate": 1.0
+      }
+    ]
+  },
+  {
+    "recipe_id": "thirst:water_bucket_from_campfire_cooking_acceptable",
+    "mod_id": "thirst",
+    "recipe_type": "minecraft:campfire_cooking",
+    "inputs": [],
+    "outputs": [
+      {
+        "id": "minecraft:water_bucket",
+        "count": 1.0,
+        "unit": "item",
+        "type": "solid",
+        "rate": 1.0
+      }
+    ]
+  },
+  {
+    "recipe_id": "thirst:terracotta_water_bowl_from_campfire_cooking_slightly_dirty",
+    "mod_id": "thirst",
+    "recipe_type": "minecraft:campfire_cooking",
+    "inputs": [],
+    "outputs": [
+      {
+        "id": "thirst:terracotta_water_bowl",
+        "count": 1.0,
+        "unit": "item",
+        "type": "solid",
+        "rate": 1.0
+      }
+    ]
+  },
+  {
+    "recipe_id": "thirst:water_bucket_from_smelting_acceptable",
+    "mod_id": "thirst",
+    "recipe_type": "minecraft:smelting",
+    "inputs": [],
+    "outputs": [
+      {
+        "id": "minecraft:water_bucket",
+        "count": 1.0,
+        "unit": "item",
+        "type": "solid",
+        "rate": 1.0
+      }
+    ]
+  },
+  {
+    "recipe_id": "thirst:terracotta_water_bowl_from_campfire_cooking_purified",
+    "mod_id": "thirst",
+    "recipe_type": "minecraft:campfire_cooking",
+    "inputs": [],
+    "outputs": [
+      {
+        "id": "thirst:terracotta_water_bowl",
+        "count": 1.0,
+        "unit": "item",
+        "type": "solid",
+        "rate": 1.0
+      }
+    ]
+  },
+  {
+    "recipe_id": "thirst:water_bottle_from_campfire_cooking_slightly_dirty",
+    "mod_id": "thirst",
+    "recipe_type": "minecraft:campfire_cooking",
+    "inputs": [],
+    "outputs": [
+      {
+        "id": "minecraft:potion",
+        "count": 1.0,
+        "unit": "item",
+        "type": "solid",
+        "rate": 1.0
+      }
+    ]
+  },
+  {
+    "recipe_id": "thirst:terracotta_water_bowl_from_smelting_purified",
+    "mod_id": "thirst",
+    "recipe_type": "minecraft:smelting",
+    "inputs": [],
+    "outputs": [
+      {
+        "id": "thirst:terracotta_water_bowl",
+        "count": 1.0,
+        "unit": "item",
+        "type": "solid",
+        "rate": 1.0
+      }
+    ]
+  },
+  {
+    "recipe_id": "thirst:terracotta_bowl_from_smelting",
+    "mod_id": "thirst",
+    "recipe_type": "minecraft:smelting",
+    "inputs": [
+      {
+        "id": "thirst:clay_bowl",
+        "count": 1.0,
+        "unit": "item",
+        "type": "solid",
+        "rate": 1.0
+      }
+    ],
+    "outputs": [
+      {
+        "id": "thirst:terracotta_bowl",
+        "count": 1.0,
+        "unit": "item",
+        "type": "solid",
+        "rate": 1.0
+      }
+    ]
+  },
+  {
+    "recipe_id": "thirst:water_bottle_from_campfire_cooking_acceptable",
+    "mod_id": "thirst",
+    "recipe_type": "minecraft:campfire_cooking",
+    "inputs": [],
+    "outputs": [
+      {
+        "id": "minecraft:potion",
+        "count": 1.0,
+        "unit": "item",
+        "type": "solid",
+        "rate": 1.0
+      }
+    ]
+  },
+  {
+    "recipe_id": "thirst:clay_bowl",
+    "mod_id": "thirst",
+    "recipe_type": "minecraft:crafting_shaped",
+    "inputs": [
+      {
+        "id": "minecraft:clay_ball",
+        "count": 3.0,
+        "unit": "item",
+        "type": "solid",
+        "rate": 1.0
+      }
+    ],
+    "outputs": [
+      {
+        "id": "thirst:clay_bowl",
+        "count": 4.0,
+        "unit": "item",
+        "type": "solid",
+        "rate": 1.0
+      }
+    ]
+  },
+  {
+    "recipe_id": "thirst:terracotta_bowl_from_campfire_cooking",
+    "mod_id": "thirst",
+    "recipe_type": "minecraft:campfire_cooking",
+    "inputs": [
+      {
+        "id": "thirst:clay_bowl",
+        "count": 1.0,
+        "unit": "item",
+        "type": "solid",
+        "rate": 1.0
+      }
+    ],
+    "outputs": [
+      {
+        "id": "thirst:terracotta_bowl",
+        "count": 1.0,
+        "unit": "item",
+        "type": "solid",
+        "rate": 1.0
+      }
+    ]
+  },
+  {
+    "recipe_id": "thirst:water_bucket_from_campfire_cooking_slight_dirty",
+    "mod_id": "thirst",
+    "recipe_type": "minecraft:campfire_cooking",
+    "inputs": [],
+    "outputs": [
+      {
+        "id": "minecraft:water_bucket",
+        "count": 1.0,
+        "unit": "item",
+        "type": "solid",
+        "rate": 1.0
+      }
+    ]
+  },
+  {
+    "recipe_id": "thirst:water_bottle_from_campfire_cooking_purified",
+    "mod_id": "thirst",
+    "recipe_type": "minecraft:campfire_cooking",
+    "inputs": [],
+    "outputs": [
+      {
+        "id": "minecraft:potion",
+        "count": 1.0,
+        "unit": "item",
+        "type": "solid",
+        "rate": 1.0
+      }
+    ]
+  },
+  {
+    "recipe_id": "thirst:water_bottle_from_smelting_purified",
+    "mod_id": "thirst",
+    "recipe_type": "minecraft:smelting",
+    "inputs": [],
+    "outputs": [
+      {
+        "id": "minecraft:potion",
+        "count": 1.0,
+        "unit": "item",
+        "type": "solid",
+        "rate": 1.0
+      }
+    ]
+  },
+  {
+    "recipe_id": "thirst:water_bucket_from_smelting_purfied",
+    "mod_id": "thirst",
+    "recipe_type": "minecraft:smelting",
+    "inputs": [],
+    "outputs": [
+      {
+        "id": "minecraft:water_bucket",
+        "count": 1.0,
+        "unit": "item",
+        "type": "solid",
+        "rate": 1.0
+      }
+    ]
+  },
+  {
+    "recipe_id": "thirst:water_bucket_from_campfire_purified",
+    "mod_id": "thirst",
+    "recipe_type": "minecraft:campfire_cooking",
+    "inputs": [],
+    "outputs": [
+      {
+        "id": "minecraft:water_bucket",
+        "count": 1.0,
+        "unit": "item",
+        "type": "solid",
+        "rate": 1.0
+      }
+    ]
+  },
+  {
+    "recipe_id": "thirst:terracotta_water_bowl_from_campfire_cooking_acceptable",
+    "mod_id": "thirst",
+    "recipe_type": "minecraft:campfire_cooking",
+    "inputs": [],
+    "outputs": [
+      {
+        "id": "thirst:terracotta_water_bowl",
+        "count": 1.0,
+        "unit": "item",
+        "type": "solid",
+        "rate": 1.0
+      }
+    ]
+  },
+  {
+    "recipe_id": "thirst:compat/create/sand_filter",
+    "mod_id": "thirst",
+    "recipe_type": "minecraft:crafting_shaped",
+    "inputs": [
+      {
+        "id": "minecraft:sand",
+        "count": 1.0,
+        "unit": "item",
+        "type": "solid",
+        "rate": 1.0
+      },
+      {
+        "id": "create:nozzle",
+        "count": 1.0,
+        "unit": "item",
+        "type": "solid",
+        "rate": 1.0
+      },
+      {
+        "id": "create:fluid_tank",
+        "count": 1.0,
+        "unit": "item",
+        "type": "solid",
+        "rate": 1.0
+      }
+    ],
+    "outputs": [
+      {
+        "id": "thirst:sand_filter",
+        "count": 1.0,
+        "unit": "item",
+        "type": "solid",
+        "rate": 1.0
+      }
+    ]
+  },
+  {
+    "recipe_id": "thirst:terracotta_water_bowl_from_smelting_acceptable",
+    "mod_id": "thirst",
+    "recipe_type": "minecraft:smelting",
+    "inputs": [],
+    "outputs": [
+      {
+        "id": "thirst:terracotta_water_bowl",
+        "count": 1.0,
+        "unit": "item",
+        "type": "solid",
+        "rate": 1.0
+      }
+    ]
+  },
+  {
+    "recipe_id": "thirst:water_bottle_from_smelting_acceptable",
+    "mod_id": "thirst",
+    "recipe_type": "minecraft:smelting",
+    "inputs": [],
+    "outputs": [
+      {
+        "id": "minecraft:potion",
+        "count": 1.0,
+        "unit": "item",
+        "type": "solid",
+        "rate": 1.0
+      }
+    ]
+  },
+  {
+    "recipe_id": "thirst:water_bucket_from_campfire_cooking_acceptable",
+    "mod_id": "thirst",
+    "recipe_type": "minecraft:campfire_cooking",
+    "inputs": [],
+    "outputs": [
+      {
+        "id": "minecraft:water_bucket",
+        "count": 1.0,
+        "unit": "item",
+        "type": "solid",
+        "rate": 1.0
+      }
+    ]
+  },
+  {
+    "recipe_id": "thirst:terracotta_water_bowl_from_campfire_cooking_slightly_dirty",
+    "mod_id": "thirst",
+    "recipe_type": "minecraft:campfire_cooking",
+    "inputs": [],
+    "outputs": [
+      {
+        "id": "thirst:terracotta_water_bowl",
+        "count": 1.0,
+        "unit": "item",
+        "type": "solid",
+        "rate": 1.0
+      }
+    ]
+  },
+  {
+    "recipe_id": "thirst:water_bucket_from_smelting_acceptable",
+    "mod_id": "thirst",
+    "recipe_type": "minecraft:smelting",
+    "inputs": [],
+    "outputs": [
+      {
+        "id": "minecraft:water_bucket",
+        "count": 1.0,
+        "unit": "item",
+        "type": "solid",
+        "rate": 1.0
+      }
+    ]
+  },
+  {
+    "recipe_id": "thirst:terracotta_water_bowl_from_campfire_cooking_purified",
+    "mod_id": "thirst",
+    "recipe_type": "minecraft:campfire_cooking",
+    "inputs": [],
+    "outputs": [
+      {
+        "id": "thirst:terracotta_water_bowl",
+        "count": 1.0,
+        "unit": "item",
+        "type": "solid",
+        "rate": 1.0
+      }
+    ]
+  },
+  {
+    "recipe_id": "thirst:water_bottle_from_campfire_cooking_slightly_dirty",
+    "mod_id": "thirst",
+    "recipe_type": "minecraft:campfire_cooking",
+    "inputs": [],
+    "outputs": [
+      {
+        "id": "minecraft:potion",
+        "count": 1.0,
+        "unit": "item",
+        "type": "solid",
+        "rate": 1.0
+      }
+    ]
+  },
+  {
+    "recipe_id": "thirst:terracotta_water_bowl_from_smelting_purified",
+    "mod_id": "thirst",
+    "recipe_type": "minecraft:smelting",
+    "inputs": [],
+    "outputs": [
+      {
+        "id": "thirst:terracotta_water_bowl",
+        "count": 1.0,
+        "unit": "item",
+        "type": "solid",
+        "rate": 1.0
+      }
+    ]
+  },
+  {
+    "recipe_id": "thirst:terracotta_bowl_from_smelting",
+    "mod_id": "thirst",
+    "recipe_type": "minecraft:smelting",
+    "inputs": [
+      {
+        "id": "thirst:clay_bowl",
+        "count": 1.0,
+        "unit": "item",
+        "type": "solid",
+        "rate": 1.0
+      }
+    ],
+    "outputs": [
+      {
+        "id": "thirst:terracotta_bowl",
+        "count": 1.0,
+        "unit": "item",
+        "type": "solid",
+        "rate": 1.0
+      }
+    ]
+  },
+  {
+    "recipe_id": "thirst:water_bottle_from_campfire_cooking_acceptable",
+    "mod_id": "thirst",
+    "recipe_type": "minecraft:campfire_cooking",
+    "inputs": [],
+    "outputs": [
+      {
+        "id": "minecraft:potion",
+        "count": 1.0,
+        "unit": "item",
+        "type": "solid",
+        "rate": 1.0
+      }
+    ]
+  },
+  {
+    "recipe_id": "thirst:clay_bowl",
+    "mod_id": "thirst",
+    "recipe_type": "minecraft:crafting_shaped",
+    "inputs": [
+      {
+        "id": "minecraft:clay_ball",
+        "count": 3.0,
+        "unit": "item",
+        "type": "solid",
+        "rate": 1.0
+      }
+    ],
+    "outputs": [
+      {
+        "id": "thirst:clay_bowl",
+        "count": 4.0,
+        "unit": "item",
+        "type": "solid",
+        "rate": 1.0
+      }
+    ]
+  },
+  {
+    "recipe_id": "thirst:terracotta_bowl_from_campfire_cooking",
+    "mod_id": "thirst",
+    "recipe_type": "minecraft:campfire_cooking",
+    "inputs": [
+      {
+        "id": "thirst:clay_bowl",
+        "count": 1.0,
+        "unit": "item",
+        "type": "solid",
+        "rate": 1.0
+      }
+    ],
+    "outputs": [
+      {
+        "id": "thirst:terracotta_bowl",
+        "count": 1.0,
+        "unit": "item",
+        "type": "solid",
+        "rate": 1.0
+      }
+    ]
+  },
+  {
+    "recipe_id": "thirst:water_bucket_from_campfire_cooking_slight_dirty",
+    "mod_id": "thirst",
+    "recipe_type": "minecraft:campfire_cooking",
+    "inputs": [],
+    "outputs": [
+      {
+        "id": "minecraft:water_bucket",
+        "count": 1.0,
+        "unit": "item",
+        "type": "solid",
+        "rate": 1.0
+      }
+    ]
+  },
+  {
+    "recipe_id": "thirst:water_bottle_from_campfire_cooking_purified",
+    "mod_id": "thirst",
+    "recipe_type": "minecraft:campfire_cooking",
+    "inputs": [],
+    "outputs": [
+      {
+        "id": "minecraft:potion",
+        "count": 1.0,
+        "unit": "item",
+        "type": "solid",
+        "rate": 1.0
+      }
+    ]
+  },
+  {
+    "recipe_id": "thirst:water_bottle_from_smelting_purified",
+    "mod_id": "thirst",
+    "recipe_type": "minecraft:smelting",
+    "inputs": [],
+    "outputs": [
+      {
+        "id": "minecraft:potion",
+        "count": 1.0,
+        "unit": "item",
+        "type": "solid",
+        "rate": 1.0
+      }
+    ]
+  },
+  {
+    "recipe_id": "thirst:water_bucket_from_smelting_purfied",
+    "mod_id": "thirst",
+    "recipe_type": "minecraft:smelting",
+    "inputs": [],
+    "outputs": [
+      {
+        "id": "minecraft:water_bucket",
+        "count": 1.0,
+        "unit": "item",
+        "type": "solid",
+        "rate": 1.0
+      }
+    ]
+  },
+  {
+    "recipe_id": "thirst:water_bucket_from_campfire_purified",
+    "mod_id": "thirst",
+    "recipe_type": "minecraft:campfire_cooking",
+    "inputs": [],
+    "outputs": [
+      {
+        "id": "minecraft:water_bucket",
+        "count": 1.0,
+        "unit": "item",
+        "type": "solid",
+        "rate": 1.0
+      }
+    ]
+  },
+  {
+    "recipe_id": "thirst:terracotta_water_bowl_from_campfire_cooking_acceptable",
+    "mod_id": "thirst",
+    "recipe_type": "minecraft:campfire_cooking",
+    "inputs": [],
+    "outputs": [
+      {
+        "id": "thirst:terracotta_water_bowl",
+        "count": 1.0,
+        "unit": "item",
+        "type": "solid",
+        "rate": 1.0
+      }
+    ]
+  },
+  {
+    "recipe_id": "thirst:compat/create/sand_filter",
+    "mod_id": "thirst",
+    "recipe_type": "minecraft:crafting_shaped",
+    "inputs": [
+      {
+        "id": "minecraft:sand",
+        "count": 1.0,
+        "unit": "item",
+        "type": "solid",
+        "rate": 1.0
+      },
+      {
+        "id": "create:nozzle",
+        "count": 1.0,
+        "unit": "item",
+        "type": "solid",
+        "rate": 1.0
+      },
+      {
+        "id": "create:fluid_tank",
+        "count": 1.0,
+        "unit": "item",
+        "type": "solid",
+        "rate": 1.0
+      }
+    ],
+    "outputs": [
+      {
+        "id": "thirst:sand_filter",
+        "count": 1.0,
+        "unit": "item",
+        "type": "solid",
+        "rate": 1.0
+      }
+    ]
+  },
+  {
+    "recipe_id": "thirst:terracotta_water_bowl_from_smelting_acceptable",
+    "mod_id": "thirst",
+    "recipe_type": "minecraft:smelting",
+    "inputs": [],
+    "outputs": [
+      {
+        "id": "thirst:terracotta_water_bowl",
+        "count": 1.0,
+        "unit": "item",
+        "type": "solid",
+        "rate": 1.0
+      }
+    ]
+  },
+  {
+    "recipe_id": "thirst:water_bottle_from_smelting_acceptable",
+    "mod_id": "thirst",
+    "recipe_type": "minecraft:smelting",
+    "inputs": [],
+    "outputs": [
+      {
+        "id": "minecraft:potion",
+        "count": 1.0,
+        "unit": "item",
+        "type": "solid",
+        "rate": 1.0
+      }
+    ]
+  },
+  {
+    "recipe_id": "thirst:water_bucket_from_campfire_cooking_acceptable",
+    "mod_id": "thirst",
+    "recipe_type": "minecraft:campfire_cooking",
+    "inputs": [],
+    "outputs": [
+      {
+        "id": "minecraft:water_bucket",
+        "count": 1.0,
+        "unit": "item",
+        "type": "solid",
+        "rate": 1.0
+      }
+    ]
+  },
+  {
+    "recipe_id": "thirst:terracotta_water_bowl_from_campfire_cooking_slightly_dirty",
+    "mod_id": "thirst",
+    "recipe_type": "minecraft:campfire_cooking",
+    "inputs": [],
+    "outputs": [
+      {
+        "id": "thirst:terracotta_water_bowl",
+        "count": 1.0,
+        "unit": "item",
+        "type": "solid",
+        "rate": 1.0
+      }
+    ]
+  },
+  {
+    "recipe_id": "thirst:water_bucket_from_smelting_acceptable",
+    "mod_id": "thirst",
+    "recipe_type": "minecraft:smelting",
+    "inputs": [],
+    "outputs": [
+      {
+        "id": "minecraft:water_bucket",
+        "count": 1.0,
+        "unit": "item",
+        "type": "solid",
+        "rate": 1.0
+      }
+    ]
+  },
+  {
+    "recipe_id": "thirst:terracotta_water_bowl_from_campfire_cooking_purified",
+    "mod_id": "thirst",
+    "recipe_type": "minecraft:campfire_cooking",
+    "inputs": [],
+    "outputs": [
+      {
+        "id": "thirst:terracotta_water_bowl",
+        "count": 1.0,
+        "unit": "item",
+        "type": "solid",
+        "rate": 1.0
+      }
+    ]
+  },
+  {
+    "recipe_id": "thirst:water_bottle_from_campfire_cooking_slightly_dirty",
+    "mod_id": "thirst",
+    "recipe_type": "minecraft:campfire_cooking",
+    "inputs": [],
+    "outputs": [
+      {
+        "id": "minecraft:potion",
+        "count": 1.0,
+        "unit": "item",
+        "type": "solid",
+        "rate": 1.0
+      }
+    ]
+  },
+  {
+    "recipe_id": "thirst:terracotta_water_bowl_from_smelting_purified",
+    "mod_id": "thirst",
+    "recipe_type": "minecraft:smelting",
+    "inputs": [],
+    "outputs": [
+      {
+        "id": "thirst:terracotta_water_bowl",
+        "count": 1.0,
+        "unit": "item",
+        "type": "solid",
+        "rate": 1.0
+      }
+    ]
+  }
+]

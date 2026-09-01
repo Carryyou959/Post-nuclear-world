@@ -1,0 +1,10 @@
+{
+  "source_item": "garnished:yam_o_glow_puffs",
+  "comment": "Edit this file to add custom nutrition values",
+  "auto_calculated": false,
+  "nutritions": {
+    "sugars": 0.006,
+    "fruits": 0.045,
+    "vegetables": 0.06
+  }
+}

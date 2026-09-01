@@ -1,0 +1,2534 @@
+[
+  {
+    "recipe_id": "create_pattern_schematics:schematic_from_substitute",
+    "mod_id": "create_pattern_schematics",
+    "recipe_type": "minecraft:crafting_shapeless",
+    "inputs": [
+      {
+        "id": "create_pattern_schematics:schematic_paper_substitutes",
+        "count": 1.0,
+        "unit": "item",
+        "type": "tag",
+        "rate": 1.0
+      },
+      {
+        "id": "c:dyes/light_blue",
+        "count": 1.0,
+        "unit": "item",
+        "type": "tag",
+        "rate": 1.0
+      }
+    ],
+    "outputs": [
+      {
+        "id": "create:empty_schematic",
+        "count": 1.0,
+        "unit": "item",
+        "type": "solid",
+        "rate": 1.0
+      }
+    ]
+  },
+  {
+    "recipe_id": "create_pattern_schematics:pattern_schematic_and_quill",
+    "mod_id": "create_pattern_schematics",
+    "recipe_type": "minecraft:crafting_shapeless",
+    "inputs": [
+      {
+        "id": "create_pattern_schematics:empty_pattern_schematic",
+        "count": 1.0,
+        "unit": "item",
+        "type": "solid",
+        "rate": 1.0
+      },
+      {
+        "id": "minecraft:feather",
+        "count": 1.0,
+        "unit": "item",
+        "type": "solid",
+        "rate": 1.0
+      }
+    ],
+    "outputs": [
+      {
+        "id": "create_pattern_schematics:pattern_schematic_and_quill",
+        "count": 1.0,
+        "unit": "item",
+        "type": "solid",
+        "rate": 1.0
+      }
+    ]
+  },
+  {
+    "recipe_id": "create_pattern_schematics:pattern_schematic",
+    "mod_id": "create_pattern_schematics",
+    "recipe_type": "minecraft:crafting_shapeless",
+    "inputs": [
+      {
+        "id": "create:iron_sheet",
+        "count": 1.0,
+        "unit": "item",
+        "type": "solid",
+        "rate": 1.0
+      },
+      {
+        "id": "minecraft:paper",
+        "count": 1.0,
+        "unit": "item",
+        "type": "solid",
+        "rate": 1.0
+      },
+      {
+        "id": "c:dyes/pink",
+        "count": 1.0,
+        "unit": "item",
+        "type": "tag",
+        "rate": 1.0
+      }
+    ],
+    "outputs": [
+      {
+        "id": "create_pattern_schematics:empty_pattern_schematic",
+        "count": 1.0,
+        "unit": "item",
+        "type": "solid",
+        "rate": 1.0
+      }
+    ]
+  },
+  {
+    "recipe_id": "create_pattern_schematics:pattern_schematic_from_substitute",
+    "mod_id": "create_pattern_schematics",
+    "recipe_type": "minecraft:crafting_shapeless",
+    "inputs": [
+      {
+        "id": "create:iron_sheet",
+        "count": 1.0,
+        "unit": "item",
+        "type": "solid",
+        "rate": 1.0
+      },
+      {
+        "id": "create_pattern_schematics:pattern_schematic_paper_substitutes",
+        "count": 1.0,
+        "unit": "item",
+        "type": "tag",
+        "rate": 1.0
+      },
+      {
+        "id": "c:dyes/pink",
+        "count": 1.0,
+        "unit": "item",
+        "type": "tag",
+        "rate": 1.0
+      }
+    ],
+    "outputs": [
+      {
+        "id": "create_pattern_schematics:empty_pattern_schematic",
+        "count": 1.0,
+        "unit": "item",
+        "type": "solid",
+        "rate": 1.0
+      }
+    ]
+  },
+  {
+    "recipe_id": "create_pattern_schematics:schematic_from_substitute",
+    "mod_id": "create_pattern_schematics",
+    "recipe_type": "minecraft:crafting_shapeless",
+    "inputs": [
+      {
+        "id": "create_pattern_schematics:schematic_paper_substitutes",
+        "count": 1.0,
+        "unit": "item",
+        "type": "tag",
+        "rate": 1.0
+      },
+      {
+        "id": "c:dyes/light_blue",
+        "count": 1.0,
+        "unit": "item",
+        "type": "tag",
+        "rate": 1.0
+      }
+    ],
+    "outputs": [
+      {
+        "id": "create:empty_schematic",
+        "count": 1.0,
+        "unit": "item",
+        "type": "solid",
+        "rate": 1.0
+      }
+    ]
+  },
+  {
+    "recipe_id": "create_pattern_schematics:pattern_schematic_and_quill",
+    "mod_id": "create_pattern_schematics",
+    "recipe_type": "minecraft:crafting_shapeless",
+    "inputs": [
+      {
+        "id": "create_pattern_schematics:empty_pattern_schematic",
+        "count": 1.0,
+        "unit": "item",
+        "type": "solid",
+        "rate": 1.0
+      },
+      {
+        "id": "minecraft:feather",
+        "count": 1.0,
+        "unit": "item",
+        "type": "solid",
+        "rate": 1.0
+      }
+    ],
+    "outputs": [
+      {
+        "id": "create_pattern_schematics:pattern_schematic_and_quill",
+        "count": 1.0,
+        "unit": "item",
+        "type": "solid",
+        "rate": 1.0
+      }
+    ]
+  },
+  {
+    "recipe_id": "create_pattern_schematics:pattern_schematic",
+    "mod_id": "create_pattern_schematics",
+    "recipe_type": "minecraft:crafting_shapeless",
+    "inputs": [
+      {
+        "id": "create:iron_sheet",
+        "count": 1.0,
+        "unit": "item",
+        "type": "solid",
+        "rate": 1.0
+      },
+      {
+        "id": "minecraft:paper",
+        "count": 1.0,
+        "unit": "item",
+        "type": "solid",
+        "rate": 1.0
+      },
+      {
+        "id": "c:dyes/pink",
+        "count": 1.0,
+        "unit": "item",
+        "type": "tag",
+        "rate": 1.0
+      }
+    ],
+    "outputs": [
+      {
+        "id": "create_pattern_schematics:empty_pattern_schematic",
+        "count": 1.0,
+        "unit": "item",
+        "type": "solid",
+        "rate": 1.0
+      }
+    ]
+  },
+  {
+    "recipe_id": "create_pattern_schematics:pattern_schematic_from_substitute",
+    "mod_id": "create_pattern_schematics",
+    "recipe_type": "minecraft:crafting_shapeless",
+    "inputs": [
+      {
+        "id": "create:iron_sheet",
+        "count": 1.0,
+        "unit": "item",
+        "type": "solid",
+        "rate": 1.0
+      },
+      {
+        "id": "create_pattern_schematics:pattern_schematic_paper_substitutes",
+        "count": 1.0,
+        "unit": "item",
+        "type": "tag",
+        "rate": 1.0
+      },
+      {
+        "id": "c:dyes/pink",
+        "count": 1.0,
+        "unit": "item",
+        "type": "tag",
+        "rate": 1.0
+      }
+    ],
+    "outputs": [
+      {
+        "id": "create_pattern_schematics:empty_pattern_schematic",
+        "count": 1.0,
+        "unit": "item",
+        "type": "solid",
+        "rate": 1.0
+      }
+    ]
+  },
+  {
+    "recipe_id": "create_pattern_schematics:schematic_from_substitute",
+    "mod_id": "create_pattern_schematics",
+    "recipe_type": "minecraft:crafting_shapeless",
+    "inputs": [
+      {
+        "id": "create_pattern_schematics:schematic_paper_substitutes",
+        "count": 1.0,
+        "unit": "item",
+        "type": "tag",
+        "rate": 1.0
+      },
+      {
+        "id": "c:dyes/light_blue",
+        "count": 1.0,
+        "unit": "item",
+        "type": "tag",
+        "rate": 1.0
+      }
+    ],
+    "outputs": [
+      {
+        "id": "create:empty_schematic",
+        "count": 1.0,
+        "unit": "item",
+        "type": "solid",
+        "rate": 1.0
+      }
+    ]
+  },
+  {
+    "recipe_id": "create_pattern_schematics:pattern_schematic_and_quill",
+    "mod_id": "create_pattern_schematics",
+    "recipe_type": "minecraft:crafting_shapeless",
+    "inputs": [
+      {
+        "id": "create_pattern_schematics:empty_pattern_schematic",
+        "count": 1.0,
+        "unit": "item",
+        "type": "solid",
+        "rate": 1.0
+      },
+      {
+        "id": "minecraft:feather",
+        "count": 1.0,
+        "unit": "item",
+        "type": "solid",
+        "rate": 1.0
+      }
+    ],
+    "outputs": [
+      {
+        "id": "create_pattern_schematics:pattern_schematic_and_quill",
+        "count": 1.0,
+        "unit": "item",
+        "type": "solid",
+        "rate": 1.0
+      }
+    ]
+  },
+  {
+    "recipe_id": "create_pattern_schematics:pattern_schematic",
+    "mod_id": "create_pattern_schematics",
+    "recipe_type": "minecraft:crafting_shapeless",
+    "inputs": [
+      {
+        "id": "create:iron_sheet",
+        "count": 1.0,
+        "unit": "item",
+        "type": "solid",
+        "rate": 1.0
+      },
+      {
+        "id": "minecraft:paper",
+        "count": 1.0,
+        "unit": "item",
+        "type": "solid",
+        "rate": 1.0
+      },
+      {
+        "id": "c:dyes/pink",
+        "count": 1.0,
+        "unit": "item",
+        "type": "tag",
+        "rate": 1.0
+      }
+    ],
+    "outputs": [
+      {
+        "id": "create_pattern_schematics:empty_pattern_schematic",
+        "count": 1.0,
+        "unit": "item",
+        "type": "solid",
+        "rate": 1.0
+      }
+    ]
+  },
+  {
+    "recipe_id": "create_pattern_schematics:pattern_schematic_from_substitute",
+    "mod_id": "create_pattern_schematics",
+    "recipe_type": "minecraft:crafting_shapeless",
+    "inputs": [
+      {
+        "id": "create:iron_sheet",
+        "count": 1.0,
+        "unit": "item",
+        "type": "solid",
+        "rate": 1.0
+      },
+      {
+        "id": "create_pattern_schematics:pattern_schematic_paper_substitutes",
+        "count": 1.0,
+        "unit": "item",
+        "type": "tag",
+        "rate": 1.0
+      },
+      {
+        "id": "c:dyes/pink",
+        "count": 1.0,
+        "unit": "item",
+        "type": "tag",
+        "rate": 1.0
+      }
+    ],
+    "outputs": [
+      {
+        "id": "create_pattern_schematics:empty_pattern_schematic",
+        "count": 1.0,
+        "unit": "item",
+        "type": "solid",
+        "rate": 1.0
+      }
+    ]
+  },
+  {
+    "recipe_id": "create_pattern_schematics:schematic_from_substitute",
+    "mod_id": "create_pattern_schematics",
+    "recipe_type": "minecraft:crafting_shapeless",
+    "inputs": [
+      {
+        "id": "create_pattern_schematics:schematic_paper_substitutes",
+        "count": 1.0,
+        "unit": "item",
+        "type": "tag",
+        "rate": 1.0
+      },
+      {
+        "id": "c:dyes/light_blue",
+        "count": 1.0,
+        "unit": "item",
+        "type": "tag",
+        "rate": 1.0
+      }
+    ],
+    "outputs": [
+      {
+        "id": "create:empty_schematic",
+        "count": 1.0,
+        "unit": "item",
+        "type": "solid",
+        "rate": 1.0
+      }
+    ]
+  },
+  {
+    "recipe_id": "create_pattern_schematics:pattern_schematic_and_quill",
+    "mod_id": "create_pattern_schematics",
+    "recipe_type": "minecraft:crafting_shapeless",
+    "inputs": [
+      {
+        "id": "create_pattern_schematics:empty_pattern_schematic",
+        "count": 1.0,
+        "unit": "item",
+        "type": "solid",
+        "rate": 1.0
+      },
+      {
+        "id": "minecraft:feather",
+        "count": 1.0,
+        "unit": "item",
+        "type": "solid",
+        "rate": 1.0
+      }
+    ],
+    "outputs": [
+      {
+        "id": "create_pattern_schematics:pattern_schematic_and_quill",
+        "count": 1.0,
+        "unit": "item",
+        "type": "solid",
+        "rate": 1.0
+      }
+    ]
+  },
+  {
+    "recipe_id": "create_pattern_schematics:pattern_schematic",
+    "mod_id": "create_pattern_schematics",
+    "recipe_type": "minecraft:crafting_shapeless",
+    "inputs": [
+      {
+        "id": "create:iron_sheet",
+        "count": 1.0,
+        "unit": "item",
+        "type": "solid",
+        "rate": 1.0
+      },
+      {
+        "id": "minecraft:paper",
+        "count": 1.0,
+        "unit": "item",
+        "type": "solid",
+        "rate": 1.0
+      },
+      {
+        "id": "c:dyes/pink",
+        "count": 1.0,
+        "unit": "item",
+        "type": "tag",
+        "rate": 1.0
+      }
+    ],
+    "outputs": [
+      {
+        "id": "create_pattern_schematics:empty_pattern_schematic",
+        "count": 1.0,
+        "unit": "item",
+        "type": "solid",
+        "rate": 1.0
+      }
+    ]
+  },
+  {
+    "recipe_id": "create_pattern_schematics:pattern_schematic_from_substitute",
+    "mod_id": "create_pattern_schematics",
+    "recipe_type": "minecraft:crafting_shapeless",
+    "inputs": [
+      {
+        "id": "create:iron_sheet",
+        "count": 1.0,
+        "unit": "item",
+        "type": "solid",
+        "rate": 1.0
+      },
+      {
+        "id": "create_pattern_schematics:pattern_schematic_paper_substitutes",
+        "count": 1.0,
+        "unit": "item",
+        "type": "tag",
+        "rate": 1.0
+      },
+      {
+        "id": "c:dyes/pink",
+        "count": 1.0,
+        "unit": "item",
+        "type": "tag",
+        "rate": 1.0
+      }
+    ],
+    "outputs": [
+      {
+        "id": "create_pattern_schematics:empty_pattern_schematic",
+        "count": 1.0,
+        "unit": "item",
+        "type": "solid",
+        "rate": 1.0
+      }
+    ]
+  },
+  {
+    "recipe_id": "create_pattern_schematics:schematic_from_substitute",
+    "mod_id": "create_pattern_schematics",
+    "recipe_type": "minecraft:crafting_shapeless",
+    "inputs": [
+      {
+        "id": "create_pattern_schematics:schematic_paper_substitutes",
+        "count": 1.0,
+        "unit": "item",
+        "type": "tag",
+        "rate": 1.0
+      },
+      {
+        "id": "c:dyes/light_blue",
+        "count": 1.0,
+        "unit": "item",
+        "type": "tag",
+        "rate": 1.0
+      }
+    ],
+    "outputs": [
+      {
+        "id": "create:empty_schematic",
+        "count": 1.0,
+        "unit": "item",
+        "type": "solid",
+        "rate": 1.0
+      }
+    ]
+  },
+  {
+    "recipe_id": "create_pattern_schematics:pattern_schematic_and_quill",
+    "mod_id": "create_pattern_schematics",
+    "recipe_type": "minecraft:crafting_shapeless",
+    "inputs": [
+      {
+        "id": "create_pattern_schematics:empty_pattern_schematic",
+        "count": 1.0,
+        "unit": "item",
+        "type": "solid",
+        "rate": 1.0
+      },
+      {
+        "id": "minecraft:feather",
+        "count": 1.0,
+        "unit": "item",
+        "type": "solid",
+        "rate": 1.0
+      }
+    ],
+    "outputs": [
+      {
+        "id": "create_pattern_schematics:pattern_schematic_and_quill",
+        "count": 1.0,
+        "unit": "item",
+        "type": "solid",
+        "rate": 1.0
+      }
+    ]
+  },
+  {
+    "recipe_id": "create_pattern_schematics:pattern_schematic",
+    "mod_id": "create_pattern_schematics",
+    "recipe_type": "minecraft:crafting_shapeless",
+    "inputs": [
+      {
+        "id": "create:iron_sheet",
+        "count": 1.0,
+        "unit": "item",
+        "type": "solid",
+        "rate": 1.0
+      },
+      {
+        "id": "minecraft:paper",
+        "count": 1.0,
+        "unit": "item",
+        "type": "solid",
+        "rate": 1.0
+      },
+      {
+        "id": "c:dyes/pink",
+        "count": 1.0,
+        "unit": "item",
+        "type": "tag",
+        "rate": 1.0
+      }
+    ],
+    "outputs": [
+      {
+        "id": "create_pattern_schematics:empty_pattern_schematic",
+        "count": 1.0,
+        "unit": "item",
+        "type": "solid",
+        "rate": 1.0
+      }
+    ]
+  },
+  {
+    "recipe_id": "create_pattern_schematics:pattern_schematic_from_substitute",
+    "mod_id": "create_pattern_schematics",
+    "recipe_type": "minecraft:crafting_shapeless",
+    "inputs": [
+      {
+        "id": "create:iron_sheet",
+        "count": 1.0,
+        "unit": "item",
+        "type": "solid",
+        "rate": 1.0
+      },
+      {
+        "id": "create_pattern_schematics:pattern_schematic_paper_substitutes",
+        "count": 1.0,
+        "unit": "item",
+        "type": "tag",
+        "rate": 1.0
+      },
+      {
+        "id": "c:dyes/pink",
+        "count": 1.0,
+        "unit": "item",
+        "type": "tag",
+        "rate": 1.0
+      }
+    ],
+    "outputs": [
+      {
+        "id": "create_pattern_schematics:empty_pattern_schematic",
+        "count": 1.0,
+        "unit": "item",
+        "type": "solid",
+        "rate": 1.0
+      }
+    ]
+  },
+  {
+    "recipe_id": "create_pattern_schematics:schematic_from_substitute",
+    "mod_id": "create_pattern_schematics",
+    "recipe_type": "minecraft:crafting_shapeless",
+    "inputs": [
+      {
+        "id": "create_pattern_schematics:schematic_paper_substitutes",
+        "count": 1.0,
+        "unit": "item",
+        "type": "tag",
+        "rate": 1.0
+      },
+      {
+        "id": "c:dyes/light_blue",
+        "count": 1.0,
+        "unit": "item",
+        "type": "tag",
+        "rate": 1.0
+      }
+    ],
+    "outputs": [
+      {
+        "id": "create:empty_schematic",
+        "count": 1.0,
+        "unit": "item",
+        "type": "solid",
+        "rate": 1.0
+      }
+    ]
+  },
+  {
+    "recipe_id": "create_pattern_schematics:pattern_schematic_and_quill",
+    "mod_id": "create_pattern_schematics",
+    "recipe_type": "minecraft:crafting_shapeless",
+    "inputs": [
+      {
+        "id": "create_pattern_schematics:empty_pattern_schematic",
+        "count": 1.0,
+        "unit": "item",
+        "type": "solid",
+        "rate": 1.0
+      },
+      {
+        "id": "minecraft:feather",
+        "count": 1.0,
+        "unit": "item",
+        "type": "solid",
+        "rate": 1.0
+      }
+    ],
+    "outputs": [
+      {
+        "id": "create_pattern_schematics:pattern_schematic_and_quill",
+        "count": 1.0,
+        "unit": "item",
+        "type": "solid",
+        "rate": 1.0
+      }
+    ]
+  },
+  {
+    "recipe_id": "create_pattern_schematics:pattern_schematic",
+    "mod_id": "create_pattern_schematics",
+    "recipe_type": "minecraft:crafting_shapeless",
+    "inputs": [
+      {
+        "id": "create:iron_sheet",
+        "count": 1.0,
+        "unit": "item",
+        "type": "solid",
+        "rate": 1.0
+      },
+      {
+        "id": "minecraft:paper",
+        "count": 1.0,
+        "unit": "item",
+        "type": "solid",
+        "rate": 1.0
+      },
+      {
+        "id": "c:dyes/pink",
+        "count": 1.0,
+        "unit": "item",
+        "type": "tag",
+        "rate": 1.0
+      }
+    ],
+    "outputs": [
+      {
+        "id": "create_pattern_schematics:empty_pattern_schematic",
+        "count": 1.0,
+        "unit": "item",
+        "type": "solid",
+        "rate": 1.0
+      }
+    ]
+  },
+  {
+    "recipe_id": "create_pattern_schematics:pattern_schematic_from_substitute",
+    "mod_id": "create_pattern_schematics",
+    "recipe_type": "minecraft:crafting_shapeless",
+    "inputs": [
+      {
+        "id": "create:iron_sheet",
+        "count": 1.0,
+        "unit": "item",
+        "type": "solid",
+        "rate": 1.0
+      },
+      {
+        "id": "create_pattern_schematics:pattern_schematic_paper_substitutes",
+        "count": 1.0,
+        "unit": "item",
+        "type": "tag",
+        "rate": 1.0
+      },
+      {
+        "id": "c:dyes/pink",
+        "count": 1.0,
+        "unit": "item",
+        "type": "tag",
+        "rate": 1.0
+      }
+    ],
+    "outputs": [
+      {
+        "id": "create_pattern_schematics:empty_pattern_schematic",
+        "count": 1.0,
+        "unit": "item",
+        "type": "solid",
+        "rate": 1.0
+      }
+    ]
+  },
+  {
+    "recipe_id": "create_pattern_schematics:schematic_from_substitute",
+    "mod_id": "create_pattern_schematics",
+    "recipe_type": "minecraft:crafting_shapeless",
+    "inputs": [
+      {
+        "id": "create_pattern_schematics:schematic_paper_substitutes",
+        "count": 1.0,
+        "unit": "item",
+        "type": "tag",
+        "rate": 1.0
+      },
+      {
+        "id": "c:dyes/light_blue",
+        "count": 1.0,
+        "unit": "item",
+        "type": "tag",
+        "rate": 1.0
+      }
+    ],
+    "outputs": [
+      {
+        "id": "create:empty_schematic",
+        "count": 1.0,
+        "unit": "item",
+        "type": "solid",
+        "rate": 1.0
+      }
+    ]
+  },
+  {
+    "recipe_id": "create_pattern_schematics:schematic_from_substitute",
+    "mod_id": "create_pattern_schematics",
+    "recipe_type": "minecraft:crafting_shapeless",
+    "inputs": [
+      {
+        "id": "create_pattern_schematics:schematic_paper_substitutes",
+        "count": 1.0,
+        "unit": "item",
+        "type": "tag",
+        "rate": 1.0
+      },
+      {
+        "id": "c:dyes/light_blue",
+        "count": 1.0,
+        "unit": "item",
+        "type": "tag",
+        "rate": 1.0
+      }
+    ],
+    "outputs": [
+      {
+        "id": "create:empty_schematic",
+        "count": 1.0,
+        "unit": "item",
+        "type": "solid",
+        "rate": 1.0
+      }
+    ]
+  },
+  {
+    "recipe_id": "create_pattern_schematics:pattern_schematic_and_quill",
+    "mod_id": "create_pattern_schematics",
+    "recipe_type": "minecraft:crafting_shapeless",
+    "inputs": [
+      {
+        "id": "create_pattern_schematics:empty_pattern_schematic",
+        "count": 1.0,
+        "unit": "item",
+        "type": "solid",
+        "rate": 1.0
+      },
+      {
+        "id": "minecraft:feather",
+        "count": 1.0,
+        "unit": "item",
+        "type": "solid",
+        "rate": 1.0
+      }
+    ],
+    "outputs": [
+      {
+        "id": "create_pattern_schematics:pattern_schematic_and_quill",
+        "count": 1.0,
+        "unit": "item",
+        "type": "solid",
+        "rate": 1.0
+      }
+    ]
+  },
+  {
+    "recipe_id": "create_pattern_schematics:pattern_schematic",
+    "mod_id": "create_pattern_schematics",
+    "recipe_type": "minecraft:crafting_shapeless",
+    "inputs": [
+      {
+        "id": "create:iron_sheet",
+        "count": 1.0,
+        "unit": "item",
+        "type": "solid",
+        "rate": 1.0
+      },
+      {
+        "id": "minecraft:paper",
+        "count": 1.0,
+        "unit": "item",
+        "type": "solid",
+        "rate": 1.0
+      },
+      {
+        "id": "c:dyes/pink",
+        "count": 1.0,
+        "unit": "item",
+        "type": "tag",
+        "rate": 1.0
+      }
+    ],
+    "outputs": [
+      {
+        "id": "create_pattern_schematics:empty_pattern_schematic",
+        "count": 1.0,
+        "unit": "item",
+        "type": "solid",
+        "rate": 1.0
+      }
+    ]
+  },
+  {
+    "recipe_id": "create_pattern_schematics:pattern_schematic_from_substitute",
+    "mod_id": "create_pattern_schematics",
+    "recipe_type": "minecraft:crafting_shapeless",
+    "inputs": [
+      {
+        "id": "create:iron_sheet",
+        "count": 1.0,
+        "unit": "item",
+        "type": "solid",
+        "rate": 1.0
+      },
+      {
+        "id": "create_pattern_schematics:pattern_schematic_paper_substitutes",
+        "count": 1.0,
+        "unit": "item",
+        "type": "tag",
+        "rate": 1.0
+      },
+      {
+        "id": "c:dyes/pink",
+        "count": 1.0,
+        "unit": "item",
+        "type": "tag",
+        "rate": 1.0
+      }
+    ],
+    "outputs": [
+      {
+        "id": "create_pattern_schematics:empty_pattern_schematic",
+        "count": 1.0,
+        "unit": "item",
+        "type": "solid",
+        "rate": 1.0
+      }
+    ]
+  },
+  {
+    "recipe_id": "create_pattern_schematics:schematic_from_substitute",
+    "mod_id": "create_pattern_schematics",
+    "recipe_type": "minecraft:crafting_shapeless",
+    "inputs": [
+      {
+        "id": "create_pattern_schematics:schematic_paper_substitutes",
+        "count": 1.0,
+        "unit": "item",
+        "type": "tag",
+        "rate": 1.0
+      },
+      {
+        "id": "c:dyes/light_blue",
+        "count": 1.0,
+        "unit": "item",
+        "type": "tag",
+        "rate": 1.0
+      }
+    ],
+    "outputs": [
+      {
+        "id": "create:empty_schematic",
+        "count": 1.0,
+        "unit": "item",
+        "type": "solid",
+        "rate": 1.0
+      }
+    ]
+  },
+  {
+    "recipe_id": "create_pattern_schematics:schematic_from_substitute",
+    "mod_id": "create_pattern_schematics",
+    "recipe_type": "minecraft:crafting_shapeless",
+    "inputs": [
+      {
+        "id": "create_pattern_schematics:schematic_paper_substitutes",
+        "count": 1.0,
+        "unit": "item",
+        "type": "tag",
+        "rate": 1.0
+      },
+      {
+        "id": "c:dyes/light_blue",
+        "count": 1.0,
+        "unit": "item",
+        "type": "tag",
+        "rate": 1.0
+      }
+    ],
+    "outputs": [
+      {
+        "id": "create:empty_schematic",
+        "count": 1.0,
+        "unit": "item",
+        "type": "solid",
+        "rate": 1.0
+      }
+    ]
+  },
+  {
+    "recipe_id": "create_pattern_schematics:pattern_schematic_and_quill",
+    "mod_id": "create_pattern_schematics",
+    "recipe_type": "minecraft:crafting_shapeless",
+    "inputs": [
+      {
+        "id": "create_pattern_schematics:empty_pattern_schematic",
+        "count": 1.0,
+        "unit": "item",
+        "type": "solid",
+        "rate": 1.0
+      },
+      {
+        "id": "minecraft:feather",
+        "count": 1.0,
+        "unit": "item",
+        "type": "solid",
+        "rate": 1.0
+      }
+    ],
+    "outputs": [
+      {
+        "id": "create_pattern_schematics:pattern_schematic_and_quill",
+        "count": 1.0,
+        "unit": "item",
+        "type": "solid",
+        "rate": 1.0
+      }
+    ]
+  },
+  {
+    "recipe_id": "create_pattern_schematics:pattern_schematic",
+    "mod_id": "create_pattern_schematics",
+    "recipe_type": "minecraft:crafting_shapeless",
+    "inputs": [
+      {
+        "id": "create:iron_sheet",
+        "count": 1.0,
+        "unit": "item",
+        "type": "solid",
+        "rate": 1.0
+      },
+      {
+        "id": "minecraft:paper",
+        "count": 1.0,
+        "unit": "item",
+        "type": "solid",
+        "rate": 1.0
+      },
+      {
+        "id": "c:dyes/pink",
+        "count": 1.0,
+        "unit": "item",
+        "type": "tag",
+        "rate": 1.0
+      }
+    ],
+    "outputs": [
+      {
+        "id": "create_pattern_schematics:empty_pattern_schematic",
+        "count": 1.0,
+        "unit": "item",
+        "type": "solid",
+        "rate": 1.0
+      }
+    ]
+  },
+  {
+    "recipe_id": "create_pattern_schematics:pattern_schematic_from_substitute",
+    "mod_id": "create_pattern_schematics",
+    "recipe_type": "minecraft:crafting_shapeless",
+    "inputs": [
+      {
+        "id": "create:iron_sheet",
+        "count": 1.0,
+        "unit": "item",
+        "type": "solid",
+        "rate": 1.0
+      },
+      {
+        "id": "create_pattern_schematics:pattern_schematic_paper_substitutes",
+        "count": 1.0,
+        "unit": "item",
+        "type": "tag",
+        "rate": 1.0
+      },
+      {
+        "id": "c:dyes/pink",
+        "count": 1.0,
+        "unit": "item",
+        "type": "tag",
+        "rate": 1.0
+      }
+    ],
+    "outputs": [
+      {
+        "id": "create_pattern_schematics:empty_pattern_schematic",
+        "count": 1.0,
+        "unit": "item",
+        "type": "solid",
+        "rate": 1.0
+      }
+    ]
+  },
+  {
+    "recipe_id": "create_pattern_schematics:schematic_from_substitute",
+    "mod_id": "create_pattern_schematics",
+    "recipe_type": "minecraft:crafting_shapeless",
+    "inputs": [
+      {
+        "id": "create_pattern_schematics:schematic_paper_substitutes",
+        "count": 1.0,
+        "unit": "item",
+        "type": "tag",
+        "rate": 1.0
+      },
+      {
+        "id": "c:dyes/light_blue",
+        "count": 1.0,
+        "unit": "item",
+        "type": "tag",
+        "rate": 1.0
+      }
+    ],
+    "outputs": [
+      {
+        "id": "create:empty_schematic",
+        "count": 1.0,
+        "unit": "item",
+        "type": "solid",
+        "rate": 1.0
+      }
+    ]
+  },
+  {
+    "recipe_id": "create_pattern_schematics:pattern_schematic_and_quill",
+    "mod_id": "create_pattern_schematics",
+    "recipe_type": "minecraft:crafting_shapeless",
+    "inputs": [
+      {
+        "id": "create_pattern_schematics:empty_pattern_schematic",
+        "count": 1.0,
+        "unit": "item",
+        "type": "solid",
+        "rate": 1.0
+      },
+      {
+        "id": "minecraft:feather",
+        "count": 1.0,
+        "unit": "item",
+        "type": "solid",
+        "rate": 1.0
+      }
+    ],
+    "outputs": [
+      {
+        "id": "create_pattern_schematics:pattern_schematic_and_quill",
+        "count": 1.0,
+        "unit": "item",
+        "type": "solid",
+        "rate": 1.0
+      }
+    ]
+  },
+  {
+    "recipe_id": "create_pattern_schematics:pattern_schematic",
+    "mod_id": "create_pattern_schematics",
+    "recipe_type": "minecraft:crafting_shapeless",
+    "inputs": [
+      {
+        "id": "create:iron_sheet",
+        "count": 1.0,
+        "unit": "item",
+        "type": "solid",
+        "rate": 1.0
+      },
+      {
+        "id": "minecraft:paper",
+        "count": 1.0,
+        "unit": "item",
+        "type": "solid",
+        "rate": 1.0
+      },
+      {
+        "id": "c:dyes/pink",
+        "count": 1.0,
+        "unit": "item",
+        "type": "tag",
+        "rate": 1.0
+      }
+    ],
+    "outputs": [
+      {
+        "id": "create_pattern_schematics:empty_pattern_schematic",
+        "count": 1.0,
+        "unit": "item",
+        "type": "solid",
+        "rate": 1.0
+      }
+    ]
+  },
+  {
+    "recipe_id": "create_pattern_schematics:pattern_schematic_from_substitute",
+    "mod_id": "create_pattern_schematics",
+    "recipe_type": "minecraft:crafting_shapeless",
+    "inputs": [
+      {
+        "id": "create:iron_sheet",
+        "count": 1.0,
+        "unit": "item",
+        "type": "solid",
+        "rate": 1.0
+      },
+      {
+        "id": "create_pattern_schematics:pattern_schematic_paper_substitutes",
+        "count": 1.0,
+        "unit": "item",
+        "type": "tag",
+        "rate": 1.0
+      },
+      {
+        "id": "c:dyes/pink",
+        "count": 1.0,
+        "unit": "item",
+        "type": "tag",
+        "rate": 1.0
+      }
+    ],
+    "outputs": [
+      {
+        "id": "create_pattern_schematics:empty_pattern_schematic",
+        "count": 1.0,
+        "unit": "item",
+        "type": "solid",
+        "rate": 1.0
+      }
+    ]
+  },
+  {
+    "recipe_id": "create_pattern_schematics:schematic_from_substitute",
+    "mod_id": "create_pattern_schematics",
+    "recipe_type": "minecraft:crafting_shapeless",
+    "inputs": [
+      {
+        "id": "create_pattern_schematics:schematic_paper_substitutes",
+        "count": 1.0,
+        "unit": "item",
+        "type": "tag",
+        "rate": 1.0
+      },
+      {
+        "id": "c:dyes/light_blue",
+        "count": 1.0,
+        "unit": "item",
+        "type": "tag",
+        "rate": 1.0
+      }
+    ],
+    "outputs": [
+      {
+        "id": "create:empty_schematic",
+        "count": 1.0,
+        "unit": "item",
+        "type": "solid",
+        "rate": 1.0
+      }
+    ]
+  },
+  {
+    "recipe_id": "create_pattern_schematics:pattern_schematic_and_quill",
+    "mod_id": "create_pattern_schematics",
+    "recipe_type": "minecraft:crafting_shapeless",
+    "inputs": [
+      {
+        "id": "create_pattern_schematics:empty_pattern_schematic",
+        "count": 1.0,
+        "unit": "item",
+        "type": "solid",
+        "rate": 1.0
+      },
+      {
+        "id": "minecraft:feather",
+        "count": 1.0,
+        "unit": "item",
+        "type": "solid",
+        "rate": 1.0
+      }
+    ],
+    "outputs": [
+      {
+        "id": "create_pattern_schematics:pattern_schematic_and_quill",
+        "count": 1.0,
+        "unit": "item",
+        "type": "solid",
+        "rate": 1.0
+      }
+    ]
+  },
+  {
+    "recipe_id": "create_pattern_schematics:pattern_schematic",
+    "mod_id": "create_pattern_schematics",
+    "recipe_type": "minecraft:crafting_shapeless",
+    "inputs": [
+      {
+        "id": "create:iron_sheet",
+        "count": 1.0,
+        "unit": "item",
+        "type": "solid",
+        "rate": 1.0
+      },
+      {
+        "id": "minecraft:paper",
+        "count": 1.0,
+        "unit": "item",
+        "type": "solid",
+        "rate": 1.0
+      },
+      {
+        "id": "c:dyes/pink",
+        "count": 1.0,
+        "unit": "item",
+        "type": "tag",
+        "rate": 1.0
+      }
+    ],
+    "outputs": [
+      {
+        "id": "create_pattern_schematics:empty_pattern_schematic",
+        "count": 1.0,
+        "unit": "item",
+        "type": "solid",
+        "rate": 1.0
+      }
+    ]
+  },
+  {
+    "recipe_id": "create_pattern_schematics:pattern_schematic_from_substitute",
+    "mod_id": "create_pattern_schematics",
+    "recipe_type": "minecraft:crafting_shapeless",
+    "inputs": [
+      {
+        "id": "create:iron_sheet",
+        "count": 1.0,
+        "unit": "item",
+        "type": "solid",
+        "rate": 1.0
+      },
+      {
+        "id": "create_pattern_schematics:pattern_schematic_paper_substitutes",
+        "count": 1.0,
+        "unit": "item",
+        "type": "tag",
+        "rate": 1.0
+      },
+      {
+        "id": "c:dyes/pink",
+        "count": 1.0,
+        "unit": "item",
+        "type": "tag",
+        "rate": 1.0
+      }
+    ],
+    "outputs": [
+      {
+        "id": "create_pattern_schematics:empty_pattern_schematic",
+        "count": 1.0,
+        "unit": "item",
+        "type": "solid",
+        "rate": 1.0
+      }
+    ]
+  },
+  {
+    "recipe_id": "create_pattern_schematics:schematic_from_substitute",
+    "mod_id": "create_pattern_schematics",
+    "recipe_type": "minecraft:crafting_shapeless",
+    "inputs": [
+      {
+        "id": "create_pattern_schematics:schematic_paper_substitutes",
+        "count": 1.0,
+        "unit": "item",
+        "type": "tag",
+        "rate": 1.0
+      },
+      {
+        "id": "c:dyes/light_blue",
+        "count": 1.0,
+        "unit": "item",
+        "type": "tag",
+        "rate": 1.0
+      }
+    ],
+    "outputs": [
+      {
+        "id": "create:empty_schematic",
+        "count": 1.0,
+        "unit": "item",
+        "type": "solid",
+        "rate": 1.0
+      }
+    ]
+  },
+  {
+    "recipe_id": "create_pattern_schematics:pattern_schematic_and_quill",
+    "mod_id": "create_pattern_schematics",
+    "recipe_type": "minecraft:crafting_shapeless",
+    "inputs": [
+      {
+        "id": "create_pattern_schematics:empty_pattern_schematic",
+        "count": 1.0,
+        "unit": "item",
+        "type": "solid",
+        "rate": 1.0
+      },
+      {
+        "id": "minecraft:feather",
+        "count": 1.0,
+        "unit": "item",
+        "type": "solid",
+        "rate": 1.0
+      }
+    ],
+    "outputs": [
+      {
+        "id": "create_pattern_schematics:pattern_schematic_and_quill",
+        "count": 1.0,
+        "unit": "item",
+        "type": "solid",
+        "rate": 1.0
+      }
+    ]
+  },
+  {
+    "recipe_id": "create_pattern_schematics:pattern_schematic",
+    "mod_id": "create_pattern_schematics",
+    "recipe_type": "minecraft:crafting_shapeless",
+    "inputs": [
+      {
+        "id": "create:iron_sheet",
+        "count": 1.0,
+        "unit": "item",
+        "type": "solid",
+        "rate": 1.0
+      },
+      {
+        "id": "minecraft:paper",
+        "count": 1.0,
+        "unit": "item",
+        "type": "solid",
+        "rate": 1.0
+      },
+      {
+        "id": "c:dyes/pink",
+        "count": 1.0,
+        "unit": "item",
+        "type": "tag",
+        "rate": 1.0
+      }
+    ],
+    "outputs": [
+      {
+        "id": "create_pattern_schematics:empty_pattern_schematic",
+        "count": 1.0,
+        "unit": "item",
+        "type": "solid",
+        "rate": 1.0
+      }
+    ]
+  },
+  {
+    "recipe_id": "create_pattern_schematics:pattern_schematic_from_substitute",
+    "mod_id": "create_pattern_schematics",
+    "recipe_type": "minecraft:crafting_shapeless",
+    "inputs": [
+      {
+        "id": "create:iron_sheet",
+        "count": 1.0,
+        "unit": "item",
+        "type": "solid",
+        "rate": 1.0
+      },
+      {
+        "id": "create_pattern_schematics:pattern_schematic_paper_substitutes",
+        "count": 1.0,
+        "unit": "item",
+        "type": "tag",
+        "rate": 1.0
+      },
+      {
+        "id": "c:dyes/pink",
+        "count": 1.0,
+        "unit": "item",
+        "type": "tag",
+        "rate": 1.0
+      }
+    ],
+    "outputs": [
+      {
+        "id": "create_pattern_schematics:empty_pattern_schematic",
+        "count": 1.0,
+        "unit": "item",
+        "type": "solid",
+        "rate": 1.0
+      }
+    ]
+  },
+  {
+    "recipe_id": "create_pattern_schematics:schematic_from_substitute",
+    "mod_id": "create_pattern_schematics",
+    "recipe_type": "minecraft:crafting_shapeless",
+    "inputs": [
+      {
+        "id": "create_pattern_schematics:schematic_paper_substitutes",
+        "count": 1.0,
+        "unit": "item",
+        "type": "tag",
+        "rate": 1.0
+      },
+      {
+        "id": "c:dyes/light_blue",
+        "count": 1.0,
+        "unit": "item",
+        "type": "tag",
+        "rate": 1.0
+      }
+    ],
+    "outputs": [
+      {
+        "id": "create:empty_schematic",
+        "count": 1.0,
+        "unit": "item",
+        "type": "solid",
+        "rate": 1.0
+      }
+    ]
+  },
+  {
+    "recipe_id": "create_pattern_schematics:pattern_schematic_and_quill",
+    "mod_id": "create_pattern_schematics",
+    "recipe_type": "minecraft:crafting_shapeless",
+    "inputs": [
+      {
+        "id": "create_pattern_schematics:empty_pattern_schematic",
+        "count": 1.0,
+        "unit": "item",
+        "type": "solid",
+        "rate": 1.0
+      },
+      {
+        "id": "minecraft:feather",
+        "count": 1.0,
+        "unit": "item",
+        "type": "solid",
+        "rate": 1.0
+      }
+    ],
+    "outputs": [
+      {
+        "id": "create_pattern_schematics:pattern_schematic_and_quill",
+        "count": 1.0,
+        "unit": "item",
+        "type": "solid",
+        "rate": 1.0
+      }
+    ]
+  },
+  {
+    "recipe_id": "create_pattern_schematics:pattern_schematic",
+    "mod_id": "create_pattern_schematics",
+    "recipe_type": "minecraft:crafting_shapeless",
+    "inputs": [
+      {
+        "id": "create:iron_sheet",
+        "count": 1.0,
+        "unit": "item",
+        "type": "solid",
+        "rate": 1.0
+      },
+      {
+        "id": "minecraft:paper",
+        "count": 1.0,
+        "unit": "item",
+        "type": "solid",
+        "rate": 1.0
+      },
+      {
+        "id": "c:dyes/pink",
+        "count": 1.0,
+        "unit": "item",
+        "type": "tag",
+        "rate": 1.0
+      }
+    ],
+    "outputs": [
+      {
+        "id": "create_pattern_schematics:empty_pattern_schematic",
+        "count": 1.0,
+        "unit": "item",
+        "type": "solid",
+        "rate": 1.0
+      }
+    ]
+  },
+  {
+    "recipe_id": "create_pattern_schematics:pattern_schematic_from_substitute",
+    "mod_id": "create_pattern_schematics",
+    "recipe_type": "minecraft:crafting_shapeless",
+    "inputs": [
+      {
+        "id": "create:iron_sheet",
+        "count": 1.0,
+        "unit": "item",
+        "type": "solid",
+        "rate": 1.0
+      },
+      {
+        "id": "create_pattern_schematics:pattern_schematic_paper_substitutes",
+        "count": 1.0,
+        "unit": "item",
+        "type": "tag",
+        "rate": 1.0
+      },
+      {
+        "id": "c:dyes/pink",
+        "count": 1.0,
+        "unit": "item",
+        "type": "tag",
+        "rate": 1.0
+      }
+    ],
+    "outputs": [
+      {
+        "id": "create_pattern_schematics:empty_pattern_schematic",
+        "count": 1.0,
+        "unit": "item",
+        "type": "solid",
+        "rate": 1.0
+      }
+    ]
+  },
+  {
+    "recipe_id": "create_pattern_schematics:schematic_from_substitute",
+    "mod_id": "create_pattern_schematics",
+    "recipe_type": "minecraft:crafting_shapeless",
+    "inputs": [
+      {
+        "id": "create_pattern_schematics:schematic_paper_substitutes",
+        "count": 1.0,
+        "unit": "item",
+        "type": "tag",
+        "rate": 1.0
+      },
+      {
+        "id": "c:dyes/light_blue",
+        "count": 1.0,
+        "unit": "item",
+        "type": "tag",
+        "rate": 1.0
+      }
+    ],
+    "outputs": [
+      {
+        "id": "create:empty_schematic",
+        "count": 1.0,
+        "unit": "item",
+        "type": "solid",
+        "rate": 1.0
+      }
+    ]
+  },
+  {
+    "recipe_id": "create_pattern_schematics:pattern_schematic_and_quill",
+    "mod_id": "create_pattern_schematics",
+    "recipe_type": "minecraft:crafting_shapeless",
+    "inputs": [
+      {
+        "id": "create_pattern_schematics:empty_pattern_schematic",
+        "count": 1.0,
+        "unit": "item",
+        "type": "solid",
+        "rate": 1.0
+      },
+      {
+        "id": "minecraft:feather",
+        "count": 1.0,
+        "unit": "item",
+        "type": "solid",
+        "rate": 1.0
+      }
+    ],
+    "outputs": [
+      {
+        "id": "create_pattern_schematics:pattern_schematic_and_quill",
+        "count": 1.0,
+        "unit": "item",
+        "type": "solid",
+        "rate": 1.0
+      }
+    ]
+  },
+  {
+    "recipe_id": "create_pattern_schematics:pattern_schematic",
+    "mod_id": "create_pattern_schematics",
+    "recipe_type": "minecraft:crafting_shapeless",
+    "inputs": [
+      {
+        "id": "create:iron_sheet",
+        "count": 1.0,
+        "unit": "item",
+        "type": "solid",
+        "rate": 1.0
+      },
+      {
+        "id": "minecraft:paper",
+        "count": 1.0,
+        "unit": "item",
+        "type": "solid",
+        "rate": 1.0
+      },
+      {
+        "id": "c:dyes/pink",
+        "count": 1.0,
+        "unit": "item",
+        "type": "tag",
+        "rate": 1.0
+      }
+    ],
+    "outputs": [
+      {
+        "id": "create_pattern_schematics:empty_pattern_schematic",
+        "count": 1.0,
+        "unit": "item",
+        "type": "solid",
+        "rate": 1.0
+      }
+    ]
+  },
+  {
+    "recipe_id": "create_pattern_schematics:pattern_schematic_from_substitute",
+    "mod_id": "create_pattern_schematics",
+    "recipe_type": "minecraft:crafting_shapeless",
+    "inputs": [
+      {
+        "id": "create:iron_sheet",
+        "count": 1.0,
+        "unit": "item",
+        "type": "solid",
+        "rate": 1.0
+      },
+      {
+        "id": "create_pattern_schematics:pattern_schematic_paper_substitutes",
+        "count": 1.0,
+        "unit": "item",
+        "type": "tag",
+        "rate": 1.0
+      },
+      {
+        "id": "c:dyes/pink",
+        "count": 1.0,
+        "unit": "item",
+        "type": "tag",
+        "rate": 1.0
+      }
+    ],
+    "outputs": [
+      {
+        "id": "create_pattern_schematics:empty_pattern_schematic",
+        "count": 1.0,
+        "unit": "item",
+        "type": "solid",
+        "rate": 1.0
+      }
+    ]
+  },
+  {
+    "recipe_id": "create_pattern_schematics:schematic_from_substitute",
+    "mod_id": "create_pattern_schematics",
+    "recipe_type": "minecraft:crafting_shapeless",
+    "inputs": [
+      {
+        "id": "create_pattern_schematics:schematic_paper_substitutes",
+        "count": 1.0,
+        "unit": "item",
+        "type": "tag",
+        "rate": 1.0
+      },
+      {
+        "id": "c:dyes/light_blue",
+        "count": 1.0,
+        "unit": "item",
+        "type": "tag",
+        "rate": 1.0
+      }
+    ],
+    "outputs": [
+      {
+        "id": "create:empty_schematic",
+        "count": 1.0,
+        "unit": "item",
+        "type": "solid",
+        "rate": 1.0
+      }
+    ]
+  },
+  {
+    "recipe_id": "create_pattern_schematics:schematic_from_substitute",
+    "mod_id": "create_pattern_schematics",
+    "recipe_type": "minecraft:crafting_shapeless",
+    "inputs": [
+      {
+        "id": "create_pattern_schematics:schematic_paper_substitutes",
+        "count": 1.0,
+        "unit": "item",
+        "type": "tag",
+        "rate": 1.0
+      },
+      {
+        "id": "c:dyes/light_blue",
+        "count": 1.0,
+        "unit": "item",
+        "type": "tag",
+        "rate": 1.0
+      }
+    ],
+    "outputs": [
+      {
+        "id": "create:empty_schematic",
+        "count": 1.0,
+        "unit": "item",
+        "type": "solid",
+        "rate": 1.0
+      }
+    ]
+  },
+  {
+    "recipe_id": "create_pattern_schematics:pattern_schematic_and_quill",
+    "mod_id": "create_pattern_schematics",
+    "recipe_type": "minecraft:crafting_shapeless",
+    "inputs": [
+      {
+        "id": "create_pattern_schematics:empty_pattern_schematic",
+        "count": 1.0,
+        "unit": "item",
+        "type": "solid",
+        "rate": 1.0
+      },
+      {
+        "id": "minecraft:feather",
+        "count": 1.0,
+        "unit": "item",
+        "type": "solid",
+        "rate": 1.0
+      }
+    ],
+    "outputs": [
+      {
+        "id": "create_pattern_schematics:pattern_schematic_and_quill",
+        "count": 1.0,
+        "unit": "item",
+        "type": "solid",
+        "rate": 1.0
+      }
+    ]
+  },
+  {
+    "recipe_id": "create_pattern_schematics:pattern_schematic",
+    "mod_id": "create_pattern_schematics",
+    "recipe_type": "minecraft:crafting_shapeless",
+    "inputs": [
+      {
+        "id": "create:iron_sheet",
+        "count": 1.0,
+        "unit": "item",
+        "type": "solid",
+        "rate": 1.0
+      },
+      {
+        "id": "minecraft:paper",
+        "count": 1.0,
+        "unit": "item",
+        "type": "solid",
+        "rate": 1.0
+      },
+      {
+        "id": "c:dyes/pink",
+        "count": 1.0,
+        "unit": "item",
+        "type": "tag",
+        "rate": 1.0
+      }
+    ],
+    "outputs": [
+      {
+        "id": "create_pattern_schematics:empty_pattern_schematic",
+        "count": 1.0,
+        "unit": "item",
+        "type": "solid",
+        "rate": 1.0
+      }
+    ]
+  },
+  {
+    "recipe_id": "create_pattern_schematics:pattern_schematic_from_substitute",
+    "mod_id": "create_pattern_schematics",
+    "recipe_type": "minecraft:crafting_shapeless",
+    "inputs": [
+      {
+        "id": "create:iron_sheet",
+        "count": 1.0,
+        "unit": "item",
+        "type": "solid",
+        "rate": 1.0
+      },
+      {
+        "id": "create_pattern_schematics:pattern_schematic_paper_substitutes",
+        "count": 1.0,
+        "unit": "item",
+        "type": "tag",
+        "rate": 1.0
+      },
+      {
+        "id": "c:dyes/pink",
+        "count": 1.0,
+        "unit": "item",
+        "type": "tag",
+        "rate": 1.0
+      }
+    ],
+    "outputs": [
+      {
+        "id": "create_pattern_schematics:empty_pattern_schematic",
+        "count": 1.0,
+        "unit": "item",
+        "type": "solid",
+        "rate": 1.0
+      }
+    ]
+  },
+  {
+    "recipe_id": "create_pattern_schematics:pattern_schematic_and_quill",
+    "mod_id": "create_pattern_schematics",
+    "recipe_type": "minecraft:crafting_shapeless",
+    "inputs": [
+      {
+        "id": "create_pattern_schematics:empty_pattern_schematic",
+        "count": 1.0,
+        "unit": "item",
+        "type": "solid",
+        "rate": 1.0
+      },
+      {
+        "id": "minecraft:feather",
+        "count": 1.0,
+        "unit": "item",
+        "type": "solid",
+        "rate": 1.0
+      }
+    ],
+    "outputs": [
+      {
+        "id": "create_pattern_schematics:pattern_schematic_and_quill",
+        "count": 1.0,
+        "unit": "item",
+        "type": "solid",
+        "rate": 1.0
+      }
+    ]
+  },
+  {
+    "recipe_id": "create_pattern_schematics:pattern_schematic",
+    "mod_id": "create_pattern_schematics",
+    "recipe_type": "minecraft:crafting_shapeless",
+    "inputs": [
+      {
+        "id": "create:iron_sheet",
+        "count": 1.0,
+        "unit": "item",
+        "type": "solid",
+        "rate": 1.0
+      },
+      {
+        "id": "minecraft:paper",
+        "count": 1.0,
+        "unit": "item",
+        "type": "solid",
+        "rate": 1.0
+      },
+      {
+        "id": "c:dyes/pink",
+        "count": 1.0,
+        "unit": "item",
+        "type": "tag",
+        "rate": 1.0
+      }
+    ],
+    "outputs": [
+      {
+        "id": "create_pattern_schematics:empty_pattern_schematic",
+        "count": 1.0,
+        "unit": "item",
+        "type": "solid",
+        "rate": 1.0
+      }
+    ]
+  },
+  {
+    "recipe_id": "create_pattern_schematics:pattern_schematic_from_substitute",
+    "mod_id": "create_pattern_schematics",
+    "recipe_type": "minecraft:crafting_shapeless",
+    "inputs": [
+      {
+        "id": "create:iron_sheet",
+        "count": 1.0,
+        "unit": "item",
+        "type": "solid",
+        "rate": 1.0
+      },
+      {
+        "id": "create_pattern_schematics:pattern_schematic_paper_substitutes",
+        "count": 1.0,
+        "unit": "item",
+        "type": "tag",
+        "rate": 1.0
+      },
+      {
+        "id": "c:dyes/pink",
+        "count": 1.0,
+        "unit": "item",
+        "type": "tag",
+        "rate": 1.0
+      }
+    ],
+    "outputs": [
+      {
+        "id": "create_pattern_schematics:empty_pattern_schematic",
+        "count": 1.0,
+        "unit": "item",
+        "type": "solid",
+        "rate": 1.0
+      }
+    ]
+  },
+  {
+    "recipe_id": "create_pattern_schematics:schematic_from_substitute",
+    "mod_id": "create_pattern_schematics",
+    "recipe_type": "minecraft:crafting_shapeless",
+    "inputs": [
+      {
+        "id": "create_pattern_schematics:schematic_paper_substitutes",
+        "count": 1.0,
+        "unit": "item",
+        "type": "tag",
+        "rate": 1.0
+      },
+      {
+        "id": "c:dyes/light_blue",
+        "count": 1.0,
+        "unit": "item",
+        "type": "tag",
+        "rate": 1.0
+      }
+    ],
+    "outputs": [
+      {
+        "id": "create:empty_schematic",
+        "count": 1.0,
+        "unit": "item",
+        "type": "solid",
+        "rate": 1.0
+      }
+    ]
+  },
+  {
+    "recipe_id": "create_pattern_schematics:pattern_schematic_and_quill",
+    "mod_id": "create_pattern_schematics",
+    "recipe_type": "minecraft:crafting_shapeless",
+    "inputs": [
+      {
+        "id": "create_pattern_schematics:empty_pattern_schematic",
+        "count": 1.0,
+        "unit": "item",
+        "type": "solid",
+        "rate": 1.0
+      },
+      {
+        "id": "minecraft:feather",
+        "count": 1.0,
+        "unit": "item",
+        "type": "solid",
+        "rate": 1.0
+      }
+    ],
+    "outputs": [
+      {
+        "id": "create_pattern_schematics:pattern_schematic_and_quill",
+        "count": 1.0,
+        "unit": "item",
+        "type": "solid",
+        "rate": 1.0
+      }
+    ]
+  },
+  {
+    "recipe_id": "create_pattern_schematics:pattern_schematic",
+    "mod_id": "create_pattern_schematics",
+    "recipe_type": "minecraft:crafting_shapeless",
+    "inputs": [
+      {
+        "id": "create:iron_sheet",
+        "count": 1.0,
+        "unit": "item",
+        "type": "solid",
+        "rate": 1.0
+      },
+      {
+        "id": "minecraft:paper",
+        "count": 1.0,
+        "unit": "item",
+        "type": "solid",
+        "rate": 1.0
+      },
+      {
+        "id": "c:dyes/pink",
+        "count": 1.0,
+        "unit": "item",
+        "type": "tag",
+        "rate": 1.0
+      }
+    ],
+    "outputs": [
+      {
+        "id": "create_pattern_schematics:empty_pattern_schematic",
+        "count": 1.0,
+        "unit": "item",
+        "type": "solid",
+        "rate": 1.0
+      }
+    ]
+  },
+  {
+    "recipe_id": "create_pattern_schematics:pattern_schematic_from_substitute",
+    "mod_id": "create_pattern_schematics",
+    "recipe_type": "minecraft:crafting_shapeless",
+    "inputs": [
+      {
+        "id": "create:iron_sheet",
+        "count": 1.0,
+        "unit": "item",
+        "type": "solid",
+        "rate": 1.0
+      },
+      {
+        "id": "create_pattern_schematics:pattern_schematic_paper_substitutes",
+        "count": 1.0,
+        "unit": "item",
+        "type": "tag",
+        "rate": 1.0
+      },
+      {
+        "id": "c:dyes/pink",
+        "count": 1.0,
+        "unit": "item",
+        "type": "tag",
+        "rate": 1.0
+      }
+    ],
+    "outputs": [
+      {
+        "id": "create_pattern_schematics:empty_pattern_schematic",
+        "count": 1.0,
+        "unit": "item",
+        "type": "solid",
+        "rate": 1.0
+      }
+    ]
+  },
+  {
+    "recipe_id": "create_pattern_schematics:schematic_from_substitute",
+    "mod_id": "create_pattern_schematics",
+    "recipe_type": "minecraft:crafting_shapeless",
+    "inputs": [
+      {
+        "id": "create_pattern_schematics:schematic_paper_substitutes",
+        "count": 1.0,
+        "unit": "item",
+        "type": "tag",
+        "rate": 1.0
+      },
+      {
+        "id": "c:dyes/light_blue",
+        "count": 1.0,
+        "unit": "item",
+        "type": "tag",
+        "rate": 1.0
+      }
+    ],
+    "outputs": [
+      {
+        "id": "create:empty_schematic",
+        "count": 1.0,
+        "unit": "item",
+        "type": "solid",
+        "rate": 1.0
+      }
+    ]
+  },
+  {
+    "recipe_id": "create_pattern_schematics:pattern_schematic_and_quill",
+    "mod_id": "create_pattern_schematics",
+    "recipe_type": "minecraft:crafting_shapeless",
+    "inputs": [
+      {
+        "id": "create_pattern_schematics:empty_pattern_schematic",
+        "count": 1.0,
+        "unit": "item",
+        "type": "solid",
+        "rate": 1.0
+      },
+      {
+        "id": "minecraft:feather",
+        "count": 1.0,
+        "unit": "item",
+        "type": "solid",
+        "rate": 1.0
+      }
+    ],
+    "outputs": [
+      {
+        "id": "create_pattern_schematics:pattern_schematic_and_quill",
+        "count": 1.0,
+        "unit": "item",
+        "type": "solid",
+        "rate": 1.0
+      }
+    ]
+  },
+  {
+    "recipe_id": "create_pattern_schematics:pattern_schematic",
+    "mod_id": "create_pattern_schematics",
+    "recipe_type": "minecraft:crafting_shapeless",
+    "inputs": [
+      {
+        "id": "create:iron_sheet",
+        "count": 1.0,
+        "unit": "item",
+        "type": "solid",
+        "rate": 1.0
+      },
+      {
+        "id": "minecraft:paper",
+        "count": 1.0,
+        "unit": "item",
+        "type": "solid",
+        "rate": 1.0
+      },
+      {
+        "id": "c:dyes/pink",
+        "count": 1.0,
+        "unit": "item",
+        "type": "tag",
+        "rate": 1.0
+      }
+    ],
+    "outputs": [
+      {
+        "id": "create_pattern_schematics:empty_pattern_schematic",
+        "count": 1.0,
+        "unit": "item",
+        "type": "solid",
+        "rate": 1.0
+      }
+    ]
+  },
+  {
+    "recipe_id": "create_pattern_schematics:pattern_schematic_from_substitute",
+    "mod_id": "create_pattern_schematics",
+    "recipe_type": "minecraft:crafting_shapeless",
+    "inputs": [
+      {
+        "id": "create:iron_sheet",
+        "count": 1.0,
+        "unit": "item",
+        "type": "solid",
+        "rate": 1.0
+      },
+      {
+        "id": "create_pattern_schematics:pattern_schematic_paper_substitutes",
+        "count": 1.0,
+        "unit": "item",
+        "type": "tag",
+        "rate": 1.0
+      },
+      {
+        "id": "c:dyes/pink",
+        "count": 1.0,
+        "unit": "item",
+        "type": "tag",
+        "rate": 1.0
+      }
+    ],
+    "outputs": [
+      {
+        "id": "create_pattern_schematics:empty_pattern_schematic",
+        "count": 1.0,
+        "unit": "item",
+        "type": "solid",
+        "rate": 1.0
+      }
+    ]
+  },
+  {
+    "recipe_id": "create_pattern_schematics:schematic_from_substitute",
+    "mod_id": "create_pattern_schematics",
+    "recipe_type": "minecraft:crafting_shapeless",
+    "inputs": [
+      {
+        "id": "create_pattern_schematics:schematic_paper_substitutes",
+        "count": 1.0,
+        "unit": "item",
+        "type": "tag",
+        "rate": 1.0
+      },
+      {
+        "id": "c:dyes/light_blue",
+        "count": 1.0,
+        "unit": "item",
+        "type": "tag",
+        "rate": 1.0
+      }
+    ],
+    "outputs": [
+      {
+        "id": "create:empty_schematic",
+        "count": 1.0,
+        "unit": "item",
+        "type": "solid",
+        "rate": 1.0
+      }
+    ]
+  },
+  {
+    "recipe_id": "create_pattern_schematics:schematic_from_substitute",
+    "mod_id": "create_pattern_schematics",
+    "recipe_type": "minecraft:crafting_shapeless",
+    "inputs": [
+      {
+        "id": "create_pattern_schematics:schematic_paper_substitutes",
+        "count": 1.0,
+        "unit": "item",
+        "type": "tag",
+        "rate": 1.0
+      },
+      {
+        "id": "c:dyes/light_blue",
+        "count": 1.0,
+        "unit": "item",
+        "type": "tag",
+        "rate": 1.0
+      }
+    ],
+    "outputs": [
+      {
+        "id": "create:empty_schematic",
+        "count": 1.0,
+        "unit": "item",
+        "type": "solid",
+        "rate": 1.0
+      }
+    ]
+  },
+  {
+    "recipe_id": "create_pattern_schematics:schematic_from_substitute",
+    "mod_id": "create_pattern_schematics",
+    "recipe_type": "minecraft:crafting_shapeless",
+    "inputs": [
+      {
+        "id": "create_pattern_schematics:schematic_paper_substitutes",
+        "count": 1.0,
+        "unit": "item",
+        "type": "tag",
+        "rate": 1.0
+      },
+      {
+        "id": "c:dyes/light_blue",
+        "count": 1.0,
+        "unit": "item",
+        "type": "tag",
+        "rate": 1.0
+      }
+    ],
+    "outputs": [
+      {
+        "id": "create:empty_schematic",
+        "count": 1.0,
+        "unit": "item",
+        "type": "solid",
+        "rate": 1.0
+      }
+    ]
+  },
+  {
+    "recipe_id": "create_pattern_schematics:pattern_schematic_and_quill",
+    "mod_id": "create_pattern_schematics",
+    "recipe_type": "minecraft:crafting_shapeless",
+    "inputs": [
+      {
+        "id": "create_pattern_schematics:empty_pattern_schematic",
+        "count": 1.0,
+        "unit": "item",
+        "type": "solid",
+        "rate": 1.0
+      },
+      {
+        "id": "minecraft:feather",
+        "count": 1.0,
+        "unit": "item",
+        "type": "solid",
+        "rate": 1.0
+      }
+    ],
+    "outputs": [
+      {
+        "id": "create_pattern_schematics:pattern_schematic_and_quill",
+        "count": 1.0,
+        "unit": "item",
+        "type": "solid",
+        "rate": 1.0
+      }
+    ]
+  },
+  {
+    "recipe_id": "create_pattern_schematics:pattern_schematic",
+    "mod_id": "create_pattern_schematics",
+    "recipe_type": "minecraft:crafting_shapeless",
+    "inputs": [
+      {
+        "id": "create:iron_sheet",
+        "count": 1.0,
+        "unit": "item",
+        "type": "solid",
+        "rate": 1.0
+      },
+      {
+        "id": "minecraft:paper",
+        "count": 1.0,
+        "unit": "item",
+        "type": "solid",
+        "rate": 1.0
+      },
+      {
+        "id": "c:dyes/pink",
+        "count": 1.0,
+        "unit": "item",
+        "type": "tag",
+        "rate": 1.0
+      }
+    ],
+    "outputs": [
+      {
+        "id": "create_pattern_schematics:empty_pattern_schematic",
+        "count": 1.0,
+        "unit": "item",
+        "type": "solid",
+        "rate": 1.0
+      }
+    ]
+  },
+  {
+    "recipe_id": "create_pattern_schematics:pattern_schematic_from_substitute",
+    "mod_id": "create_pattern_schematics",
+    "recipe_type": "minecraft:crafting_shapeless",
+    "inputs": [
+      {
+        "id": "create:iron_sheet",
+        "count": 1.0,
+        "unit": "item",
+        "type": "solid",
+        "rate": 1.0
+      },
+      {
+        "id": "create_pattern_schematics:pattern_schematic_paper_substitutes",
+        "count": 1.0,
+        "unit": "item",
+        "type": "tag",
+        "rate": 1.0
+      },
+      {
+        "id": "c:dyes/pink",
+        "count": 1.0,
+        "unit": "item",
+        "type": "tag",
+        "rate": 1.0
+      }
+    ],
+    "outputs": [
+      {
+        "id": "create_pattern_schematics:empty_pattern_schematic",
+        "count": 1.0,
+        "unit": "item",
+        "type": "solid",
+        "rate": 1.0
+      }
+    ]
+  }
+]

@@ -1,0 +1,16 @@
+[2026-09-01 12:29:17] [INFO]: I18nUpdate Mod 3.7.0 is loaded in 1.21.1 with Forge
+[2026-09-01 12:29:17] [DEBUG]: Minecraft path: D:\PCL\.minecraft\versions\核后世界
+[2026-09-01 12:29:17] [DEBUG]: Local Storage Pos: C:\Users\mr\AppData\Local
+[2026-09-01 12:29:17] [INFO]: Using fastest url: http://downloader1.meitangdehulu.com:22943/
+[2026-09-01 12:29:17] [DEBUG]: Using asset root: http://downloader1.meitangdehulu.com:22943/
+[2026-09-01 12:29:17] [DEBUG]: C:\Users\mr\AppData\Local\.i18nupdatemod\1.21\Minecraft-Mod-Language-Modpack-1-21.zip md5: 22A95BE04C10C0D22F9DE5723CC84B89, remote md5: 22A95BE04C10C0D22F9DE5723CC84B89
+[2026-09-01 12:29:17] [DEBUG]: Already up to date.
+[2026-09-01 12:29:17] [DEBUG]: C:\Users\mr\AppData\Local\.i18nupdatemod\1.20\Minecraft-Mod-Language-Modpack-1-20.zip md5: FF1C1692441A7B8A98570AF92E1E1AF2, remote md5: FF1C1692441A7B8A98570AF92E1E1AF2
+[2026-09-01 12:29:17] [DEBUG]: Already up to date.
+[2026-09-01 12:29:17] [DEBUG]: C:\Users\mr\AppData\Local\.i18nupdatemod\1.19\Minecraft-Mod-Language-Modpack-1-19.zip md5: D24B518CD7C29D4B06299B9C9D88B87B, remote md5: D24B518CD7C29D4B06299B9C9D88B87B
+[2026-09-01 12:29:17] [DEBUG]: Already up to date.
+[2026-09-01 12:29:17] [INFO]: Converting: C:\Users\mr\AppData\Local\.i18nupdatemod\1.21\Minecraft-Mod-Language-Modpack-1-21.zip
+[2026-09-01 12:29:18] [INFO]: Converting: C:\Users\mr\AppData\Local\.i18nupdatemod\1.20\Minecraft-Mod-Language-Modpack-1-20.zip
+[2026-09-01 12:29:18] [INFO]: Converting: C:\Users\mr\AppData\Local\.i18nupdatemod\1.19\Minecraft-Mod-Language-Modpack-1-19.zip
+[2026-09-01 12:29:18] [INFO]: Converted: [C:\Users\mr\AppData\Local\.i18nupdatemod\1.21\Minecraft-Mod-Language-Modpack-1-21.zip, C:\Users\mr\AppData\Local\.i18nupdatemod\1.20\Minecraft-Mod-Language-Modpack-1-20.zip, C:\Users\mr\AppData\Local\.i18nupdatemod\1.19\Minecraft-Mod-Language-Modpack-1-19.zip] -> C:\Users\mr\AppData\Local\.i18nupdatemod\1.21.1\Minecraft-Mod-Language-Modpack-Converted-1.21.1.zip
+[2026-09-01 12:29:18] [INFO]: Synchronized: C:\Users\mr\AppData\Local\.i18nupdatemod\1.21.1\Minecraft-Mod-Language-Modpack-Converted-1.21.1.zip -> D:\PCL\.minecraft\versions\核后世界\resourcepacks\Minecraft-Mod-Language-Modpack-Converted-1.21.1.zip

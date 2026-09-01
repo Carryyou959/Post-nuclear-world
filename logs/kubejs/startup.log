@@ -1,0 +1,23 @@
+[12:29:36] [INIT] KubeJS 2101.7.2-build.374; MC 2101 NeoForge
+[12:29:36] [INIT] Loaded plugins:
+[12:29:36] [INIT] - dev.latvian.mods.kubejs.plugin.builtin.BuiltinKubeJSPlugin
+[12:29:36] [INIT] - dev.latvian.mods.kubejs.plugin.builtin.BuiltinKubeJSClientPlugin
+[12:29:36] [INIT] - dev.latvian.mods.kubejs.integration.architectury.ArchitecturyIntegration
+[12:29:36] [INIT] - com.jesz.createdieselgenerators.compat.kubejs.CDGKubeJSPlugin
+[12:29:36] [INIT] - com.tom.createores.kubejs.KubeJSExcavation
+[12:29:36] [INIT] - com.teamtea.eclipticseasons.compat.kubejs.KubeJSPluginImpl
+[12:29:36] [INIT] - com.almostreliable.lootjs.kube.LootJSPlugin
+[12:29:36] [INIT] - moe.wolfgirl.probejs.plugin.ProbeJSKJSPlugin
+[12:29:36] [INIT] - com.tacz.guns.compat.kubejs.TimelessKubeJSPlugin
+[12:29:36] [INIT] - com.lightning.northstar.compat.kubejs.NorthstarKubeJsPlugin
+[12:29:36] [INIT] - dev.ftb.mods.ftbxmodcompat.neoforge.ftbquests.kubejs.FTBQuestsKubeJSPlugin
+[12:29:36] [INIT] - dev.ftb.mods.ftbxmodcompat.neoforge.ftbchunks.kubejs.FTBChunksKubeJSPlugin
+[12:29:36] [INIT] - dev.ftb.mods.ftbxmodcompat.neoforge.ftbteams.kubejs.FTBTeamsKubeJSPlugin
+[12:29:36] [INIT] - dev.latvian.mods.kubejs.create.KubeJSCreatePlugin
+[12:29:36] [INIT] - dev.latvian.mods.kubejs.mekanism.MekanismKubeJSPlugin
+[12:29:36] [INIT] - com.github.ysbbbbbb.kaleidoscopecookery.compat.kubejs.ModKubeJSPlugin
+[12:29:37] [INFO] startup_scripts:main.js#2: Hello, World! (Loaded startup example script)
+[12:29:37] [INFO] Loaded script startup_scripts:main.js in 0.037 s
+[12:29:37] [INFO] Loaded 1/1 KubeJS startup scripts in 1.061 s with 0 errors and 0 warnings
+[12:29:37] [INFO] Validated 2 files in kubejs/assets/ in 1ms
+[12:29:37] [INFO] Validated 0 files in kubejs/data/ in 2ms

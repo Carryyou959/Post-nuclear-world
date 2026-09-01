@@ -1,0 +1,29 @@
+{
+    "ModSettings": {
+        "first_run": false
+    },
+    "GuiSettings": {
+        "inventory_overlay_buttons_visible": {
+            "value": false
+        },
+        "enable_inventory_editor_button": {
+            "value": false
+        },
+        "enable_inventory_settings_button": {
+            "value": false
+        }
+    },
+    "AutoRefillSettings": {
+        "tool_damage_threshold": 0,
+        "auto_refill_enable_indicator_icons": {
+            "value": false
+        }
+    },
+    "Hotkeys": {
+        "sort_inventory": {
+            "main": {
+                "keys": "BUTTON_3"
+            }
+        }
+    }
+}

@@ -1,0 +1,14 @@
+[
+  {"version":1},
+  {"ingredient":{"id":"create_optical:beam_focuser"},"type":"item_stack","bookmarkType":"INGREDIENT"},
+  {"ingredient":{"id":"create_the_air_wars:mirror"},"type":"item_stack","bookmarkType":"INGREDIENT"},
+  {"ingredient":{"id":"create_optical:hologram_source"},"type":"item_stack","bookmarkType":"INGREDIENT"},
+  {"ingredient":{"id":"create_optical:beam_condenser"},"type":"item_stack","bookmarkType":"INGREDIENT"},
+  {"ingredient":{"id":"create_the_air_wars:anti_aircraft_launcher"},"type":"item_stack","bookmarkType":"INGREDIENT"},
+  {"ingredient":{"id":"create_the_air_wars:c75"},"type":"item_stack","bookmarkType":"INGREDIENT"},
+  {"ingredient":{"id":"kaleidoscope_nether:forgetfulness_soup"},"type":"item_stack","bookmarkType":"INGREDIENT"},
+  {"ingredient":{"id":"garnished:light_gray_zultanite_brick_wall"},"type":"item_stack","bookmarkType":"INGREDIENT"},
+  {"ingredient":{"id":"create_the_air_wars:amalgam_bucket"},"type":"fluid_stack","bookmarkType":"INGREDIENT"},
+  {"ingredient":{"id":"mekanism:creative_fluid_tank","components":"{\"mekanism:fluids\":{fluid_tanks:[{amount:2147483647,id:\"create_the_air_wars:amalgam_bucket\"}]}}"},"type":"item_stack","bookmarkType":"INGREDIENT"},
+  {"ingredient":{"id":"create_optical:mirror"},"type":"item_stack","bookmarkType":"INGREDIENT"}
+]

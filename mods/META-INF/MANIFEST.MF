@@ -1,0 +1,9 @@
+Manifest-Version: 1.0
+Specification-Title: legendarysurvivaloverhaul
+Specification-Vendor: Sfiomn
+Specification-Version: 1
+Implementation-Title: LegendarySurvivalOverhaul
+Implementation-Version: 2.4.7.2
+Implementation-Vendor: Sfiomn
+Implementation-Timestamp: 2026-08-07T23:31:13+0200
+

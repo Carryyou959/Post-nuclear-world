@@ -1,0 +1,8 @@
+{
+  "source_item": "kaleidoscope_cookery:sweet_and_sour_pork",
+  "comment": "Edit this file to add custom nutrition values",
+  "auto_calculated": false,
+  "nutritions": {
+    "sugars": 0.06
+  }
+}

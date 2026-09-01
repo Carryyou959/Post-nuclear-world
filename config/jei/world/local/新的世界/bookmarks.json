@@ -1,0 +1,4 @@
+[
+  {"version":2},
+  {"ingredient":{"id":"legendarysurvivaloverhaul:temperature_immunity","show_icon":true,"neoforge:cures":["milk","protected_by_totem"],"duration":600},"type":"net.minecraft.world.effect.MobEffectInstance","bookmarkType":"INGREDIENT"}
+]

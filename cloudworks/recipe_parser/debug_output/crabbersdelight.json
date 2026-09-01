@@ -1,0 +1,5340 @@
+[
+  {
+    "recipe_id": "crabbersdelight:cooked_squid_tentacles",
+    "mod_id": "crabbersdelight",
+    "recipe_type": "minecraft:smelting",
+    "inputs": [
+      {
+        "id": "crabbersdelight:raw_squid_tentacles",
+        "count": 1.0,
+        "unit": "item",
+        "type": "solid",
+        "rate": 1.0
+      }
+    ],
+    "outputs": [
+      {
+        "id": "crabbersdelight:cooked_squid_tentacles",
+        "count": 1.0,
+        "unit": "item",
+        "type": "solid",
+        "rate": 1.0
+      }
+    ]
+  },
+  {
+    "recipe_id": "crabbersdelight:pufferfish_barrel",
+    "mod_id": "crabbersdelight",
+    "recipe_type": "minecraft:crafting_shaped",
+    "inputs": [
+      {
+        "id": "minecraft:pufferfish",
+        "count": 9.0,
+        "unit": "item",
+        "type": "solid",
+        "rate": 1.0
+      }
+    ],
+    "outputs": [
+      {
+        "id": "crabbersdelight:pufferfish_barrel",
+        "count": 1.0,
+        "unit": "item",
+        "type": "solid",
+        "rate": 1.0
+      }
+    ]
+  },
+  {
+    "recipe_id": "crabbersdelight:bone_meal_from_fish_bones",
+    "mod_id": "crabbersdelight",
+    "recipe_type": "minecraft:crafting_shapeless",
+    "inputs": [
+      {
+        "id": "crabbersdelight:fish_bones",
+        "count": 1.0,
+        "unit": "item",
+        "type": "solid",
+        "rate": 1.0
+      }
+    ],
+    "outputs": [
+      {
+        "id": "minecraft:bone_meal",
+        "count": 3.0,
+        "unit": "item",
+        "type": "solid",
+        "rate": 1.0
+      }
+    ]
+  },
+  {
+    "recipe_id": "crabbersdelight:fish_stick",
+    "mod_id": "crabbersdelight",
+    "recipe_type": "minecraft:crafting_shapeless",
+    "inputs": [
+      {
+        "id": "minecraft:stick",
+        "count": 1.0,
+        "unit": "item",
+        "type": "solid",
+        "rate": 1.0
+      },
+      {
+        "id": "c:foods/cooked_fish",
+        "count": 1.0,
+        "unit": "item",
+        "type": "tag",
+        "rate": 1.0
+      }
+    ],
+    "outputs": [
+      {
+        "id": "crabbersdelight:fish_stick",
+        "count": 1.0,
+        "unit": "item",
+        "type": "solid",
+        "rate": 1.0
+      }
+    ]
+  },
+  {
+    "recipe_id": "crabbersdelight:clawster_from_barrel",
+    "mod_id": "crabbersdelight",
+    "recipe_type": "minecraft:crafting_shapeless",
+    "inputs": [
+      {
+        "id": "crabbersdelight:clawster_barrel",
+        "count": 1.0,
+        "unit": "item",
+        "type": "solid",
+        "rate": 1.0
+      }
+    ],
+    "outputs": [
+      {
+        "id": "crabbersdelight:clawster",
+        "count": 9.0,
+        "unit": "item",
+        "type": "solid",
+        "rate": 1.0
+      }
+    ]
+  },
+  {
+    "recipe_id": "crabbersdelight:cooking/bisque",
+    "mod_id": "crabbersdelight",
+    "recipe_type": "farmersdelight:cooking",
+    "inputs": [
+      {
+        "id": "farmersdelight:onion",
+        "count": 1.0,
+        "unit": "item",
+        "type": "solid",
+        "rate": 1.0
+      },
+      {
+        "id": "farmersdelight:rice",
+        "count": 1.0,
+        "unit": "item",
+        "type": "solid",
+        "rate": 1.0
+      },
+      {
+        "id": "minecraft:carrot",
+        "count": 1.0,
+        "unit": "item",
+        "type": "solid",
+        "rate": 1.0
+      },
+      {
+        "id": "c:drinks/milk",
+        "count": 1.0,
+        "unit": "item",
+        "type": "tag",
+        "rate": 1.0
+      }
+    ],
+    "outputs": [
+      {
+        "id": "crabbersdelight:bisque",
+        "count": 1.0,
+        "unit": "item",
+        "type": "solid",
+        "rate": 1.0
+      }
+    ]
+  },
+  {
+    "recipe_id": "crabbersdelight:stripped_palm_wood",
+    "mod_id": "crabbersdelight",
+    "recipe_type": "minecraft:crafting_shaped",
+    "inputs": [
+      {
+        "id": "crabbersdelight:stripped_palm_log",
+        "count": 4.0,
+        "unit": "item",
+        "type": "solid",
+        "rate": 1.0
+      }
+    ],
+    "outputs": [
+      {
+        "id": "crabbersdelight:stripped_palm_wood",
+        "count": 3.0,
+        "unit": "item",
+        "type": "solid",
+        "rate": 1.0
+      }
+    ]
+  },
+  {
+    "recipe_id": "crabbersdelight:palm_wood",
+    "mod_id": "crabbersdelight",
+    "recipe_type": "minecraft:crafting_shaped",
+    "inputs": [
+      {
+        "id": "crabbersdelight:palm_log",
+        "count": 4.0,
+        "unit": "item",
+        "type": "solid",
+        "rate": 1.0
+      }
+    ],
+    "outputs": [
+      {
+        "id": "crabbersdelight:palm_wood",
+        "count": 3.0,
+        "unit": "item",
+        "type": "solid",
+        "rate": 1.0
+      }
+    ]
+  },
+  {
+    "recipe_id": "crabbersdelight:crab_barrel",
+    "mod_id": "crabbersdelight",
+    "recipe_type": "minecraft:crafting_shaped",
+    "inputs": [
+      {
+        "id": "crabbersdelight:crab",
+        "count": 9.0,
+        "unit": "item",
+        "type": "solid",
+        "rate": 1.0
+      }
+    ],
+    "outputs": [
+      {
+        "id": "crabbersdelight:crab_barrel",
+        "count": 1.0,
+        "unit": "item",
+        "type": "solid",
+        "rate": 1.0
+      }
+    ]
+  },
+  {
+    "recipe_id": "crabbersdelight:seashells",
+    "mod_id": "crabbersdelight",
+    "recipe_type": "minecraft:crafting_shapeless",
+    "inputs": [
+      {
+        "id": "crabbersdelight:coral_fragments",
+        "count": 1.0,
+        "unit": "item",
+        "type": "solid",
+        "rate": 1.0
+      },
+      {
+        "id": "crabbersdelight:clam",
+        "count": 1.0,
+        "unit": "item",
+        "type": "solid",
+        "rate": 1.0
+      },
+      {
+        "id": "minecraft:nautilus_shell",
+        "count": 1.0,
+        "unit": "item",
+        "type": "solid",
+        "rate": 1.0
+      }
+    ],
+    "outputs": [
+      {
+        "id": "crabbersdelight:seashells",
+        "count": 8.0,
+        "unit": "item",
+        "type": "solid",
+        "rate": 1.0
+      }
+    ]
+  },
+  {
+    "recipe_id": "crabbersdelight:tropical_fish_barrel",
+    "mod_id": "crabbersdelight",
+    "recipe_type": "minecraft:crafting_shaped",
+    "inputs": [
+      {
+        "id": "minecraft:tropical_fish",
+        "count": 9.0,
+        "unit": "item",
+        "type": "solid",
+        "rate": 1.0
+      }
+    ],
+    "outputs": [
+      {
+        "id": "crabbersdelight:tropical_fish_barrel",
+        "count": 1.0,
+        "unit": "item",
+        "type": "solid",
+        "rate": 1.0
+      }
+    ]
+  },
+  {
+    "recipe_id": "crabbersdelight:palm_fence",
+    "mod_id": "crabbersdelight",
+    "recipe_type": "minecraft:crafting_shaped",
+    "inputs": [
+      {
+        "id": "crabbersdelight:palm_planks",
+        "count": 4.0,
+        "unit": "item",
+        "type": "solid",
+        "rate": 1.0
+      },
+      {
+        "id": "minecraft:stick",
+        "count": 2.0,
+        "unit": "item",
+        "type": "solid",
+        "rate": 1.0
+      }
+    ],
+    "outputs": [
+      {
+        "id": "crabbersdelight:palm_fence",
+        "count": 3.0,
+        "unit": "item",
+        "type": "solid",
+        "rate": 1.0
+      }
+    ]
+  },
+  {
+    "recipe_id": "crabbersdelight:cooked_tropical_fish_slice_from_campfire_cooking",
+    "mod_id": "crabbersdelight",
+    "recipe_type": "minecraft:campfire_cooking",
+    "inputs": [
+      {
+        "id": "crabbersdelight:tropical_fish_slice",
+        "count": 1.0,
+        "unit": "item",
+        "type": "solid",
+        "rate": 1.0
+      }
+    ],
+    "outputs": [
+      {
+        "id": "crabbersdelight:cooked_tropical_fish_slice",
+        "count": 1.0,
+        "unit": "item",
+        "type": "solid",
+        "rate": 1.0
+      }
+    ]
+  },
+  {
+    "recipe_id": "crabbersdelight:cooked_clam_meat_from_campfire_cooking",
+    "mod_id": "crabbersdelight",
+    "recipe_type": "minecraft:campfire_cooking",
+    "inputs": [
+      {
+        "id": "crabbersdelight:raw_clam_meat",
+        "count": 1.0,
+        "unit": "item",
+        "type": "solid",
+        "rate": 1.0
+      }
+    ],
+    "outputs": [
+      {
+        "id": "crabbersdelight:cooked_clam_meat",
+        "count": 1.0,
+        "unit": "item",
+        "type": "solid",
+        "rate": 1.0
+      }
+    ]
+  },
+  {
+    "recipe_id": "crabbersdelight:cooking/cooked_crab",
+    "mod_id": "crabbersdelight",
+    "recipe_type": "farmersdelight:cooking",
+    "inputs": [
+      {
+        "id": "crabbersdelight:crab",
+        "count": 1.0,
+        "unit": "item",
+        "type": "solid",
+        "rate": 1.0
+      }
+    ],
+    "outputs": [
+      {
+        "id": "crabbersdelight:cooked_crab",
+        "count": 1.0,
+        "unit": "item",
+        "type": "solid",
+        "rate": 1.0
+      }
+    ]
+  },
+  {
+    "recipe_id": "crabbersdelight:scute_from_block",
+    "mod_id": "crabbersdelight",
+    "recipe_type": "minecraft:crafting_shapeless",
+    "inputs": [
+      {
+        "id": "crabbersdelight:scute_block",
+        "count": 1.0,
+        "unit": "item",
+        "type": "solid",
+        "rate": 1.0
+      }
+    ],
+    "outputs": [
+      {
+        "id": "minecraft:turtle_scute",
+        "count": 9.0,
+        "unit": "item",
+        "type": "solid",
+        "rate": 1.0
+      }
+    ]
+  },
+  {
+    "recipe_id": "crabbersdelight:clam_barrel",
+    "mod_id": "crabbersdelight",
+    "recipe_type": "minecraft:crafting_shaped",
+    "inputs": [
+      {
+        "id": "crabbersdelight:clam",
+        "count": 9.0,
+        "unit": "item",
+        "type": "solid",
+        "rate": 1.0
+      }
+    ],
+    "outputs": [
+      {
+        "id": "crabbersdelight:clam_barrel",
+        "count": 1.0,
+        "unit": "item",
+        "type": "solid",
+        "rate": 1.0
+      }
+    ]
+  },
+  {
+    "recipe_id": "crabbersdelight:cutting/coconut",
+    "mod_id": "crabbersdelight",
+    "recipe_type": "farmersdelight:cutting",
+    "inputs": [
+      {
+        "id": "crabbersdelight:coconut",
+        "count": 1.0,
+        "unit": "item",
+        "type": "solid",
+        "rate": 1.0
+      }
+    ],
+    "outputs": [
+      {
+        "id": "crabbersdelight:coconut_halve",
+        "count": 2.0,
+        "unit": "item",
+        "type": "solid",
+        "rate": 1.0
+      }
+    ]
+  },
+  {
+    "recipe_id": "crabbersdelight:bucket_of_shrimp_chum",
+    "mod_id": "crabbersdelight",
+    "recipe_type": "minecraft:crafting_shaped",
+    "inputs": [
+      {
+        "id": "minecraft:bone_meal",
+        "count": 4.0,
+        "unit": "item",
+        "type": "solid",
+        "rate": 1.0
+      },
+      {
+        "id": "minecraft:tropical_fish",
+        "count": 4.0,
+        "unit": "item",
+        "type": "solid",
+        "rate": 1.0
+      },
+      {
+        "id": "minecraft:bucket",
+        "count": 1.0,
+        "unit": "item",
+        "type": "solid",
+        "rate": 1.0
+      }
+    ],
+    "outputs": [
+      {
+        "id": "crabbersdelight:bucket_of_shrimp_chum",
+        "count": 1.0,
+        "unit": "item",
+        "type": "solid",
+        "rate": 1.0
+      }
+    ]
+  },
+  {
+    "recipe_id": "crabbersdelight:cooking/crab_cakes",
+    "mod_id": "crabbersdelight",
+    "recipe_type": "farmersdelight:cooking",
+    "inputs": [
+      {
+        "id": "crabbersdelight:crab",
+        "count": 1.0,
+        "unit": "item",
+        "type": "solid",
+        "rate": 1.0
+      },
+      {
+        "id": "farmersdelight:wheat_dough",
+        "count": 1.0,
+        "unit": "item",
+        "type": "solid",
+        "rate": 1.0
+      },
+      {
+        "id": "c:drinks/milk",
+        "count": 1.0,
+        "unit": "item",
+        "type": "tag",
+        "rate": 1.0
+      },
+      {
+        "id": "minecraft:egg",
+        "count": 1.0,
+        "unit": "item",
+        "type": "solid",
+        "rate": 1.0
+      },
+      {
+        "id": "farmersdelight:onion",
+        "count": 1.0,
+        "unit": "item",
+        "type": "solid",
+        "rate": 1.0
+      }
+    ],
+    "outputs": [
+      {
+        "id": "crabbersdelight:crab_cakes",
+        "count": 1.0,
+        "unit": "item",
+        "type": "solid",
+        "rate": 1.0
+      }
+    ]
+  },
+  {
+    "recipe_id": "crabbersdelight:palm_cabinet",
+    "mod_id": "crabbersdelight",
+    "recipe_type": "minecraft:crafting_shaped",
+    "inputs": [
+      {
+        "id": "crabbersdelight:palm_slab",
+        "count": 6.0,
+        "unit": "item",
+        "type": "solid",
+        "rate": 1.0
+      },
+      {
+        "id": "crabbersdelight:palm_trapdoor_bottom",
+        "count": 2.0,
+        "unit": "item",
+        "type": "solid",
+        "rate": 1.0
+      }
+    ],
+    "outputs": [
+      {
+        "id": "crabbersdelight:palm_cabinet",
+        "count": 1.0,
+        "unit": "item",
+        "type": "solid",
+        "rate": 1.0
+      }
+    ]
+  },
+  {
+    "recipe_id": "crabbersdelight:cod_from_barrel",
+    "mod_id": "crabbersdelight",
+    "recipe_type": "minecraft:crafting_shapeless",
+    "inputs": [
+      {
+        "id": "crabbersdelight:cod_barrel",
+        "count": 1.0,
+        "unit": "item",
+        "type": "solid",
+        "rate": 1.0
+      }
+    ],
+    "outputs": [
+      {
+        "id": "minecraft:cod",
+        "count": 9.0,
+        "unit": "item",
+        "type": "solid",
+        "rate": 1.0
+      }
+    ]
+  },
+  {
+    "recipe_id": "crabbersdelight:palm_hanging_sign",
+    "mod_id": "crabbersdelight",
+    "recipe_type": "minecraft:crafting_shaped",
+    "inputs": [
+      {
+        "id": "minecraft:chain",
+        "count": 2.0,
+        "unit": "item",
+        "type": "solid",
+        "rate": 1.0
+      },
+      {
+        "id": "crabbersdelight:stripped_palm_log",
+        "count": 6.0,
+        "unit": "item",
+        "type": "solid",
+        "rate": 1.0
+      }
+    ],
+    "outputs": [
+      {
+        "id": "crabbersdelight:palm_hanging_sign",
+        "count": 6.0,
+        "unit": "item",
+        "type": "solid",
+        "rate": 1.0
+      }
+    ]
+  },
+  {
+    "recipe_id": "crabbersdelight:cooked_frog_leg_from_smoking",
+    "mod_id": "crabbersdelight",
+    "recipe_type": "minecraft:smoking",
+    "inputs": [
+      {
+        "id": "crabbersdelight:raw_frog_leg",
+        "count": 1.0,
+        "unit": "item",
+        "type": "solid",
+        "rate": 1.0
+      }
+    ],
+    "outputs": [
+      {
+        "id": "crabbersdelight:cooked_frog_leg",
+        "count": 1.0,
+        "unit": "item",
+        "type": "solid",
+        "rate": 1.0
+      }
+    ]
+  },
+  {
+    "recipe_id": "crabbersdelight:shrimp_skewer",
+    "mod_id": "crabbersdelight",
+    "recipe_type": "minecraft:crafting_shapeless",
+    "inputs": [
+      {
+        "id": "minecraft:stick",
+        "count": 1.0,
+        "unit": "item",
+        "type": "solid",
+        "rate": 1.0
+      },
+      {
+        "id": "crabbersdelight:cooked_shrimp",
+        "count": 1.0,
+        "unit": "item",
+        "type": "solid",
+        "rate": 1.0
+      },
+      {
+        "id": "crabbersdelight:cooked_shrimp",
+        "count": 1.0,
+        "unit": "item",
+        "type": "solid",
+        "rate": 1.0
+      },
+      {
+        "id": "farmersdelight:tomato",
+        "count": 1.0,
+        "unit": "item",
+        "type": "solid",
+        "rate": 1.0
+      }
+    ],
+    "outputs": [
+      {
+        "id": "crabbersdelight:shrimp_skewer",
+        "count": 1.0,
+        "unit": "item",
+        "type": "solid",
+        "rate": 1.0
+      }
+    ]
+  },
+  {
+    "recipe_id": "crabbersdelight:clawster_barrel",
+    "mod_id": "crabbersdelight",
+    "recipe_type": "minecraft:crafting_shaped",
+    "inputs": [
+      {
+        "id": "crabbersdelight:clawster",
+        "count": 9.0,
+        "unit": "item",
+        "type": "solid",
+        "rate": 1.0
+      }
+    ],
+    "outputs": [
+      {
+        "id": "crabbersdelight:clawster_barrel",
+        "count": 1.0,
+        "unit": "item",
+        "type": "solid",
+        "rate": 1.0
+      }
+    ]
+  },
+  {
+    "recipe_id": "crabbersdelight:bucket_of_crab_chum",
+    "mod_id": "crabbersdelight",
+    "recipe_type": "minecraft:crafting_shaped",
+    "inputs": [
+      {
+        "id": "minecraft:bone_meal",
+        "count": 4.0,
+        "unit": "item",
+        "type": "solid",
+        "rate": 1.0
+      },
+      {
+        "id": "minecraft:cod",
+        "count": 4.0,
+        "unit": "item",
+        "type": "solid",
+        "rate": 1.0
+      },
+      {
+        "id": "minecraft:bucket",
+        "count": 1.0,
+        "unit": "item",
+        "type": "solid",
+        "rate": 1.0
+      }
+    ],
+    "outputs": [
+      {
+        "id": "crabbersdelight:bucket_of_crab_chum",
+        "count": 1.0,
+        "unit": "item",
+        "type": "solid",
+        "rate": 1.0
+      }
+    ]
+  },
+  {
+    "recipe_id": "crabbersdelight:scute_block",
+    "mod_id": "crabbersdelight",
+    "recipe_type": "minecraft:crafting_shaped",
+    "inputs": [
+      {
+        "id": "minecraft:turtle_scute",
+        "count": 9.0,
+        "unit": "item",
+        "type": "solid",
+        "rate": 1.0
+      }
+    ],
+    "outputs": [
+      {
+        "id": "crabbersdelight:scute_block",
+        "count": 1.0,
+        "unit": "item",
+        "type": "solid",
+        "rate": 1.0
+      }
+    ]
+  },
+  {
+    "recipe_id": "crabbersdelight:frog_leg_barrel",
+    "mod_id": "crabbersdelight",
+    "recipe_type": "minecraft:crafting_shaped",
+    "inputs": [
+      {
+        "id": "crabbersdelight:raw_frog_leg",
+        "count": 9.0,
+        "unit": "item",
+        "type": "solid",
+        "rate": 1.0
+      }
+    ],
+    "outputs": [
+      {
+        "id": "crabbersdelight:frog_leg_barrel",
+        "count": 1.0,
+        "unit": "item",
+        "type": "solid",
+        "rate": 1.0
+      }
+    ]
+  },
+  {
+    "recipe_id": "crabbersdelight:stripped_palm_wood",
+    "mod_id": "crabbersdelight",
+    "recipe_type": "minecraft:crafting_shaped",
+    "inputs": [
+      {
+        "id": "crabbersdelight:stripped_palm_log",
+        "count": 4.0,
+        "unit": "item",
+        "type": "solid",
+        "rate": 1.0
+      }
+    ],
+    "outputs": [
+      {
+        "id": "crabbersdelight:stripped_palm_wood",
+        "count": 3.0,
+        "unit": "item",
+        "type": "solid",
+        "rate": 1.0
+      }
+    ]
+  },
+  {
+    "recipe_id": "crabbersdelight:palm_wood",
+    "mod_id": "crabbersdelight",
+    "recipe_type": "minecraft:crafting_shaped",
+    "inputs": [
+      {
+        "id": "crabbersdelight:palm_log",
+        "count": 4.0,
+        "unit": "item",
+        "type": "solid",
+        "rate": 1.0
+      }
+    ],
+    "outputs": [
+      {
+        "id": "crabbersdelight:palm_wood",
+        "count": 3.0,
+        "unit": "item",
+        "type": "solid",
+        "rate": 1.0
+      }
+    ]
+  },
+  {
+    "recipe_id": "crabbersdelight:crab_barrel",
+    "mod_id": "crabbersdelight",
+    "recipe_type": "minecraft:crafting_shaped",
+    "inputs": [
+      {
+        "id": "crabbersdelight:crab",
+        "count": 9.0,
+        "unit": "item",
+        "type": "solid",
+        "rate": 1.0
+      }
+    ],
+    "outputs": [
+      {
+        "id": "crabbersdelight:crab_barrel",
+        "count": 1.0,
+        "unit": "item",
+        "type": "solid",
+        "rate": 1.0
+      }
+    ]
+  },
+  {
+    "recipe_id": "crabbersdelight:seashells",
+    "mod_id": "crabbersdelight",
+    "recipe_type": "minecraft:crafting_shapeless",
+    "inputs": [
+      {
+        "id": "crabbersdelight:coral_fragments",
+        "count": 1.0,
+        "unit": "item",
+        "type": "solid",
+        "rate": 1.0
+      },
+      {
+        "id": "crabbersdelight:clam",
+        "count": 1.0,
+        "unit": "item",
+        "type": "solid",
+        "rate": 1.0
+      },
+      {
+        "id": "minecraft:nautilus_shell",
+        "count": 1.0,
+        "unit": "item",
+        "type": "solid",
+        "rate": 1.0
+      }
+    ],
+    "outputs": [
+      {
+        "id": "crabbersdelight:seashells",
+        "count": 8.0,
+        "unit": "item",
+        "type": "solid",
+        "rate": 1.0
+      }
+    ]
+  },
+  {
+    "recipe_id": "crabbersdelight:tropical_fish_barrel",
+    "mod_id": "crabbersdelight",
+    "recipe_type": "minecraft:crafting_shaped",
+    "inputs": [
+      {
+        "id": "minecraft:tropical_fish",
+        "count": 9.0,
+        "unit": "item",
+        "type": "solid",
+        "rate": 1.0
+      }
+    ],
+    "outputs": [
+      {
+        "id": "crabbersdelight:tropical_fish_barrel",
+        "count": 1.0,
+        "unit": "item",
+        "type": "solid",
+        "rate": 1.0
+      }
+    ]
+  },
+  {
+    "recipe_id": "crabbersdelight:palm_fence",
+    "mod_id": "crabbersdelight",
+    "recipe_type": "minecraft:crafting_shaped",
+    "inputs": [
+      {
+        "id": "crabbersdelight:palm_planks",
+        "count": 4.0,
+        "unit": "item",
+        "type": "solid",
+        "rate": 1.0
+      },
+      {
+        "id": "minecraft:stick",
+        "count": 2.0,
+        "unit": "item",
+        "type": "solid",
+        "rate": 1.0
+      }
+    ],
+    "outputs": [
+      {
+        "id": "crabbersdelight:palm_fence",
+        "count": 3.0,
+        "unit": "item",
+        "type": "solid",
+        "rate": 1.0
+      }
+    ]
+  },
+  {
+    "recipe_id": "crabbersdelight:cooked_tropical_fish_slice_from_campfire_cooking",
+    "mod_id": "crabbersdelight",
+    "recipe_type": "minecraft:campfire_cooking",
+    "inputs": [
+      {
+        "id": "crabbersdelight:tropical_fish_slice",
+        "count": 1.0,
+        "unit": "item",
+        "type": "solid",
+        "rate": 1.0
+      }
+    ],
+    "outputs": [
+      {
+        "id": "crabbersdelight:cooked_tropical_fish_slice",
+        "count": 1.0,
+        "unit": "item",
+        "type": "solid",
+        "rate": 1.0
+      }
+    ]
+  },
+  {
+    "recipe_id": "crabbersdelight:cooked_clam_meat_from_campfire_cooking",
+    "mod_id": "crabbersdelight",
+    "recipe_type": "minecraft:campfire_cooking",
+    "inputs": [
+      {
+        "id": "crabbersdelight:raw_clam_meat",
+        "count": 1.0,
+        "unit": "item",
+        "type": "solid",
+        "rate": 1.0
+      }
+    ],
+    "outputs": [
+      {
+        "id": "crabbersdelight:cooked_clam_meat",
+        "count": 1.0,
+        "unit": "item",
+        "type": "solid",
+        "rate": 1.0
+      }
+    ]
+  },
+  {
+    "recipe_id": "crabbersdelight:cooking/cooked_crab",
+    "mod_id": "crabbersdelight",
+    "recipe_type": "farmersdelight:cooking",
+    "inputs": [
+      {
+        "id": "crabbersdelight:crab",
+        "count": 1.0,
+        "unit": "item",
+        "type": "solid",
+        "rate": 1.0
+      }
+    ],
+    "outputs": [
+      {
+        "id": "crabbersdelight:cooked_crab",
+        "count": 1.0,
+        "unit": "item",
+        "type": "solid",
+        "rate": 1.0
+      }
+    ]
+  },
+  {
+    "recipe_id": "crabbersdelight:scute_from_block",
+    "mod_id": "crabbersdelight",
+    "recipe_type": "minecraft:crafting_shapeless",
+    "inputs": [
+      {
+        "id": "crabbersdelight:scute_block",
+        "count": 1.0,
+        "unit": "item",
+        "type": "solid",
+        "rate": 1.0
+      }
+    ],
+    "outputs": [
+      {
+        "id": "minecraft:turtle_scute",
+        "count": 9.0,
+        "unit": "item",
+        "type": "solid",
+        "rate": 1.0
+      }
+    ]
+  },
+  {
+    "recipe_id": "crabbersdelight:clam_barrel",
+    "mod_id": "crabbersdelight",
+    "recipe_type": "minecraft:crafting_shaped",
+    "inputs": [
+      {
+        "id": "crabbersdelight:clam",
+        "count": 9.0,
+        "unit": "item",
+        "type": "solid",
+        "rate": 1.0
+      }
+    ],
+    "outputs": [
+      {
+        "id": "crabbersdelight:clam_barrel",
+        "count": 1.0,
+        "unit": "item",
+        "type": "solid",
+        "rate": 1.0
+      }
+    ]
+  },
+  {
+    "recipe_id": "crabbersdelight:cutting/coconut",
+    "mod_id": "crabbersdelight",
+    "recipe_type": "farmersdelight:cutting",
+    "inputs": [
+      {
+        "id": "crabbersdelight:coconut",
+        "count": 1.0,
+        "unit": "item",
+        "type": "solid",
+        "rate": 1.0
+      }
+    ],
+    "outputs": [
+      {
+        "id": "crabbersdelight:coconut_halve",
+        "count": 2.0,
+        "unit": "item",
+        "type": "solid",
+        "rate": 1.0
+      }
+    ]
+  },
+  {
+    "recipe_id": "crabbersdelight:bucket_of_shrimp_chum",
+    "mod_id": "crabbersdelight",
+    "recipe_type": "minecraft:crafting_shaped",
+    "inputs": [
+      {
+        "id": "minecraft:bone_meal",
+        "count": 4.0,
+        "unit": "item",
+        "type": "solid",
+        "rate": 1.0
+      },
+      {
+        "id": "minecraft:tropical_fish",
+        "count": 4.0,
+        "unit": "item",
+        "type": "solid",
+        "rate": 1.0
+      },
+      {
+        "id": "minecraft:bucket",
+        "count": 1.0,
+        "unit": "item",
+        "type": "solid",
+        "rate": 1.0
+      }
+    ],
+    "outputs": [
+      {
+        "id": "crabbersdelight:bucket_of_shrimp_chum",
+        "count": 1.0,
+        "unit": "item",
+        "type": "solid",
+        "rate": 1.0
+      }
+    ]
+  },
+  {
+    "recipe_id": "crabbersdelight:cooking/crab_cakes",
+    "mod_id": "crabbersdelight",
+    "recipe_type": "farmersdelight:cooking",
+    "inputs": [
+      {
+        "id": "crabbersdelight:crab",
+        "count": 1.0,
+        "unit": "item",
+        "type": "solid",
+        "rate": 1.0
+      },
+      {
+        "id": "farmersdelight:wheat_dough",
+        "count": 1.0,
+        "unit": "item",
+        "type": "solid",
+        "rate": 1.0
+      },
+      {
+        "id": "c:drinks/milk",
+        "count": 1.0,
+        "unit": "item",
+        "type": "tag",
+        "rate": 1.0
+      },
+      {
+        "id": "minecraft:egg",
+        "count": 1.0,
+        "unit": "item",
+        "type": "solid",
+        "rate": 1.0
+      },
+      {
+        "id": "farmersdelight:onion",
+        "count": 1.0,
+        "unit": "item",
+        "type": "solid",
+        "rate": 1.0
+      }
+    ],
+    "outputs": [
+      {
+        "id": "crabbersdelight:crab_cakes",
+        "count": 1.0,
+        "unit": "item",
+        "type": "solid",
+        "rate": 1.0
+      }
+    ]
+  },
+  {
+    "recipe_id": "crabbersdelight:palm_cabinet",
+    "mod_id": "crabbersdelight",
+    "recipe_type": "minecraft:crafting_shaped",
+    "inputs": [
+      {
+        "id": "crabbersdelight:palm_slab",
+        "count": 6.0,
+        "unit": "item",
+        "type": "solid",
+        "rate": 1.0
+      },
+      {
+        "id": "crabbersdelight:palm_trapdoor_bottom",
+        "count": 2.0,
+        "unit": "item",
+        "type": "solid",
+        "rate": 1.0
+      }
+    ],
+    "outputs": [
+      {
+        "id": "crabbersdelight:palm_cabinet",
+        "count": 1.0,
+        "unit": "item",
+        "type": "solid",
+        "rate": 1.0
+      }
+    ]
+  },
+  {
+    "recipe_id": "crabbersdelight:cod_from_barrel",
+    "mod_id": "crabbersdelight",
+    "recipe_type": "minecraft:crafting_shapeless",
+    "inputs": [
+      {
+        "id": "crabbersdelight:cod_barrel",
+        "count": 1.0,
+        "unit": "item",
+        "type": "solid",
+        "rate": 1.0
+      }
+    ],
+    "outputs": [
+      {
+        "id": "minecraft:cod",
+        "count": 9.0,
+        "unit": "item",
+        "type": "solid",
+        "rate": 1.0
+      }
+    ]
+  },
+  {
+    "recipe_id": "crabbersdelight:palm_hanging_sign",
+    "mod_id": "crabbersdelight",
+    "recipe_type": "minecraft:crafting_shaped",
+    "inputs": [
+      {
+        "id": "minecraft:chain",
+        "count": 2.0,
+        "unit": "item",
+        "type": "solid",
+        "rate": 1.0
+      },
+      {
+        "id": "crabbersdelight:stripped_palm_log",
+        "count": 6.0,
+        "unit": "item",
+        "type": "solid",
+        "rate": 1.0
+      }
+    ],
+    "outputs": [
+      {
+        "id": "crabbersdelight:palm_hanging_sign",
+        "count": 6.0,
+        "unit": "item",
+        "type": "solid",
+        "rate": 1.0
+      }
+    ]
+  },
+  {
+    "recipe_id": "crabbersdelight:cooked_frog_leg_from_smoking",
+    "mod_id": "crabbersdelight",
+    "recipe_type": "minecraft:smoking",
+    "inputs": [
+      {
+        "id": "crabbersdelight:raw_frog_leg",
+        "count": 1.0,
+        "unit": "item",
+        "type": "solid",
+        "rate": 1.0
+      }
+    ],
+    "outputs": [
+      {
+        "id": "crabbersdelight:cooked_frog_leg",
+        "count": 1.0,
+        "unit": "item",
+        "type": "solid",
+        "rate": 1.0
+      }
+    ]
+  },
+  {
+    "recipe_id": "crabbersdelight:shrimp_skewer",
+    "mod_id": "crabbersdelight",
+    "recipe_type": "minecraft:crafting_shapeless",
+    "inputs": [
+      {
+        "id": "minecraft:stick",
+        "count": 1.0,
+        "unit": "item",
+        "type": "solid",
+        "rate": 1.0
+      },
+      {
+        "id": "crabbersdelight:cooked_shrimp",
+        "count": 1.0,
+        "unit": "item",
+        "type": "solid",
+        "rate": 1.0
+      },
+      {
+        "id": "crabbersdelight:cooked_shrimp",
+        "count": 1.0,
+        "unit": "item",
+        "type": "solid",
+        "rate": 1.0
+      },
+      {
+        "id": "farmersdelight:tomato",
+        "count": 1.0,
+        "unit": "item",
+        "type": "solid",
+        "rate": 1.0
+      }
+    ],
+    "outputs": [
+      {
+        "id": "crabbersdelight:shrimp_skewer",
+        "count": 1.0,
+        "unit": "item",
+        "type": "solid",
+        "rate": 1.0
+      }
+    ]
+  },
+  {
+    "recipe_id": "crabbersdelight:clawster_barrel",
+    "mod_id": "crabbersdelight",
+    "recipe_type": "minecraft:crafting_shaped",
+    "inputs": [
+      {
+        "id": "crabbersdelight:clawster",
+        "count": 9.0,
+        "unit": "item",
+        "type": "solid",
+        "rate": 1.0
+      }
+    ],
+    "outputs": [
+      {
+        "id": "crabbersdelight:clawster_barrel",
+        "count": 1.0,
+        "unit": "item",
+        "type": "solid",
+        "rate": 1.0
+      }
+    ]
+  },
+  {
+    "recipe_id": "crabbersdelight:bucket_of_crab_chum",
+    "mod_id": "crabbersdelight",
+    "recipe_type": "minecraft:crafting_shaped",
+    "inputs": [
+      {
+        "id": "minecraft:bone_meal",
+        "count": 4.0,
+        "unit": "item",
+        "type": "solid",
+        "rate": 1.0
+      },
+      {
+        "id": "minecraft:cod",
+        "count": 4.0,
+        "unit": "item",
+        "type": "solid",
+        "rate": 1.0
+      },
+      {
+        "id": "minecraft:bucket",
+        "count": 1.0,
+        "unit": "item",
+        "type": "solid",
+        "rate": 1.0
+      }
+    ],
+    "outputs": [
+      {
+        "id": "crabbersdelight:bucket_of_crab_chum",
+        "count": 1.0,
+        "unit": "item",
+        "type": "solid",
+        "rate": 1.0
+      }
+    ]
+  },
+  {
+    "recipe_id": "crabbersdelight:scute_block",
+    "mod_id": "crabbersdelight",
+    "recipe_type": "minecraft:crafting_shaped",
+    "inputs": [
+      {
+        "id": "minecraft:turtle_scute",
+        "count": 9.0,
+        "unit": "item",
+        "type": "solid",
+        "rate": 1.0
+      }
+    ],
+    "outputs": [
+      {
+        "id": "crabbersdelight:scute_block",
+        "count": 1.0,
+        "unit": "item",
+        "type": "solid",
+        "rate": 1.0
+      }
+    ]
+  },
+  {
+    "recipe_id": "crabbersdelight:frog_leg_barrel",
+    "mod_id": "crabbersdelight",
+    "recipe_type": "minecraft:crafting_shaped",
+    "inputs": [
+      {
+        "id": "crabbersdelight:raw_frog_leg",
+        "count": 9.0,
+        "unit": "item",
+        "type": "solid",
+        "rate": 1.0
+      }
+    ],
+    "outputs": [
+      {
+        "id": "crabbersdelight:frog_leg_barrel",
+        "count": 1.0,
+        "unit": "item",
+        "type": "solid",
+        "rate": 1.0
+      }
+    ]
+  },
+  {
+    "recipe_id": "crabbersdelight:cooking/cooked_shrimp",
+    "mod_id": "crabbersdelight",
+    "recipe_type": "farmersdelight:cooking",
+    "inputs": [
+      {
+        "id": "crabbersdelight:shrimp",
+        "count": 1.0,
+        "unit": "item",
+        "type": "solid",
+        "rate": 1.0
+      }
+    ],
+    "outputs": [
+      {
+        "id": "crabbersdelight:cooked_shrimp",
+        "count": 1.0,
+        "unit": "item",
+        "type": "solid",
+        "rate": 1.0
+      }
+    ]
+  },
+  {
+    "recipe_id": "crabbersdelight:palm_boat",
+    "mod_id": "crabbersdelight",
+    "recipe_type": "minecraft:crafting_shaped",
+    "inputs": [
+      {
+        "id": "crabbersdelight:palm_planks",
+        "count": 5.0,
+        "unit": "item",
+        "type": "solid",
+        "rate": 1.0
+      }
+    ],
+    "outputs": [
+      {
+        "id": "crabbersdelight:palm_boat",
+        "count": 1.0,
+        "unit": "item",
+        "type": "solid",
+        "rate": 1.0
+      }
+    ]
+  },
+  {
+    "recipe_id": "crabbersdelight:cutting/palm_sign",
+    "mod_id": "crabbersdelight",
+    "recipe_type": "farmersdelight:cutting",
+    "inputs": [
+      {
+        "id": "crabbersdelight:palm_sign",
+        "count": 1.0,
+        "unit": "item",
+        "type": "solid",
+        "rate": 1.0
+      }
+    ],
+    "outputs": [
+      {
+        "id": "crabbersdelight:palm_planks",
+        "count": 1.0,
+        "unit": "item",
+        "type": "solid",
+        "rate": 1.0
+      }
+    ]
+  },
+  {
+    "recipe_id": "crabbersdelight:sea_pickle_from_block",
+    "mod_id": "crabbersdelight",
+    "recipe_type": "minecraft:crafting_shapeless",
+    "inputs": [
+      {
+        "id": "crabbersdelight:sea_pickle_crate",
+        "count": 1.0,
+        "unit": "item",
+        "type": "solid",
+        "rate": 1.0
+      }
+    ],
+    "outputs": [
+      {
+        "id": "minecraft:sea_pickle",
+        "count": 9.0,
+        "unit": "item",
+        "type": "solid",
+        "rate": 1.0
+      }
+    ]
+  },
+  {
+    "recipe_id": "crabbersdelight:cooking/clam_bake",
+    "mod_id": "crabbersdelight",
+    "recipe_type": "farmersdelight:cooking",
+    "inputs": [
+      {
+        "id": "crabbersdelight:cooked_clam_meat",
+        "count": 1.0,
+        "unit": "item",
+        "type": "solid",
+        "rate": 1.0
+      },
+      {
+        "id": "crabbersdelight:cooked_clawster",
+        "count": 1.0,
+        "unit": "item",
+        "type": "solid",
+        "rate": 1.0
+      },
+      {
+        "id": "crabbersdelight:cooked_shrimp",
+        "count": 1.0,
+        "unit": "item",
+        "type": "solid",
+        "rate": 1.0
+      },
+      {
+        "id": "minecraft:seagrass",
+        "count": 1.0,
+        "unit": "item",
+        "type": "solid",
+        "rate": 1.0
+      },
+      {
+        "id": "minecraft:carrot",
+        "count": 1.0,
+        "unit": "item",
+        "type": "solid",
+        "rate": 1.0
+      },
+      {
+        "id": "farmersdelight:onion",
+        "count": 1.0,
+        "unit": "item",
+        "type": "solid",
+        "rate": 1.0
+      }
+    ],
+    "outputs": [
+      {
+        "id": "crabbersdelight:clam_bake",
+        "count": 1.0,
+        "unit": "item",
+        "type": "solid",
+        "rate": 1.0
+      }
+    ]
+  },
+  {
+    "recipe_id": "crabbersdelight:cooked_glow_squid_tentacles_from_smoking",
+    "mod_id": "crabbersdelight",
+    "recipe_type": "minecraft:smoking",
+    "inputs": [
+      {
+        "id": "crabbersdelight:raw_glow_squid_tentacles",
+        "count": 1.0,
+        "unit": "item",
+        "type": "solid",
+        "rate": 1.0
+      }
+    ],
+    "outputs": [
+      {
+        "id": "crabbersdelight:cooked_glow_squid_tentacles",
+        "count": 1.0,
+        "unit": "item",
+        "type": "solid",
+        "rate": 1.0
+      }
+    ]
+  },
+  {
+    "recipe_id": "crabbersdelight:palm_planks",
+    "mod_id": "crabbersdelight",
+    "recipe_type": "minecraft:crafting_shapeless",
+    "inputs": [
+      {
+        "id": "crabbersdelight:palm_logs",
+        "count": 1.0,
+        "unit": "item",
+        "type": "tag",
+        "rate": 1.0
+      }
+    ],
+    "outputs": [
+      {
+        "id": "crabbersdelight:palm_planks",
+        "count": 4.0,
+        "unit": "item",
+        "type": "solid",
+        "rate": 1.0
+      }
+    ]
+  },
+  {
+    "recipe_id": "crabbersdelight:stripped_palm_wood",
+    "mod_id": "crabbersdelight",
+    "recipe_type": "minecraft:crafting_shaped",
+    "inputs": [
+      {
+        "id": "crabbersdelight:stripped_palm_log",
+        "count": 4.0,
+        "unit": "item",
+        "type": "solid",
+        "rate": 1.0
+      }
+    ],
+    "outputs": [
+      {
+        "id": "crabbersdelight:stripped_palm_wood",
+        "count": 3.0,
+        "unit": "item",
+        "type": "solid",
+        "rate": 1.0
+      }
+    ]
+  },
+  {
+    "recipe_id": "crabbersdelight:palm_wood",
+    "mod_id": "crabbersdelight",
+    "recipe_type": "minecraft:crafting_shaped",
+    "inputs": [
+      {
+        "id": "crabbersdelight:palm_log",
+        "count": 4.0,
+        "unit": "item",
+        "type": "solid",
+        "rate": 1.0
+      }
+    ],
+    "outputs": [
+      {
+        "id": "crabbersdelight:palm_wood",
+        "count": 3.0,
+        "unit": "item",
+        "type": "solid",
+        "rate": 1.0
+      }
+    ]
+  },
+  {
+    "recipe_id": "crabbersdelight:crab_barrel",
+    "mod_id": "crabbersdelight",
+    "recipe_type": "minecraft:crafting_shaped",
+    "inputs": [
+      {
+        "id": "crabbersdelight:crab",
+        "count": 9.0,
+        "unit": "item",
+        "type": "solid",
+        "rate": 1.0
+      }
+    ],
+    "outputs": [
+      {
+        "id": "crabbersdelight:crab_barrel",
+        "count": 1.0,
+        "unit": "item",
+        "type": "solid",
+        "rate": 1.0
+      }
+    ]
+  },
+  {
+    "recipe_id": "crabbersdelight:seashells",
+    "mod_id": "crabbersdelight",
+    "recipe_type": "minecraft:crafting_shapeless",
+    "inputs": [
+      {
+        "id": "crabbersdelight:coral_fragments",
+        "count": 1.0,
+        "unit": "item",
+        "type": "solid",
+        "rate": 1.0
+      },
+      {
+        "id": "crabbersdelight:clam",
+        "count": 1.0,
+        "unit": "item",
+        "type": "solid",
+        "rate": 1.0
+      },
+      {
+        "id": "minecraft:nautilus_shell",
+        "count": 1.0,
+        "unit": "item",
+        "type": "solid",
+        "rate": 1.0
+      }
+    ],
+    "outputs": [
+      {
+        "id": "crabbersdelight:seashells",
+        "count": 8.0,
+        "unit": "item",
+        "type": "solid",
+        "rate": 1.0
+      }
+    ]
+  },
+  {
+    "recipe_id": "crabbersdelight:tropical_fish_barrel",
+    "mod_id": "crabbersdelight",
+    "recipe_type": "minecraft:crafting_shaped",
+    "inputs": [
+      {
+        "id": "minecraft:tropical_fish",
+        "count": 9.0,
+        "unit": "item",
+        "type": "solid",
+        "rate": 1.0
+      }
+    ],
+    "outputs": [
+      {
+        "id": "crabbersdelight:tropical_fish_barrel",
+        "count": 1.0,
+        "unit": "item",
+        "type": "solid",
+        "rate": 1.0
+      }
+    ]
+  },
+  {
+    "recipe_id": "crabbersdelight:palm_fence",
+    "mod_id": "crabbersdelight",
+    "recipe_type": "minecraft:crafting_shaped",
+    "inputs": [
+      {
+        "id": "crabbersdelight:palm_planks",
+        "count": 4.0,
+        "unit": "item",
+        "type": "solid",
+        "rate": 1.0
+      },
+      {
+        "id": "minecraft:stick",
+        "count": 2.0,
+        "unit": "item",
+        "type": "solid",
+        "rate": 1.0
+      }
+    ],
+    "outputs": [
+      {
+        "id": "crabbersdelight:palm_fence",
+        "count": 3.0,
+        "unit": "item",
+        "type": "solid",
+        "rate": 1.0
+      }
+    ]
+  },
+  {
+    "recipe_id": "crabbersdelight:cooked_tropical_fish_slice_from_campfire_cooking",
+    "mod_id": "crabbersdelight",
+    "recipe_type": "minecraft:campfire_cooking",
+    "inputs": [
+      {
+        "id": "crabbersdelight:tropical_fish_slice",
+        "count": 1.0,
+        "unit": "item",
+        "type": "solid",
+        "rate": 1.0
+      }
+    ],
+    "outputs": [
+      {
+        "id": "crabbersdelight:cooked_tropical_fish_slice",
+        "count": 1.0,
+        "unit": "item",
+        "type": "solid",
+        "rate": 1.0
+      }
+    ]
+  },
+  {
+    "recipe_id": "crabbersdelight:cooked_clam_meat_from_campfire_cooking",
+    "mod_id": "crabbersdelight",
+    "recipe_type": "minecraft:campfire_cooking",
+    "inputs": [
+      {
+        "id": "crabbersdelight:raw_clam_meat",
+        "count": 1.0,
+        "unit": "item",
+        "type": "solid",
+        "rate": 1.0
+      }
+    ],
+    "outputs": [
+      {
+        "id": "crabbersdelight:cooked_clam_meat",
+        "count": 1.0,
+        "unit": "item",
+        "type": "solid",
+        "rate": 1.0
+      }
+    ]
+  },
+  {
+    "recipe_id": "crabbersdelight:cooking/cooked_crab",
+    "mod_id": "crabbersdelight",
+    "recipe_type": "farmersdelight:cooking",
+    "inputs": [
+      {
+        "id": "crabbersdelight:crab",
+        "count": 1.0,
+        "unit": "item",
+        "type": "solid",
+        "rate": 1.0
+      }
+    ],
+    "outputs": [
+      {
+        "id": "crabbersdelight:cooked_crab",
+        "count": 1.0,
+        "unit": "item",
+        "type": "solid",
+        "rate": 1.0
+      }
+    ]
+  },
+  {
+    "recipe_id": "crabbersdelight:scute_from_block",
+    "mod_id": "crabbersdelight",
+    "recipe_type": "minecraft:crafting_shapeless",
+    "inputs": [
+      {
+        "id": "crabbersdelight:scute_block",
+        "count": 1.0,
+        "unit": "item",
+        "type": "solid",
+        "rate": 1.0
+      }
+    ],
+    "outputs": [
+      {
+        "id": "minecraft:turtle_scute",
+        "count": 9.0,
+        "unit": "item",
+        "type": "solid",
+        "rate": 1.0
+      }
+    ]
+  },
+  {
+    "recipe_id": "crabbersdelight:clam_barrel",
+    "mod_id": "crabbersdelight",
+    "recipe_type": "minecraft:crafting_shaped",
+    "inputs": [
+      {
+        "id": "crabbersdelight:clam",
+        "count": 9.0,
+        "unit": "item",
+        "type": "solid",
+        "rate": 1.0
+      }
+    ],
+    "outputs": [
+      {
+        "id": "crabbersdelight:clam_barrel",
+        "count": 1.0,
+        "unit": "item",
+        "type": "solid",
+        "rate": 1.0
+      }
+    ]
+  },
+  {
+    "recipe_id": "crabbersdelight:cutting/coconut",
+    "mod_id": "crabbersdelight",
+    "recipe_type": "farmersdelight:cutting",
+    "inputs": [
+      {
+        "id": "crabbersdelight:coconut",
+        "count": 1.0,
+        "unit": "item",
+        "type": "solid",
+        "rate": 1.0
+      }
+    ],
+    "outputs": [
+      {
+        "id": "crabbersdelight:coconut_halve",
+        "count": 2.0,
+        "unit": "item",
+        "type": "solid",
+        "rate": 1.0
+      }
+    ]
+  },
+  {
+    "recipe_id": "crabbersdelight:bucket_of_shrimp_chum",
+    "mod_id": "crabbersdelight",
+    "recipe_type": "minecraft:crafting_shaped",
+    "inputs": [
+      {
+        "id": "minecraft:bone_meal",
+        "count": 4.0,
+        "unit": "item",
+        "type": "solid",
+        "rate": 1.0
+      },
+      {
+        "id": "minecraft:tropical_fish",
+        "count": 4.0,
+        "unit": "item",
+        "type": "solid",
+        "rate": 1.0
+      },
+      {
+        "id": "minecraft:bucket",
+        "count": 1.0,
+        "unit": "item",
+        "type": "solid",
+        "rate": 1.0
+      }
+    ],
+    "outputs": [
+      {
+        "id": "crabbersdelight:bucket_of_shrimp_chum",
+        "count": 1.0,
+        "unit": "item",
+        "type": "solid",
+        "rate": 1.0
+      }
+    ]
+  },
+  {
+    "recipe_id": "crabbersdelight:cooking/crab_cakes",
+    "mod_id": "crabbersdelight",
+    "recipe_type": "farmersdelight:cooking",
+    "inputs": [
+      {
+        "id": "crabbersdelight:crab",
+        "count": 1.0,
+        "unit": "item",
+        "type": "solid",
+        "rate": 1.0
+      },
+      {
+        "id": "farmersdelight:wheat_dough",
+        "count": 1.0,
+        "unit": "item",
+        "type": "solid",
+        "rate": 1.0
+      },
+      {
+        "id": "c:drinks/milk",
+        "count": 1.0,
+        "unit": "item",
+        "type": "tag",
+        "rate": 1.0
+      },
+      {
+        "id": "minecraft:egg",
+        "count": 1.0,
+        "unit": "item",
+        "type": "solid",
+        "rate": 1.0
+      },
+      {
+        "id": "farmersdelight:onion",
+        "count": 1.0,
+        "unit": "item",
+        "type": "solid",
+        "rate": 1.0
+      }
+    ],
+    "outputs": [
+      {
+        "id": "crabbersdelight:crab_cakes",
+        "count": 1.0,
+        "unit": "item",
+        "type": "solid",
+        "rate": 1.0
+      }
+    ]
+  },
+  {
+    "recipe_id": "crabbersdelight:palm_cabinet",
+    "mod_id": "crabbersdelight",
+    "recipe_type": "minecraft:crafting_shaped",
+    "inputs": [
+      {
+        "id": "crabbersdelight:palm_slab",
+        "count": 6.0,
+        "unit": "item",
+        "type": "solid",
+        "rate": 1.0
+      },
+      {
+        "id": "crabbersdelight:palm_trapdoor_bottom",
+        "count": 2.0,
+        "unit": "item",
+        "type": "solid",
+        "rate": 1.0
+      }
+    ],
+    "outputs": [
+      {
+        "id": "crabbersdelight:palm_cabinet",
+        "count": 1.0,
+        "unit": "item",
+        "type": "solid",
+        "rate": 1.0
+      }
+    ]
+  },
+  {
+    "recipe_id": "crabbersdelight:cod_from_barrel",
+    "mod_id": "crabbersdelight",
+    "recipe_type": "minecraft:crafting_shapeless",
+    "inputs": [
+      {
+        "id": "crabbersdelight:cod_barrel",
+        "count": 1.0,
+        "unit": "item",
+        "type": "solid",
+        "rate": 1.0
+      }
+    ],
+    "outputs": [
+      {
+        "id": "minecraft:cod",
+        "count": 9.0,
+        "unit": "item",
+        "type": "solid",
+        "rate": 1.0
+      }
+    ]
+  },
+  {
+    "recipe_id": "crabbersdelight:palm_hanging_sign",
+    "mod_id": "crabbersdelight",
+    "recipe_type": "minecraft:crafting_shaped",
+    "inputs": [
+      {
+        "id": "minecraft:chain",
+        "count": 2.0,
+        "unit": "item",
+        "type": "solid",
+        "rate": 1.0
+      },
+      {
+        "id": "crabbersdelight:stripped_palm_log",
+        "count": 6.0,
+        "unit": "item",
+        "type": "solid",
+        "rate": 1.0
+      }
+    ],
+    "outputs": [
+      {
+        "id": "crabbersdelight:palm_hanging_sign",
+        "count": 6.0,
+        "unit": "item",
+        "type": "solid",
+        "rate": 1.0
+      }
+    ]
+  },
+  {
+    "recipe_id": "crabbersdelight:cooked_frog_leg_from_smoking",
+    "mod_id": "crabbersdelight",
+    "recipe_type": "minecraft:smoking",
+    "inputs": [
+      {
+        "id": "crabbersdelight:raw_frog_leg",
+        "count": 1.0,
+        "unit": "item",
+        "type": "solid",
+        "rate": 1.0
+      }
+    ],
+    "outputs": [
+      {
+        "id": "crabbersdelight:cooked_frog_leg",
+        "count": 1.0,
+        "unit": "item",
+        "type": "solid",
+        "rate": 1.0
+      }
+    ]
+  },
+  {
+    "recipe_id": "crabbersdelight:shrimp_skewer",
+    "mod_id": "crabbersdelight",
+    "recipe_type": "minecraft:crafting_shapeless",
+    "inputs": [
+      {
+        "id": "minecraft:stick",
+        "count": 1.0,
+        "unit": "item",
+        "type": "solid",
+        "rate": 1.0
+      },
+      {
+        "id": "crabbersdelight:cooked_shrimp",
+        "count": 1.0,
+        "unit": "item",
+        "type": "solid",
+        "rate": 1.0
+      },
+      {
+        "id": "crabbersdelight:cooked_shrimp",
+        "count": 1.0,
+        "unit": "item",
+        "type": "solid",
+        "rate": 1.0
+      },
+      {
+        "id": "farmersdelight:tomato",
+        "count": 1.0,
+        "unit": "item",
+        "type": "solid",
+        "rate": 1.0
+      }
+    ],
+    "outputs": [
+      {
+        "id": "crabbersdelight:shrimp_skewer",
+        "count": 1.0,
+        "unit": "item",
+        "type": "solid",
+        "rate": 1.0
+      }
+    ]
+  },
+  {
+    "recipe_id": "crabbersdelight:clawster_barrel",
+    "mod_id": "crabbersdelight",
+    "recipe_type": "minecraft:crafting_shaped",
+    "inputs": [
+      {
+        "id": "crabbersdelight:clawster",
+        "count": 9.0,
+        "unit": "item",
+        "type": "solid",
+        "rate": 1.0
+      }
+    ],
+    "outputs": [
+      {
+        "id": "crabbersdelight:clawster_barrel",
+        "count": 1.0,
+        "unit": "item",
+        "type": "solid",
+        "rate": 1.0
+      }
+    ]
+  },
+  {
+    "recipe_id": "crabbersdelight:bucket_of_crab_chum",
+    "mod_id": "crabbersdelight",
+    "recipe_type": "minecraft:crafting_shaped",
+    "inputs": [
+      {
+        "id": "minecraft:bone_meal",
+        "count": 4.0,
+        "unit": "item",
+        "type": "solid",
+        "rate": 1.0
+      },
+      {
+        "id": "minecraft:cod",
+        "count": 4.0,
+        "unit": "item",
+        "type": "solid",
+        "rate": 1.0
+      },
+      {
+        "id": "minecraft:bucket",
+        "count": 1.0,
+        "unit": "item",
+        "type": "solid",
+        "rate": 1.0
+      }
+    ],
+    "outputs": [
+      {
+        "id": "crabbersdelight:bucket_of_crab_chum",
+        "count": 1.0,
+        "unit": "item",
+        "type": "solid",
+        "rate": 1.0
+      }
+    ]
+  },
+  {
+    "recipe_id": "crabbersdelight:scute_block",
+    "mod_id": "crabbersdelight",
+    "recipe_type": "minecraft:crafting_shaped",
+    "inputs": [
+      {
+        "id": "minecraft:turtle_scute",
+        "count": 9.0,
+        "unit": "item",
+        "type": "solid",
+        "rate": 1.0
+      }
+    ],
+    "outputs": [
+      {
+        "id": "crabbersdelight:scute_block",
+        "count": 1.0,
+        "unit": "item",
+        "type": "solid",
+        "rate": 1.0
+      }
+    ]
+  },
+  {
+    "recipe_id": "crabbersdelight:frog_leg_barrel",
+    "mod_id": "crabbersdelight",
+    "recipe_type": "minecraft:crafting_shaped",
+    "inputs": [
+      {
+        "id": "crabbersdelight:raw_frog_leg",
+        "count": 9.0,
+        "unit": "item",
+        "type": "solid",
+        "rate": 1.0
+      }
+    ],
+    "outputs": [
+      {
+        "id": "crabbersdelight:frog_leg_barrel",
+        "count": 1.0,
+        "unit": "item",
+        "type": "solid",
+        "rate": 1.0
+      }
+    ]
+  },
+  {
+    "recipe_id": "crabbersdelight:stripped_palm_wood",
+    "mod_id": "crabbersdelight",
+    "recipe_type": "minecraft:crafting_shaped",
+    "inputs": [
+      {
+        "id": "crabbersdelight:stripped_palm_log",
+        "count": 4.0,
+        "unit": "item",
+        "type": "solid",
+        "rate": 1.0
+      }
+    ],
+    "outputs": [
+      {
+        "id": "crabbersdelight:stripped_palm_wood",
+        "count": 3.0,
+        "unit": "item",
+        "type": "solid",
+        "rate": 1.0
+      }
+    ]
+  },
+  {
+    "recipe_id": "crabbersdelight:palm_wood",
+    "mod_id": "crabbersdelight",
+    "recipe_type": "minecraft:crafting_shaped",
+    "inputs": [
+      {
+        "id": "crabbersdelight:palm_log",
+        "count": 4.0,
+        "unit": "item",
+        "type": "solid",
+        "rate": 1.0
+      }
+    ],
+    "outputs": [
+      {
+        "id": "crabbersdelight:palm_wood",
+        "count": 3.0,
+        "unit": "item",
+        "type": "solid",
+        "rate": 1.0
+      }
+    ]
+  },
+  {
+    "recipe_id": "crabbersdelight:crab_barrel",
+    "mod_id": "crabbersdelight",
+    "recipe_type": "minecraft:crafting_shaped",
+    "inputs": [
+      {
+        "id": "crabbersdelight:crab",
+        "count": 9.0,
+        "unit": "item",
+        "type": "solid",
+        "rate": 1.0
+      }
+    ],
+    "outputs": [
+      {
+        "id": "crabbersdelight:crab_barrel",
+        "count": 1.0,
+        "unit": "item",
+        "type": "solid",
+        "rate": 1.0
+      }
+    ]
+  },
+  {
+    "recipe_id": "crabbersdelight:seashells",
+    "mod_id": "crabbersdelight",
+    "recipe_type": "minecraft:crafting_shapeless",
+    "inputs": [
+      {
+        "id": "crabbersdelight:coral_fragments",
+        "count": 1.0,
+        "unit": "item",
+        "type": "solid",
+        "rate": 1.0
+      },
+      {
+        "id": "crabbersdelight:clam",
+        "count": 1.0,
+        "unit": "item",
+        "type": "solid",
+        "rate": 1.0
+      },
+      {
+        "id": "minecraft:nautilus_shell",
+        "count": 1.0,
+        "unit": "item",
+        "type": "solid",
+        "rate": 1.0
+      }
+    ],
+    "outputs": [
+      {
+        "id": "crabbersdelight:seashells",
+        "count": 8.0,
+        "unit": "item",
+        "type": "solid",
+        "rate": 1.0
+      }
+    ]
+  },
+  {
+    "recipe_id": "crabbersdelight:tropical_fish_barrel",
+    "mod_id": "crabbersdelight",
+    "recipe_type": "minecraft:crafting_shaped",
+    "inputs": [
+      {
+        "id": "minecraft:tropical_fish",
+        "count": 9.0,
+        "unit": "item",
+        "type": "solid",
+        "rate": 1.0
+      }
+    ],
+    "outputs": [
+      {
+        "id": "crabbersdelight:tropical_fish_barrel",
+        "count": 1.0,
+        "unit": "item",
+        "type": "solid",
+        "rate": 1.0
+      }
+    ]
+  },
+  {
+    "recipe_id": "crabbersdelight:palm_fence",
+    "mod_id": "crabbersdelight",
+    "recipe_type": "minecraft:crafting_shaped",
+    "inputs": [
+      {
+        "id": "crabbersdelight:palm_planks",
+        "count": 4.0,
+        "unit": "item",
+        "type": "solid",
+        "rate": 1.0
+      },
+      {
+        "id": "minecraft:stick",
+        "count": 2.0,
+        "unit": "item",
+        "type": "solid",
+        "rate": 1.0
+      }
+    ],
+    "outputs": [
+      {
+        "id": "crabbersdelight:palm_fence",
+        "count": 3.0,
+        "unit": "item",
+        "type": "solid",
+        "rate": 1.0
+      }
+    ]
+  },
+  {
+    "recipe_id": "crabbersdelight:cooked_tropical_fish_slice_from_campfire_cooking",
+    "mod_id": "crabbersdelight",
+    "recipe_type": "minecraft:campfire_cooking",
+    "inputs": [
+      {
+        "id": "crabbersdelight:tropical_fish_slice",
+        "count": 1.0,
+        "unit": "item",
+        "type": "solid",
+        "rate": 1.0
+      }
+    ],
+    "outputs": [
+      {
+        "id": "crabbersdelight:cooked_tropical_fish_slice",
+        "count": 1.0,
+        "unit": "item",
+        "type": "solid",
+        "rate": 1.0
+      }
+    ]
+  },
+  {
+    "recipe_id": "crabbersdelight:cooked_clam_meat_from_campfire_cooking",
+    "mod_id": "crabbersdelight",
+    "recipe_type": "minecraft:campfire_cooking",
+    "inputs": [
+      {
+        "id": "crabbersdelight:raw_clam_meat",
+        "count": 1.0,
+        "unit": "item",
+        "type": "solid",
+        "rate": 1.0
+      }
+    ],
+    "outputs": [
+      {
+        "id": "crabbersdelight:cooked_clam_meat",
+        "count": 1.0,
+        "unit": "item",
+        "type": "solid",
+        "rate": 1.0
+      }
+    ]
+  },
+  {
+    "recipe_id": "crabbersdelight:cooking/cooked_crab",
+    "mod_id": "crabbersdelight",
+    "recipe_type": "farmersdelight:cooking",
+    "inputs": [
+      {
+        "id": "crabbersdelight:crab",
+        "count": 1.0,
+        "unit": "item",
+        "type": "solid",
+        "rate": 1.0
+      }
+    ],
+    "outputs": [
+      {
+        "id": "crabbersdelight:cooked_crab",
+        "count": 1.0,
+        "unit": "item",
+        "type": "solid",
+        "rate": 1.0
+      }
+    ]
+  },
+  {
+    "recipe_id": "crabbersdelight:scute_from_block",
+    "mod_id": "crabbersdelight",
+    "recipe_type": "minecraft:crafting_shapeless",
+    "inputs": [
+      {
+        "id": "crabbersdelight:scute_block",
+        "count": 1.0,
+        "unit": "item",
+        "type": "solid",
+        "rate": 1.0
+      }
+    ],
+    "outputs": [
+      {
+        "id": "minecraft:turtle_scute",
+        "count": 9.0,
+        "unit": "item",
+        "type": "solid",
+        "rate": 1.0
+      }
+    ]
+  },
+  {
+    "recipe_id": "crabbersdelight:clam_barrel",
+    "mod_id": "crabbersdelight",
+    "recipe_type": "minecraft:crafting_shaped",
+    "inputs": [
+      {
+        "id": "crabbersdelight:clam",
+        "count": 9.0,
+        "unit": "item",
+        "type": "solid",
+        "rate": 1.0
+      }
+    ],
+    "outputs": [
+      {
+        "id": "crabbersdelight:clam_barrel",
+        "count": 1.0,
+        "unit": "item",
+        "type": "solid",
+        "rate": 1.0
+      }
+    ]
+  },
+  {
+    "recipe_id": "crabbersdelight:cutting/coconut",
+    "mod_id": "crabbersdelight",
+    "recipe_type": "farmersdelight:cutting",
+    "inputs": [
+      {
+        "id": "crabbersdelight:coconut",
+        "count": 1.0,
+        "unit": "item",
+        "type": "solid",
+        "rate": 1.0
+      }
+    ],
+    "outputs": [
+      {
+        "id": "crabbersdelight:coconut_halve",
+        "count": 2.0,
+        "unit": "item",
+        "type": "solid",
+        "rate": 1.0
+      }
+    ]
+  },
+  {
+    "recipe_id": "crabbersdelight:bucket_of_shrimp_chum",
+    "mod_id": "crabbersdelight",
+    "recipe_type": "minecraft:crafting_shaped",
+    "inputs": [
+      {
+        "id": "minecraft:bone_meal",
+        "count": 4.0,
+        "unit": "item",
+        "type": "solid",
+        "rate": 1.0
+      },
+      {
+        "id": "minecraft:tropical_fish",
+        "count": 4.0,
+        "unit": "item",
+        "type": "solid",
+        "rate": 1.0
+      },
+      {
+        "id": "minecraft:bucket",
+        "count": 1.0,
+        "unit": "item",
+        "type": "solid",
+        "rate": 1.0
+      }
+    ],
+    "outputs": [
+      {
+        "id": "crabbersdelight:bucket_of_shrimp_chum",
+        "count": 1.0,
+        "unit": "item",
+        "type": "solid",
+        "rate": 1.0
+      }
+    ]
+  },
+  {
+    "recipe_id": "crabbersdelight:cooking/crab_cakes",
+    "mod_id": "crabbersdelight",
+    "recipe_type": "farmersdelight:cooking",
+    "inputs": [
+      {
+        "id": "crabbersdelight:crab",
+        "count": 1.0,
+        "unit": "item",
+        "type": "solid",
+        "rate": 1.0
+      },
+      {
+        "id": "farmersdelight:wheat_dough",
+        "count": 1.0,
+        "unit": "item",
+        "type": "solid",
+        "rate": 1.0
+      },
+      {
+        "id": "c:drinks/milk",
+        "count": 1.0,
+        "unit": "item",
+        "type": "tag",
+        "rate": 1.0
+      },
+      {
+        "id": "minecraft:egg",
+        "count": 1.0,
+        "unit": "item",
+        "type": "solid",
+        "rate": 1.0
+      },
+      {
+        "id": "farmersdelight:onion",
+        "count": 1.0,
+        "unit": "item",
+        "type": "solid",
+        "rate": 1.0
+      }
+    ],
+    "outputs": [
+      {
+        "id": "crabbersdelight:crab_cakes",
+        "count": 1.0,
+        "unit": "item",
+        "type": "solid",
+        "rate": 1.0
+      }
+    ]
+  },
+  {
+    "recipe_id": "crabbersdelight:palm_cabinet",
+    "mod_id": "crabbersdelight",
+    "recipe_type": "minecraft:crafting_shaped",
+    "inputs": [
+      {
+        "id": "crabbersdelight:palm_slab",
+        "count": 6.0,
+        "unit": "item",
+        "type": "solid",
+        "rate": 1.0
+      },
+      {
+        "id": "crabbersdelight:palm_trapdoor_bottom",
+        "count": 2.0,
+        "unit": "item",
+        "type": "solid",
+        "rate": 1.0
+      }
+    ],
+    "outputs": [
+      {
+        "id": "crabbersdelight:palm_cabinet",
+        "count": 1.0,
+        "unit": "item",
+        "type": "solid",
+        "rate": 1.0
+      }
+    ]
+  },
+  {
+    "recipe_id": "crabbersdelight:cod_from_barrel",
+    "mod_id": "crabbersdelight",
+    "recipe_type": "minecraft:crafting_shapeless",
+    "inputs": [
+      {
+        "id": "crabbersdelight:cod_barrel",
+        "count": 1.0,
+        "unit": "item",
+        "type": "solid",
+        "rate": 1.0
+      }
+    ],
+    "outputs": [
+      {
+        "id": "minecraft:cod",
+        "count": 9.0,
+        "unit": "item",
+        "type": "solid",
+        "rate": 1.0
+      }
+    ]
+  },
+  {
+    "recipe_id": "crabbersdelight:palm_hanging_sign",
+    "mod_id": "crabbersdelight",
+    "recipe_type": "minecraft:crafting_shaped",
+    "inputs": [
+      {
+        "id": "minecraft:chain",
+        "count": 2.0,
+        "unit": "item",
+        "type": "solid",
+        "rate": 1.0
+      },
+      {
+        "id": "crabbersdelight:stripped_palm_log",
+        "count": 6.0,
+        "unit": "item",
+        "type": "solid",
+        "rate": 1.0
+      }
+    ],
+    "outputs": [
+      {
+        "id": "crabbersdelight:palm_hanging_sign",
+        "count": 6.0,
+        "unit": "item",
+        "type": "solid",
+        "rate": 1.0
+      }
+    ]
+  },
+  {
+    "recipe_id": "crabbersdelight:cooked_frog_leg_from_smoking",
+    "mod_id": "crabbersdelight",
+    "recipe_type": "minecraft:smoking",
+    "inputs": [
+      {
+        "id": "crabbersdelight:raw_frog_leg",
+        "count": 1.0,
+        "unit": "item",
+        "type": "solid",
+        "rate": 1.0
+      }
+    ],
+    "outputs": [
+      {
+        "id": "crabbersdelight:cooked_frog_leg",
+        "count": 1.0,
+        "unit": "item",
+        "type": "solid",
+        "rate": 1.0
+      }
+    ]
+  },
+  {
+    "recipe_id": "crabbersdelight:shrimp_skewer",
+    "mod_id": "crabbersdelight",
+    "recipe_type": "minecraft:crafting_shapeless",
+    "inputs": [
+      {
+        "id": "minecraft:stick",
+        "count": 1.0,
+        "unit": "item",
+        "type": "solid",
+        "rate": 1.0
+      },
+      {
+        "id": "crabbersdelight:cooked_shrimp",
+        "count": 1.0,
+        "unit": "item",
+        "type": "solid",
+        "rate": 1.0
+      },
+      {
+        "id": "crabbersdelight:cooked_shrimp",
+        "count": 1.0,
+        "unit": "item",
+        "type": "solid",
+        "rate": 1.0
+      },
+      {
+        "id": "farmersdelight:tomato",
+        "count": 1.0,
+        "unit": "item",
+        "type": "solid",
+        "rate": 1.0
+      }
+    ],
+    "outputs": [
+      {
+        "id": "crabbersdelight:shrimp_skewer",
+        "count": 1.0,
+        "unit": "item",
+        "type": "solid",
+        "rate": 1.0
+      }
+    ]
+  },
+  {
+    "recipe_id": "crabbersdelight:clawster_barrel",
+    "mod_id": "crabbersdelight",
+    "recipe_type": "minecraft:crafting_shaped",
+    "inputs": [
+      {
+        "id": "crabbersdelight:clawster",
+        "count": 9.0,
+        "unit": "item",
+        "type": "solid",
+        "rate": 1.0
+      }
+    ],
+    "outputs": [
+      {
+        "id": "crabbersdelight:clawster_barrel",
+        "count": 1.0,
+        "unit": "item",
+        "type": "solid",
+        "rate": 1.0
+      }
+    ]
+  },
+  {
+    "recipe_id": "crabbersdelight:bucket_of_crab_chum",
+    "mod_id": "crabbersdelight",
+    "recipe_type": "minecraft:crafting_shaped",
+    "inputs": [
+      {
+        "id": "minecraft:bone_meal",
+        "count": 4.0,
+        "unit": "item",
+        "type": "solid",
+        "rate": 1.0
+      },
+      {
+        "id": "minecraft:cod",
+        "count": 4.0,
+        "unit": "item",
+        "type": "solid",
+        "rate": 1.0
+      },
+      {
+        "id": "minecraft:bucket",
+        "count": 1.0,
+        "unit": "item",
+        "type": "solid",
+        "rate": 1.0
+      }
+    ],
+    "outputs": [
+      {
+        "id": "crabbersdelight:bucket_of_crab_chum",
+        "count": 1.0,
+        "unit": "item",
+        "type": "solid",
+        "rate": 1.0
+      }
+    ]
+  },
+  {
+    "recipe_id": "crabbersdelight:scute_block",
+    "mod_id": "crabbersdelight",
+    "recipe_type": "minecraft:crafting_shaped",
+    "inputs": [
+      {
+        "id": "minecraft:turtle_scute",
+        "count": 9.0,
+        "unit": "item",
+        "type": "solid",
+        "rate": 1.0
+      }
+    ],
+    "outputs": [
+      {
+        "id": "crabbersdelight:scute_block",
+        "count": 1.0,
+        "unit": "item",
+        "type": "solid",
+        "rate": 1.0
+      }
+    ]
+  },
+  {
+    "recipe_id": "crabbersdelight:frog_leg_barrel",
+    "mod_id": "crabbersdelight",
+    "recipe_type": "minecraft:crafting_shaped",
+    "inputs": [
+      {
+        "id": "crabbersdelight:raw_frog_leg",
+        "count": 9.0,
+        "unit": "item",
+        "type": "solid",
+        "rate": 1.0
+      }
+    ],
+    "outputs": [
+      {
+        "id": "crabbersdelight:frog_leg_barrel",
+        "count": 1.0,
+        "unit": "item",
+        "type": "solid",
+        "rate": 1.0
+      }
+    ]
+  },
+  {
+    "recipe_id": "crabbersdelight:cooking/cooked_shrimp",
+    "mod_id": "crabbersdelight",
+    "recipe_type": "farmersdelight:cooking",
+    "inputs": [
+      {
+        "id": "crabbersdelight:shrimp",
+        "count": 1.0,
+        "unit": "item",
+        "type": "solid",
+        "rate": 1.0
+      }
+    ],
+    "outputs": [
+      {
+        "id": "crabbersdelight:cooked_shrimp",
+        "count": 1.0,
+        "unit": "item",
+        "type": "solid",
+        "rate": 1.0
+      }
+    ]
+  },
+  {
+    "recipe_id": "crabbersdelight:palm_boat",
+    "mod_id": "crabbersdelight",
+    "recipe_type": "minecraft:crafting_shaped",
+    "inputs": [
+      {
+        "id": "crabbersdelight:palm_planks",
+        "count": 5.0,
+        "unit": "item",
+        "type": "solid",
+        "rate": 1.0
+      }
+    ],
+    "outputs": [
+      {
+        "id": "crabbersdelight:palm_boat",
+        "count": 1.0,
+        "unit": "item",
+        "type": "solid",
+        "rate": 1.0
+      }
+    ]
+  },
+  {
+    "recipe_id": "crabbersdelight:cutting/palm_sign",
+    "mod_id": "crabbersdelight",
+    "recipe_type": "farmersdelight:cutting",
+    "inputs": [
+      {
+        "id": "crabbersdelight:palm_sign",
+        "count": 1.0,
+        "unit": "item",
+        "type": "solid",
+        "rate": 1.0
+      }
+    ],
+    "outputs": [
+      {
+        "id": "crabbersdelight:palm_planks",
+        "count": 1.0,
+        "unit": "item",
+        "type": "solid",
+        "rate": 1.0
+      }
+    ]
+  },
+  {
+    "recipe_id": "crabbersdelight:sea_pickle_from_block",
+    "mod_id": "crabbersdelight",
+    "recipe_type": "minecraft:crafting_shapeless",
+    "inputs": [
+      {
+        "id": "crabbersdelight:sea_pickle_crate",
+        "count": 1.0,
+        "unit": "item",
+        "type": "solid",
+        "rate": 1.0
+      }
+    ],
+    "outputs": [
+      {
+        "id": "minecraft:sea_pickle",
+        "count": 9.0,
+        "unit": "item",
+        "type": "solid",
+        "rate": 1.0
+      }
+    ]
+  },
+  {
+    "recipe_id": "crabbersdelight:cooking/clam_bake",
+    "mod_id": "crabbersdelight",
+    "recipe_type": "farmersdelight:cooking",
+    "inputs": [
+      {
+        "id": "crabbersdelight:cooked_clam_meat",
+        "count": 1.0,
+        "unit": "item",
+        "type": "solid",
+        "rate": 1.0
+      },
+      {
+        "id": "crabbersdelight:cooked_clawster",
+        "count": 1.0,
+        "unit": "item",
+        "type": "solid",
+        "rate": 1.0
+      },
+      {
+        "id": "crabbersdelight:cooked_shrimp",
+        "count": 1.0,
+        "unit": "item",
+        "type": "solid",
+        "rate": 1.0
+      },
+      {
+        "id": "minecraft:seagrass",
+        "count": 1.0,
+        "unit": "item",
+        "type": "solid",
+        "rate": 1.0
+      },
+      {
+        "id": "minecraft:carrot",
+        "count": 1.0,
+        "unit": "item",
+        "type": "solid",
+        "rate": 1.0
+      },
+      {
+        "id": "farmersdelight:onion",
+        "count": 1.0,
+        "unit": "item",
+        "type": "solid",
+        "rate": 1.0
+      }
+    ],
+    "outputs": [
+      {
+        "id": "crabbersdelight:clam_bake",
+        "count": 1.0,
+        "unit": "item",
+        "type": "solid",
+        "rate": 1.0
+      }
+    ]
+  },
+  {
+    "recipe_id": "crabbersdelight:cooked_glow_squid_tentacles_from_smoking",
+    "mod_id": "crabbersdelight",
+    "recipe_type": "minecraft:smoking",
+    "inputs": [
+      {
+        "id": "crabbersdelight:raw_glow_squid_tentacles",
+        "count": 1.0,
+        "unit": "item",
+        "type": "solid",
+        "rate": 1.0
+      }
+    ],
+    "outputs": [
+      {
+        "id": "crabbersdelight:cooked_glow_squid_tentacles",
+        "count": 1.0,
+        "unit": "item",
+        "type": "solid",
+        "rate": 1.0
+      }
+    ]
+  },
+  {
+    "recipe_id": "crabbersdelight:palm_planks",
+    "mod_id": "crabbersdelight",
+    "recipe_type": "minecraft:crafting_shapeless",
+    "inputs": [
+      {
+        "id": "crabbersdelight:palm_logs",
+        "count": 1.0,
+        "unit": "item",
+        "type": "tag",
+        "rate": 1.0
+      }
+    ],
+    "outputs": [
+      {
+        "id": "crabbersdelight:palm_planks",
+        "count": 4.0,
+        "unit": "item",
+        "type": "solid",
+        "rate": 1.0
+      }
+    ]
+  },
+  {
+    "recipe_id": "crabbersdelight:cutting/palm_trapdoor_bottom",
+    "mod_id": "crabbersdelight",
+    "recipe_type": "farmersdelight:cutting",
+    "inputs": [
+      {
+        "id": "crabbersdelight:palm_trapdoor_bottom",
+        "count": 1.0,
+        "unit": "item",
+        "type": "solid",
+        "rate": 1.0
+      }
+    ],
+    "outputs": [
+      {
+        "id": "crabbersdelight:palm_planks",
+        "count": 1.0,
+        "unit": "item",
+        "type": "solid",
+        "rate": 1.0
+      }
+    ]
+  },
+  {
+    "recipe_id": "crabbersdelight:palm_door",
+    "mod_id": "crabbersdelight",
+    "recipe_type": "minecraft:crafting_shaped",
+    "inputs": [
+      {
+        "id": "crabbersdelight:palm_planks",
+        "count": 6.0,
+        "unit": "item",
+        "type": "solid",
+        "rate": 1.0
+      }
+    ],
+    "outputs": [
+      {
+        "id": "crabbersdelight:palm_door",
+        "count": 3.0,
+        "unit": "item",
+        "type": "solid",
+        "rate": 1.0
+      }
+    ]
+  },
+  {
+    "recipe_id": "crabbersdelight:fish_stick",
+    "mod_id": "crabbersdelight",
+    "recipe_type": "minecraft:crafting_shapeless",
+    "inputs": [
+      {
+        "id": "minecraft:stick",
+        "count": 1.0,
+        "unit": "item",
+        "type": "solid",
+        "rate": 1.0
+      },
+      {
+        "id": "c:foods/cooked_fish",
+        "count": 1.0,
+        "unit": "item",
+        "type": "tag",
+        "rate": 1.0
+      }
+    ],
+    "outputs": [
+      {
+        "id": "crabbersdelight:fish_stick",
+        "count": 1.0,
+        "unit": "item",
+        "type": "solid",
+        "rate": 1.0
+      }
+    ]
+  },
+  {
+    "recipe_id": "crabbersdelight:kelp_shake",
+    "mod_id": "crabbersdelight",
+    "recipe_type": "minecraft:crafting_shapeless",
+    "inputs": [
+      {
+        "id": "minecraft:glass_bottle",
+        "count": 1.0,
+        "unit": "item",
+        "type": "solid",
+        "rate": 1.0
+      },
+      {
+        "id": "minecraft:sugar",
+        "count": 1.0,
+        "unit": "item",
+        "type": "solid",
+        "rate": 1.0
+      },
+      {
+        "id": "minecraft:kelp",
+        "count": 1.0,
+        "unit": "item",
+        "type": "solid",
+        "rate": 1.0
+      },
+      {
+        "id": "minecraft:kelp",
+        "count": 1.0,
+        "unit": "item",
+        "type": "solid",
+        "rate": 1.0
+      },
+      {
+        "id": "minecraft:kelp",
+        "count": 1.0,
+        "unit": "item",
+        "type": "solid",
+        "rate": 1.0
+      },
+      {
+        "id": "minecraft:kelp",
+        "count": 1.0,
+        "unit": "item",
+        "type": "solid",
+        "rate": 1.0
+      }
+    ],
+    "outputs": [
+      {
+        "id": "crabbersdelight:kelp_shake",
+        "count": 1.0,
+        "unit": "item",
+        "type": "solid",
+        "rate": 1.0
+      }
+    ]
+  },
+  {
+    "recipe_id": "crabbersdelight:cod_barrel",
+    "mod_id": "crabbersdelight",
+    "recipe_type": "minecraft:crafting_shaped",
+    "inputs": [
+      {
+        "id": "minecraft:cod",
+        "count": 9.0,
+        "unit": "item",
+        "type": "solid",
+        "rate": 1.0
+      }
+    ],
+    "outputs": [
+      {
+        "id": "crabbersdelight:cod_barrel",
+        "count": 1.0,
+        "unit": "item",
+        "type": "solid",
+        "rate": 1.0
+      }
+    ]
+  },
+  {
+    "recipe_id": "crabbersdelight:cooked_frog_leg_from_campfire_cooking",
+    "mod_id": "crabbersdelight",
+    "recipe_type": "minecraft:campfire_cooking",
+    "inputs": [
+      {
+        "id": "crabbersdelight:raw_frog_leg",
+        "count": 1.0,
+        "unit": "item",
+        "type": "solid",
+        "rate": 1.0
+      }
+    ],
+    "outputs": [
+      {
+        "id": "crabbersdelight:cooked_frog_leg",
+        "count": 1.0,
+        "unit": "item",
+        "type": "solid",
+        "rate": 1.0
+      }
+    ]
+  },
+  {
+    "recipe_id": "crabbersdelight:cooked_frog_leg",
+    "mod_id": "crabbersdelight",
+    "recipe_type": "minecraft:smelting",
+    "inputs": [
+      {
+        "id": "crabbersdelight:raw_frog_leg",
+        "count": 1.0,
+        "unit": "item",
+        "type": "solid",
+        "rate": 1.0
+      }
+    ],
+    "outputs": [
+      {
+        "id": "crabbersdelight:cooked_frog_leg",
+        "count": 1.0,
+        "unit": "item",
+        "type": "solid",
+        "rate": 1.0
+      }
+    ]
+  },
+  {
+    "recipe_id": "crabbersdelight:cooked_glow_squid_tentacles_from_campfire_cooking",
+    "mod_id": "crabbersdelight",
+    "recipe_type": "minecraft:campfire_cooking",
+    "inputs": [
+      {
+        "id": "crabbersdelight:raw_glow_squid_tentacles",
+        "count": 1.0,
+        "unit": "item",
+        "type": "solid",
+        "rate": 1.0
+      }
+    ],
+    "outputs": [
+      {
+        "id": "crabbersdelight:cooked_glow_squid_tentacles",
+        "count": 1.0,
+        "unit": "item",
+        "type": "solid",
+        "rate": 1.0
+      }
+    ]
+  },
+  {
+    "recipe_id": "crabbersdelight:crab_from_barrel",
+    "mod_id": "crabbersdelight",
+    "recipe_type": "minecraft:crafting_shapeless",
+    "inputs": [
+      {
+        "id": "crabbersdelight:crab_barrel",
+        "count": 1.0,
+        "unit": "item",
+        "type": "solid",
+        "rate": 1.0
+      }
+    ],
+    "outputs": [
+      {
+        "id": "crabbersdelight:crab",
+        "count": 9.0,
+        "unit": "item",
+        "type": "solid",
+        "rate": 1.0
+      }
+    ]
+  },
+  {
+    "recipe_id": "crabbersdelight:cooked_glow_squid_tentacles",
+    "mod_id": "crabbersdelight",
+    "recipe_type": "minecraft:smelting",
+    "inputs": [
+      {
+        "id": "crabbersdelight:raw_glow_squid_tentacles",
+        "count": 1.0,
+        "unit": "item",
+        "type": "solid",
+        "rate": 1.0
+      }
+    ],
+    "outputs": [
+      {
+        "id": "crabbersdelight:cooked_glow_squid_tentacles",
+        "count": 1.0,
+        "unit": "item",
+        "type": "solid",
+        "rate": 1.0
+      }
+    ]
+  },
+  {
+    "recipe_id": "crabbersdelight:glow_squid_from_barrel",
+    "mod_id": "crabbersdelight",
+    "recipe_type": "minecraft:crafting_shapeless",
+    "inputs": [
+      {
+        "id": "crabbersdelight:glow_squid_barrel",
+        "count": 1.0,
+        "unit": "item",
+        "type": "solid",
+        "rate": 1.0
+      }
+    ],
+    "outputs": [
+      {
+        "id": "crabbersdelight:raw_glow_squid_tentacles",
+        "count": 9.0,
+        "unit": "item",
+        "type": "solid",
+        "rate": 1.0
+      }
+    ]
+  },
+  {
+    "recipe_id": "crabbersdelight:cooked_tropical_fish_from_campfire_cooking",
+    "mod_id": "crabbersdelight",
+    "recipe_type": "minecraft:campfire_cooking",
+    "inputs": [
+      {
+        "id": "minecraft:tropical_fish",
+        "count": 1.0,
+        "unit": "item",
+        "type": "solid",
+        "rate": 1.0
+      }
+    ],
+    "outputs": [
+      {
+        "id": "crabbersdelight:cooked_tropical_fish",
+        "count": 1.0,
+        "unit": "item",
+        "type": "solid",
+        "rate": 1.0
+      }
+    ]
+  },
+  {
+    "recipe_id": "crabbersdelight:palm_pressure_plate",
+    "mod_id": "crabbersdelight",
+    "recipe_type": "minecraft:crafting_shaped",
+    "inputs": [
+      {
+        "id": "crabbersdelight:palm_planks",
+        "count": 2.0,
+        "unit": "item",
+        "type": "solid",
+        "rate": 1.0
+      }
+    ],
+    "outputs": [
+      {
+        "id": "crabbersdelight:palm_pressure_plate",
+        "count": 1.0,
+        "unit": "item",
+        "type": "solid",
+        "rate": 1.0
+      }
+    ]
+  },
+  {
+    "recipe_id": "crabbersdelight:squid_from_barrel",
+    "mod_id": "crabbersdelight",
+    "recipe_type": "minecraft:crafting_shapeless",
+    "inputs": [
+      {
+        "id": "crabbersdelight:squid_barrel",
+        "count": 1.0,
+        "unit": "item",
+        "type": "solid",
+        "rate": 1.0
+      }
+    ],
+    "outputs": [
+      {
+        "id": "crabbersdelight:raw_squid_tentacles",
+        "count": 9.0,
+        "unit": "item",
+        "type": "solid",
+        "rate": 1.0
+      }
+    ]
+  },
+  {
+    "recipe_id": "crabbersdelight:bucket_of_clam_chum",
+    "mod_id": "crabbersdelight",
+    "recipe_type": "minecraft:crafting_shaped",
+    "inputs": [
+      {
+        "id": "minecraft:bone_meal",
+        "count": 4.0,
+        "unit": "item",
+        "type": "solid",
+        "rate": 1.0
+      },
+      {
+        "id": "minecraft:pufferfish",
+        "count": 4.0,
+        "unit": "item",
+        "type": "solid",
+        "rate": 1.0
+      },
+      {
+        "id": "minecraft:bucket",
+        "count": 1.0,
+        "unit": "item",
+        "type": "solid",
+        "rate": 1.0
+      }
+    ],
+    "outputs": [
+      {
+        "id": "crabbersdelight:bucket_of_clam_chum",
+        "count": 1.0,
+        "unit": "item",
+        "type": "solid",
+        "rate": 1.0
+      }
+    ]
+  },
+  {
+    "recipe_id": "crabbersdelight:sea_pickle_crate",
+    "mod_id": "crabbersdelight",
+    "recipe_type": "minecraft:crafting_shaped",
+    "inputs": [
+      {
+        "id": "minecraft:sea_pickle",
+        "count": 9.0,
+        "unit": "item",
+        "type": "solid",
+        "rate": 1.0
+      }
+    ],
+    "outputs": [
+      {
+        "id": "crabbersdelight:sea_pickle_crate",
+        "count": 1.0,
+        "unit": "item",
+        "type": "solid",
+        "rate": 1.0
+      }
+    ]
+  },
+  {
+    "recipe_id": "crabbersdelight:cooked_pufferfish_slice_from_smoking",
+    "mod_id": "crabbersdelight",
+    "recipe_type": "minecraft:smoking",
+    "inputs": [
+      {
+        "id": "crabbersdelight:pufferfish_slice",
+        "count": 1.0,
+        "unit": "item",
+        "type": "solid",
+        "rate": 1.0
+      }
+    ],
+    "outputs": [
+      {
+        "id": "crabbersdelight:cooked_pufferfish_slice",
+        "count": 1.0,
+        "unit": "item",
+        "type": "solid",
+        "rate": 1.0
+      }
+    ]
+  },
+  {
+    "recipe_id": "crabbersdelight:clam_from_barrel",
+    "mod_id": "crabbersdelight",
+    "recipe_type": "minecraft:crafting_shapeless",
+    "inputs": [
+      {
+        "id": "crabbersdelight:clam_barrel",
+        "count": 1.0,
+        "unit": "item",
+        "type": "solid",
+        "rate": 1.0
+      }
+    ],
+    "outputs": [
+      {
+        "id": "crabbersdelight:clam",
+        "count": 9.0,
+        "unit": "item",
+        "type": "solid",
+        "rate": 1.0
+      }
+    ]
+  },
+  {
+    "recipe_id": "crabbersdelight:cooked_pufferfish_slice_from_campfire_cooking",
+    "mod_id": "crabbersdelight",
+    "recipe_type": "minecraft:campfire_cooking",
+    "inputs": [
+      {
+        "id": "crabbersdelight:pufferfish_slice",
+        "count": 1.0,
+        "unit": "item",
+        "type": "solid",
+        "rate": 1.0
+      }
+    ],
+    "outputs": [
+      {
+        "id": "crabbersdelight:cooked_pufferfish_slice",
+        "count": 1.0,
+        "unit": "item",
+        "type": "solid",
+        "rate": 1.0
+      }
+    ]
+  },
+  {
+    "recipe_id": "crabbersdelight:nautilus_shell_block",
+    "mod_id": "crabbersdelight",
+    "recipe_type": "minecraft:crafting_shaped",
+    "inputs": [
+      {
+        "id": "minecraft:nautilus_shell",
+        "count": 9.0,
+        "unit": "item",
+        "type": "solid",
+        "rate": 1.0
+      }
+    ],
+    "outputs": [
+      {
+        "id": "crabbersdelight:nautilus_shell_block",
+        "count": 1.0,
+        "unit": "item",
+        "type": "solid",
+        "rate": 1.0
+      }
+    ]
+  },
+  {
+    "recipe_id": "crabbersdelight:pearl_block",
+    "mod_id": "crabbersdelight",
+    "recipe_type": "minecraft:crafting_shaped",
+    "inputs": [
+      {
+        "id": "crabbersdelight:pearl",
+        "count": 9.0,
+        "unit": "item",
+        "type": "solid",
+        "rate": 1.0
+      }
+    ],
+    "outputs": [
+      {
+        "id": "crabbersdelight:pearl_block",
+        "count": 1.0,
+        "unit": "item",
+        "type": "solid",
+        "rate": 1.0
+      }
+    ]
+  },
+  {
+    "recipe_id": "crabbersdelight:palm_chest_boat",
+    "mod_id": "crabbersdelight",
+    "recipe_type": "minecraft:crafting_shapeless",
+    "inputs": [
+      {
+        "id": "crabbersdelight:palm_boat",
+        "count": 1.0,
+        "unit": "item",
+        "type": "solid",
+        "rate": 1.0
+      },
+      {
+        "id": "minecraft:chest",
+        "count": 1.0,
+        "unit": "item",
+        "type": "solid",
+        "rate": 1.0
+      }
+    ],
+    "outputs": [
+      {
+        "id": "crabbersdelight:palm_chest_boat",
+        "count": 1.0,
+        "unit": "item",
+        "type": "solid",
+        "rate": 1.0
+      }
+    ]
+  },
+  {
+    "recipe_id": "crabbersdelight:fish_plaque",
+    "mod_id": "crabbersdelight",
+    "recipe_type": "minecraft:crafting_shaped",
+    "inputs": [
+      {
+        "id": "minecraft:stick",
+        "count": 3.0,
+        "unit": "item",
+        "type": "solid",
+        "rate": 1.0
+      },
+      {
+        "id": "minecraft:planks",
+        "count": 1.0,
+        "unit": "item",
+        "type": "solid",
+        "rate": 1.0
+      },
+      {
+        "id": "minecraft:gold_nugget",
+        "count": 1.0,
+        "unit": "item",
+        "type": "solid",
+        "rate": 1.0
+      }
+    ],
+    "outputs": [
+      {
+        "id": "crabbersdelight:fish_plaque",
+        "count": 2.0,
+        "unit": "item",
+        "type": "solid",
+        "rate": 1.0
+      }
+    ]
+  },
+  {
+    "recipe_id": "crabbersdelight:palm_button",
+    "mod_id": "crabbersdelight",
+    "recipe_type": "minecraft:crafting_shapeless",
+    "inputs": [
+      {
+        "id": "crabbersdelight:palm_planks",
+        "count": 1.0,
+        "unit": "item",
+        "type": "solid",
+        "rate": 1.0
+      }
+    ],
+    "outputs": [
+      {
+        "id": "crabbersdelight:palm_button",
+        "count": 1.0,
+        "unit": "item",
+        "type": "solid",
+        "rate": 1.0
+      }
+    ]
+  },
+  {
+    "recipe_id": "crabbersdelight:cooking/cooked_clawster",
+    "mod_id": "crabbersdelight",
+    "recipe_type": "farmersdelight:cooking",
+    "inputs": [
+      {
+        "id": "crabbersdelight:clawster",
+        "count": 1.0,
+        "unit": "item",
+        "type": "solid",
+        "rate": 1.0
+      }
+    ],
+    "outputs": [
+      {
+        "id": "crabbersdelight:cooked_clawster",
+        "count": 1.0,
+        "unit": "item",
+        "type": "solid",
+        "rate": 1.0
+      }
+    ]
+  },
+  {
+    "recipe_id": "crabbersdelight:cooking/coconut_pudding",
+    "mod_id": "crabbersdelight",
+    "recipe_type": "farmersdelight:cooking",
+    "inputs": [
+      {
+        "id": "crabbersdelight:coconut_milk",
+        "count": 1.0,
+        "unit": "item",
+        "type": "solid",
+        "rate": 1.0
+      },
+      {
+        "id": "crabbersdelight:coconut_halve",
+        "count": 1.0,
+        "unit": "item",
+        "type": "solid",
+        "rate": 1.0
+      },
+      {
+        "id": "minecraft:sugar",
+        "count": 1.0,
+        "unit": "item",
+        "type": "solid",
+        "rate": 1.0
+      },
+      {
+        "id": "minecraft:egg",
+        "count": 1.0,
+        "unit": "item",
+        "type": "solid",
+        "rate": 1.0
+      }
+    ],
+    "outputs": [
+      {
+        "id": "crabbersdelight:coconut_pudding",
+        "count": 1.0,
+        "unit": "item",
+        "type": "solid",
+        "rate": 1.0
+      }
+    ]
+  },
+  {
+    "recipe_id": "crabbersdelight:cooked_clam_meat_from_smoking",
+    "mod_id": "crabbersdelight",
+    "recipe_type": "minecraft:smoking",
+    "inputs": [
+      {
+        "id": "crabbersdelight:raw_clam_meat",
+        "count": 1.0,
+        "unit": "item",
+        "type": "solid",
+        "rate": 1.0
+      }
+    ],
+    "outputs": [
+      {
+        "id": "crabbersdelight:cooked_clam_meat",
+        "count": 1.0,
+        "unit": "item",
+        "type": "solid",
+        "rate": 1.0
+      }
+    ]
+  },
+  {
+    "recipe_id": "crabbersdelight:coconut_from_barrel",
+    "mod_id": "crabbersdelight",
+    "recipe_type": "minecraft:crafting_shapeless",
+    "inputs": [
+      {
+        "id": "crabbersdelight:coconut_crate",
+        "count": 1.0,
+        "unit": "item",
+        "type": "solid",
+        "rate": 1.0
+      }
+    ],
+    "outputs": [
+      {
+        "id": "crabbersdelight:coconut",
+        "count": 9.0,
+        "unit": "item",
+        "type": "solid",
+        "rate": 1.0
+      }
+    ]
+  },
+  {
+    "recipe_id": "crabbersdelight:frog_leg_kebab",
+    "mod_id": "crabbersdelight",
+    "recipe_type": "minecraft:crafting_shapeless",
+    "inputs": [
+      {
+        "id": "minecraft:stick",
+        "count": 1.0,
+        "unit": "item",
+        "type": "solid",
+        "rate": 1.0
+      },
+      {
+        "id": "crabbersdelight:cooked_frog_leg",
+        "count": 1.0,
+        "unit": "item",
+        "type": "solid",
+        "rate": 1.0
+      },
+      {
+        "id": "farmersdelight:onion",
+        "count": 1.0,
+        "unit": "item",
+        "type": "solid",
+        "rate": 1.0
+      },
+      {
+        "id": "minecraft:brown_mushroom",
+        "count": 1.0,
+        "unit": "item",
+        "type": "solid",
+        "rate": 1.0
+      },
+      {
+        "id": "minecraft:carrot",
+        "count": 1.0,
+        "unit": "item",
+        "type": "solid",
+        "rate": 1.0
+      }
+    ],
+    "outputs": [
+      {
+        "id": "crabbersdelight:frog_leg_kebab",
+        "count": 1.0,
+        "unit": "item",
+        "type": "solid",
+        "rate": 1.0
+      }
+    ]
+  },
+  {
+    "recipe_id": "crabbersdelight:cutting/clam",
+    "mod_id": "crabbersdelight",
+    "recipe_type": "farmersdelight:cutting",
+    "inputs": [
+      {
+        "id": "crabbersdelight:clam",
+        "count": 1.0,
+        "unit": "item",
+        "type": "solid",
+        "rate": 1.0
+      }
+    ],
+    "outputs": [
+      {
+        "id": "crabbersdelight:raw_clam_meat",
+        "count": 1.0,
+        "unit": "item",
+        "type": "solid",
+        "rate": 1.0
+      },
+      {
+        "id": "crabbersdelight:pearl",
+        "count": 1.0,
+        "unit": "item",
+        "type": "solid",
+        "rate": 1.0
+      }
+    ]
+  },
+  {
+    "recipe_id": "crabbersdelight:nautilus_shell_from_block",
+    "mod_id": "crabbersdelight",
+    "recipe_type": "minecraft:crafting_shapeless",
+    "inputs": [
+      {
+        "id": "crabbersdelight:nautilus_shell_block",
+        "count": 1.0,
+        "unit": "item",
+        "type": "solid",
+        "rate": 1.0
+      }
+    ],
+    "outputs": [
+      {
+        "id": "minecraft:nautilus_shell",
+        "count": 9.0,
+        "unit": "item",
+        "type": "solid",
+        "rate": 1.0
+      }
+    ]
+  },
+  {
+    "recipe_id": "crabbersdelight:palm_fence_gate",
+    "mod_id": "crabbersdelight",
+    "recipe_type": "minecraft:crafting_shaped",
+    "inputs": [
+      {
+        "id": "minecraft:stick",
+        "count": 4.0,
+        "unit": "item",
+        "type": "solid",
+        "rate": 1.0
+      },
+      {
+        "id": "crabbersdelight:palm_planks",
+        "count": 2.0,
+        "unit": "item",
+        "type": "solid",
+        "rate": 1.0
+      }
+    ],
+    "outputs": [
+      {
+        "id": "crabbersdelight:palm_fence_gate",
+        "count": 1.0,
+        "unit": "item",
+        "type": "solid",
+        "rate": 1.0
+      }
+    ]
+  },
+  {
+    "recipe_id": "crabbersdelight:palm_stairs",
+    "mod_id": "crabbersdelight",
+    "recipe_type": "minecraft:crafting_shaped",
+    "inputs": [
+      {
+        "id": "crabbersdelight:palm_planks",
+        "count": 6.0,
+        "unit": "item",
+        "type": "solid",
+        "rate": 1.0
+      }
+    ],
+    "outputs": [
+      {
+        "id": "crabbersdelight:palm_stairs",
+        "count": 4.0,
+        "unit": "item",
+        "type": "solid",
+        "rate": 1.0
+      }
+    ]
+  },
+  {
+    "recipe_id": "crabbersdelight:tropical_fish_from_barrel",
+    "mod_id": "crabbersdelight",
+    "recipe_type": "minecraft:crafting_shapeless",
+    "inputs": [
+      {
+        "id": "crabbersdelight:tropical_fish_barrel",
+        "count": 1.0,
+        "unit": "item",
+        "type": "solid",
+        "rate": 1.0
+      }
+    ],
+    "outputs": [
+      {
+        "id": "minecraft:tropical_fish",
+        "count": 9.0,
+        "unit": "item",
+        "type": "solid",
+        "rate": 1.0
+      }
+    ]
+  },
+  {
+    "recipe_id": "crabbersdelight:cooking/clam_chowder",
+    "mod_id": "crabbersdelight",
+    "recipe_type": "farmersdelight:cooking",
+    "inputs": [
+      {
+        "id": "crabbersdelight:cooked_clam_meat",
+        "count": 1.0,
+        "unit": "item",
+        "type": "solid",
+        "rate": 1.0
+      },
+      {
+        "id": "farmersdelight:onion",
+        "count": 1.0,
+        "unit": "item",
+        "type": "solid",
+        "rate": 1.0
+      },
+      {
+        "id": "minecraft:potato",
+        "count": 1.0,
+        "unit": "item",
+        "type": "solid",
+        "rate": 1.0
+      },
+      {
+        "id": "c:drinks/milk",
+        "count": 1.0,
+        "unit": "item",
+        "type": "tag",
+        "rate": 1.0
+      }
+    ],
+    "outputs": [
+      {
+        "id": "crabbersdelight:clam_chowder",
+        "count": 1.0,
+        "unit": "item",
+        "type": "solid",
+        "rate": 1.0
+      }
+    ]
+  },
+  {
+    "recipe_id": "crabbersdelight:coral_crunch",
+    "mod_id": "crabbersdelight",
+    "recipe_type": "minecraft:crafting_shaped",
+    "inputs": [
+      {
+        "id": "farmersdelight:milk_bottle",
+        "count": 1.0,
+        "unit": "item",
+        "type": "solid",
+        "rate": 1.0
+      },
+      {
+        "id": "crabbersdelight:coral_fragments",
+        "count": 3.0,
+        "unit": "item",
+        "type": "solid",
+        "rate": 1.0
+      },
+      {
+        "id": "minecraft:bowl",
+        "count": 1.0,
+        "unit": "item",
+        "type": "solid",
+        "rate": 1.0
+      }
+    ],
+    "outputs": [
+      {
+        "id": "crabbersdelight:coral_crunch",
+        "count": 1.0,
+        "unit": "item",
+        "type": "solid",
+        "rate": 1.0
+      }
+    ]
+  },
+  {
+    "recipe_id": "crabbersdelight:pearl_from_block",
+    "mod_id": "crabbersdelight",
+    "recipe_type": "minecraft:crafting_shapeless",
+    "inputs": [
+      {
+        "id": "crabbersdelight:pearl_block",
+        "count": 1.0,
+        "unit": "item",
+        "type": "solid",
+        "rate": 1.0
+      }
+    ],
+    "outputs": [
+      {
+        "id": "crabbersdelight:pearl",
+        "count": 9.0,
+        "unit": "item",
+        "type": "solid",
+        "rate": 1.0
+      }
+    ]
+  },
+  {
+    "recipe_id": "crabbersdelight:cooked_clam_meat",
+    "mod_id": "crabbersdelight",
+    "recipe_type": "minecraft:smelting",
+    "inputs": [
+      {
+        "id": "crabbersdelight:raw_clam_meat",
+        "count": 1.0,
+        "unit": "item",
+        "type": "solid",
+        "rate": 1.0
+      }
+    ],
+    "outputs": [
+      {
+        "id": "crabbersdelight:cooked_clam_meat",
+        "count": 1.0,
+        "unit": "item",
+        "type": "solid",
+        "rate": 1.0
+      }
+    ]
+  },
+  {
+    "recipe_id": "crabbersdelight:squid_kebab",
+    "mod_id": "crabbersdelight",
+    "recipe_type": "minecraft:crafting_shapeless",
+    "inputs": [
+      {
+        "id": "minecraft:stick",
+        "count": 1.0,
+        "unit": "item",
+        "type": "solid",
+        "rate": 1.0
+      },
+      {
+        "id": "crabbersdelight:cooked_squid",
+        "count": 1.0,
+        "unit": "item",
+        "type": "tag",
+        "rate": 1.0
+      },
+      {
+        "id": "farmersdelight:onion",
+        "count": 1.0,
+        "unit": "item",
+        "type": "solid",
+        "rate": 1.0
+      },
+      {
+        "id": "farmersdelight:onion",
+        "count": 1.0,
+        "unit": "item",
+        "type": "solid",
+        "rate": 1.0
+      },
+      {
+        "id": "farmersdelight:tomato",
+        "count": 1.0,
+        "unit": "item",
+        "type": "solid",
+        "rate": 1.0
+      }
+    ],
+    "outputs": [
+      {
+        "id": "crabbersdelight:squid_kebab",
+        "count": 1.0,
+        "unit": "item",
+        "type": "solid",
+        "rate": 1.0
+      }
+    ]
+  },
+  {
+    "recipe_id": "crabbersdelight:cooking/stuffed_nautilus_shell",
+    "mod_id": "crabbersdelight",
+    "recipe_type": "farmersdelight:cooking",
+    "inputs": [
+      {
+        "id": "c:foods/cooked_fish",
+        "count": 1.0,
+        "unit": "item",
+        "type": "tag",
+        "rate": 1.0
+      },
+      {
+        "id": "minecraft:kelp",
+        "count": 1.0,
+        "unit": "item",
+        "type": "solid",
+        "rate": 1.0
+      },
+      {
+        "id": "minecraft:kelp",
+        "count": 1.0,
+        "unit": "item",
+        "type": "solid",
+        "rate": 1.0
+      },
+      {
+        "id": "minecraft:kelp",
+        "count": 1.0,
+        "unit": "item",
+        "type": "solid",
+        "rate": 1.0
+      }
+    ],
+    "outputs": [
+      {
+        "id": "crabbersdelight:stuffed_nautilus_shell",
+        "count": 1.0,
+        "unit": "item",
+        "type": "solid",
+        "rate": 1.0
+      }
+    ]
+  },
+  {
+    "recipe_id": "crabbersdelight:bucket_of_clawster_chum",
+    "mod_id": "crabbersdelight",
+    "recipe_type": "minecraft:crafting_shaped",
+    "inputs": [
+      {
+        "id": "minecraft:bone_meal",
+        "count": 4.0,
+        "unit": "item",
+        "type": "solid",
+        "rate": 1.0
+      },
+      {
+        "id": "minecraft:salmon",
+        "count": 4.0,
+        "unit": "item",
+        "type": "solid",
+        "rate": 1.0
+      },
+      {
+        "id": "minecraft:bucket",
+        "count": 1.0,
+        "unit": "item",
+        "type": "solid",
+        "rate": 1.0
+      }
+    ],
+    "outputs": [
+      {
+        "id": "crabbersdelight:bucket_of_clawster_chum",
+        "count": 1.0,
+        "unit": "item",
+        "type": "solid",
+        "rate": 1.0
+      }
+    ]
+  },
+  {
+    "recipe_id": "crabbersdelight:shrimp_barrel",
+    "mod_id": "crabbersdelight",
+    "recipe_type": "minecraft:crafting_shaped",
+    "inputs": [
+      {
+        "id": "crabbersdelight:shrimp",
+        "count": 9.0,
+        "unit": "item",
+        "type": "solid",
+        "rate": 1.0
+      }
+    ],
+    "outputs": [
+      {
+        "id": "crabbersdelight:shrimp_barrel",
+        "count": 1.0,
+        "unit": "item",
+        "type": "solid",
+        "rate": 1.0
+      }
+    ]
+  },
+  {
+    "recipe_id": "crabbersdelight:sea_pickle_juice",
+    "mod_id": "crabbersdelight",
+    "recipe_type": "minecraft:crafting_shapeless",
+    "inputs": [
+      {
+        "id": "minecraft:sea_pickle",
+        "count": 1.0,
+        "unit": "item",
+        "type": "solid",
+        "rate": 1.0
+      },
+      {
+        "id": "minecraft:sugar",
+        "count": 1.0,
+        "unit": "item",
+        "type": "solid",
+        "rate": 1.0
+      },
+      {
+        "id": "minecraft:glass_bottle",
+        "count": 1.0,
+        "unit": "item",
+        "type": "solid",
+        "rate": 1.0
+      }
+    ],
+    "outputs": [
+      {
+        "id": "crabbersdelight:sea_pickle_juice",
+        "count": 1.0,
+        "unit": "item",
+        "type": "solid",
+        "rate": 1.0
+      }
+    ]
+  },
+  {
+    "recipe_id": "crabbersdelight:salmon_barrel",
+    "mod_id": "crabbersdelight",
+    "recipe_type": "minecraft:crafting_shaped",
+    "inputs": [
+      {
+        "id": "minecraft:salmon",
+        "count": 9.0,
+        "unit": "item",
+        "type": "solid",
+        "rate": 1.0
+      }
+    ],
+    "outputs": [
+      {
+        "id": "crabbersdelight:salmon_barrel",
+        "count": 1.0,
+        "unit": "item",
+        "type": "solid",
+        "rate": 1.0
+      }
+    ]
+  },
+  {
+    "recipe_id": "crabbersdelight:coconut_milk",
+    "mod_id": "crabbersdelight",
+    "recipe_type": "minecraft:crafting_shapeless",
+    "inputs": [
+      {
+        "id": "minecraft:glass_bottle",
+        "count": 1.0,
+        "unit": "item",
+        "type": "solid",
+        "rate": 1.0
+      },
+      {
+        "id": "crabbersdelight:coconut",
+        "count": 1.0,
+        "unit": "item",
+        "type": "solid",
+        "rate": 1.0
+      }
+    ],
+    "outputs": [
+      {
+        "id": "crabbersdelight:coconut_milk",
+        "count": 1.0,
+        "unit": "item",
+        "type": "solid",
+        "rate": 1.0
+      }
+    ]
+  },
+  {
+    "recipe_id": "crabbersdelight:cutting/palm_door",
+    "mod_id": "crabbersdelight",
+    "recipe_type": "farmersdelight:cutting",
+    "inputs": [
+      {
+        "id": "crabbersdelight:palm_door",
+        "count": 1.0,
+        "unit": "item",
+        "type": "solid",
+        "rate": 1.0
+      }
+    ],
+    "outputs": [
+      {
+        "id": "crabbersdelight:palm_planks",
+        "count": 1.0,
+        "unit": "item",
+        "type": "solid",
+        "rate": 1.0
+      }
+    ]
+  },
+  {
+    "recipe_id": "crabbersdelight:cooked_squid_tentacles_from_campfire_cooking",
+    "mod_id": "crabbersdelight",
+    "recipe_type": "minecraft:campfire_cooking",
+    "inputs": [
+      {
+        "id": "crabbersdelight:raw_squid_tentacles",
+        "count": 1.0,
+        "unit": "item",
+        "type": "solid",
+        "rate": 1.0
+      }
+    ],
+    "outputs": [
+      {
+        "id": "crabbersdelight:cooked_squid_tentacles",
+        "count": 1.0,
+        "unit": "item",
+        "type": "solid",
+        "rate": 1.0
+      }
+    ]
+  },
+  {
+    "recipe_id": "crabbersdelight:cooked_tropical_fish",
+    "mod_id": "crabbersdelight",
+    "recipe_type": "minecraft:smelting",
+    "inputs": [
+      {
+        "id": "minecraft:tropical_fish",
+        "count": 1.0,
+        "unit": "item",
+        "type": "solid",
+        "rate": 1.0
+      }
+    ],
+    "outputs": [
+      {
+        "id": "crabbersdelight:cooked_tropical_fish",
+        "count": 1.0,
+        "unit": "item",
+        "type": "solid",
+        "rate": 1.0
+      }
+    ]
+  },
+  {
+    "recipe_id": "crabbersdelight:glow_squid_barrel",
+    "mod_id": "crabbersdelight",
+    "recipe_type": "minecraft:crafting_shaped",
+    "inputs": [
+      {
+        "id": "crabbersdelight:raw_glow_squid_tentacles",
+        "count": 9.0,
+        "unit": "item",
+        "type": "solid",
+        "rate": 1.0
+      }
+    ],
+    "outputs": [
+      {
+        "id": "crabbersdelight:glow_squid_barrel",
+        "count": 1.0,
+        "unit": "item",
+        "type": "solid",
+        "rate": 1.0
+      }
+    ]
+  },
+  {
+    "recipe_id": "crabbersdelight:shrimp_from_barrel",
+    "mod_id": "crabbersdelight",
+    "recipe_type": "minecraft:crafting_shapeless",
+    "inputs": [
+      {
+        "id": "crabbersdelight:shrimp_barrel",
+        "count": 1.0,
+        "unit": "item",
+        "type": "solid",
+        "rate": 1.0
+      }
+    ],
+    "outputs": [
+      {
+        "id": "crabbersdelight:shrimp",
+        "count": 9.0,
+        "unit": "item",
+        "type": "solid",
+        "rate": 1.0
+      }
+    ]
+  },
+  {
+    "recipe_id": "crabbersdelight:squid_barrel",
+    "mod_id": "crabbersdelight",
+    "recipe_type": "minecraft:crafting_shaped",
+    "inputs": [
+      {
+        "id": "crabbersdelight:raw_squid_tentacles",
+        "count": 9.0,
+        "unit": "item",
+        "type": "solid",
+        "rate": 1.0
+      }
+    ],
+    "outputs": [
+      {
+        "id": "crabbersdelight:squid_barrel",
+        "count": 1.0,
+        "unit": "item",
+        "type": "solid",
+        "rate": 1.0
+      }
+    ]
+  },
+  {
+    "recipe_id": "crabbersdelight:salmon_from_barrel",
+    "mod_id": "crabbersdelight",
+    "recipe_type": "minecraft:crafting_shapeless",
+    "inputs": [
+      {
+        "id": "crabbersdelight:salmon_barrel",
+        "count": 1.0,
+        "unit": "item",
+        "type": "solid",
+        "rate": 1.0
+      }
+    ],
+    "outputs": [
+      {
+        "id": "minecraft:salmon",
+        "count": 9.0,
+        "unit": "item",
+        "type": "solid",
+        "rate": 1.0
+      }
+    ]
+  },
+  {
+    "recipe_id": "crabbersdelight:cooked_squid_tentacles_from_smoking",
+    "mod_id": "crabbersdelight",
+    "recipe_type": "minecraft:smoking",
+    "inputs": [
+      {
+        "id": "crabbersdelight:raw_squid_tentacles",
+        "count": 1.0,
+        "unit": "item",
+        "type": "solid",
+        "rate": 1.0
+      }
+    ],
+    "outputs": [
+      {
+        "id": "crabbersdelight:cooked_squid_tentacles",
+        "count": 1.0,
+        "unit": "item",
+        "type": "solid",
+        "rate": 1.0
+      }
+    ]
+  },
+  {
+    "recipe_id": "crabbersdelight:cooked_squid_tentacles",
+    "mod_id": "crabbersdelight",
+    "recipe_type": "minecraft:smelting",
+    "inputs": [
+      {
+        "id": "crabbersdelight:raw_squid_tentacles",
+        "count": 1.0,
+        "unit": "item",
+        "type": "solid",
+        "rate": 1.0
+      }
+    ],
+    "outputs": [
+      {
+        "id": "crabbersdelight:cooked_squid_tentacles",
+        "count": 1.0,
+        "unit": "item",
+        "type": "solid",
+        "rate": 1.0
+      }
+    ]
+  },
+  {
+    "recipe_id": "crabbersdelight:pufferfish_barrel",
+    "mod_id": "crabbersdelight",
+    "recipe_type": "minecraft:crafting_shaped",
+    "inputs": [
+      {
+        "id": "minecraft:pufferfish",
+        "count": 9.0,
+        "unit": "item",
+        "type": "solid",
+        "rate": 1.0
+      }
+    ],
+    "outputs": [
+      {
+        "id": "crabbersdelight:pufferfish_barrel",
+        "count": 1.0,
+        "unit": "item",
+        "type": "solid",
+        "rate": 1.0
+      }
+    ]
+  },
+  {
+    "recipe_id": "crabbersdelight:bone_meal_from_fish_bones",
+    "mod_id": "crabbersdelight",
+    "recipe_type": "minecraft:crafting_shapeless",
+    "inputs": [
+      {
+        "id": "crabbersdelight:fish_bones",
+        "count": 1.0,
+        "unit": "item",
+        "type": "solid",
+        "rate": 1.0
+      }
+    ],
+    "outputs": [
+      {
+        "id": "minecraft:bone_meal",
+        "count": 3.0,
+        "unit": "item",
+        "type": "solid",
+        "rate": 1.0
+      }
+    ]
+  },
+  {
+    "recipe_id": "crabbersdelight:clawster_from_barrel",
+    "mod_id": "crabbersdelight",
+    "recipe_type": "minecraft:crafting_shapeless",
+    "inputs": [
+      {
+        "id": "crabbersdelight:clawster_barrel",
+        "count": 1.0,
+        "unit": "item",
+        "type": "solid",
+        "rate": 1.0
+      }
+    ],
+    "outputs": [
+      {
+        "id": "crabbersdelight:clawster",
+        "count": 9.0,
+        "unit": "item",
+        "type": "solid",
+        "rate": 1.0
+      }
+    ]
+  },
+  {
+    "recipe_id": "crabbersdelight:cooking/bisque",
+    "mod_id": "crabbersdelight",
+    "recipe_type": "farmersdelight:cooking",
+    "inputs": [
+      {
+        "id": "farmersdelight:onion",
+        "count": 1.0,
+        "unit": "item",
+        "type": "solid",
+        "rate": 1.0
+      },
+      {
+        "id": "farmersdelight:rice",
+        "count": 1.0,
+        "unit": "item",
+        "type": "solid",
+        "rate": 1.0
+      },
+      {
+        "id": "minecraft:carrot",
+        "count": 1.0,
+        "unit": "item",
+        "type": "solid",
+        "rate": 1.0
+      },
+      {
+        "id": "c:drinks/milk",
+        "count": 1.0,
+        "unit": "item",
+        "type": "tag",
+        "rate": 1.0
+      }
+    ],
+    "outputs": [
+      {
+        "id": "crabbersdelight:bisque",
+        "count": 1.0,
+        "unit": "item",
+        "type": "solid",
+        "rate": 1.0
+      }
+    ]
+  },
+  {
+    "recipe_id": "crabbersdelight:iron_nugget_from_smelting_can",
+    "mod_id": "crabbersdelight",
+    "recipe_type": "minecraft:smelting",
+    "inputs": [
+      {
+        "id": "crabbersdelight:can",
+        "count": 1.0,
+        "unit": "item",
+        "type": "solid",
+        "rate": 1.0
+      }
+    ],
+    "outputs": [
+      {
+        "id": "minecraft:iron_nugget",
+        "count": 1.0,
+        "unit": "item",
+        "type": "solid",
+        "rate": 1.0
+      }
+    ]
+  },
+  {
+    "recipe_id": "crabbersdelight:pearl_necklace",
+    "mod_id": "crabbersdelight",
+    "recipe_type": "minecraft:crafting_shaped",
+    "inputs": [
+      {
+        "id": "crabbersdelight:pearl",
+        "count": 4.0,
+        "unit": "item",
+        "type": "solid",
+        "rate": 1.0
+      },
+      {
+        "id": "minecraft:string",
+        "count": 1.0,
+        "unit": "item",
+        "type": "solid",
+        "rate": 1.0
+      }
+    ],
+    "outputs": [
+      {
+        "id": "crabbersdelight:pearl_necklace",
+        "count": 1.0,
+        "unit": "item",
+        "type": "solid",
+        "rate": 1.0
+      }
+    ]
+  },
+  {
+    "recipe_id": "crabbersdelight:palm_slab",
+    "mod_id": "crabbersdelight",
+    "recipe_type": "minecraft:crafting_shaped",
+    "inputs": [
+      {
+        "id": "crabbersdelight:palm_planks",
+        "count": 3.0,
+        "unit": "item",
+        "type": "solid",
+        "rate": 1.0
+      }
+    ],
+    "outputs": [
+      {
+        "id": "crabbersdelight:palm_slab",
+        "count": 6.0,
+        "unit": "item",
+        "type": "solid",
+        "rate": 1.0
+      }
+    ]
+  },
+  {
+    "recipe_id": "crabbersdelight:cooked_pufferfish_slice",
+    "mod_id": "crabbersdelight",
+    "recipe_type": "minecraft:smelting",
+    "inputs": [
+      {
+        "id": "crabbersdelight:pufferfish_slice",
+        "count": 1.0,
+        "unit": "item",
+        "type": "solid",
+        "rate": 1.0
+      }
+    ],
+    "outputs": [
+      {
+        "id": "crabbersdelight:cooked_pufferfish_slice",
+        "count": 1.0,
+        "unit": "item",
+        "type": "solid",
+        "rate": 1.0
+      }
+    ]
+  },
+  {
+    "recipe_id": "crabbersdelight:cutting/palm_log",
+    "mod_id": "crabbersdelight",
+    "recipe_type": "farmersdelight:cutting",
+    "inputs": [
+      {
+        "id": "crabbersdelight:palm_log",
+        "count": 1.0,
+        "unit": "item",
+        "type": "solid",
+        "rate": 1.0
+      }
+    ],
+    "outputs": [
+      {
+        "id": "crabbersdelight:stripped_palm_log",
+        "count": 1.0,
+        "unit": "item",
+        "type": "solid",
+        "rate": 1.0
+      },
+      {
+        "id": "farmersdelight:tree_bark",
+        "count": 1.0,
+        "unit": "item",
+        "type": "solid",
+        "rate": 1.0
+      }
+    ]
+  },
+  {
+    "recipe_id": "crabbersdelight:coconut_crate",
+    "mod_id": "crabbersdelight",
+    "recipe_type": "minecraft:crafting_shaped",
+    "inputs": [
+      {
+        "id": "crabbersdelight:coconut",
+        "count": 9.0,
+        "unit": "item",
+        "type": "solid",
+        "rate": 1.0
+      }
+    ],
+    "outputs": [
+      {
+        "id": "crabbersdelight:coconut_crate",
+        "count": 1.0,
+        "unit": "item",
+        "type": "solid",
+        "rate": 1.0
+      }
+    ]
+  },
+  {
+    "recipe_id": "crabbersdelight:cutting/palm_hanging_sign",
+    "mod_id": "crabbersdelight",
+    "recipe_type": "farmersdelight:cutting",
+    "inputs": [
+      {
+        "id": "crabbersdelight:palm_hanging_sign",
+        "count": 1.0,
+        "unit": "item",
+        "type": "solid",
+        "rate": 1.0
+      }
+    ],
+    "outputs": [
+      {
+        "id": "crabbersdelight:palm_planks",
+        "count": 1.0,
+        "unit": "item",
+        "type": "solid",
+        "rate": 1.0
+      }
+    ]
+  },
+  {
+    "recipe_id": "crabbersdelight:crab_trap",
+    "mod_id": "crabbersdelight",
+    "recipe_type": "minecraft:crafting_shaped",
+    "inputs": [
+      {
+        "id": "farmersdelight:safety_net",
+        "count": 2.0,
+        "unit": "item",
+        "type": "solid",
+        "rate": 1.0
+      },
+      {
+        "id": "minecraft:stick",
+        "count": 3.0,
+        "unit": "item",
+        "type": "solid",
+        "rate": 1.0
+      },
+      {
+        "id": "minecraft:wooden_slabs",
+        "count": 3.0,
+        "unit": "item",
+        "type": "solid",
+        "rate": 1.0
+      }
+    ],
+    "outputs": [
+      {
+        "id": "crabbersdelight:crab_trap",
+        "count": 1.0,
+        "unit": "item",
+        "type": "solid",
+        "rate": 1.0
+      }
+    ]
+  },
+  {
+    "recipe_id": "crabbersdelight:pufferfish_from_barrel",
+    "mod_id": "crabbersdelight",
+    "recipe_type": "minecraft:crafting_shapeless",
+    "inputs": [
+      {
+        "id": "crabbersdelight:pufferfish_barrel",
+        "count": 1.0,
+        "unit": "item",
+        "type": "solid",
+        "rate": 1.0
+      }
+    ],
+    "outputs": [
+      {
+        "id": "minecraft:pufferfish",
+        "count": 9.0,
+        "unit": "item",
+        "type": "solid",
+        "rate": 1.0
+      }
+    ]
+  },
+  {
+    "recipe_id": "crabbersdelight:cooking/shrimp_fried_rice",
+    "mod_id": "crabbersdelight",
+    "recipe_type": "farmersdelight:cooking",
+    "inputs": [
+      {
+        "id": "farmersdelight:cooked_rice",
+        "count": 1.0,
+        "unit": "item",
+        "type": "solid",
+        "rate": 1.0
+      },
+      {
+        "id": "farmersdelight:onion",
+        "count": 1.0,
+        "unit": "item",
+        "type": "solid",
+        "rate": 1.0
+      },
+      {
+        "id": "crabbersdelight:shrimp",
+        "count": 1.0,
+        "unit": "item",
+        "type": "solid",
+        "rate": 1.0
+      },
+      {
+        "id": "minecraft:carrot",
+        "count": 1.0,
+        "unit": "item",
+        "type": "solid",
+        "rate": 1.0
+      }
+    ],
+    "outputs": [
+      {
+        "id": "crabbersdelight:shrimp_fried_rice",
+        "count": 1.0,
+        "unit": "item",
+        "type": "solid",
+        "rate": 1.0
+      }
+    ]
+  },
+  {
+    "recipe_id": "crabbersdelight:frog_leg_from_barrel",
+    "mod_id": "crabbersdelight",
+    "recipe_type": "minecraft:crafting_shapeless",
+    "inputs": [
+      {
+        "id": "crabbersdelight:frog_leg_barrel",
+        "count": 1.0,
+        "unit": "item",
+        "type": "solid",
+        "rate": 1.0
+      }
+    ],
+    "outputs": [
+      {
+        "id": "crabbersdelight:raw_frog_leg",
+        "count": 9.0,
+        "unit": "item",
+        "type": "solid",
+        "rate": 1.0
+      }
+    ]
+  },
+  {
+    "recipe_id": "crabbersdelight:surf_and_turf",
+    "mod_id": "crabbersdelight",
+    "recipe_type": "minecraft:crafting_shapeless",
+    "inputs": [
+      {
+        "id": "crabbersdelight:cooked_seafood",
+        "count": 1.0,
+        "unit": "item",
+        "type": "tag",
+        "rate": 1.0
+      },
+      {
+        "id": "minecraft:baked_potato",
+        "count": 1.0,
+        "unit": "item",
+        "type": "solid",
+        "rate": 1.0
+      },
+      {
+        "id": "minecraft:cooked_beef",
+        "count": 1.0,
+        "unit": "item",
+        "type": "solid",
+        "rate": 1.0
+      }
+    ],
+    "outputs": [
+      {
+        "id": "crabbersdelight:surf_and_turf",
+        "count": 1.0,
+        "unit": "item",
+        "type": "solid",
+        "rate": 1.0
+      }
+    ]
+  },
+  {
+    "recipe_id": "crabbersdelight:palm_trapdoor_bottom",
+    "mod_id": "crabbersdelight",
+    "recipe_type": "minecraft:crafting_shaped",
+    "inputs": [
+      {
+        "id": "crabbersdelight:palm_planks",
+        "count": 6.0,
+        "unit": "item",
+        "type": "solid",
+        "rate": 1.0
+      }
+    ],
+    "outputs": [
+      {
+        "id": "crabbersdelight:palm_trapdoor_bottom",
+        "count": 2.0,
+        "unit": "item",
+        "type": "solid",
+        "rate": 1.0
+      }
+    ]
+  },
+  {
+    "recipe_id": "crabbersdelight:cooked_tropical_fish_slice_from_smoking",
+    "mod_id": "crabbersdelight",
+    "recipe_type": "minecraft:smoking",
+    "inputs": [
+      {
+        "id": "crabbersdelight:tropical_fish_slice",
+        "count": 1.0,
+        "unit": "item",
+        "type": "solid",
+        "rate": 1.0
+      }
+    ],
+    "outputs": [
+      {
+        "id": "crabbersdelight:cooked_tropical_fish_slice",
+        "count": 1.0,
+        "unit": "item",
+        "type": "solid",
+        "rate": 1.0
+      }
+    ]
+  },
+  {
+    "recipe_id": "crabbersdelight:cooking/jar_of_pickles",
+    "mod_id": "crabbersdelight",
+    "recipe_type": "farmersdelight:cooking",
+    "inputs": [
+      {
+        "id": "minecraft:sea_pickle",
+        "count": 1.0,
+        "unit": "item",
+        "type": "solid",
+        "rate": 1.0
+      },
+      {
+        "id": "minecraft:sea_pickle",
+        "count": 1.0,
+        "unit": "item",
+        "type": "solid",
+        "rate": 1.0
+      },
+      {
+        "id": "minecraft:sea_pickle",
+        "count": 1.0,
+        "unit": "item",
+        "type": "solid",
+        "rate": 1.0
+      }
+    ],
+    "outputs": [
+      {
+        "id": "crabbersdelight:jar_of_pickles",
+        "count": 1.0,
+        "unit": "item",
+        "type": "solid",
+        "rate": 1.0
+      }
+    ]
+  },
+  {
+    "recipe_id": "crabbersdelight:cutting/cooked_crab",
+    "mod_id": "crabbersdelight",
+    "recipe_type": "farmersdelight:cutting",
+    "inputs": [
+      {
+        "id": "crabbersdelight:cooked_crab",
+        "count": 1.0,
+        "unit": "item",
+        "type": "solid",
+        "rate": 1.0
+      }
+    ],
+    "outputs": [
+      {
+        "id": "crabbersdelight:crab_legs",
+        "count": 4.0,
+        "unit": "item",
+        "type": "solid",
+        "rate": 1.0
+      }
+    ]
+  },
+  {
+    "recipe_id": "crabbersdelight:cutting/cooked_tropical_fish",
+    "mod_id": "crabbersdelight",
+    "recipe_type": "farmersdelight:cutting",
+    "inputs": [
+      {
+        "id": "crabbersdelight:cooked_tropical_fish",
+        "count": 1.0,
+        "unit": "item",
+        "type": "solid",
+        "rate": 1.0
+      }
+    ],
+    "outputs": [
+      {
+        "id": "crabbersdelight:cooked_tropical_fish_slice",
+        "count": 2.0,
+        "unit": "item",
+        "type": "solid",
+        "rate": 1.0
+      },
+      {
+        "id": "crabbersdelight:fish_bones",
+        "count": 1.0,
+        "unit": "item",
+        "type": "solid",
+        "rate": 1.0
+      }
+    ]
+  },
+  {
+    "recipe_id": "crabbersdelight:cooking/seafood_gumbo",
+    "mod_id": "crabbersdelight",
+    "recipe_type": "farmersdelight:cooking",
+    "inputs": [
+      {
+        "id": "crabbersdelight:clawster",
+        "count": 1.0,
+        "unit": "item",
+        "type": "solid",
+        "rate": 1.0
+      },
+      {
+        "id": "crabbersdelight:shrimp",
+        "count": 1.0,
+        "unit": "item",
+        "type": "solid",
+        "rate": 1.0
+      },
+      {
+        "id": "farmersdelight:onion",
+        "count": 1.0,
+        "unit": "item",
+        "type": "solid",
+        "rate": 1.0
+      },
+      {
+        "id": "farmersdelight:rice",
+        "count": 1.0,
+        "unit": "item",
+        "type": "solid",
+        "rate": 1.0
+      },
+      {
+        "id": "minecraft:porkchop",
+        "count": 1.0,
+        "unit": "item",
+        "type": "solid",
+        "rate": 1.0
+      }
+    ],
+    "outputs": [
+      {
+        "id": "crabbersdelight:seafood_gumbo",
+        "count": 1.0,
+        "unit": "item",
+        "type": "solid",
+        "rate": 1.0
+      }
+    ]
+  },
+  {
+    "recipe_id": "crabbersdelight:palm_sign",
+    "mod_id": "crabbersdelight",
+    "recipe_type": "minecraft:crafting_shaped",
+    "inputs": [
+      {
+        "id": "crabbersdelight:palm_planks",
+        "count": 6.0,
+        "unit": "item",
+        "type": "solid",
+        "rate": 1.0
+      },
+      {
+        "id": "minecraft:stick",
+        "count": 1.0,
+        "unit": "item",
+        "type": "solid",
+        "rate": 1.0
+      }
+    ],
+    "outputs": [
+      {
+        "id": "crabbersdelight:palm_sign",
+        "count": 3.0,
+        "unit": "item",
+        "type": "solid",
+        "rate": 1.0
+      }
+    ]
+  },
+  {
+    "recipe_id": "crabbersdelight:cooked_tropical_fish_from_smoking",
+    "mod_id": "crabbersdelight",
+    "recipe_type": "minecraft:smoking",
+    "inputs": [
+      {
+        "id": "minecraft:tropical_fish",
+        "count": 1.0,
+        "unit": "item",
+        "type": "solid",
+        "rate": 1.0
+      }
+    ],
+    "outputs": [
+      {
+        "id": "crabbersdelight:cooked_tropical_fish",
+        "count": 1.0,
+        "unit": "item",
+        "type": "solid",
+        "rate": 1.0
+      }
+    ]
+  },
+  {
+    "recipe_id": "crabbersdelight:cooked_tropical_fish_slice",
+    "mod_id": "crabbersdelight",
+    "recipe_type": "minecraft:smelting",
+    "inputs": [
+      {
+        "id": "crabbersdelight:tropical_fish_slice",
+        "count": 1.0,
+        "unit": "item",
+        "type": "solid",
+        "rate": 1.0
+      }
+    ],
+    "outputs": [
+      {
+        "id": "crabbersdelight:cooked_tropical_fish_slice",
+        "count": 1.0,
+        "unit": "item",
+        "type": "solid",
+        "rate": 1.0
+      }
+    ]
+  }
+]

@@ -1,0 +1,10 @@
+{
+  "source_item": "garnished:merry_treat",
+  "comment": "Edit this file to add custom nutrition values",
+  "auto_calculated": false,
+  "nutritions": {
+    "sugars": 0.04,
+    "vegetables": 3.0E-4,
+    "grains": 0.045
+  }
+}

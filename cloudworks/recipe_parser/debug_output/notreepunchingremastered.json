@@ -1,0 +1,3109 @@
+[
+  {
+    "recipe_id": "notreepunchingremastered:plank/spruce_planks_from_logs_with_saw",
+    "mod_id": "notreepunchingremastered",
+    "recipe_type": "minecraft:crafting",
+    "inputs": [
+      {
+        "id": "c:tools/saws",
+        "count": 1.0,
+        "unit": "item",
+        "type": "tag",
+        "rate": 1.0
+      },
+      {
+        "id": "minecraft:spruce_logs",
+        "count": 1.0,
+        "unit": "item",
+        "type": "tag",
+        "rate": 1.0
+      }
+    ],
+    "outputs": [
+      {
+        "id": "minecraft:spruce_planks",
+        "count": 4.0,
+        "unit": "item",
+        "type": "solid",
+        "rate": 1.0
+      }
+    ]
+  },
+  {
+    "recipe_id": "notreepunchingremastered:metal/iron_nugget_from_smelting",
+    "mod_id": "notreepunchingremastered",
+    "recipe_type": "minecraft:smelting",
+    "inputs": [],
+    "outputs": [
+      {
+        "id": "minecraft:iron_nugget",
+        "count": 1.0,
+        "unit": "item",
+        "type": "solid",
+        "rate": 1.0
+      }
+    ]
+  },
+  {
+    "recipe_id": "notreepunchingremastered:tool/golden_knife",
+    "mod_id": "notreepunchingremastered",
+    "recipe_type": "minecraft:crafting_shaped",
+    "inputs": [
+      {
+        "id": "minecraft:gold_ingot",
+        "count": 1.0,
+        "unit": "item",
+        "type": "solid",
+        "rate": 1.0
+      },
+      {
+        "id": "minecraft:stick",
+        "count": 1.0,
+        "unit": "item",
+        "type": "solid",
+        "rate": 1.0
+      }
+    ],
+    "outputs": [
+      {
+        "id": "notreepunchingremastered:golden_knife",
+        "count": 1.0,
+        "unit": "item",
+        "type": "solid",
+        "rate": 1.0
+      }
+    ]
+  },
+  {
+    "recipe_id": "notreepunchingremastered:plank/bamboo_planks_from_blocks_with_axe",
+    "mod_id": "notreepunchingremastered",
+    "recipe_type": "minecraft:crafting",
+    "inputs": [
+      {
+        "id": "c:tools/axes",
+        "count": 1.0,
+        "unit": "item",
+        "type": "tag",
+        "rate": 1.0
+      },
+      {
+        "id": "minecraft:bamboo_blocks",
+        "count": 1.0,
+        "unit": "item",
+        "type": "tag",
+        "rate": 1.0
+      }
+    ],
+    "outputs": [
+      {
+        "id": "minecraft:bamboo_planks",
+        "count": 1.0,
+        "unit": "item",
+        "type": "solid",
+        "rate": 1.0
+      }
+    ]
+  },
+  {
+    "recipe_id": "notreepunchingremastered:flint_shard",
+    "mod_id": "notreepunchingremastered",
+    "recipe_type": "minecraft:crafting_shapeless",
+    "inputs": [
+      {
+        "id": "minecraft:flint",
+        "count": 1.0,
+        "unit": "item",
+        "type": "solid",
+        "rate": 1.0
+      }
+    ],
+    "outputs": [
+      {
+        "id": "notreepunchingremastered:flint_shard",
+        "count": 2.0,
+        "unit": "item",
+        "type": "solid",
+        "rate": 1.0
+      }
+    ]
+  },
+  {
+    "recipe_id": "notreepunchingremastered:ceramic_vessel_from_campfire_cooking",
+    "mod_id": "notreepunchingremastered",
+    "recipe_type": "minecraft:campfire_cooking",
+    "inputs": [
+      {
+        "id": "notreepunchingremastered:clay_vessel",
+        "count": 1.0,
+        "unit": "item",
+        "type": "solid",
+        "rate": 1.0
+      }
+    ],
+    "outputs": [
+      {
+        "id": "notreepunchingremastered:ceramic_vessel",
+        "count": 1.0,
+        "unit": "item",
+        "type": "solid",
+        "rate": 1.0
+      }
+    ]
+  },
+  {
+    "recipe_id": "notreepunchingremastered:tool/iron_knife",
+    "mod_id": "notreepunchingremastered",
+    "recipe_type": "minecraft:crafting_shaped",
+    "inputs": [
+      {
+        "id": "minecraft:iron_ingot",
+        "count": 1.0,
+        "unit": "item",
+        "type": "solid",
+        "rate": 1.0
+      },
+      {
+        "id": "minecraft:stick",
+        "count": 1.0,
+        "unit": "item",
+        "type": "solid",
+        "rate": 1.0
+      }
+    ],
+    "outputs": [
+      {
+        "id": "notreepunchingremastered:iron_knife",
+        "count": 1.0,
+        "unit": "item",
+        "type": "solid",
+        "rate": 1.0
+      }
+    ]
+  },
+  {
+    "recipe_id": "notreepunchingremastered:plank/acacia_planks_from_logs_with_axe",
+    "mod_id": "notreepunchingremastered",
+    "recipe_type": "minecraft:crafting",
+    "inputs": [
+      {
+        "id": "c:tools/axes",
+        "count": 1.0,
+        "unit": "item",
+        "type": "tag",
+        "rate": 1.0
+      },
+      {
+        "id": "minecraft:acacia_logs",
+        "count": 1.0,
+        "unit": "item",
+        "type": "tag",
+        "rate": 1.0
+      }
+    ],
+    "outputs": [
+      {
+        "id": "minecraft:acacia_planks",
+        "count": 2.0,
+        "unit": "item",
+        "type": "solid",
+        "rate": 1.0
+      }
+    ]
+  },
+  {
+    "recipe_id": "notreepunchingremastered:compat/create/metal/copper_nugget_from_smelting",
+    "mod_id": "notreepunchingremastered",
+    "recipe_type": "minecraft:smelting",
+    "inputs": [],
+    "outputs": [
+      {
+        "id": "create:copper_nugget",
+        "count": 1.0,
+        "unit": "item",
+        "type": "solid",
+        "rate": 1.0
+      }
+    ]
+  },
+  {
+    "recipe_id": "notreepunchingremastered:plank/crimson_planks_from_stems_with_saw",
+    "mod_id": "notreepunchingremastered",
+    "recipe_type": "minecraft:crafting",
+    "inputs": [
+      {
+        "id": "c:tools/saws",
+        "count": 1.0,
+        "unit": "item",
+        "type": "tag",
+        "rate": 1.0
+      },
+      {
+        "id": "minecraft:crimson_stems",
+        "count": 1.0,
+        "unit": "item",
+        "type": "tag",
+        "rate": 1.0
+      }
+    ],
+    "outputs": [
+      {
+        "id": "minecraft:crimson_planks",
+        "count": 4.0,
+        "unit": "item",
+        "type": "solid",
+        "rate": 1.0
+      }
+    ]
+  },
+  {
+    "recipe_id": "notreepunchingremastered:plank/dark_oak_planks_from_logs_with_axe",
+    "mod_id": "notreepunchingremastered",
+    "recipe_type": "minecraft:crafting",
+    "inputs": [
+      {
+        "id": "c:tools/axes",
+        "count": 1.0,
+        "unit": "item",
+        "type": "tag",
+        "rate": 1.0
+      },
+      {
+        "id": "minecraft:dark_oak_logs",
+        "count": 1.0,
+        "unit": "item",
+        "type": "tag",
+        "rate": 1.0
+      }
+    ],
+    "outputs": [
+      {
+        "id": "minecraft:dark_oak_planks",
+        "count": 2.0,
+        "unit": "item",
+        "type": "solid",
+        "rate": 1.0
+      }
+    ]
+  },
+  {
+    "recipe_id": "notreepunchingremastered:plank/mangrove_planks_from_logs_with_axe",
+    "mod_id": "notreepunchingremastered",
+    "recipe_type": "minecraft:crafting",
+    "inputs": [
+      {
+        "id": "c:tools/axes",
+        "count": 1.0,
+        "unit": "item",
+        "type": "tag",
+        "rate": 1.0
+      },
+      {
+        "id": "minecraft:mangrove_logs",
+        "count": 1.0,
+        "unit": "item",
+        "type": "tag",
+        "rate": 1.0
+      }
+    ],
+    "outputs": [
+      {
+        "id": "minecraft:mangrove_planks",
+        "count": 2.0,
+        "unit": "item",
+        "type": "solid",
+        "rate": 1.0
+      }
+    ]
+  },
+  {
+    "recipe_id": "notreepunchingremastered:tool/copper_knife",
+    "mod_id": "notreepunchingremastered",
+    "recipe_type": "minecraft:crafting_shaped",
+    "inputs": [
+      {
+        "id": "minecraft:copper_ingot",
+        "count": 1.0,
+        "unit": "item",
+        "type": "solid",
+        "rate": 1.0
+      },
+      {
+        "id": "minecraft:stick",
+        "count": 1.0,
+        "unit": "item",
+        "type": "solid",
+        "rate": 1.0
+      }
+    ],
+    "outputs": [
+      {
+        "id": "notreepunchingremastered:copper_knife",
+        "count": 1.0,
+        "unit": "item",
+        "type": "solid",
+        "rate": 1.0
+      }
+    ]
+  },
+  {
+    "recipe_id": "notreepunchingremastered:plank/oak_planks_from_logs_with_saw",
+    "mod_id": "notreepunchingremastered",
+    "recipe_type": "minecraft:crafting",
+    "inputs": [
+      {
+        "id": "c:tools/saws",
+        "count": 1.0,
+        "unit": "item",
+        "type": "tag",
+        "rate": 1.0
+      },
+      {
+        "id": "minecraft:oak_logs",
+        "count": 1.0,
+        "unit": "item",
+        "type": "tag",
+        "rate": 1.0
+      }
+    ],
+    "outputs": [
+      {
+        "id": "minecraft:oak_planks",
+        "count": 4.0,
+        "unit": "item",
+        "type": "solid",
+        "rate": 1.0
+      }
+    ]
+  },
+  {
+    "recipe_id": "notreepunchingremastered:rock/sandstone_from_sandstone_rock",
+    "mod_id": "notreepunchingremastered",
+    "recipe_type": "minecraft:crafting_shaped",
+    "inputs": [
+      {
+        "id": "notreepunchingremastered:sandstone_rock",
+        "count": 4.0,
+        "unit": "item",
+        "type": "solid",
+        "rate": 1.0
+      }
+    ],
+    "outputs": [
+      {
+        "id": "minecraft:sandstone",
+        "count": 1.0,
+        "unit": "item",
+        "type": "solid",
+        "rate": 1.0
+      }
+    ]
+  },
+  {
+    "recipe_id": "notreepunchingremastered:compat/immersiveengineering/tool/steel_saw",
+    "mod_id": "notreepunchingremastered",
+    "recipe_type": "minecraft:crafting_shaped",
+    "inputs": [
+      {
+        "id": "minecraft:stick",
+        "count": 3.0,
+        "unit": "item",
+        "type": "solid",
+        "rate": 1.0
+      },
+      {
+        "id": "c:ingots/steel",
+        "count": 2.0,
+        "unit": "item",
+        "type": "solid",
+        "rate": 1.0
+      }
+    ],
+    "outputs": [
+      {
+        "id": "notreepunchingremastered:steel_saw",
+        "count": 1.0,
+        "unit": "item",
+        "type": "solid",
+        "rate": 1.0
+      }
+    ]
+  },
+  {
+    "recipe_id": "notreepunchingremastered:compat/immersiveengineering/metal/steel_nugget_from_blasting",
+    "mod_id": "notreepunchingremastered",
+    "recipe_type": "minecraft:blasting",
+    "inputs": [],
+    "outputs": [
+      {
+        "id": "immersiveengineering:nugget_steel",
+        "count": 1.0,
+        "unit": "item",
+        "type": "solid",
+        "rate": 1.0
+      }
+    ]
+  },
+  {
+    "recipe_id": "notreepunchingremastered:metal/iron_nugget_from_blasting",
+    "mod_id": "notreepunchingremastered",
+    "recipe_type": "minecraft:blasting",
+    "inputs": [],
+    "outputs": [
+      {
+        "id": "minecraft:iron_nugget",
+        "count": 1.0,
+        "unit": "item",
+        "type": "solid",
+        "rate": 1.0
+      }
+    ]
+  },
+  {
+    "recipe_id": "notreepunchingremastered:tool/flint_shovel",
+    "mod_id": "notreepunchingremastered",
+    "recipe_type": "minecraft:crafting_shaped",
+    "inputs": [
+      {
+        "id": "notreepunchingremastered:flint_shard",
+        "count": 3.0,
+        "unit": "item",
+        "type": "solid",
+        "rate": 1.0
+      },
+      {
+        "id": "notreepunchingremastered:plant_string",
+        "count": 1.0,
+        "unit": "item",
+        "type": "solid",
+        "rate": 1.0
+      },
+      {
+        "id": "minecraft:stick",
+        "count": 1.0,
+        "unit": "item",
+        "type": "solid",
+        "rate": 1.0
+      }
+    ],
+    "outputs": [
+      {
+        "id": "notreepunchingremastered:flint_shovel",
+        "count": 1.0,
+        "unit": "item",
+        "type": "solid",
+        "rate": 1.0
+      }
+    ]
+  },
+  {
+    "recipe_id": "notreepunchingremastered:tool/golden_saw",
+    "mod_id": "notreepunchingremastered",
+    "recipe_type": "minecraft:crafting_shaped",
+    "inputs": [
+      {
+        "id": "minecraft:stick",
+        "count": 3.0,
+        "unit": "item",
+        "type": "solid",
+        "rate": 1.0
+      },
+      {
+        "id": "minecraft:gold_ingot",
+        "count": 2.0,
+        "unit": "item",
+        "type": "solid",
+        "rate": 1.0
+      }
+    ],
+    "outputs": [
+      {
+        "id": "notreepunchingremastered:golden_saw",
+        "count": 1.0,
+        "unit": "item",
+        "type": "solid",
+        "rate": 1.0
+      }
+    ]
+  },
+  {
+    "recipe_id": "notreepunchingremastered:tool/iron_knife",
+    "mod_id": "notreepunchingremastered",
+    "recipe_type": "minecraft:crafting_shaped",
+    "inputs": [
+      {
+        "id": "minecraft:iron_ingot",
+        "count": 1.0,
+        "unit": "item",
+        "type": "solid",
+        "rate": 1.0
+      },
+      {
+        "id": "minecraft:stick",
+        "count": 1.0,
+        "unit": "item",
+        "type": "solid",
+        "rate": 1.0
+      }
+    ],
+    "outputs": [
+      {
+        "id": "notreepunchingremastered:iron_knife",
+        "count": 1.0,
+        "unit": "item",
+        "type": "solid",
+        "rate": 1.0
+      }
+    ]
+  },
+  {
+    "recipe_id": "notreepunchingremastered:plank/acacia_planks_from_logs_with_axe",
+    "mod_id": "notreepunchingremastered",
+    "recipe_type": "minecraft:crafting",
+    "inputs": [
+      {
+        "id": "c:tools/axes",
+        "count": 1.0,
+        "unit": "item",
+        "type": "tag",
+        "rate": 1.0
+      },
+      {
+        "id": "minecraft:acacia_logs",
+        "count": 1.0,
+        "unit": "item",
+        "type": "tag",
+        "rate": 1.0
+      }
+    ],
+    "outputs": [
+      {
+        "id": "minecraft:acacia_planks",
+        "count": 2.0,
+        "unit": "item",
+        "type": "solid",
+        "rate": 1.0
+      }
+    ]
+  },
+  {
+    "recipe_id": "notreepunchingremastered:compat/create/metal/copper_nugget_from_smelting",
+    "mod_id": "notreepunchingremastered",
+    "recipe_type": "minecraft:smelting",
+    "inputs": [],
+    "outputs": [
+      {
+        "id": "create:copper_nugget",
+        "count": 1.0,
+        "unit": "item",
+        "type": "solid",
+        "rate": 1.0
+      }
+    ]
+  },
+  {
+    "recipe_id": "notreepunchingremastered:plank/crimson_planks_from_stems_with_saw",
+    "mod_id": "notreepunchingremastered",
+    "recipe_type": "minecraft:crafting",
+    "inputs": [
+      {
+        "id": "c:tools/saws",
+        "count": 1.0,
+        "unit": "item",
+        "type": "tag",
+        "rate": 1.0
+      },
+      {
+        "id": "minecraft:crimson_stems",
+        "count": 1.0,
+        "unit": "item",
+        "type": "tag",
+        "rate": 1.0
+      }
+    ],
+    "outputs": [
+      {
+        "id": "minecraft:crimson_planks",
+        "count": 4.0,
+        "unit": "item",
+        "type": "solid",
+        "rate": 1.0
+      }
+    ]
+  },
+  {
+    "recipe_id": "notreepunchingremastered:plank/dark_oak_planks_from_logs_with_axe",
+    "mod_id": "notreepunchingremastered",
+    "recipe_type": "minecraft:crafting",
+    "inputs": [
+      {
+        "id": "c:tools/axes",
+        "count": 1.0,
+        "unit": "item",
+        "type": "tag",
+        "rate": 1.0
+      },
+      {
+        "id": "minecraft:dark_oak_logs",
+        "count": 1.0,
+        "unit": "item",
+        "type": "tag",
+        "rate": 1.0
+      }
+    ],
+    "outputs": [
+      {
+        "id": "minecraft:dark_oak_planks",
+        "count": 2.0,
+        "unit": "item",
+        "type": "solid",
+        "rate": 1.0
+      }
+    ]
+  },
+  {
+    "recipe_id": "notreepunchingremastered:plank/mangrove_planks_from_logs_with_axe",
+    "mod_id": "notreepunchingremastered",
+    "recipe_type": "minecraft:crafting",
+    "inputs": [
+      {
+        "id": "c:tools/axes",
+        "count": 1.0,
+        "unit": "item",
+        "type": "tag",
+        "rate": 1.0
+      },
+      {
+        "id": "minecraft:mangrove_logs",
+        "count": 1.0,
+        "unit": "item",
+        "type": "tag",
+        "rate": 1.0
+      }
+    ],
+    "outputs": [
+      {
+        "id": "minecraft:mangrove_planks",
+        "count": 2.0,
+        "unit": "item",
+        "type": "solid",
+        "rate": 1.0
+      }
+    ]
+  },
+  {
+    "recipe_id": "notreepunchingremastered:tool/copper_knife",
+    "mod_id": "notreepunchingremastered",
+    "recipe_type": "minecraft:crafting_shaped",
+    "inputs": [
+      {
+        "id": "minecraft:copper_ingot",
+        "count": 1.0,
+        "unit": "item",
+        "type": "solid",
+        "rate": 1.0
+      },
+      {
+        "id": "minecraft:stick",
+        "count": 1.0,
+        "unit": "item",
+        "type": "solid",
+        "rate": 1.0
+      }
+    ],
+    "outputs": [
+      {
+        "id": "notreepunchingremastered:copper_knife",
+        "count": 1.0,
+        "unit": "item",
+        "type": "solid",
+        "rate": 1.0
+      }
+    ]
+  },
+  {
+    "recipe_id": "notreepunchingremastered:plank/oak_planks_from_logs_with_saw",
+    "mod_id": "notreepunchingremastered",
+    "recipe_type": "minecraft:crafting",
+    "inputs": [
+      {
+        "id": "c:tools/saws",
+        "count": 1.0,
+        "unit": "item",
+        "type": "tag",
+        "rate": 1.0
+      },
+      {
+        "id": "minecraft:oak_logs",
+        "count": 1.0,
+        "unit": "item",
+        "type": "tag",
+        "rate": 1.0
+      }
+    ],
+    "outputs": [
+      {
+        "id": "minecraft:oak_planks",
+        "count": 4.0,
+        "unit": "item",
+        "type": "solid",
+        "rate": 1.0
+      }
+    ]
+  },
+  {
+    "recipe_id": "notreepunchingremastered:rock/sandstone_from_sandstone_rock",
+    "mod_id": "notreepunchingremastered",
+    "recipe_type": "minecraft:crafting_shaped",
+    "inputs": [
+      {
+        "id": "notreepunchingremastered:sandstone_rock",
+        "count": 4.0,
+        "unit": "item",
+        "type": "solid",
+        "rate": 1.0
+      }
+    ],
+    "outputs": [
+      {
+        "id": "minecraft:sandstone",
+        "count": 1.0,
+        "unit": "item",
+        "type": "solid",
+        "rate": 1.0
+      }
+    ]
+  },
+  {
+    "recipe_id": "notreepunchingremastered:compat/immersiveengineering/tool/steel_saw",
+    "mod_id": "notreepunchingremastered",
+    "recipe_type": "minecraft:crafting_shaped",
+    "inputs": [
+      {
+        "id": "minecraft:stick",
+        "count": 3.0,
+        "unit": "item",
+        "type": "solid",
+        "rate": 1.0
+      },
+      {
+        "id": "c:ingots/steel",
+        "count": 2.0,
+        "unit": "item",
+        "type": "solid",
+        "rate": 1.0
+      }
+    ],
+    "outputs": [
+      {
+        "id": "notreepunchingremastered:steel_saw",
+        "count": 1.0,
+        "unit": "item",
+        "type": "solid",
+        "rate": 1.0
+      }
+    ]
+  },
+  {
+    "recipe_id": "notreepunchingremastered:compat/immersiveengineering/metal/steel_nugget_from_blasting",
+    "mod_id": "notreepunchingremastered",
+    "recipe_type": "minecraft:blasting",
+    "inputs": [],
+    "outputs": [
+      {
+        "id": "immersiveengineering:nugget_steel",
+        "count": 1.0,
+        "unit": "item",
+        "type": "solid",
+        "rate": 1.0
+      }
+    ]
+  },
+  {
+    "recipe_id": "notreepunchingremastered:metal/iron_nugget_from_blasting",
+    "mod_id": "notreepunchingremastered",
+    "recipe_type": "minecraft:blasting",
+    "inputs": [],
+    "outputs": [
+      {
+        "id": "minecraft:iron_nugget",
+        "count": 1.0,
+        "unit": "item",
+        "type": "solid",
+        "rate": 1.0
+      }
+    ]
+  },
+  {
+    "recipe_id": "notreepunchingremastered:tool/flint_shovel",
+    "mod_id": "notreepunchingremastered",
+    "recipe_type": "minecraft:crafting_shaped",
+    "inputs": [
+      {
+        "id": "notreepunchingremastered:flint_shard",
+        "count": 3.0,
+        "unit": "item",
+        "type": "solid",
+        "rate": 1.0
+      },
+      {
+        "id": "notreepunchingremastered:plant_string",
+        "count": 1.0,
+        "unit": "item",
+        "type": "solid",
+        "rate": 1.0
+      },
+      {
+        "id": "minecraft:stick",
+        "count": 1.0,
+        "unit": "item",
+        "type": "solid",
+        "rate": 1.0
+      }
+    ],
+    "outputs": [
+      {
+        "id": "notreepunchingremastered:flint_shovel",
+        "count": 1.0,
+        "unit": "item",
+        "type": "solid",
+        "rate": 1.0
+      }
+    ]
+  },
+  {
+    "recipe_id": "notreepunchingremastered:tool/golden_saw",
+    "mod_id": "notreepunchingremastered",
+    "recipe_type": "minecraft:crafting_shaped",
+    "inputs": [
+      {
+        "id": "minecraft:stick",
+        "count": 3.0,
+        "unit": "item",
+        "type": "solid",
+        "rate": 1.0
+      },
+      {
+        "id": "minecraft:gold_ingot",
+        "count": 2.0,
+        "unit": "item",
+        "type": "solid",
+        "rate": 1.0
+      }
+    ],
+    "outputs": [
+      {
+        "id": "notreepunchingremastered:golden_saw",
+        "count": 1.0,
+        "unit": "item",
+        "type": "solid",
+        "rate": 1.0
+      }
+    ]
+  },
+  {
+    "recipe_id": "notreepunchingremastered:plank/birch_planks_from_logs_with_saw",
+    "mod_id": "notreepunchingremastered",
+    "recipe_type": "minecraft:crafting",
+    "inputs": [
+      {
+        "id": "c:tools/saws",
+        "count": 1.0,
+        "unit": "item",
+        "type": "tag",
+        "rate": 1.0
+      },
+      {
+        "id": "minecraft:birch_logs",
+        "count": 1.0,
+        "unit": "item",
+        "type": "tag",
+        "rate": 1.0
+      }
+    ],
+    "outputs": [
+      {
+        "id": "minecraft:birch_planks",
+        "count": 4.0,
+        "unit": "item",
+        "type": "solid",
+        "rate": 1.0
+      }
+    ]
+  },
+  {
+    "recipe_id": "notreepunchingremastered:plank/warped_planks_from_stems_with_axe",
+    "mod_id": "notreepunchingremastered",
+    "recipe_type": "minecraft:crafting",
+    "inputs": [
+      {
+        "id": "c:tools/axes",
+        "count": 1.0,
+        "unit": "item",
+        "type": "tag",
+        "rate": 1.0
+      },
+      {
+        "id": "minecraft:warped_stems",
+        "count": 1.0,
+        "unit": "item",
+        "type": "tag",
+        "rate": 1.0
+      }
+    ],
+    "outputs": [
+      {
+        "id": "minecraft:warped_planks",
+        "count": 2.0,
+        "unit": "item",
+        "type": "solid",
+        "rate": 1.0
+      }
+    ]
+  },
+  {
+    "recipe_id": "notreepunchingremastered:tool/diamond_knife",
+    "mod_id": "notreepunchingremastered",
+    "recipe_type": "minecraft:crafting_shaped",
+    "inputs": [
+      {
+        "id": "minecraft:diamond",
+        "count": 1.0,
+        "unit": "item",
+        "type": "solid",
+        "rate": 1.0
+      },
+      {
+        "id": "minecraft:stick",
+        "count": 1.0,
+        "unit": "item",
+        "type": "solid",
+        "rate": 1.0
+      }
+    ],
+    "outputs": [
+      {
+        "id": "notreepunchingremastered:diamond_knife",
+        "count": 1.0,
+        "unit": "item",
+        "type": "solid",
+        "rate": 1.0
+      }
+    ]
+  },
+  {
+    "recipe_id": "notreepunchingremastered:compat/immersiveengineering/metal/copper_nugget_from_blasting",
+    "mod_id": "notreepunchingremastered",
+    "recipe_type": "minecraft:blasting",
+    "inputs": [],
+    "outputs": [
+      {
+        "id": "immersiveengineering:nugget_copper",
+        "count": 1.0,
+        "unit": "item",
+        "type": "solid",
+        "rate": 1.0
+      }
+    ]
+  },
+  {
+    "recipe_id": "notreepunchingremastered:plank/bamboo_planks_from_blocks_with_saw",
+    "mod_id": "notreepunchingremastered",
+    "recipe_type": "minecraft:crafting",
+    "inputs": [
+      {
+        "id": "c:tools/saws",
+        "count": 1.0,
+        "unit": "item",
+        "type": "tag",
+        "rate": 1.0
+      },
+      {
+        "id": "minecraft:bamboo_blocks",
+        "count": 1.0,
+        "unit": "item",
+        "type": "tag",
+        "rate": 1.0
+      }
+    ],
+    "outputs": [
+      {
+        "id": "minecraft:bamboo_planks",
+        "count": 2.0,
+        "unit": "item",
+        "type": "solid",
+        "rate": 1.0
+      }
+    ]
+  },
+  {
+    "recipe_id": "notreepunchingremastered:tool/iron_knife",
+    "mod_id": "notreepunchingremastered",
+    "recipe_type": "minecraft:crafting_shaped",
+    "inputs": [
+      {
+        "id": "minecraft:iron_ingot",
+        "count": 1.0,
+        "unit": "item",
+        "type": "solid",
+        "rate": 1.0
+      },
+      {
+        "id": "minecraft:stick",
+        "count": 1.0,
+        "unit": "item",
+        "type": "solid",
+        "rate": 1.0
+      }
+    ],
+    "outputs": [
+      {
+        "id": "notreepunchingremastered:iron_knife",
+        "count": 1.0,
+        "unit": "item",
+        "type": "solid",
+        "rate": 1.0
+      }
+    ]
+  },
+  {
+    "recipe_id": "notreepunchingremastered:plank/acacia_planks_from_logs_with_axe",
+    "mod_id": "notreepunchingremastered",
+    "recipe_type": "minecraft:crafting",
+    "inputs": [
+      {
+        "id": "c:tools/axes",
+        "count": 1.0,
+        "unit": "item",
+        "type": "tag",
+        "rate": 1.0
+      },
+      {
+        "id": "minecraft:acacia_logs",
+        "count": 1.0,
+        "unit": "item",
+        "type": "tag",
+        "rate": 1.0
+      }
+    ],
+    "outputs": [
+      {
+        "id": "minecraft:acacia_planks",
+        "count": 2.0,
+        "unit": "item",
+        "type": "solid",
+        "rate": 1.0
+      }
+    ]
+  },
+  {
+    "recipe_id": "notreepunchingremastered:compat/create/metal/copper_nugget_from_smelting",
+    "mod_id": "notreepunchingremastered",
+    "recipe_type": "minecraft:smelting",
+    "inputs": [],
+    "outputs": [
+      {
+        "id": "create:copper_nugget",
+        "count": 1.0,
+        "unit": "item",
+        "type": "solid",
+        "rate": 1.0
+      }
+    ]
+  },
+  {
+    "recipe_id": "notreepunchingremastered:plank/crimson_planks_from_stems_with_saw",
+    "mod_id": "notreepunchingremastered",
+    "recipe_type": "minecraft:crafting",
+    "inputs": [
+      {
+        "id": "c:tools/saws",
+        "count": 1.0,
+        "unit": "item",
+        "type": "tag",
+        "rate": 1.0
+      },
+      {
+        "id": "minecraft:crimson_stems",
+        "count": 1.0,
+        "unit": "item",
+        "type": "tag",
+        "rate": 1.0
+      }
+    ],
+    "outputs": [
+      {
+        "id": "minecraft:crimson_planks",
+        "count": 4.0,
+        "unit": "item",
+        "type": "solid",
+        "rate": 1.0
+      }
+    ]
+  },
+  {
+    "recipe_id": "notreepunchingremastered:plank/dark_oak_planks_from_logs_with_axe",
+    "mod_id": "notreepunchingremastered",
+    "recipe_type": "minecraft:crafting",
+    "inputs": [
+      {
+        "id": "c:tools/axes",
+        "count": 1.0,
+        "unit": "item",
+        "type": "tag",
+        "rate": 1.0
+      },
+      {
+        "id": "minecraft:dark_oak_logs",
+        "count": 1.0,
+        "unit": "item",
+        "type": "tag",
+        "rate": 1.0
+      }
+    ],
+    "outputs": [
+      {
+        "id": "minecraft:dark_oak_planks",
+        "count": 2.0,
+        "unit": "item",
+        "type": "solid",
+        "rate": 1.0
+      }
+    ]
+  },
+  {
+    "recipe_id": "notreepunchingremastered:plank/mangrove_planks_from_logs_with_axe",
+    "mod_id": "notreepunchingremastered",
+    "recipe_type": "minecraft:crafting",
+    "inputs": [
+      {
+        "id": "c:tools/axes",
+        "count": 1.0,
+        "unit": "item",
+        "type": "tag",
+        "rate": 1.0
+      },
+      {
+        "id": "minecraft:mangrove_logs",
+        "count": 1.0,
+        "unit": "item",
+        "type": "tag",
+        "rate": 1.0
+      }
+    ],
+    "outputs": [
+      {
+        "id": "minecraft:mangrove_planks",
+        "count": 2.0,
+        "unit": "item",
+        "type": "solid",
+        "rate": 1.0
+      }
+    ]
+  },
+  {
+    "recipe_id": "notreepunchingremastered:tool/copper_knife",
+    "mod_id": "notreepunchingremastered",
+    "recipe_type": "minecraft:crafting_shaped",
+    "inputs": [
+      {
+        "id": "minecraft:copper_ingot",
+        "count": 1.0,
+        "unit": "item",
+        "type": "solid",
+        "rate": 1.0
+      },
+      {
+        "id": "minecraft:stick",
+        "count": 1.0,
+        "unit": "item",
+        "type": "solid",
+        "rate": 1.0
+      }
+    ],
+    "outputs": [
+      {
+        "id": "notreepunchingremastered:copper_knife",
+        "count": 1.0,
+        "unit": "item",
+        "type": "solid",
+        "rate": 1.0
+      }
+    ]
+  },
+  {
+    "recipe_id": "notreepunchingremastered:plank/oak_planks_from_logs_with_saw",
+    "mod_id": "notreepunchingremastered",
+    "recipe_type": "minecraft:crafting",
+    "inputs": [
+      {
+        "id": "c:tools/saws",
+        "count": 1.0,
+        "unit": "item",
+        "type": "tag",
+        "rate": 1.0
+      },
+      {
+        "id": "minecraft:oak_logs",
+        "count": 1.0,
+        "unit": "item",
+        "type": "tag",
+        "rate": 1.0
+      }
+    ],
+    "outputs": [
+      {
+        "id": "minecraft:oak_planks",
+        "count": 4.0,
+        "unit": "item",
+        "type": "solid",
+        "rate": 1.0
+      }
+    ]
+  },
+  {
+    "recipe_id": "notreepunchingremastered:rock/sandstone_from_sandstone_rock",
+    "mod_id": "notreepunchingremastered",
+    "recipe_type": "minecraft:crafting_shaped",
+    "inputs": [
+      {
+        "id": "notreepunchingremastered:sandstone_rock",
+        "count": 4.0,
+        "unit": "item",
+        "type": "solid",
+        "rate": 1.0
+      }
+    ],
+    "outputs": [
+      {
+        "id": "minecraft:sandstone",
+        "count": 1.0,
+        "unit": "item",
+        "type": "solid",
+        "rate": 1.0
+      }
+    ]
+  },
+  {
+    "recipe_id": "notreepunchingremastered:compat/immersiveengineering/tool/steel_saw",
+    "mod_id": "notreepunchingremastered",
+    "recipe_type": "minecraft:crafting_shaped",
+    "inputs": [
+      {
+        "id": "minecraft:stick",
+        "count": 3.0,
+        "unit": "item",
+        "type": "solid",
+        "rate": 1.0
+      },
+      {
+        "id": "c:ingots/steel",
+        "count": 2.0,
+        "unit": "item",
+        "type": "solid",
+        "rate": 1.0
+      }
+    ],
+    "outputs": [
+      {
+        "id": "notreepunchingremastered:steel_saw",
+        "count": 1.0,
+        "unit": "item",
+        "type": "solid",
+        "rate": 1.0
+      }
+    ]
+  },
+  {
+    "recipe_id": "notreepunchingremastered:compat/immersiveengineering/metal/steel_nugget_from_blasting",
+    "mod_id": "notreepunchingremastered",
+    "recipe_type": "minecraft:blasting",
+    "inputs": [],
+    "outputs": [
+      {
+        "id": "immersiveengineering:nugget_steel",
+        "count": 1.0,
+        "unit": "item",
+        "type": "solid",
+        "rate": 1.0
+      }
+    ]
+  },
+  {
+    "recipe_id": "notreepunchingremastered:metal/iron_nugget_from_blasting",
+    "mod_id": "notreepunchingremastered",
+    "recipe_type": "minecraft:blasting",
+    "inputs": [],
+    "outputs": [
+      {
+        "id": "minecraft:iron_nugget",
+        "count": 1.0,
+        "unit": "item",
+        "type": "solid",
+        "rate": 1.0
+      }
+    ]
+  },
+  {
+    "recipe_id": "notreepunchingremastered:tool/flint_shovel",
+    "mod_id": "notreepunchingremastered",
+    "recipe_type": "minecraft:crafting_shaped",
+    "inputs": [
+      {
+        "id": "notreepunchingremastered:flint_shard",
+        "count": 3.0,
+        "unit": "item",
+        "type": "solid",
+        "rate": 1.0
+      },
+      {
+        "id": "notreepunchingremastered:plant_string",
+        "count": 1.0,
+        "unit": "item",
+        "type": "solid",
+        "rate": 1.0
+      },
+      {
+        "id": "minecraft:stick",
+        "count": 1.0,
+        "unit": "item",
+        "type": "solid",
+        "rate": 1.0
+      }
+    ],
+    "outputs": [
+      {
+        "id": "notreepunchingremastered:flint_shovel",
+        "count": 1.0,
+        "unit": "item",
+        "type": "solid",
+        "rate": 1.0
+      }
+    ]
+  },
+  {
+    "recipe_id": "notreepunchingremastered:tool/golden_saw",
+    "mod_id": "notreepunchingremastered",
+    "recipe_type": "minecraft:crafting_shaped",
+    "inputs": [
+      {
+        "id": "minecraft:stick",
+        "count": 3.0,
+        "unit": "item",
+        "type": "solid",
+        "rate": 1.0
+      },
+      {
+        "id": "minecraft:gold_ingot",
+        "count": 2.0,
+        "unit": "item",
+        "type": "solid",
+        "rate": 1.0
+      }
+    ],
+    "outputs": [
+      {
+        "id": "notreepunchingremastered:golden_saw",
+        "count": 1.0,
+        "unit": "item",
+        "type": "solid",
+        "rate": 1.0
+      }
+    ]
+  },
+  {
+    "recipe_id": "notreepunchingremastered:tool/iron_knife",
+    "mod_id": "notreepunchingremastered",
+    "recipe_type": "minecraft:crafting_shaped",
+    "inputs": [
+      {
+        "id": "minecraft:iron_ingot",
+        "count": 1.0,
+        "unit": "item",
+        "type": "solid",
+        "rate": 1.0
+      },
+      {
+        "id": "minecraft:stick",
+        "count": 1.0,
+        "unit": "item",
+        "type": "solid",
+        "rate": 1.0
+      }
+    ],
+    "outputs": [
+      {
+        "id": "notreepunchingremastered:iron_knife",
+        "count": 1.0,
+        "unit": "item",
+        "type": "solid",
+        "rate": 1.0
+      }
+    ]
+  },
+  {
+    "recipe_id": "notreepunchingremastered:plank/acacia_planks_from_logs_with_axe",
+    "mod_id": "notreepunchingremastered",
+    "recipe_type": "minecraft:crafting",
+    "inputs": [
+      {
+        "id": "c:tools/axes",
+        "count": 1.0,
+        "unit": "item",
+        "type": "tag",
+        "rate": 1.0
+      },
+      {
+        "id": "minecraft:acacia_logs",
+        "count": 1.0,
+        "unit": "item",
+        "type": "tag",
+        "rate": 1.0
+      }
+    ],
+    "outputs": [
+      {
+        "id": "minecraft:acacia_planks",
+        "count": 2.0,
+        "unit": "item",
+        "type": "solid",
+        "rate": 1.0
+      }
+    ]
+  },
+  {
+    "recipe_id": "notreepunchingremastered:compat/create/metal/copper_nugget_from_smelting",
+    "mod_id": "notreepunchingremastered",
+    "recipe_type": "minecraft:smelting",
+    "inputs": [],
+    "outputs": [
+      {
+        "id": "create:copper_nugget",
+        "count": 1.0,
+        "unit": "item",
+        "type": "solid",
+        "rate": 1.0
+      }
+    ]
+  },
+  {
+    "recipe_id": "notreepunchingremastered:plank/crimson_planks_from_stems_with_saw",
+    "mod_id": "notreepunchingremastered",
+    "recipe_type": "minecraft:crafting",
+    "inputs": [
+      {
+        "id": "c:tools/saws",
+        "count": 1.0,
+        "unit": "item",
+        "type": "tag",
+        "rate": 1.0
+      },
+      {
+        "id": "minecraft:crimson_stems",
+        "count": 1.0,
+        "unit": "item",
+        "type": "tag",
+        "rate": 1.0
+      }
+    ],
+    "outputs": [
+      {
+        "id": "minecraft:crimson_planks",
+        "count": 4.0,
+        "unit": "item",
+        "type": "solid",
+        "rate": 1.0
+      }
+    ]
+  },
+  {
+    "recipe_id": "notreepunchingremastered:plank/dark_oak_planks_from_logs_with_axe",
+    "mod_id": "notreepunchingremastered",
+    "recipe_type": "minecraft:crafting",
+    "inputs": [
+      {
+        "id": "c:tools/axes",
+        "count": 1.0,
+        "unit": "item",
+        "type": "tag",
+        "rate": 1.0
+      },
+      {
+        "id": "minecraft:dark_oak_logs",
+        "count": 1.0,
+        "unit": "item",
+        "type": "tag",
+        "rate": 1.0
+      }
+    ],
+    "outputs": [
+      {
+        "id": "minecraft:dark_oak_planks",
+        "count": 2.0,
+        "unit": "item",
+        "type": "solid",
+        "rate": 1.0
+      }
+    ]
+  },
+  {
+    "recipe_id": "notreepunchingremastered:plank/mangrove_planks_from_logs_with_axe",
+    "mod_id": "notreepunchingremastered",
+    "recipe_type": "minecraft:crafting",
+    "inputs": [
+      {
+        "id": "c:tools/axes",
+        "count": 1.0,
+        "unit": "item",
+        "type": "tag",
+        "rate": 1.0
+      },
+      {
+        "id": "minecraft:mangrove_logs",
+        "count": 1.0,
+        "unit": "item",
+        "type": "tag",
+        "rate": 1.0
+      }
+    ],
+    "outputs": [
+      {
+        "id": "minecraft:mangrove_planks",
+        "count": 2.0,
+        "unit": "item",
+        "type": "solid",
+        "rate": 1.0
+      }
+    ]
+  },
+  {
+    "recipe_id": "notreepunchingremastered:tool/copper_knife",
+    "mod_id": "notreepunchingremastered",
+    "recipe_type": "minecraft:crafting_shaped",
+    "inputs": [
+      {
+        "id": "minecraft:copper_ingot",
+        "count": 1.0,
+        "unit": "item",
+        "type": "solid",
+        "rate": 1.0
+      },
+      {
+        "id": "minecraft:stick",
+        "count": 1.0,
+        "unit": "item",
+        "type": "solid",
+        "rate": 1.0
+      }
+    ],
+    "outputs": [
+      {
+        "id": "notreepunchingremastered:copper_knife",
+        "count": 1.0,
+        "unit": "item",
+        "type": "solid",
+        "rate": 1.0
+      }
+    ]
+  },
+  {
+    "recipe_id": "notreepunchingremastered:plank/oak_planks_from_logs_with_saw",
+    "mod_id": "notreepunchingremastered",
+    "recipe_type": "minecraft:crafting",
+    "inputs": [
+      {
+        "id": "c:tools/saws",
+        "count": 1.0,
+        "unit": "item",
+        "type": "tag",
+        "rate": 1.0
+      },
+      {
+        "id": "minecraft:oak_logs",
+        "count": 1.0,
+        "unit": "item",
+        "type": "tag",
+        "rate": 1.0
+      }
+    ],
+    "outputs": [
+      {
+        "id": "minecraft:oak_planks",
+        "count": 4.0,
+        "unit": "item",
+        "type": "solid",
+        "rate": 1.0
+      }
+    ]
+  },
+  {
+    "recipe_id": "notreepunchingremastered:rock/sandstone_from_sandstone_rock",
+    "mod_id": "notreepunchingremastered",
+    "recipe_type": "minecraft:crafting_shaped",
+    "inputs": [
+      {
+        "id": "notreepunchingremastered:sandstone_rock",
+        "count": 4.0,
+        "unit": "item",
+        "type": "solid",
+        "rate": 1.0
+      }
+    ],
+    "outputs": [
+      {
+        "id": "minecraft:sandstone",
+        "count": 1.0,
+        "unit": "item",
+        "type": "solid",
+        "rate": 1.0
+      }
+    ]
+  },
+  {
+    "recipe_id": "notreepunchingremastered:compat/immersiveengineering/tool/steel_saw",
+    "mod_id": "notreepunchingremastered",
+    "recipe_type": "minecraft:crafting_shaped",
+    "inputs": [
+      {
+        "id": "minecraft:stick",
+        "count": 3.0,
+        "unit": "item",
+        "type": "solid",
+        "rate": 1.0
+      },
+      {
+        "id": "c:ingots/steel",
+        "count": 2.0,
+        "unit": "item",
+        "type": "solid",
+        "rate": 1.0
+      }
+    ],
+    "outputs": [
+      {
+        "id": "notreepunchingremastered:steel_saw",
+        "count": 1.0,
+        "unit": "item",
+        "type": "solid",
+        "rate": 1.0
+      }
+    ]
+  },
+  {
+    "recipe_id": "notreepunchingremastered:compat/immersiveengineering/metal/steel_nugget_from_blasting",
+    "mod_id": "notreepunchingremastered",
+    "recipe_type": "minecraft:blasting",
+    "inputs": [],
+    "outputs": [
+      {
+        "id": "immersiveengineering:nugget_steel",
+        "count": 1.0,
+        "unit": "item",
+        "type": "solid",
+        "rate": 1.0
+      }
+    ]
+  },
+  {
+    "recipe_id": "notreepunchingremastered:metal/iron_nugget_from_blasting",
+    "mod_id": "notreepunchingremastered",
+    "recipe_type": "minecraft:blasting",
+    "inputs": [],
+    "outputs": [
+      {
+        "id": "minecraft:iron_nugget",
+        "count": 1.0,
+        "unit": "item",
+        "type": "solid",
+        "rate": 1.0
+      }
+    ]
+  },
+  {
+    "recipe_id": "notreepunchingremastered:tool/flint_shovel",
+    "mod_id": "notreepunchingremastered",
+    "recipe_type": "minecraft:crafting_shaped",
+    "inputs": [
+      {
+        "id": "notreepunchingremastered:flint_shard",
+        "count": 3.0,
+        "unit": "item",
+        "type": "solid",
+        "rate": 1.0
+      },
+      {
+        "id": "notreepunchingremastered:plant_string",
+        "count": 1.0,
+        "unit": "item",
+        "type": "solid",
+        "rate": 1.0
+      },
+      {
+        "id": "minecraft:stick",
+        "count": 1.0,
+        "unit": "item",
+        "type": "solid",
+        "rate": 1.0
+      }
+    ],
+    "outputs": [
+      {
+        "id": "notreepunchingremastered:flint_shovel",
+        "count": 1.0,
+        "unit": "item",
+        "type": "solid",
+        "rate": 1.0
+      }
+    ]
+  },
+  {
+    "recipe_id": "notreepunchingremastered:tool/golden_saw",
+    "mod_id": "notreepunchingremastered",
+    "recipe_type": "minecraft:crafting_shaped",
+    "inputs": [
+      {
+        "id": "minecraft:stick",
+        "count": 3.0,
+        "unit": "item",
+        "type": "solid",
+        "rate": 1.0
+      },
+      {
+        "id": "minecraft:gold_ingot",
+        "count": 2.0,
+        "unit": "item",
+        "type": "solid",
+        "rate": 1.0
+      }
+    ],
+    "outputs": [
+      {
+        "id": "notreepunchingremastered:golden_saw",
+        "count": 1.0,
+        "unit": "item",
+        "type": "solid",
+        "rate": 1.0
+      }
+    ]
+  },
+  {
+    "recipe_id": "notreepunchingremastered:plank/birch_planks_from_logs_with_saw",
+    "mod_id": "notreepunchingremastered",
+    "recipe_type": "minecraft:crafting",
+    "inputs": [
+      {
+        "id": "c:tools/saws",
+        "count": 1.0,
+        "unit": "item",
+        "type": "tag",
+        "rate": 1.0
+      },
+      {
+        "id": "minecraft:birch_logs",
+        "count": 1.0,
+        "unit": "item",
+        "type": "tag",
+        "rate": 1.0
+      }
+    ],
+    "outputs": [
+      {
+        "id": "minecraft:birch_planks",
+        "count": 4.0,
+        "unit": "item",
+        "type": "solid",
+        "rate": 1.0
+      }
+    ]
+  },
+  {
+    "recipe_id": "notreepunchingremastered:plank/warped_planks_from_stems_with_axe",
+    "mod_id": "notreepunchingremastered",
+    "recipe_type": "minecraft:crafting",
+    "inputs": [
+      {
+        "id": "c:tools/axes",
+        "count": 1.0,
+        "unit": "item",
+        "type": "tag",
+        "rate": 1.0
+      },
+      {
+        "id": "minecraft:warped_stems",
+        "count": 1.0,
+        "unit": "item",
+        "type": "tag",
+        "rate": 1.0
+      }
+    ],
+    "outputs": [
+      {
+        "id": "minecraft:warped_planks",
+        "count": 2.0,
+        "unit": "item",
+        "type": "solid",
+        "rate": 1.0
+      }
+    ]
+  },
+  {
+    "recipe_id": "notreepunchingremastered:tool/diamond_knife",
+    "mod_id": "notreepunchingremastered",
+    "recipe_type": "minecraft:crafting_shaped",
+    "inputs": [
+      {
+        "id": "minecraft:diamond",
+        "count": 1.0,
+        "unit": "item",
+        "type": "solid",
+        "rate": 1.0
+      },
+      {
+        "id": "minecraft:stick",
+        "count": 1.0,
+        "unit": "item",
+        "type": "solid",
+        "rate": 1.0
+      }
+    ],
+    "outputs": [
+      {
+        "id": "notreepunchingremastered:diamond_knife",
+        "count": 1.0,
+        "unit": "item",
+        "type": "solid",
+        "rate": 1.0
+      }
+    ]
+  },
+  {
+    "recipe_id": "notreepunchingremastered:compat/immersiveengineering/metal/copper_nugget_from_blasting",
+    "mod_id": "notreepunchingremastered",
+    "recipe_type": "minecraft:blasting",
+    "inputs": [],
+    "outputs": [
+      {
+        "id": "immersiveengineering:nugget_copper",
+        "count": 1.0,
+        "unit": "item",
+        "type": "solid",
+        "rate": 1.0
+      }
+    ]
+  },
+  {
+    "recipe_id": "notreepunchingremastered:plank/bamboo_planks_from_blocks_with_saw",
+    "mod_id": "notreepunchingremastered",
+    "recipe_type": "minecraft:crafting",
+    "inputs": [
+      {
+        "id": "c:tools/saws",
+        "count": 1.0,
+        "unit": "item",
+        "type": "tag",
+        "rate": 1.0
+      },
+      {
+        "id": "minecraft:bamboo_blocks",
+        "count": 1.0,
+        "unit": "item",
+        "type": "tag",
+        "rate": 1.0
+      }
+    ],
+    "outputs": [
+      {
+        "id": "minecraft:bamboo_planks",
+        "count": 2.0,
+        "unit": "item",
+        "type": "solid",
+        "rate": 1.0
+      }
+    ]
+  },
+  {
+    "recipe_id": "notreepunchingremastered:tool/flint_pickaxe",
+    "mod_id": "notreepunchingremastered",
+    "recipe_type": "minecraft:crafting_shaped",
+    "inputs": [
+      {
+        "id": "notreepunchingremastered:flint_shard",
+        "count": 4.0,
+        "unit": "item",
+        "type": "solid",
+        "rate": 1.0
+      },
+      {
+        "id": "notreepunchingremastered:plant_string",
+        "count": 1.0,
+        "unit": "item",
+        "type": "solid",
+        "rate": 1.0
+      },
+      {
+        "id": "minecraft:stick",
+        "count": 2.0,
+        "unit": "item",
+        "type": "solid",
+        "rate": 1.0
+      }
+    ],
+    "outputs": [
+      {
+        "id": "notreepunchingremastered:flint_pickaxe",
+        "count": 1.0,
+        "unit": "item",
+        "type": "solid",
+        "rate": 1.0
+      }
+    ]
+  },
+  {
+    "recipe_id": "notreepunchingremastered:plank/spruce_planks_from_logs_with_saw",
+    "mod_id": "notreepunchingremastered",
+    "recipe_type": "minecraft:crafting",
+    "inputs": [
+      {
+        "id": "c:tools/saws",
+        "count": 1.0,
+        "unit": "item",
+        "type": "tag",
+        "rate": 1.0
+      },
+      {
+        "id": "minecraft:spruce_logs",
+        "count": 1.0,
+        "unit": "item",
+        "type": "tag",
+        "rate": 1.0
+      }
+    ],
+    "outputs": [
+      {
+        "id": "minecraft:spruce_planks",
+        "count": 4.0,
+        "unit": "item",
+        "type": "solid",
+        "rate": 1.0
+      }
+    ]
+  },
+  {
+    "recipe_id": "notreepunchingremastered:metal/iron_nugget_from_smelting",
+    "mod_id": "notreepunchingremastered",
+    "recipe_type": "minecraft:smelting",
+    "inputs": [],
+    "outputs": [
+      {
+        "id": "minecraft:iron_nugget",
+        "count": 1.0,
+        "unit": "item",
+        "type": "solid",
+        "rate": 1.0
+      }
+    ]
+  },
+  {
+    "recipe_id": "notreepunchingremastered:tool/golden_knife",
+    "mod_id": "notreepunchingremastered",
+    "recipe_type": "minecraft:crafting_shaped",
+    "inputs": [
+      {
+        "id": "minecraft:gold_ingot",
+        "count": 1.0,
+        "unit": "item",
+        "type": "solid",
+        "rate": 1.0
+      },
+      {
+        "id": "minecraft:stick",
+        "count": 1.0,
+        "unit": "item",
+        "type": "solid",
+        "rate": 1.0
+      }
+    ],
+    "outputs": [
+      {
+        "id": "notreepunchingremastered:golden_knife",
+        "count": 1.0,
+        "unit": "item",
+        "type": "solid",
+        "rate": 1.0
+      }
+    ]
+  },
+  {
+    "recipe_id": "notreepunchingremastered:flint_shard",
+    "mod_id": "notreepunchingremastered",
+    "recipe_type": "minecraft:crafting_shapeless",
+    "inputs": [
+      {
+        "id": "minecraft:flint",
+        "count": 1.0,
+        "unit": "item",
+        "type": "solid",
+        "rate": 1.0
+      }
+    ],
+    "outputs": [
+      {
+        "id": "notreepunchingremastered:flint_shard",
+        "count": 2.0,
+        "unit": "item",
+        "type": "solid",
+        "rate": 1.0
+      }
+    ]
+  },
+  {
+    "recipe_id": "notreepunchingremastered:ceramic_vessel_from_campfire_cooking",
+    "mod_id": "notreepunchingremastered",
+    "recipe_type": "minecraft:campfire_cooking",
+    "inputs": [
+      {
+        "id": "notreepunchingremastered:clay_vessel",
+        "count": 1.0,
+        "unit": "item",
+        "type": "solid",
+        "rate": 1.0
+      }
+    ],
+    "outputs": [
+      {
+        "id": "notreepunchingremastered:ceramic_vessel",
+        "count": 1.0,
+        "unit": "item",
+        "type": "solid",
+        "rate": 1.0
+      }
+    ]
+  },
+  {
+    "recipe_id": "notreepunchingremastered:tool/copper_sword",
+    "mod_id": "notreepunchingremastered",
+    "recipe_type": "minecraft:crafting_shaped",
+    "inputs": [
+      {
+        "id": "minecraft:copper_ingot",
+        "count": 2.0,
+        "unit": "item",
+        "type": "solid",
+        "rate": 1.0
+      },
+      {
+        "id": "minecraft:stick",
+        "count": 1.0,
+        "unit": "item",
+        "type": "solid",
+        "rate": 1.0
+      }
+    ],
+    "outputs": [
+      {
+        "id": "notreepunchingremastered:copper_sword",
+        "count": 1.0,
+        "unit": "item",
+        "type": "solid",
+        "rate": 1.0
+      }
+    ]
+  },
+  {
+    "recipe_id": "notreepunchingremastered:tool/netherite_knife_smithing",
+    "mod_id": "notreepunchingremastered",
+    "recipe_type": "minecraft:smithing",
+    "inputs": [
+      {
+        "id": "notreepunchingremastered:diamond_knife",
+        "count": 1.0,
+        "unit": "item",
+        "type": "solid",
+        "rate": 1.0
+      },
+      {
+        "id": "minecraft:netherite_ingot",
+        "count": 1.0,
+        "unit": "item",
+        "type": "solid",
+        "rate": 1.0
+      }
+    ],
+    "outputs": [
+      {
+        "id": "notreepunchingremastered:netherite_knife",
+        "count": 1.0,
+        "unit": "item",
+        "type": "solid",
+        "rate": 1.0
+      }
+    ]
+  },
+  {
+    "recipe_id": "notreepunchingremastered:tool/iron_saw",
+    "mod_id": "notreepunchingremastered",
+    "recipe_type": "minecraft:crafting_shaped",
+    "inputs": [
+      {
+        "id": "minecraft:stick",
+        "count": 3.0,
+        "unit": "item",
+        "type": "solid",
+        "rate": 1.0
+      },
+      {
+        "id": "minecraft:iron_ingot",
+        "count": 2.0,
+        "unit": "item",
+        "type": "solid",
+        "rate": 1.0
+      }
+    ],
+    "outputs": [
+      {
+        "id": "notreepunchingremastered:iron_saw",
+        "count": 1.0,
+        "unit": "item",
+        "type": "solid",
+        "rate": 1.0
+      }
+    ]
+  },
+  {
+    "recipe_id": "notreepunchingremastered:metal/gold_nugget_from_smelting",
+    "mod_id": "notreepunchingremastered",
+    "recipe_type": "minecraft:smelting",
+    "inputs": [],
+    "outputs": [
+      {
+        "id": "minecraft:gold_nugget",
+        "count": 1.0,
+        "unit": "item",
+        "type": "solid",
+        "rate": 1.0
+      }
+    ]
+  },
+  {
+    "recipe_id": "notreepunchingremastered:plank/cherry_planks_from_logs_with_saw",
+    "mod_id": "notreepunchingremastered",
+    "recipe_type": "minecraft:crafting",
+    "inputs": [
+      {
+        "id": "c:tools/saws",
+        "count": 1.0,
+        "unit": "item",
+        "type": "tag",
+        "rate": 1.0
+      },
+      {
+        "id": "minecraft:cherry_logs",
+        "count": 1.0,
+        "unit": "item",
+        "type": "tag",
+        "rate": 1.0
+      }
+    ],
+    "outputs": [
+      {
+        "id": "minecraft:cherry_planks",
+        "count": 4.0,
+        "unit": "item",
+        "type": "solid",
+        "rate": 1.0
+      }
+    ]
+  },
+  {
+    "recipe_id": "notreepunchingremastered:plank/jungle_planks_from_logs_with_saw",
+    "mod_id": "notreepunchingremastered",
+    "recipe_type": "minecraft:crafting",
+    "inputs": [
+      {
+        "id": "c:tools/saws",
+        "count": 1.0,
+        "unit": "item",
+        "type": "tag",
+        "rate": 1.0
+      },
+      {
+        "id": "minecraft:jungle_logs",
+        "count": 1.0,
+        "unit": "item",
+        "type": "tag",
+        "rate": 1.0
+      }
+    ],
+    "outputs": [
+      {
+        "id": "minecraft:jungle_planks",
+        "count": 4.0,
+        "unit": "item",
+        "type": "solid",
+        "rate": 1.0
+      }
+    ]
+  },
+  {
+    "recipe_id": "notreepunchingremastered:tool/copper_axe",
+    "mod_id": "notreepunchingremastered",
+    "recipe_type": "minecraft:crafting_shaped",
+    "inputs": [
+      {
+        "id": "minecraft:copper_ingot",
+        "count": 3.0,
+        "unit": "item",
+        "type": "solid",
+        "rate": 1.0
+      },
+      {
+        "id": "minecraft:stick",
+        "count": 2.0,
+        "unit": "item",
+        "type": "solid",
+        "rate": 1.0
+      }
+    ],
+    "outputs": [
+      {
+        "id": "notreepunchingremastered:copper_axe",
+        "count": 1.0,
+        "unit": "item",
+        "type": "solid",
+        "rate": 1.0
+      }
+    ]
+  },
+  {
+    "recipe_id": "notreepunchingremastered:tool/flint_knife",
+    "mod_id": "notreepunchingremastered",
+    "recipe_type": "minecraft:crafting_shaped",
+    "inputs": [
+      {
+        "id": "notreepunchingremastered:flint_shard",
+        "count": 1.0,
+        "unit": "item",
+        "type": "solid",
+        "rate": 1.0
+      },
+      {
+        "id": "minecraft:stick",
+        "count": 1.0,
+        "unit": "item",
+        "type": "solid",
+        "rate": 1.0
+      }
+    ],
+    "outputs": [
+      {
+        "id": "notreepunchingremastered:flint_knife",
+        "count": 1.0,
+        "unit": "item",
+        "type": "solid",
+        "rate": 1.0
+      }
+    ]
+  },
+  {
+    "recipe_id": "notreepunchingremastered:plank/acacia_planks_from_logs_with_saw",
+    "mod_id": "notreepunchingremastered",
+    "recipe_type": "minecraft:crafting",
+    "inputs": [
+      {
+        "id": "c:tools/saws",
+        "count": 1.0,
+        "unit": "item",
+        "type": "tag",
+        "rate": 1.0
+      },
+      {
+        "id": "minecraft:acacia_logs",
+        "count": 1.0,
+        "unit": "item",
+        "type": "tag",
+        "rate": 1.0
+      }
+    ],
+    "outputs": [
+      {
+        "id": "minecraft:acacia_planks",
+        "count": 4.0,
+        "unit": "item",
+        "type": "solid",
+        "rate": 1.0
+      }
+    ]
+  },
+  {
+    "recipe_id": "notreepunchingremastered:compat/immersiveengineering/metal/copper_nugget_from_smelting",
+    "mod_id": "notreepunchingremastered",
+    "recipe_type": "minecraft:smelting",
+    "inputs": [],
+    "outputs": [
+      {
+        "id": "immersiveengineering:nugget_copper",
+        "count": 1.0,
+        "unit": "item",
+        "type": "solid",
+        "rate": 1.0
+      }
+    ]
+  },
+  {
+    "recipe_id": "notreepunchingremastered:plank/crimson_planks_from_stems_with_axe",
+    "mod_id": "notreepunchingremastered",
+    "recipe_type": "minecraft:crafting",
+    "inputs": [
+      {
+        "id": "c:tools/axes",
+        "count": 1.0,
+        "unit": "item",
+        "type": "tag",
+        "rate": 1.0
+      },
+      {
+        "id": "minecraft:crimson_stems",
+        "count": 1.0,
+        "unit": "item",
+        "type": "tag",
+        "rate": 1.0
+      }
+    ],
+    "outputs": [
+      {
+        "id": "minecraft:crimson_planks",
+        "count": 2.0,
+        "unit": "item",
+        "type": "solid",
+        "rate": 1.0
+      }
+    ]
+  },
+  {
+    "recipe_id": "notreepunchingremastered:plank/mangrove_planks_from_logs_with_saw",
+    "mod_id": "notreepunchingremastered",
+    "recipe_type": "minecraft:crafting",
+    "inputs": [
+      {
+        "id": "c:tools/saws",
+        "count": 1.0,
+        "unit": "item",
+        "type": "tag",
+        "rate": 1.0
+      },
+      {
+        "id": "minecraft:mangrove_logs",
+        "count": 1.0,
+        "unit": "item",
+        "type": "tag",
+        "rate": 1.0
+      }
+    ],
+    "outputs": [
+      {
+        "id": "minecraft:mangrove_planks",
+        "count": 4.0,
+        "unit": "item",
+        "type": "solid",
+        "rate": 1.0
+      }
+    ]
+  },
+  {
+    "recipe_id": "notreepunchingremastered:plank/dark_oak_planks_from_logs_with_saw",
+    "mod_id": "notreepunchingremastered",
+    "recipe_type": "minecraft:crafting",
+    "inputs": [
+      {
+        "id": "c:tools/saws",
+        "count": 1.0,
+        "unit": "item",
+        "type": "tag",
+        "rate": 1.0
+      },
+      {
+        "id": "minecraft:dark_oak_logs",
+        "count": 1.0,
+        "unit": "item",
+        "type": "tag",
+        "rate": 1.0
+      }
+    ],
+    "outputs": [
+      {
+        "id": "minecraft:dark_oak_planks",
+        "count": 4.0,
+        "unit": "item",
+        "type": "solid",
+        "rate": 1.0
+      }
+    ]
+  },
+  {
+    "recipe_id": "notreepunchingremastered:compat/create/metal/copper_nugget_from_blasting",
+    "mod_id": "notreepunchingremastered",
+    "recipe_type": "minecraft:blasting",
+    "inputs": [],
+    "outputs": [
+      {
+        "id": "create:copper_nugget",
+        "count": 1.0,
+        "unit": "item",
+        "type": "solid",
+        "rate": 1.0
+      }
+    ]
+  },
+  {
+    "recipe_id": "notreepunchingremastered:rock/cobblestone_from_stone_rock",
+    "mod_id": "notreepunchingremastered",
+    "recipe_type": "minecraft:crafting_shaped",
+    "inputs": [
+      {
+        "id": "notreepunchingremastered:stone_rock",
+        "count": 4.0,
+        "unit": "item",
+        "type": "solid",
+        "rate": 1.0
+      }
+    ],
+    "outputs": [
+      {
+        "id": "minecraft:cobblestone",
+        "count": 1.0,
+        "unit": "item",
+        "type": "solid",
+        "rate": 1.0
+      }
+    ]
+  },
+  {
+    "recipe_id": "notreepunchingremastered:plank/oak_planks_from_logs_with_axe",
+    "mod_id": "notreepunchingremastered",
+    "recipe_type": "minecraft:crafting",
+    "inputs": [
+      {
+        "id": "c:tools/axes",
+        "count": 1.0,
+        "unit": "item",
+        "type": "tag",
+        "rate": 1.0
+      },
+      {
+        "id": "minecraft:oak_logs",
+        "count": 1.0,
+        "unit": "item",
+        "type": "tag",
+        "rate": 1.0
+      }
+    ],
+    "outputs": [
+      {
+        "id": "minecraft:oak_planks",
+        "count": 2.0,
+        "unit": "item",
+        "type": "solid",
+        "rate": 1.0
+      }
+    ]
+  },
+  {
+    "recipe_id": "notreepunchingremastered:tool/copper_hoe",
+    "mod_id": "notreepunchingremastered",
+    "recipe_type": "minecraft:crafting_shaped",
+    "inputs": [
+      {
+        "id": "minecraft:copper_ingot",
+        "count": 2.0,
+        "unit": "item",
+        "type": "solid",
+        "rate": 1.0
+      },
+      {
+        "id": "minecraft:stick",
+        "count": 2.0,
+        "unit": "item",
+        "type": "solid",
+        "rate": 1.0
+      }
+    ],
+    "outputs": [
+      {
+        "id": "notreepunchingremastered:copper_hoe",
+        "count": 1.0,
+        "unit": "item",
+        "type": "solid",
+        "rate": 1.0
+      }
+    ]
+  },
+  {
+    "recipe_id": "notreepunchingremastered:metal/gold_nugget_from_blasting",
+    "mod_id": "notreepunchingremastered",
+    "recipe_type": "minecraft:blasting",
+    "inputs": [],
+    "outputs": [
+      {
+        "id": "minecraft:gold_nugget",
+        "count": 1.0,
+        "unit": "item",
+        "type": "solid",
+        "rate": 1.0
+      }
+    ]
+  },
+  {
+    "recipe_id": "notreepunchingremastered:tool/flint_hoe",
+    "mod_id": "notreepunchingremastered",
+    "recipe_type": "minecraft:crafting_shaped",
+    "inputs": [
+      {
+        "id": "notreepunchingremastered:plant_string",
+        "count": 1.0,
+        "unit": "item",
+        "type": "solid",
+        "rate": 1.0
+      },
+      {
+        "id": "notreepunchingremastered:flint_shard",
+        "count": 2.0,
+        "unit": "item",
+        "type": "solid",
+        "rate": 1.0
+      },
+      {
+        "id": "minecraft:stick",
+        "count": 2.0,
+        "unit": "item",
+        "type": "solid",
+        "rate": 1.0
+      }
+    ],
+    "outputs": [
+      {
+        "id": "notreepunchingremastered:flint_hoe",
+        "count": 1.0,
+        "unit": "item",
+        "type": "solid",
+        "rate": 1.0
+      }
+    ]
+  },
+  {
+    "recipe_id": "notreepunchingremastered:plank/birch_planks_from_logs_with_axe",
+    "mod_id": "notreepunchingremastered",
+    "recipe_type": "minecraft:crafting",
+    "inputs": [
+      {
+        "id": "c:tools/axes",
+        "count": 1.0,
+        "unit": "item",
+        "type": "tag",
+        "rate": 1.0
+      },
+      {
+        "id": "minecraft:birch_logs",
+        "count": 1.0,
+        "unit": "item",
+        "type": "tag",
+        "rate": 1.0
+      }
+    ],
+    "outputs": [
+      {
+        "id": "minecraft:birch_planks",
+        "count": 2.0,
+        "unit": "item",
+        "type": "solid",
+        "rate": 1.0
+      }
+    ]
+  },
+  {
+    "recipe_id": "notreepunchingremastered:plank/warped_planks_from_stems_with_saw",
+    "mod_id": "notreepunchingremastered",
+    "recipe_type": "minecraft:crafting",
+    "inputs": [
+      {
+        "id": "c:tools/saws",
+        "count": 1.0,
+        "unit": "item",
+        "type": "tag",
+        "rate": 1.0
+      },
+      {
+        "id": "minecraft:warped_stems",
+        "count": 1.0,
+        "unit": "item",
+        "type": "tag",
+        "rate": 1.0
+      }
+    ],
+    "outputs": [
+      {
+        "id": "minecraft:warped_planks",
+        "count": 4.0,
+        "unit": "item",
+        "type": "solid",
+        "rate": 1.0
+      }
+    ]
+  },
+  {
+    "recipe_id": "notreepunchingremastered:clay_vessel",
+    "mod_id": "notreepunchingremastered",
+    "recipe_type": "minecraft:crafting_shaped",
+    "inputs": [
+      {
+        "id": "minecraft:clay_ball",
+        "count": 6.0,
+        "unit": "item",
+        "type": "solid",
+        "rate": 1.0
+      }
+    ],
+    "outputs": [
+      {
+        "id": "notreepunchingremastered:clay_vessel",
+        "count": 1.0,
+        "unit": "item",
+        "type": "solid",
+        "rate": 1.0
+      }
+    ]
+  },
+  {
+    "recipe_id": "notreepunchingremastered:plank/bamboo_planks_from_blocks_with_axe",
+    "mod_id": "notreepunchingremastered",
+    "recipe_type": "minecraft:crafting",
+    "inputs": [
+      {
+        "id": "c:tools/axes",
+        "count": 1.0,
+        "unit": "item",
+        "type": "tag",
+        "rate": 1.0
+      },
+      {
+        "id": "minecraft:bamboo_blocks",
+        "count": 1.0,
+        "unit": "item",
+        "type": "tag",
+        "rate": 1.0
+      }
+    ],
+    "outputs": [
+      {
+        "id": "minecraft:bamboo_planks",
+        "count": 1.0,
+        "unit": "item",
+        "type": "solid",
+        "rate": 1.0
+      }
+    ]
+  },
+  {
+    "recipe_id": "notreepunchingremastered:plant_string",
+    "mod_id": "notreepunchingremastered",
+    "recipe_type": "minecraft:crafting_shapeless",
+    "inputs": [
+      {
+        "id": "notreepunchingremastered:grass_fiber",
+        "count": 1.0,
+        "unit": "item",
+        "type": "solid",
+        "rate": 1.0
+      },
+      {
+        "id": "notreepunchingremastered:grass_fiber",
+        "count": 1.0,
+        "unit": "item",
+        "type": "solid",
+        "rate": 1.0
+      },
+      {
+        "id": "notreepunchingremastered:grass_fiber",
+        "count": 1.0,
+        "unit": "item",
+        "type": "solid",
+        "rate": 1.0
+      }
+    ],
+    "outputs": [
+      {
+        "id": "notreepunchingremastered:plant_string",
+        "count": 1.0,
+        "unit": "item",
+        "type": "solid",
+        "rate": 1.0
+      }
+    ]
+  },
+  {
+    "recipe_id": "notreepunchingremastered:plank/spruce_planks_from_logs_with_axe",
+    "mod_id": "notreepunchingremastered",
+    "recipe_type": "minecraft:crafting",
+    "inputs": [
+      {
+        "id": "c:tools/axes",
+        "count": 1.0,
+        "unit": "item",
+        "type": "tag",
+        "rate": 1.0
+      },
+      {
+        "id": "minecraft:spruce_logs",
+        "count": 1.0,
+        "unit": "item",
+        "type": "tag",
+        "rate": 1.0
+      }
+    ],
+    "outputs": [
+      {
+        "id": "minecraft:spruce_planks",
+        "count": 2.0,
+        "unit": "item",
+        "type": "solid",
+        "rate": 1.0
+      }
+    ]
+  },
+  {
+    "recipe_id": "notreepunchingremastered:tool/copper_shovel",
+    "mod_id": "notreepunchingremastered",
+    "recipe_type": "minecraft:crafting_shaped",
+    "inputs": [
+      {
+        "id": "minecraft:copper_ingot",
+        "count": 1.0,
+        "unit": "item",
+        "type": "solid",
+        "rate": 1.0
+      },
+      {
+        "id": "minecraft:stick",
+        "count": 2.0,
+        "unit": "item",
+        "type": "solid",
+        "rate": 1.0
+      }
+    ],
+    "outputs": [
+      {
+        "id": "notreepunchingremastered:copper_shovel",
+        "count": 1.0,
+        "unit": "item",
+        "type": "solid",
+        "rate": 1.0
+      }
+    ]
+  },
+  {
+    "recipe_id": "notreepunchingremastered:tool/netherite_saw_smithing",
+    "mod_id": "notreepunchingremastered",
+    "recipe_type": "minecraft:smithing",
+    "inputs": [
+      {
+        "id": "notreepunchingremastered:diamond_saw",
+        "count": 1.0,
+        "unit": "item",
+        "type": "solid",
+        "rate": 1.0
+      },
+      {
+        "id": "minecraft:netherite_ingot",
+        "count": 1.0,
+        "unit": "item",
+        "type": "solid",
+        "rate": 1.0
+      }
+    ],
+    "outputs": [
+      {
+        "id": "notreepunchingremastered:netherite_saw",
+        "count": 1.0,
+        "unit": "item",
+        "type": "solid",
+        "rate": 1.0
+      }
+    ]
+  },
+  {
+    "recipe_id": "notreepunchingremastered:tool/copper_pickaxe",
+    "mod_id": "notreepunchingremastered",
+    "recipe_type": "minecraft:crafting_shaped",
+    "inputs": [
+      {
+        "id": "minecraft:copper_ingot",
+        "count": 3.0,
+        "unit": "item",
+        "type": "solid",
+        "rate": 1.0
+      },
+      {
+        "id": "minecraft:stick",
+        "count": 2.0,
+        "unit": "item",
+        "type": "solid",
+        "rate": 1.0
+      }
+    ],
+    "outputs": [
+      {
+        "id": "notreepunchingremastered:copper_pickaxe",
+        "count": 1.0,
+        "unit": "item",
+        "type": "solid",
+        "rate": 1.0
+      }
+    ]
+  },
+  {
+    "recipe_id": "notreepunchingremastered:rock/red_sandstone_from_red_sandstone_rock",
+    "mod_id": "notreepunchingremastered",
+    "recipe_type": "minecraft:crafting_shaped",
+    "inputs": [
+      {
+        "id": "notreepunchingremastered:red_sandstone_rock",
+        "count": 4.0,
+        "unit": "item",
+        "type": "solid",
+        "rate": 1.0
+      }
+    ],
+    "outputs": [
+      {
+        "id": "minecraft:red_sandstone",
+        "count": 1.0,
+        "unit": "item",
+        "type": "solid",
+        "rate": 1.0
+      }
+    ]
+  },
+  {
+    "recipe_id": "notreepunchingremastered:tool/flint_axe",
+    "mod_id": "notreepunchingremastered",
+    "recipe_type": "minecraft:crafting_shaped",
+    "inputs": [
+      {
+        "id": "notreepunchingremastered:plant_string",
+        "count": 1.0,
+        "unit": "item",
+        "type": "solid",
+        "rate": 1.0
+      },
+      {
+        "id": "notreepunchingremastered:flint_shard",
+        "count": 1.0,
+        "unit": "item",
+        "type": "solid",
+        "rate": 1.0
+      },
+      {
+        "id": "minecraft:stick",
+        "count": 1.0,
+        "unit": "item",
+        "type": "solid",
+        "rate": 1.0
+      }
+    ],
+    "outputs": [
+      {
+        "id": "notreepunchingremastered:flint_axe",
+        "count": 1.0,
+        "unit": "item",
+        "type": "solid",
+        "rate": 1.0
+      }
+    ]
+  },
+  {
+    "recipe_id": "notreepunchingremastered:plank/cherry_planks_from_logs_with_axe",
+    "mod_id": "notreepunchingremastered",
+    "recipe_type": "minecraft:crafting",
+    "inputs": [
+      {
+        "id": "c:tools/axes",
+        "count": 1.0,
+        "unit": "item",
+        "type": "tag",
+        "rate": 1.0
+      },
+      {
+        "id": "minecraft:cherry_logs",
+        "count": 1.0,
+        "unit": "item",
+        "type": "tag",
+        "rate": 1.0
+      }
+    ],
+    "outputs": [
+      {
+        "id": "minecraft:cherry_planks",
+        "count": 2.0,
+        "unit": "item",
+        "type": "solid",
+        "rate": 1.0
+      }
+    ]
+  },
+  {
+    "recipe_id": "notreepunchingremastered:ceramic_vessel_from_smelting_clay_vessel",
+    "mod_id": "notreepunchingremastered",
+    "recipe_type": "minecraft:smelting",
+    "inputs": [
+      {
+        "id": "notreepunchingremastered:clay_vessel",
+        "count": 1.0,
+        "unit": "item",
+        "type": "solid",
+        "rate": 1.0
+      }
+    ],
+    "outputs": [
+      {
+        "id": "notreepunchingremastered:ceramic_vessel",
+        "count": 1.0,
+        "unit": "item",
+        "type": "solid",
+        "rate": 1.0
+      }
+    ]
+  },
+  {
+    "recipe_id": "notreepunchingremastered:compat/immersiveengineering/tool/steel_knife",
+    "mod_id": "notreepunchingremastered",
+    "recipe_type": "minecraft:crafting_shaped",
+    "inputs": [
+      {
+        "id": "c:ingots/steel",
+        "count": 1.0,
+        "unit": "item",
+        "type": "solid",
+        "rate": 1.0
+      },
+      {
+        "id": "minecraft:stick",
+        "count": 1.0,
+        "unit": "item",
+        "type": "solid",
+        "rate": 1.0
+      }
+    ],
+    "outputs": [
+      {
+        "id": "notreepunchingremastered:steel_knife",
+        "count": 1.0,
+        "unit": "item",
+        "type": "solid",
+        "rate": 1.0
+      }
+    ]
+  },
+  {
+    "recipe_id": "notreepunchingremastered:tool/copper_saw",
+    "mod_id": "notreepunchingremastered",
+    "recipe_type": "minecraft:crafting_shaped",
+    "inputs": [
+      {
+        "id": "minecraft:stick",
+        "count": 3.0,
+        "unit": "item",
+        "type": "solid",
+        "rate": 1.0
+      },
+      {
+        "id": "minecraft:copper_ingot",
+        "count": 2.0,
+        "unit": "item",
+        "type": "solid",
+        "rate": 1.0
+      }
+    ],
+    "outputs": [
+      {
+        "id": "notreepunchingremastered:copper_saw",
+        "count": 1.0,
+        "unit": "item",
+        "type": "solid",
+        "rate": 1.0
+      }
+    ]
+  },
+  {
+    "recipe_id": "notreepunchingremastered:tool/diamond_saw",
+    "mod_id": "notreepunchingremastered",
+    "recipe_type": "minecraft:crafting_shaped",
+    "inputs": [
+      {
+        "id": "minecraft:stick",
+        "count": 3.0,
+        "unit": "item",
+        "type": "solid",
+        "rate": 1.0
+      },
+      {
+        "id": "minecraft:diamond",
+        "count": 2.0,
+        "unit": "item",
+        "type": "solid",
+        "rate": 1.0
+      }
+    ],
+    "outputs": [
+      {
+        "id": "notreepunchingremastered:diamond_saw",
+        "count": 1.0,
+        "unit": "item",
+        "type": "solid",
+        "rate": 1.0
+      }
+    ]
+  },
+  {
+    "recipe_id": "notreepunchingremastered:plank/jungle_planks_from_logs_with_axe",
+    "mod_id": "notreepunchingremastered",
+    "recipe_type": "minecraft:crafting",
+    "inputs": [
+      {
+        "id": "c:tools/axes",
+        "count": 1.0,
+        "unit": "item",
+        "type": "tag",
+        "rate": 1.0
+      },
+      {
+        "id": "minecraft:jungle_logs",
+        "count": 1.0,
+        "unit": "item",
+        "type": "tag",
+        "rate": 1.0
+      }
+    ],
+    "outputs": [
+      {
+        "id": "minecraft:jungle_planks",
+        "count": 2.0,
+        "unit": "item",
+        "type": "solid",
+        "rate": 1.0
+      }
+    ]
+  },
+  {
+    "recipe_id": "notreepunchingremastered:compat/immersiveengineering/metal/steel_nugget_from_smelting",
+    "mod_id": "notreepunchingremastered",
+    "recipe_type": "minecraft:smelting",
+    "inputs": [],
+    "outputs": [
+      {
+        "id": "immersiveengineering:nugget_steel",
+        "count": 1.0,
+        "unit": "item",
+        "type": "solid",
+        "rate": 1.0
+      }
+    ]
+  }
+]

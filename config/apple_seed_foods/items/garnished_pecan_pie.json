@@ -1,0 +1,9 @@
+{
+  "source_item": "garnished:pecan_pie",
+  "comment": "Edit this file to add custom nutrition values",
+  "auto_calculated": false,
+  "nutritions": {
+    "sugars": 0.036,
+    "proteins": 0.03
+  }
+}

@@ -1,0 +1,9 @@
+{
+  "source_item": "kaleidoscope_cookery:fondant_spider_eye",
+  "comment": "Edit this file to add custom nutrition values",
+  "auto_calculated": false,
+  "nutritions": {
+    "sugars": 0.02,
+    "proteins": 0.005
+  }
+}

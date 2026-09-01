@@ -1,0 +1,8 @@
+{
+  "source_item": "kaleidoscope_nether:caramel_nether_caterpillar_rice",
+  "comment": "Edit this file to add custom nutrition values",
+  "auto_calculated": false,
+  "nutritions": {
+    "sugars": 0.04
+  }
+}

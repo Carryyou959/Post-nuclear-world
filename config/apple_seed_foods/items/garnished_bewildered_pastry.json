@@ -1,0 +1,11 @@
+{
+  "source_item": "garnished:bewildered_pastry",
+  "comment": "Edit this file to add custom nutrition values",
+  "auto_calculated": false,
+  "nutritions": {
+    "sugars": 0.424,
+    "proteins": 2.0E-4,
+    "vegetables": 0.0075,
+    "grains": 0.54
+  }
+}

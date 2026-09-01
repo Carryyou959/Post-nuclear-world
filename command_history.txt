@@ -1,0 +1,22 @@
+/effect give @s minecraft:strength 999999 255
+/effect give @s minecraft:night_vision 999999
+/kill @e
+/kill @s
+/effect give @s minecraft:night_vision 999999
+/gamerule keepInventory true
+/kubejs hand
+/reload
+/kubejs hand
+/reload
+/effect give @s minecraft:hunger 10 255
+/reload
+/effect clear @s
+/effect clear
+/effect clear @s
+/reload
+/effect give @s minecraft:hunger 10 255
+/effect give @s legendarysurvivaloverhaul:cold_hunger 10 255
+/kill @s
+/kubejs hand
+/effect give @s legendarysurvivaloverhaul:temperature_immunity
+/reload

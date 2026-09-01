@@ -1,0 +1,10 @@
+{
+  "source_item": "garnished:mastic_paste_light_gray",
+  "comment": "Edit this file to add custom nutrition values",
+  "auto_calculated": false,
+  "nutritions": {
+    "sugars": 0.02,
+    "proteins": 0.0038,
+    "grains": 0.03
+  }
+}

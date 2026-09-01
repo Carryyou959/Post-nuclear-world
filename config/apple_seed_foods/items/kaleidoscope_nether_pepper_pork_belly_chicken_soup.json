@@ -1,0 +1,8 @@
+{
+  "source_item": "kaleidoscope_nether:pepper_pork_belly_chicken_soup",
+  "comment": "Edit this file to add custom nutrition values",
+  "auto_calculated": false,
+  "nutritions": {
+    "proteins": 0.065
+  }
+}

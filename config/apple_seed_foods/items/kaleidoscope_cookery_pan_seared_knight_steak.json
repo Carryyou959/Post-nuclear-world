@@ -1,0 +1,9 @@
+{
+  "source_item": "kaleidoscope_cookery:pan_seared_knight_steak",
+  "comment": "Edit this file to add custom nutrition values",
+  "auto_calculated": false,
+  "nutritions": {
+    "fruits": 0.045,
+    "proteins": 0.015
+  }
+}

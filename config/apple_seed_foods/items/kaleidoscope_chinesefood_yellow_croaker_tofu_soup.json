@@ -1,0 +1,8 @@
+{
+  "source_item": "kaleidoscope_chinesefood:yellow_croaker_tofu_soup",
+  "comment": "Edit this file to add custom nutrition values",
+  "auto_calculated": false,
+  "nutritions": {
+    "grains": 0.02
+  }
+}

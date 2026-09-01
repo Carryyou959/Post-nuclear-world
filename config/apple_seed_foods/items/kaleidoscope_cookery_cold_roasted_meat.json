@@ -1,0 +1,8 @@
+{
+  "source_item": "kaleidoscope_cookery:cold_roasted_meat",
+  "comment": "Edit this file to add custom nutrition values",
+  "auto_calculated": false,
+  "nutritions": {
+    "proteins": 0.12
+  }
+}

@@ -1,0 +1,4 @@
+// 1.21.1	2026-08-07T21:41:41.7668311	Body Damage for meds_and_herbs
+27b293678da4168722c242619a7d82486ce2500a data/meds_and_herbs/legendarysurvivaloverhaul/body_damage/consumables/medkit_advanced.json
+c97feb5fbcef656e660fc270e4b531e7828cff01 data/meds_and_herbs/legendarysurvivaloverhaul/body_damage/consumables/medkit_expert.json
+bc21f9daa5bdf0b9ce72bd61b2491309b48024eb data/meds_and_herbs/legendarysurvivaloverhaul/body_damage/consumables/medkit_novice.json

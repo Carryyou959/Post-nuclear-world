@@ -1,0 +1,9 @@
+{
+  "source_item": "kaleidoscope_nether:strider_nether_wart_stew",
+  "comment": "Edit this file to add custom nutrition values",
+  "auto_calculated": false,
+  "nutritions": {
+    "proteins": 0.015,
+    "vegetables": 0.0333
+  }
+}

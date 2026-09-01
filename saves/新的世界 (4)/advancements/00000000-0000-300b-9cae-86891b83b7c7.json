@@ -1,0 +1,396 @@
+{
+  "create:root": {
+    "criteria": {
+      "0": "2026-08-31 17:39:05 +0800"
+    },
+    "done": true
+  },
+  "alloyed:recipes/alloyed.main_group/smithing/steel_helmet": {
+    "criteria": {
+      "has_ingredient": "2026-08-31 17:39:05 +0800"
+    },
+    "done": true
+  },
+  "alloyed:recipes/alloyed.main_group/smithing/steel_shovel": {
+    "criteria": {
+      "has_ingredient": "2026-08-31 17:39:05 +0800"
+    },
+    "done": true
+  },
+  "mekanism:root": {
+    "criteria": {
+      "automatic": "2026-08-31 17:39:05 +0800"
+    },
+    "done": true
+  },
+  "solcarrot:recipes/food_book": {
+    "criteria": {
+      "has_book": "2026-08-31 17:39:05 +0800",
+      "has_carrot": "2026-08-31 17:39:05 +0800"
+    },
+    "done": true
+  },
+  "alloyed:recipes/alloyed.main_group/smithing/steel_fishing_rod": {
+    "criteria": {
+      "has_ingredient": "2026-08-31 17:39:05 +0800"
+    },
+    "done": true
+  },
+  "kaleidoscope_dim_wine:twilightforest_torchberries": {
+    "criteria": {
+      "has_torchberries": "2026-08-31 17:39:05 +0800"
+    },
+    "done": true
+  },
+  "crabbersdelight:main/root": {
+    "criteria": {
+      "seeds": "2026-08-31 17:39:05 +0800"
+    },
+    "done": true
+  },
+  "kaleidoscope_dim_wine:twilightforest_torchberries_juice_bucket": {
+    "criteria": {
+      "has_torchberries_juice_bucket": "2026-08-31 17:39:05 +0800"
+    },
+    "done": true
+  },
+  "alloyed:recipes/alloyed.main_group/crafting/bronze/bronze_block": {
+    "criteria": {
+      "has_bronze_ingot": "2026-08-31 17:39:05 +0800"
+    },
+    "done": true
+  },
+  "alloyed:recipes/alloyed.main_group/smithing/steel_leggings": {
+    "criteria": {
+      "has_ingredient": "2026-08-31 17:39:05 +0800"
+    },
+    "done": true
+  },
+  "kaleidoscope_dim_wine:twilightforest_wine": {
+    "criteria": {
+      "has_snakeskin_liqueur": "2026-08-31 17:39:05 +0800",
+      "has_druids_secret_brew": "2026-08-31 17:39:05 +0800",
+      "has_dead_end_spittle": "2026-08-31 17:39:05 +0800",
+      "has_frostvein_beastblood": "2026-08-31 17:39:05 +0800",
+      "has_moorglow_birds_song": "2026-08-31 17:39:05 +0800",
+      "has_perennial_frost": "2026-08-31 17:39:05 +0800",
+      "has_dawnlight_dew": "2026-08-31 17:39:05 +0800",
+      "has_thornheart": "2026-08-31 17:39:05 +0800",
+      "has_cave_glowbrew": "2026-08-31 17:39:05 +0800",
+      "has_stagcall_monsoon": "2026-08-31 17:39:05 +0800",
+      "has_embereye": "2026-08-31 17:39:05 +0800",
+      "has_giants_hymn": "2026-08-31 17:39:05 +0800",
+      "has_rangers_satchel": "2026-08-31 17:39:05 +0800",
+      "has_goblins_stash": "2026-08-31 17:39:05 +0800"
+    },
+    "done": true
+  },
+  "kaleidoscope_dim_wine:twilightforest_colossal_fragment": {
+    "criteria": {
+      "has_colossal_fragment": "2026-08-31 17:39:05 +0800"
+    },
+    "done": true
+  },
+  "kaleidoscope_dim_wine:aether_wine": {
+    "criteria": {
+      "has_gingerbread_warmer": "2026-08-31 17:39:05 +0800",
+      "has_divine_offering_brew": "2026-08-31 17:39:05 +0800",
+      "has_divine_energy_mist": "2026-08-31 17:39:05 +0800",
+      "has_gravitite_drunk": "2026-08-31 17:39:05 +0800",
+      "has_swet_fizz": "2026-08-31 17:39:05 +0800",
+      "has_healing_elixir": "2026-08-31 17:39:05 +0800"
+    },
+    "done": true
+  },
+  "alloyed:recipes/alloyed.main_group/smithing/steel_hoe": {
+    "criteria": {
+      "has_ingredient": "2026-08-31 17:39:05 +0800"
+    },
+    "done": true
+  },
+  "alloyed:recipes/alloyed.main_group/crafting/steel_ingot_from_decompacting": {
+    "criteria": {
+      "has_ingredient": "2026-08-31 17:39:05 +0800"
+    },
+    "done": true
+  },
+  "kaleidoscope_dim_wine:the_bumblezone_wine": {
+    "criteria": {
+      "has_pollen_nectar": "2026-08-31 17:39:05 +0800",
+      "has_sprite": "2026-08-31 17:39:05 +0800",
+      "has_sweet_crystal_honey": "2026-08-31 17:39:05 +0800",
+      "has_fanta": "2026-08-31 17:39:05 +0800",
+      "has_beeswax_honey_wine": "2026-08-31 17:39:05 +0800",
+      "has_pepsi": "2026-08-31 17:39:05 +0800",
+      "has_honeythorn_mead": "2026-08-31 17:39:05 +0800",
+      "has_royal_honey_brew": "2026-08-31 17:39:05 +0800"
+    },
+    "done": true
+  },
+  "alloyed:recipes/alloyed.main_group/stonecutting/steel_sheet_metal_from_steel_block": {
+    "criteria": {
+      "has_ingredient": "2026-08-31 17:39:05 +0800"
+    },
+    "done": true
+  },
+  "immersiveengineering:main/main_root": {
+    "criteria": {
+      "has_item": "2026-08-31 17:39:05 +0800"
+    },
+    "done": true
+  },
+  "alloyed:recipes/alloyed.main_group/smithing/steel_chestplate": {
+    "criteria": {
+      "has_ingredient": "2026-08-31 17:39:05 +0800"
+    },
+    "done": true
+  },
+  "kaleidoscope_dim_wine:twilightforest_frostheart_fruit_juice_bucket": {
+    "criteria": {
+      "has_frostheart_fruit_juice_bucket": "2026-08-31 17:39:05 +0800"
+    },
+    "done": true
+  },
+  "kaleidoscope_dim_wine:twilightforest_frostheart_fruit": {
+    "criteria": {
+      "has_frostheart_fruit": "2026-08-31 17:39:05 +0800"
+    },
+    "done": true
+  },
+  "kaleidoscope_dim_wine:the_bumblezone_carbocretin_powder": {
+    "criteria": {
+      "has_rangers_satchel": "2026-08-31 17:39:05 +0800"
+    },
+    "done": true
+  },
+  "alloyed:recipes/alloyed.main_group/crafting/steel_door": {
+    "criteria": {
+      "has_ingredient": "2026-08-31 17:39:05 +0800"
+    },
+    "done": true
+  },
+  "alloyed:recipes/alloyed.main_group/smithing/steel_boots": {
+    "criteria": {
+      "has_ingredient": "2026-08-31 17:39:05 +0800"
+    },
+    "done": true
+  },
+  "sophisticatedbackpacks:recipes/misc/iron_backpack": {
+    "criteria": {
+      "has_backpack": "2026-08-31 17:39:05 +0800"
+    },
+    "done": true
+  },
+  "alloyed:recipes/alloyed.main_group/crafting/bronze_bell": {
+    "criteria": {
+      "has_bronze_ingot": "2026-08-31 17:39:05 +0800"
+    },
+    "done": true
+  },
+  "kaleidoscope_dim_wine:twilightforest_goblin_essence": {
+    "criteria": {
+      "has_goblin_essence": "2026-08-31 17:39:05 +0800"
+    },
+    "done": true
+  },
+  "alloyed:recipes/alloyed.main_group/crafting/steel_trapdoor": {
+    "criteria": {
+      "has_ingredient": "2026-08-31 17:39:05 +0800"
+    },
+    "done": true
+  },
+  "northstar:root": {
+    "criteria": {
+      "0": "2026-08-31 17:39:05 +0800"
+    },
+    "done": true
+  },
+  "alloyed:recipes/alloyed.main_group/crafting/bronze_ingot_from_decompacting": {
+    "criteria": {
+      "has_ingredient": "2026-08-31 17:39:05 +0800"
+    },
+    "done": true
+  },
+  "simulated:root": {
+    "criteria": {
+      "0": "2026-08-31 17:39:05 +0800"
+    },
+    "done": true
+  },
+  "alloyed:recipes/alloyed.main_group/smithing/steel_sword": {
+    "criteria": {
+      "has_ingredient": "2026-08-31 17:39:05 +0800"
+    },
+    "done": true
+  },
+  "aeronautics:root": {
+    "criteria": {
+      "0": "2026-08-31 17:39:05 +0800"
+    },
+    "done": true
+  },
+  "createnuclear:root": {
+    "criteria": {
+      "0": "2026-08-31 17:39:05 +0800"
+    },
+    "done": true
+  },
+  "alloyed:recipes/alloyed.main_group/smithing/steel_shears": {
+    "criteria": {
+      "has_ingredient": "2026-08-31 17:39:05 +0800"
+    },
+    "done": true
+  },
+  "kaleidoscope_dim_wine:aether_enchanted_berry_juice_bucket": {
+    "criteria": {
+      "has_divine_offering_brew": "2026-08-31 17:39:05 +0800"
+    },
+    "done": true
+  },
+  "create_enchantment_industry:root": {
+    "criteria": {
+      "0": "2026-08-31 17:39:05 +0800"
+    },
+    "done": true
+  },
+  "powergrid:root": {
+    "criteria": {
+      "0": "2026-08-31 17:39:05 +0800"
+    },
+    "done": true
+  },
+  "escalated:root": {
+    "criteria": {
+      "0": "2026-08-31 17:39:05 +0800"
+    },
+    "done": true
+  },
+  "kaleidoscope_dim_wine:the_bumblezone_mead_essence": {
+    "criteria": {
+      "has_raging_essence": "2026-08-31 17:39:05 +0800",
+      "has_radiance_essence": "2026-08-31 17:39:05 +0800",
+      "has_calming_essence": "2026-08-31 17:39:05 +0800",
+      "has_life_essence": "2026-08-31 17:39:05 +0800",
+      "has_continuity_essence": "2026-08-31 17:39:05 +0800",
+      "has_knowing_essence": "2026-08-31 17:39:05 +0800"
+    },
+    "done": true
+  },
+  "alloyed:recipes/alloyed.main_group/smithing/steel_pickaxe": {
+    "criteria": {
+      "has_ingredient": "2026-08-31 17:39:05 +0800"
+    },
+    "done": true
+  },
+  "create_connected:root": {
+    "criteria": {
+      "0": "2026-08-31 17:39:05 +0800"
+    },
+    "done": true
+  },
+  "alloyed:recipes/alloyed.main_group/smithing/steel_axe": {
+    "criteria": {
+      "has_ingredient": "2026-08-31 17:39:05 +0800"
+    },
+    "done": true
+  },
+  "alloyed:recipes/alloyed.main_group/crafting/steel_block_from_compacting": {
+    "criteria": {
+      "has_ingredient": "2026-08-31 17:39:05 +0800"
+    },
+    "done": true
+  },
+  "kaleidoscope_dim_wine:the_bumblezone_sugar_water_bucket": {
+    "criteria": {
+      "has_the_bumblezone_sugar_water_bucket": "2026-08-31 17:39:05 +0800",
+      "has_the_bumblezone_honey_bucket": "2026-08-31 17:39:05 +0800",
+      "has_the_bumblezone_royal_jelly_bucket": "2026-08-31 17:39:05 +0800"
+    },
+    "done": true
+  },
+  "alloyed:recipes/alloyed.main_group/crafting/steel_bars": {
+    "criteria": {
+      "has_ingredient": "2026-08-31 17:39:05 +0800"
+    },
+    "done": true
+  },
+  "alloyed:recipes/alloyed.main_group/steel_scaffolding_from_ingots_steel_stonecutting": {
+    "criteria": {
+      "has_ingots_steel": "2026-08-31 17:39:05 +0800"
+    },
+    "done": true
+  },
+  "farmersdelight:main/root": {
+    "criteria": {
+      "seeds": "2026-08-31 17:39:05 +0800"
+    },
+    "done": true
+  },
+  "sophisticatedbackpacks:recipes/misc/copper_backpack": {
+    "criteria": {
+      "has_backpack": "2026-08-31 17:39:05 +0800"
+    },
+    "done": true
+  },
+  "alloyed:recipes/alloyed.main_group/steel_ladder_from_plates_steel_stonecutting": {
+    "criteria": {
+      "has_plates_steel": "2026-08-31 17:39:05 +0800"
+    },
+    "done": true
+  },
+  "legendarysurvivaloverhaul:main/root": {
+    "criteria": {
+      "main": "2026-08-31 17:39:06 +0800"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/crafting_table": {
+    "criteria": {
+      "unlock_right_away": "2026-08-31 17:39:06 +0800"
+    },
+    "done": true
+  },
+  "eclipticseasons:main/quest": {
+    "criteria": {
+      "tick": "2026-08-31 17:39:06 +0800"
+    },
+    "done": true
+  },
+  "eclipticseasons:main/base": {
+    "criteria": {
+      "tick": "2026-08-31 17:39:06 +0800"
+    },
+    "done": true
+  },
+  "kaleidoscope_dim_wine:root": {
+    "criteria": {
+      "tick": "2026-08-31 17:39:06 +0800"
+    },
+    "done": true
+  },
+  "lootr:root": {
+    "criteria": {
+      "always_true": "2026-08-31 17:39:06 +0800"
+    },
+    "done": true
+  },
+  "minecraft:adventure/adventuring_time": {
+    "criteria": {
+      "minecraft:flower_forest": "2026-08-31 17:39:06 +0800"
+    },
+    "done": false
+  },
+  "kaleidoscope_cookery:root": {
+    "criteria": {
+      "has_pot": "2026-08-31 18:07:58 +0800"
+    },
+    "done": true
+  },
+  "minecraft:husbandry/root": {
+    "criteria": {
+      "consumed_item": "2026-08-31 18:08:06 +0800"
+    },
+    "done": true
+  },
+  "DataVersion": 3955
+}

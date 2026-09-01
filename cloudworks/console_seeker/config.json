@@ -1,0 +1,10 @@
+{
+  "version": "1.1.0-1.21.1",
+  "enable_module": true,
+  "enable_api": false,
+  "enable_command_for_any_operator": true,
+  "list_type": "whitelist",
+  "player_list": [],
+  "max_log_length": 150,
+  "enable_timestamp": false
+}

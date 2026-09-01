@@ -1,0 +1,9 @@
+{
+  "source_item": "crabbersdelight:coral_crunch",
+  "comment": "Edit this file to add custom nutrition values",
+  "auto_calculated": false,
+  "nutritions": {
+    "sugars": 0.04,
+    "vegetables": 0.0075
+  }
+}

@@ -1,0 +1,75 @@
+#Radiation threshold and sickness settings
+[radiation]
+	#Rad level that triggers Tier 1 mutation roll
+	# Default: 400
+	# Range: 100 ~ 1000
+	radThreshold400 = 400
+	#Rad level that triggers Tier 2 mutation roll
+	# Default: 650
+	# Range: 100 ~ 1000
+	radThreshold650 = 650
+	#Rad level that triggers Tier 2 Half->Full transition
+	# Default: 750
+	# Range: 100 ~ 1000
+	radThreshold750 = 750
+	#Rad level that triggers Tier 3 transformation and lock-in
+	# Default: 950
+	# Range: 100 ~ 1000
+	radThreshold950 = 950
+	#Rad level at which rad-sickness effects begin
+	# Default: 300
+	# Range: 0 ~ 1000
+	radSicknessStart = 300
+	#Rad level at which Wither sickness begins
+	# Default: 800
+	# Range: 0 ~ 1000
+	radWitherStart = 800
+
+#Per-biome radiation rates (rads/tick) and global multiplier
+[biome_rad_rates]
+	#Glowing Wastes — extreme radiation
+	# Default: 0.55
+	# Range: 0.0 ~ 5.0
+	rateGlowingWastes = 0.55
+	#Nuclear Desert
+	# Default: 0.38
+	# Range: 0.0 ~ 5.0
+	rateNuclearDesert = 0.38
+	#Toxic Bog
+	# Default: 0.2
+	# Range: 0.0 ~ 5.0
+	rateToxicBog = 0.2
+	#Ashen Woodland
+	# Default: 0.15
+	# Range: 0.0 ~ 5.0
+	rateAshenWoodland = 0.15
+	#Nuclear Winter Plains
+	# Default: 0.1
+	# Range: 0.0 ~ 5.0
+	rateNuclearWinter = 0.1
+	#Verdant Hollow — safe zone drain (negative)
+	# Default: -0.12
+	# Range: -5.0 ~ 0.0
+	rateVerdantHollow = -0.12
+	#Global multiplier applied to ALL biome rad rates
+	# Default: 1.0
+	# Range: 0.0 ~ 10.0
+	globalRateMultiplier = 1.0
+
+#Hazmat armor effectiveness
+[hazmat]
+	#Rad-gain reduction per Hazmat piece (4 pieces = 4x this value)
+	# Default: 0.225
+	# Range: 0.0 ~ 0.5
+	hazmatGainReduction = 0.225
+	#Rad-sickness resistance per Hazmat piece
+	# Default: 0.125
+	# Range: 0.0 ~ 0.5
+	hazmatSicknessReduction = 0.125
+
+#FEV Sample loot settings
+[fev]
+	#Base weight for FEV Sample in loot tables (lower = rarer)
+	# Default: 1
+	# Range: 0 ~ 100
+	fevSampleLootWeight = 1

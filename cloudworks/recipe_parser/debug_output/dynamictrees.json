@@ -1,0 +1,1266 @@
+[
+  {
+    "recipe_id": "dynamictrees:mega_seed",
+    "mod_id": "dynamictrees",
+    "recipe_type": "minecraft:crafting",
+    "inputs": [],
+    "outputs": []
+  },
+  {
+    "recipe_id": "dynamictrees:cocoa_beans",
+    "mod_id": "dynamictrees",
+    "recipe_type": "minecraft:crafting_shapeless",
+    "inputs": [
+      {
+        "id": "dynamictrees:cocoa_seed",
+        "count": 1.0,
+        "unit": "item",
+        "type": "solid",
+        "rate": 1.0
+      }
+    ],
+    "outputs": [
+      {
+        "id": "minecraft:cocoa_beans",
+        "count": 3.0,
+        "unit": "item",
+        "type": "solid",
+        "rate": 1.0
+      }
+    ]
+  },
+  {
+    "recipe_id": "dynamictrees:seed_conversion",
+    "mod_id": "dynamictrees",
+    "recipe_type": "minecraft:crafting",
+    "inputs": [],
+    "outputs": []
+  },
+  {
+    "recipe_id": "dynamictrees:dirt_bucket",
+    "mod_id": "dynamictrees",
+    "recipe_type": "minecraft:crafting_shaped",
+    "inputs": [
+      {
+        "id": "minecraft:dirt",
+        "count": 1.0,
+        "unit": "item",
+        "type": "solid",
+        "rate": 1.0
+      },
+      {
+        "id": "minecraft:bucket",
+        "count": 1.0,
+        "unit": "item",
+        "type": "solid",
+        "rate": 1.0
+      }
+    ],
+    "outputs": [
+      {
+        "id": "dynamictrees:dirt_bucket",
+        "count": 1.0,
+        "unit": "item",
+        "type": "solid",
+        "rate": 1.0
+      }
+    ]
+  },
+  {
+    "recipe_id": "dynamictrees:mega_seed",
+    "mod_id": "dynamictrees",
+    "recipe_type": "minecraft:crafting",
+    "inputs": [],
+    "outputs": []
+  },
+  {
+    "recipe_id": "dynamictrees:cocoa_beans",
+    "mod_id": "dynamictrees",
+    "recipe_type": "minecraft:crafting_shapeless",
+    "inputs": [
+      {
+        "id": "dynamictrees:cocoa_seed",
+        "count": 1.0,
+        "unit": "item",
+        "type": "solid",
+        "rate": 1.0
+      }
+    ],
+    "outputs": [
+      {
+        "id": "minecraft:cocoa_beans",
+        "count": 3.0,
+        "unit": "item",
+        "type": "solid",
+        "rate": 1.0
+      }
+    ]
+  },
+  {
+    "recipe_id": "dynamictrees:seed_conversion",
+    "mod_id": "dynamictrees",
+    "recipe_type": "minecraft:crafting",
+    "inputs": [],
+    "outputs": []
+  },
+  {
+    "recipe_id": "dynamictrees:dirt_bucket",
+    "mod_id": "dynamictrees",
+    "recipe_type": "minecraft:crafting_shaped",
+    "inputs": [
+      {
+        "id": "minecraft:dirt",
+        "count": 1.0,
+        "unit": "item",
+        "type": "solid",
+        "rate": 1.0
+      },
+      {
+        "id": "minecraft:bucket",
+        "count": 1.0,
+        "unit": "item",
+        "type": "solid",
+        "rate": 1.0
+      }
+    ],
+    "outputs": [
+      {
+        "id": "dynamictrees:dirt_bucket",
+        "count": 1.0,
+        "unit": "item",
+        "type": "solid",
+        "rate": 1.0
+      }
+    ]
+  },
+  {
+    "recipe_id": "dynamictrees:mega_seed",
+    "mod_id": "dynamictrees",
+    "recipe_type": "minecraft:crafting",
+    "inputs": [],
+    "outputs": []
+  },
+  {
+    "recipe_id": "dynamictrees:cocoa_beans",
+    "mod_id": "dynamictrees",
+    "recipe_type": "minecraft:crafting_shapeless",
+    "inputs": [
+      {
+        "id": "dynamictrees:cocoa_seed",
+        "count": 1.0,
+        "unit": "item",
+        "type": "solid",
+        "rate": 1.0
+      }
+    ],
+    "outputs": [
+      {
+        "id": "minecraft:cocoa_beans",
+        "count": 3.0,
+        "unit": "item",
+        "type": "solid",
+        "rate": 1.0
+      }
+    ]
+  },
+  {
+    "recipe_id": "dynamictrees:seed_conversion",
+    "mod_id": "dynamictrees",
+    "recipe_type": "minecraft:crafting",
+    "inputs": [],
+    "outputs": []
+  },
+  {
+    "recipe_id": "dynamictrees:dirt_bucket",
+    "mod_id": "dynamictrees",
+    "recipe_type": "minecraft:crafting_shaped",
+    "inputs": [
+      {
+        "id": "minecraft:dirt",
+        "count": 1.0,
+        "unit": "item",
+        "type": "solid",
+        "rate": 1.0
+      },
+      {
+        "id": "minecraft:bucket",
+        "count": 1.0,
+        "unit": "item",
+        "type": "solid",
+        "rate": 1.0
+      }
+    ],
+    "outputs": [
+      {
+        "id": "dynamictrees:dirt_bucket",
+        "count": 1.0,
+        "unit": "item",
+        "type": "solid",
+        "rate": 1.0
+      }
+    ]
+  },
+  {
+    "recipe_id": "dynamictrees:mega_seed",
+    "mod_id": "dynamictrees",
+    "recipe_type": "minecraft:crafting",
+    "inputs": [],
+    "outputs": []
+  },
+  {
+    "recipe_id": "dynamictrees:cocoa_beans",
+    "mod_id": "dynamictrees",
+    "recipe_type": "minecraft:crafting_shapeless",
+    "inputs": [
+      {
+        "id": "dynamictrees:cocoa_seed",
+        "count": 1.0,
+        "unit": "item",
+        "type": "solid",
+        "rate": 1.0
+      }
+    ],
+    "outputs": [
+      {
+        "id": "minecraft:cocoa_beans",
+        "count": 3.0,
+        "unit": "item",
+        "type": "solid",
+        "rate": 1.0
+      }
+    ]
+  },
+  {
+    "recipe_id": "dynamictrees:seed_conversion",
+    "mod_id": "dynamictrees",
+    "recipe_type": "minecraft:crafting",
+    "inputs": [],
+    "outputs": []
+  },
+  {
+    "recipe_id": "dynamictrees:mega_seed",
+    "mod_id": "dynamictrees",
+    "recipe_type": "minecraft:crafting",
+    "inputs": [],
+    "outputs": []
+  },
+  {
+    "recipe_id": "dynamictrees:cocoa_beans",
+    "mod_id": "dynamictrees",
+    "recipe_type": "minecraft:crafting_shapeless",
+    "inputs": [
+      {
+        "id": "dynamictrees:cocoa_seed",
+        "count": 1.0,
+        "unit": "item",
+        "type": "solid",
+        "rate": 1.0
+      }
+    ],
+    "outputs": [
+      {
+        "id": "minecraft:cocoa_beans",
+        "count": 3.0,
+        "unit": "item",
+        "type": "solid",
+        "rate": 1.0
+      }
+    ]
+  },
+  {
+    "recipe_id": "dynamictrees:seed_conversion",
+    "mod_id": "dynamictrees",
+    "recipe_type": "minecraft:crafting",
+    "inputs": [],
+    "outputs": []
+  },
+  {
+    "recipe_id": "dynamictrees:dirt_bucket",
+    "mod_id": "dynamictrees",
+    "recipe_type": "minecraft:crafting_shaped",
+    "inputs": [
+      {
+        "id": "minecraft:dirt",
+        "count": 1.0,
+        "unit": "item",
+        "type": "solid",
+        "rate": 1.0
+      },
+      {
+        "id": "minecraft:bucket",
+        "count": 1.0,
+        "unit": "item",
+        "type": "solid",
+        "rate": 1.0
+      }
+    ],
+    "outputs": [
+      {
+        "id": "dynamictrees:dirt_bucket",
+        "count": 1.0,
+        "unit": "item",
+        "type": "solid",
+        "rate": 1.0
+      }
+    ]
+  },
+  {
+    "recipe_id": "dynamictrees:mega_seed",
+    "mod_id": "dynamictrees",
+    "recipe_type": "minecraft:crafting",
+    "inputs": [],
+    "outputs": []
+  },
+  {
+    "recipe_id": "dynamictrees:cocoa_beans",
+    "mod_id": "dynamictrees",
+    "recipe_type": "minecraft:crafting_shapeless",
+    "inputs": [
+      {
+        "id": "dynamictrees:cocoa_seed",
+        "count": 1.0,
+        "unit": "item",
+        "type": "solid",
+        "rate": 1.0
+      }
+    ],
+    "outputs": [
+      {
+        "id": "minecraft:cocoa_beans",
+        "count": 3.0,
+        "unit": "item",
+        "type": "solid",
+        "rate": 1.0
+      }
+    ]
+  },
+  {
+    "recipe_id": "dynamictrees:seed_conversion",
+    "mod_id": "dynamictrees",
+    "recipe_type": "minecraft:crafting",
+    "inputs": [],
+    "outputs": []
+  },
+  {
+    "recipe_id": "dynamictrees:mega_seed",
+    "mod_id": "dynamictrees",
+    "recipe_type": "minecraft:crafting",
+    "inputs": [],
+    "outputs": []
+  },
+  {
+    "recipe_id": "dynamictrees:cocoa_beans",
+    "mod_id": "dynamictrees",
+    "recipe_type": "minecraft:crafting_shapeless",
+    "inputs": [
+      {
+        "id": "dynamictrees:cocoa_seed",
+        "count": 1.0,
+        "unit": "item",
+        "type": "solid",
+        "rate": 1.0
+      }
+    ],
+    "outputs": [
+      {
+        "id": "minecraft:cocoa_beans",
+        "count": 3.0,
+        "unit": "item",
+        "type": "solid",
+        "rate": 1.0
+      }
+    ]
+  },
+  {
+    "recipe_id": "dynamictrees:seed_conversion",
+    "mod_id": "dynamictrees",
+    "recipe_type": "minecraft:crafting",
+    "inputs": [],
+    "outputs": []
+  },
+  {
+    "recipe_id": "dynamictrees:dirt_bucket",
+    "mod_id": "dynamictrees",
+    "recipe_type": "minecraft:crafting_shaped",
+    "inputs": [
+      {
+        "id": "minecraft:dirt",
+        "count": 1.0,
+        "unit": "item",
+        "type": "solid",
+        "rate": 1.0
+      },
+      {
+        "id": "minecraft:bucket",
+        "count": 1.0,
+        "unit": "item",
+        "type": "solid",
+        "rate": 1.0
+      }
+    ],
+    "outputs": [
+      {
+        "id": "dynamictrees:dirt_bucket",
+        "count": 1.0,
+        "unit": "item",
+        "type": "solid",
+        "rate": 1.0
+      }
+    ]
+  },
+  {
+    "recipe_id": "dynamictrees:mega_seed",
+    "mod_id": "dynamictrees",
+    "recipe_type": "minecraft:crafting",
+    "inputs": [],
+    "outputs": []
+  },
+  {
+    "recipe_id": "dynamictrees:cocoa_beans",
+    "mod_id": "dynamictrees",
+    "recipe_type": "minecraft:crafting_shapeless",
+    "inputs": [
+      {
+        "id": "dynamictrees:cocoa_seed",
+        "count": 1.0,
+        "unit": "item",
+        "type": "solid",
+        "rate": 1.0
+      }
+    ],
+    "outputs": [
+      {
+        "id": "minecraft:cocoa_beans",
+        "count": 3.0,
+        "unit": "item",
+        "type": "solid",
+        "rate": 1.0
+      }
+    ]
+  },
+  {
+    "recipe_id": "dynamictrees:seed_conversion",
+    "mod_id": "dynamictrees",
+    "recipe_type": "minecraft:crafting",
+    "inputs": [],
+    "outputs": []
+  },
+  {
+    "recipe_id": "dynamictrees:dirt_bucket",
+    "mod_id": "dynamictrees",
+    "recipe_type": "minecraft:crafting_shaped",
+    "inputs": [
+      {
+        "id": "minecraft:dirt",
+        "count": 1.0,
+        "unit": "item",
+        "type": "solid",
+        "rate": 1.0
+      },
+      {
+        "id": "minecraft:bucket",
+        "count": 1.0,
+        "unit": "item",
+        "type": "solid",
+        "rate": 1.0
+      }
+    ],
+    "outputs": [
+      {
+        "id": "dynamictrees:dirt_bucket",
+        "count": 1.0,
+        "unit": "item",
+        "type": "solid",
+        "rate": 1.0
+      }
+    ]
+  },
+  {
+    "recipe_id": "dynamictrees:mega_seed",
+    "mod_id": "dynamictrees",
+    "recipe_type": "minecraft:crafting",
+    "inputs": [],
+    "outputs": []
+  },
+  {
+    "recipe_id": "dynamictrees:cocoa_beans",
+    "mod_id": "dynamictrees",
+    "recipe_type": "minecraft:crafting_shapeless",
+    "inputs": [
+      {
+        "id": "dynamictrees:cocoa_seed",
+        "count": 1.0,
+        "unit": "item",
+        "type": "solid",
+        "rate": 1.0
+      }
+    ],
+    "outputs": [
+      {
+        "id": "minecraft:cocoa_beans",
+        "count": 3.0,
+        "unit": "item",
+        "type": "solid",
+        "rate": 1.0
+      }
+    ]
+  },
+  {
+    "recipe_id": "dynamictrees:seed_conversion",
+    "mod_id": "dynamictrees",
+    "recipe_type": "minecraft:crafting",
+    "inputs": [],
+    "outputs": []
+  },
+  {
+    "recipe_id": "dynamictrees:dirt_bucket",
+    "mod_id": "dynamictrees",
+    "recipe_type": "minecraft:crafting_shaped",
+    "inputs": [
+      {
+        "id": "minecraft:dirt",
+        "count": 1.0,
+        "unit": "item",
+        "type": "solid",
+        "rate": 1.0
+      },
+      {
+        "id": "minecraft:bucket",
+        "count": 1.0,
+        "unit": "item",
+        "type": "solid",
+        "rate": 1.0
+      }
+    ],
+    "outputs": [
+      {
+        "id": "dynamictrees:dirt_bucket",
+        "count": 1.0,
+        "unit": "item",
+        "type": "solid",
+        "rate": 1.0
+      }
+    ]
+  },
+  {
+    "recipe_id": "dynamictrees:mega_seed",
+    "mod_id": "dynamictrees",
+    "recipe_type": "minecraft:crafting",
+    "inputs": [],
+    "outputs": []
+  },
+  {
+    "recipe_id": "dynamictrees:cocoa_beans",
+    "mod_id": "dynamictrees",
+    "recipe_type": "minecraft:crafting_shapeless",
+    "inputs": [
+      {
+        "id": "dynamictrees:cocoa_seed",
+        "count": 1.0,
+        "unit": "item",
+        "type": "solid",
+        "rate": 1.0
+      }
+    ],
+    "outputs": [
+      {
+        "id": "minecraft:cocoa_beans",
+        "count": 3.0,
+        "unit": "item",
+        "type": "solid",
+        "rate": 1.0
+      }
+    ]
+  },
+  {
+    "recipe_id": "dynamictrees:seed_conversion",
+    "mod_id": "dynamictrees",
+    "recipe_type": "minecraft:crafting",
+    "inputs": [],
+    "outputs": []
+  },
+  {
+    "recipe_id": "dynamictrees:dirt_bucket",
+    "mod_id": "dynamictrees",
+    "recipe_type": "minecraft:crafting_shaped",
+    "inputs": [
+      {
+        "id": "minecraft:dirt",
+        "count": 1.0,
+        "unit": "item",
+        "type": "solid",
+        "rate": 1.0
+      },
+      {
+        "id": "minecraft:bucket",
+        "count": 1.0,
+        "unit": "item",
+        "type": "solid",
+        "rate": 1.0
+      }
+    ],
+    "outputs": [
+      {
+        "id": "dynamictrees:dirt_bucket",
+        "count": 1.0,
+        "unit": "item",
+        "type": "solid",
+        "rate": 1.0
+      }
+    ]
+  },
+  {
+    "recipe_id": "dynamictrees:mega_seed",
+    "mod_id": "dynamictrees",
+    "recipe_type": "minecraft:crafting",
+    "inputs": [],
+    "outputs": []
+  },
+  {
+    "recipe_id": "dynamictrees:cocoa_beans",
+    "mod_id": "dynamictrees",
+    "recipe_type": "minecraft:crafting_shapeless",
+    "inputs": [
+      {
+        "id": "dynamictrees:cocoa_seed",
+        "count": 1.0,
+        "unit": "item",
+        "type": "solid",
+        "rate": 1.0
+      }
+    ],
+    "outputs": [
+      {
+        "id": "minecraft:cocoa_beans",
+        "count": 3.0,
+        "unit": "item",
+        "type": "solid",
+        "rate": 1.0
+      }
+    ]
+  },
+  {
+    "recipe_id": "dynamictrees:seed_conversion",
+    "mod_id": "dynamictrees",
+    "recipe_type": "minecraft:crafting",
+    "inputs": [],
+    "outputs": []
+  },
+  {
+    "recipe_id": "dynamictrees:dirt_bucket",
+    "mod_id": "dynamictrees",
+    "recipe_type": "minecraft:crafting_shaped",
+    "inputs": [
+      {
+        "id": "minecraft:dirt",
+        "count": 1.0,
+        "unit": "item",
+        "type": "solid",
+        "rate": 1.0
+      },
+      {
+        "id": "minecraft:bucket",
+        "count": 1.0,
+        "unit": "item",
+        "type": "solid",
+        "rate": 1.0
+      }
+    ],
+    "outputs": [
+      {
+        "id": "dynamictrees:dirt_bucket",
+        "count": 1.0,
+        "unit": "item",
+        "type": "solid",
+        "rate": 1.0
+      }
+    ]
+  },
+  {
+    "recipe_id": "dynamictrees:mega_seed",
+    "mod_id": "dynamictrees",
+    "recipe_type": "minecraft:crafting",
+    "inputs": [],
+    "outputs": []
+  },
+  {
+    "recipe_id": "dynamictrees:mega_seed",
+    "mod_id": "dynamictrees",
+    "recipe_type": "minecraft:crafting",
+    "inputs": [],
+    "outputs": []
+  },
+  {
+    "recipe_id": "dynamictrees:cocoa_beans",
+    "mod_id": "dynamictrees",
+    "recipe_type": "minecraft:crafting_shapeless",
+    "inputs": [
+      {
+        "id": "dynamictrees:cocoa_seed",
+        "count": 1.0,
+        "unit": "item",
+        "type": "solid",
+        "rate": 1.0
+      }
+    ],
+    "outputs": [
+      {
+        "id": "minecraft:cocoa_beans",
+        "count": 3.0,
+        "unit": "item",
+        "type": "solid",
+        "rate": 1.0
+      }
+    ]
+  },
+  {
+    "recipe_id": "dynamictrees:seed_conversion",
+    "mod_id": "dynamictrees",
+    "recipe_type": "minecraft:crafting",
+    "inputs": [],
+    "outputs": []
+  },
+  {
+    "recipe_id": "dynamictrees:dirt_bucket",
+    "mod_id": "dynamictrees",
+    "recipe_type": "minecraft:crafting_shaped",
+    "inputs": [
+      {
+        "id": "minecraft:dirt",
+        "count": 1.0,
+        "unit": "item",
+        "type": "solid",
+        "rate": 1.0
+      },
+      {
+        "id": "minecraft:bucket",
+        "count": 1.0,
+        "unit": "item",
+        "type": "solid",
+        "rate": 1.0
+      }
+    ],
+    "outputs": [
+      {
+        "id": "dynamictrees:dirt_bucket",
+        "count": 1.0,
+        "unit": "item",
+        "type": "solid",
+        "rate": 1.0
+      }
+    ]
+  },
+  {
+    "recipe_id": "dynamictrees:mega_seed",
+    "mod_id": "dynamictrees",
+    "recipe_type": "minecraft:crafting",
+    "inputs": [],
+    "outputs": []
+  },
+  {
+    "recipe_id": "dynamictrees:cocoa_beans",
+    "mod_id": "dynamictrees",
+    "recipe_type": "minecraft:crafting_shapeless",
+    "inputs": [
+      {
+        "id": "dynamictrees:cocoa_seed",
+        "count": 1.0,
+        "unit": "item",
+        "type": "solid",
+        "rate": 1.0
+      }
+    ],
+    "outputs": [
+      {
+        "id": "minecraft:cocoa_beans",
+        "count": 3.0,
+        "unit": "item",
+        "type": "solid",
+        "rate": 1.0
+      }
+    ]
+  },
+  {
+    "recipe_id": "dynamictrees:mega_seed",
+    "mod_id": "dynamictrees",
+    "recipe_type": "minecraft:crafting",
+    "inputs": [],
+    "outputs": []
+  },
+  {
+    "recipe_id": "dynamictrees:seed_conversion",
+    "mod_id": "dynamictrees",
+    "recipe_type": "minecraft:crafting",
+    "inputs": [],
+    "outputs": []
+  },
+  {
+    "recipe_id": "dynamictrees:cocoa_beans",
+    "mod_id": "dynamictrees",
+    "recipe_type": "minecraft:crafting_shapeless",
+    "inputs": [
+      {
+        "id": "dynamictrees:cocoa_seed",
+        "count": 1.0,
+        "unit": "item",
+        "type": "solid",
+        "rate": 1.0
+      }
+    ],
+    "outputs": [
+      {
+        "id": "minecraft:cocoa_beans",
+        "count": 3.0,
+        "unit": "item",
+        "type": "solid",
+        "rate": 1.0
+      }
+    ]
+  },
+  {
+    "recipe_id": "dynamictrees:seed_conversion",
+    "mod_id": "dynamictrees",
+    "recipe_type": "minecraft:crafting",
+    "inputs": [],
+    "outputs": []
+  },
+  {
+    "recipe_id": "dynamictrees:dirt_bucket",
+    "mod_id": "dynamictrees",
+    "recipe_type": "minecraft:crafting_shaped",
+    "inputs": [
+      {
+        "id": "minecraft:dirt",
+        "count": 1.0,
+        "unit": "item",
+        "type": "solid",
+        "rate": 1.0
+      },
+      {
+        "id": "minecraft:bucket",
+        "count": 1.0,
+        "unit": "item",
+        "type": "solid",
+        "rate": 1.0
+      }
+    ],
+    "outputs": [
+      {
+        "id": "dynamictrees:dirt_bucket",
+        "count": 1.0,
+        "unit": "item",
+        "type": "solid",
+        "rate": 1.0
+      }
+    ]
+  },
+  {
+    "recipe_id": "dynamictrees:dirt_bucket",
+    "mod_id": "dynamictrees",
+    "recipe_type": "minecraft:crafting_shaped",
+    "inputs": [
+      {
+        "id": "minecraft:dirt",
+        "count": 1.0,
+        "unit": "item",
+        "type": "solid",
+        "rate": 1.0
+      },
+      {
+        "id": "minecraft:bucket",
+        "count": 1.0,
+        "unit": "item",
+        "type": "solid",
+        "rate": 1.0
+      }
+    ],
+    "outputs": [
+      {
+        "id": "dynamictrees:dirt_bucket",
+        "count": 1.0,
+        "unit": "item",
+        "type": "solid",
+        "rate": 1.0
+      }
+    ]
+  },
+  {
+    "recipe_id": "dynamictrees:mega_seed",
+    "mod_id": "dynamictrees",
+    "recipe_type": "minecraft:crafting",
+    "inputs": [],
+    "outputs": []
+  },
+  {
+    "recipe_id": "dynamictrees:mega_seed",
+    "mod_id": "dynamictrees",
+    "recipe_type": "minecraft:crafting",
+    "inputs": [],
+    "outputs": []
+  },
+  {
+    "recipe_id": "dynamictrees:cocoa_beans",
+    "mod_id": "dynamictrees",
+    "recipe_type": "minecraft:crafting_shapeless",
+    "inputs": [
+      {
+        "id": "dynamictrees:cocoa_seed",
+        "count": 1.0,
+        "unit": "item",
+        "type": "solid",
+        "rate": 1.0
+      }
+    ],
+    "outputs": [
+      {
+        "id": "minecraft:cocoa_beans",
+        "count": 3.0,
+        "unit": "item",
+        "type": "solid",
+        "rate": 1.0
+      }
+    ]
+  },
+  {
+    "recipe_id": "dynamictrees:seed_conversion",
+    "mod_id": "dynamictrees",
+    "recipe_type": "minecraft:crafting",
+    "inputs": [],
+    "outputs": []
+  },
+  {
+    "recipe_id": "dynamictrees:dirt_bucket",
+    "mod_id": "dynamictrees",
+    "recipe_type": "minecraft:crafting_shaped",
+    "inputs": [
+      {
+        "id": "minecraft:dirt",
+        "count": 1.0,
+        "unit": "item",
+        "type": "solid",
+        "rate": 1.0
+      },
+      {
+        "id": "minecraft:bucket",
+        "count": 1.0,
+        "unit": "item",
+        "type": "solid",
+        "rate": 1.0
+      }
+    ],
+    "outputs": [
+      {
+        "id": "dynamictrees:dirt_bucket",
+        "count": 1.0,
+        "unit": "item",
+        "type": "solid",
+        "rate": 1.0
+      }
+    ]
+  },
+  {
+    "recipe_id": "dynamictrees:mega_seed",
+    "mod_id": "dynamictrees",
+    "recipe_type": "minecraft:crafting",
+    "inputs": [],
+    "outputs": []
+  },
+  {
+    "recipe_id": "dynamictrees:cocoa_beans",
+    "mod_id": "dynamictrees",
+    "recipe_type": "minecraft:crafting_shapeless",
+    "inputs": [
+      {
+        "id": "dynamictrees:cocoa_seed",
+        "count": 1.0,
+        "unit": "item",
+        "type": "solid",
+        "rate": 1.0
+      }
+    ],
+    "outputs": [
+      {
+        "id": "minecraft:cocoa_beans",
+        "count": 3.0,
+        "unit": "item",
+        "type": "solid",
+        "rate": 1.0
+      }
+    ]
+  },
+  {
+    "recipe_id": "dynamictrees:seed_conversion",
+    "mod_id": "dynamictrees",
+    "recipe_type": "minecraft:crafting",
+    "inputs": [],
+    "outputs": []
+  },
+  {
+    "recipe_id": "dynamictrees:dirt_bucket",
+    "mod_id": "dynamictrees",
+    "recipe_type": "minecraft:crafting_shaped",
+    "inputs": [
+      {
+        "id": "minecraft:dirt",
+        "count": 1.0,
+        "unit": "item",
+        "type": "solid",
+        "rate": 1.0
+      },
+      {
+        "id": "minecraft:bucket",
+        "count": 1.0,
+        "unit": "item",
+        "type": "solid",
+        "rate": 1.0
+      }
+    ],
+    "outputs": [
+      {
+        "id": "dynamictrees:dirt_bucket",
+        "count": 1.0,
+        "unit": "item",
+        "type": "solid",
+        "rate": 1.0
+      }
+    ]
+  },
+  {
+    "recipe_id": "dynamictrees:mega_seed",
+    "mod_id": "dynamictrees",
+    "recipe_type": "minecraft:crafting",
+    "inputs": [],
+    "outputs": []
+  },
+  {
+    "recipe_id": "dynamictrees:cocoa_beans",
+    "mod_id": "dynamictrees",
+    "recipe_type": "minecraft:crafting_shapeless",
+    "inputs": [
+      {
+        "id": "dynamictrees:cocoa_seed",
+        "count": 1.0,
+        "unit": "item",
+        "type": "solid",
+        "rate": 1.0
+      }
+    ],
+    "outputs": [
+      {
+        "id": "minecraft:cocoa_beans",
+        "count": 3.0,
+        "unit": "item",
+        "type": "solid",
+        "rate": 1.0
+      }
+    ]
+  },
+  {
+    "recipe_id": "dynamictrees:seed_conversion",
+    "mod_id": "dynamictrees",
+    "recipe_type": "minecraft:crafting",
+    "inputs": [],
+    "outputs": []
+  },
+  {
+    "recipe_id": "dynamictrees:mega_seed",
+    "mod_id": "dynamictrees",
+    "recipe_type": "minecraft:crafting",
+    "inputs": [],
+    "outputs": []
+  },
+  {
+    "recipe_id": "dynamictrees:cocoa_beans",
+    "mod_id": "dynamictrees",
+    "recipe_type": "minecraft:crafting_shapeless",
+    "inputs": [
+      {
+        "id": "dynamictrees:cocoa_seed",
+        "count": 1.0,
+        "unit": "item",
+        "type": "solid",
+        "rate": 1.0
+      }
+    ],
+    "outputs": [
+      {
+        "id": "minecraft:cocoa_beans",
+        "count": 3.0,
+        "unit": "item",
+        "type": "solid",
+        "rate": 1.0
+      }
+    ]
+  },
+  {
+    "recipe_id": "dynamictrees:mega_seed",
+    "mod_id": "dynamictrees",
+    "recipe_type": "minecraft:crafting",
+    "inputs": [],
+    "outputs": []
+  },
+  {
+    "recipe_id": "dynamictrees:cocoa_beans",
+    "mod_id": "dynamictrees",
+    "recipe_type": "minecraft:crafting_shapeless",
+    "inputs": [
+      {
+        "id": "dynamictrees:cocoa_seed",
+        "count": 1.0,
+        "unit": "item",
+        "type": "solid",
+        "rate": 1.0
+      }
+    ],
+    "outputs": [
+      {
+        "id": "minecraft:cocoa_beans",
+        "count": 3.0,
+        "unit": "item",
+        "type": "solid",
+        "rate": 1.0
+      }
+    ]
+  },
+  {
+    "recipe_id": "dynamictrees:seed_conversion",
+    "mod_id": "dynamictrees",
+    "recipe_type": "minecraft:crafting",
+    "inputs": [],
+    "outputs": []
+  },
+  {
+    "recipe_id": "dynamictrees:dirt_bucket",
+    "mod_id": "dynamictrees",
+    "recipe_type": "minecraft:crafting_shaped",
+    "inputs": [
+      {
+        "id": "minecraft:dirt",
+        "count": 1.0,
+        "unit": "item",
+        "type": "solid",
+        "rate": 1.0
+      },
+      {
+        "id": "minecraft:bucket",
+        "count": 1.0,
+        "unit": "item",
+        "type": "solid",
+        "rate": 1.0
+      }
+    ],
+    "outputs": [
+      {
+        "id": "dynamictrees:dirt_bucket",
+        "count": 1.0,
+        "unit": "item",
+        "type": "solid",
+        "rate": 1.0
+      }
+    ]
+  },
+  {
+    "recipe_id": "dynamictrees:mega_seed",
+    "mod_id": "dynamictrees",
+    "recipe_type": "minecraft:crafting",
+    "inputs": [],
+    "outputs": []
+  },
+  {
+    "recipe_id": "dynamictrees:cocoa_beans",
+    "mod_id": "dynamictrees",
+    "recipe_type": "minecraft:crafting_shapeless",
+    "inputs": [
+      {
+        "id": "dynamictrees:cocoa_seed",
+        "count": 1.0,
+        "unit": "item",
+        "type": "solid",
+        "rate": 1.0
+      }
+    ],
+    "outputs": [
+      {
+        "id": "minecraft:cocoa_beans",
+        "count": 3.0,
+        "unit": "item",
+        "type": "solid",
+        "rate": 1.0
+      }
+    ]
+  },
+  {
+    "recipe_id": "dynamictrees:mega_seed",
+    "mod_id": "dynamictrees",
+    "recipe_type": "minecraft:crafting",
+    "inputs": [],
+    "outputs": []
+  },
+  {
+    "recipe_id": "dynamictrees:mega_seed",
+    "mod_id": "dynamictrees",
+    "recipe_type": "minecraft:crafting",
+    "inputs": [],
+    "outputs": []
+  },
+  {
+    "recipe_id": "dynamictrees:cocoa_beans",
+    "mod_id": "dynamictrees",
+    "recipe_type": "minecraft:crafting_shapeless",
+    "inputs": [
+      {
+        "id": "dynamictrees:cocoa_seed",
+        "count": 1.0,
+        "unit": "item",
+        "type": "solid",
+        "rate": 1.0
+      }
+    ],
+    "outputs": [
+      {
+        "id": "minecraft:cocoa_beans",
+        "count": 3.0,
+        "unit": "item",
+        "type": "solid",
+        "rate": 1.0
+      }
+    ]
+  },
+  {
+    "recipe_id": "dynamictrees:seed_conversion",
+    "mod_id": "dynamictrees",
+    "recipe_type": "minecraft:crafting",
+    "inputs": [],
+    "outputs": []
+  },
+  {
+    "recipe_id": "dynamictrees:dirt_bucket",
+    "mod_id": "dynamictrees",
+    "recipe_type": "minecraft:crafting_shaped",
+    "inputs": [
+      {
+        "id": "minecraft:dirt",
+        "count": 1.0,
+        "unit": "item",
+        "type": "solid",
+        "rate": 1.0
+      },
+      {
+        "id": "minecraft:bucket",
+        "count": 1.0,
+        "unit": "item",
+        "type": "solid",
+        "rate": 1.0
+      }
+    ],
+    "outputs": [
+      {
+        "id": "dynamictrees:dirt_bucket",
+        "count": 1.0,
+        "unit": "item",
+        "type": "solid",
+        "rate": 1.0
+      }
+    ]
+  }
+]

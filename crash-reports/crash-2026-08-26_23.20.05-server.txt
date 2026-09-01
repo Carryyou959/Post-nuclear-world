@@ -1,0 +1,437 @@
+---- Minecraft Crash Report ----
+
+// I am capable of so much more than being a crash log. There has to be more to this world.
+Please make sure this issue is not caused by Sable before reporting it to other mod authors.
+If you cannot reproduce it without Sable, file a report on the issue tracker
+https://github.com/ryanhcode/sable/issues
+
+// This doesn't make any sense!
+
+Time: 2026-08-26 23:20:05
+Description: Ticking entity
+
+java.util.ConcurrentModificationException: null
+	at MC-BOOTSTRAP/com.google.common@32.1.2-jre/com.google.common.collect.HashBiMap$Itr.hasNext(HashBiMap.java:450) ~[guava-32.1.2-jre.jar%23109!/:?] {}
+	at TRANSFORMER/cold_sweat@2.4.2/com.momosoftworks.coldsweat.api.registry.TempModifierRegistry.getHolder(TempModifierRegistry.java:63) ~[%5B冷汗%5D%20ColdSweat-2.4.2.jar%23290!/:?] {re:classloading}
+	at TRANSFORMER/cold_sweat@2.4.2/com.momosoftworks.coldsweat.api.registry.TempModifierRegistry.getKey(TempModifierRegistry.java:53) ~[%5B冷汗%5D%20ColdSweat-2.4.2.jar%23290!/:?] {re:classloading}
+	at TRANSFORMER/cold_sweat@2.4.2/com.momosoftworks.coldsweat.api.temperature.modifier.TempModifier.getID(TempModifier.java:240) ~[%5B冷汗%5D%20ColdSweat-2.4.2.jar%23290!/:?] {re:classloading}
+	at TRANSFORMER/cold_sweat@2.4.2/com.momosoftworks.coldsweat.common.capability.handler.EntityTempManager$Events.cancelDisabledModifiers(EntityTempManager.java:362) ~[%5B冷汗%5D%20ColdSweat-2.4.2.jar%23290!/:?] {re:classloading}
+	at MC-BOOTSTRAP/net.neoforged.bus/net.neoforged.bus.SubscribeEventListener.invoke(SubscribeEventListener.java:50) ~[bus-8.0.5.jar%23164!/:?] {}
+	at MC-BOOTSTRAP/net.neoforged.bus/net.neoforged.bus.EventBus.post(EventBus.java:360) ~[bus-8.0.5.jar%23164!/:?] {}
+	at MC-BOOTSTRAP/net.neoforged.bus/net.neoforged.bus.EventBus.post(EventBus.java:328) ~[bus-8.0.5.jar%23164!/:?] {}
+	at TRANSFORMER/cold_sweat@2.4.2/com.momosoftworks.coldsweat.api.temperature.modifier.TempModifier.update(TempModifier.java:117) ~[%5B冷汗%5D%20ColdSweat-2.4.2.jar%23290!/:?] {re:classloading}
+	at TRANSFORMER/cold_sweat@2.4.2/com.momosoftworks.coldsweat.api.util.Temperature.apply(Temperature.java:130) ~[%5B冷汗%5D%20ColdSweat-2.4.2.jar%23290!/:?] {re:mixin,re:classloading}
+	at TRANSFORMER/cold_sweat@2.4.2/com.momosoftworks.coldsweat.api.util.Temperature.apply(Temperature.java:152) ~[%5B冷汗%5D%20ColdSweat-2.4.2.jar%23290!/:?] {re:mixin,re:classloading}
+	at TRANSFORMER/cold_sweat@2.4.2/com.momosoftworks.coldsweat.common.capability.temperature.AbstractTempCap.lambda$modifyFromAttribute$6(AbstractTempCap.java:395) ~[%5B冷汗%5D%20ColdSweat-2.4.2.jar%23290!/:?] {re:classloading}
+	at java.base/java.util.Optional.orElseGet(Optional.java:364) ~[?:?] {re:mixin}
+	at TRANSFORMER/cold_sweat@2.4.2/com.momosoftworks.coldsweat.common.capability.temperature.AbstractTempCap.modifyFromAttribute(AbstractTempCap.java:405) ~[%5B冷汗%5D%20ColdSweat-2.4.2.jar%23290!/:?] {re:classloading}
+	at TRANSFORMER/cold_sweat@2.4.2/com.momosoftworks.coldsweat.common.capability.temperature.AbstractTempCap.modifyFromAttribute(AbstractTempCap.java:336) ~[%5B冷汗%5D%20ColdSweat-2.4.2.jar%23290!/:?] {re:classloading}
+	at TRANSFORMER/cold_sweat@2.4.2/com.momosoftworks.coldsweat.common.capability.temperature.AbstractTempCap.tick(AbstractTempCap.java:248) ~[%5B冷汗%5D%20ColdSweat-2.4.2.jar%23290!/:?] {re:classloading}
+	at TRANSFORMER/cold_sweat@2.4.2/com.momosoftworks.coldsweat.common.capability.temperature.PlayerTempCap.tick(PlayerTempCap.java:30) ~[%5B冷汗%5D%20ColdSweat-2.4.2.jar%23290!/:?] {re:classloading}
+	at TRANSFORMER/cold_sweat@2.4.2/com.momosoftworks.coldsweat.common.capability.handler.EntityTempManager$Events.lambda$tickTemperature$11(EntityTempManager.java:221) ~[%5B冷汗%5D%20ColdSweat-2.4.2.jar%23290!/:?] {re:classloading}
+	at java.base/java.util.Optional.ifPresent(Optional.java:178) ~[?:?] {re:mixin}
+	at TRANSFORMER/cold_sweat@2.4.2/com.momosoftworks.coldsweat.common.capability.handler.EntityTempManager$Events.tickTemperature(EntityTempManager.java:217) ~[%5B冷汗%5D%20ColdSweat-2.4.2.jar%23290!/:?] {re:classloading}
+	at MC-BOOTSTRAP/net.neoforged.bus/net.neoforged.bus.SubscribeEventListener.invoke(SubscribeEventListener.java:50) ~[bus-8.0.5.jar%23164!/:?] {}
+	at MC-BOOTSTRAP/net.neoforged.bus/net.neoforged.bus.EventBus.post(EventBus.java:360) ~[bus-8.0.5.jar%23164!/:?] {}
+	at MC-BOOTSTRAP/net.neoforged.bus/net.neoforged.bus.EventBus.post(EventBus.java:328) ~[bus-8.0.5.jar%23164!/:?] {}
+	at TRANSFORMER/neoforge@21.1.248/net.neoforged.neoforge.event.EventHooks.fireEntityTickPre(EventHooks.java:953) ~[neoforge-21.1.248-universal.jar%23276!/:?] {re:mixin,re:classloading}
+	at TRANSFORMER/minecraft@1.21.1/net.minecraft.server.level.ServerLevel.tickNonPassenger(ServerLevel.java:773) ~[client-1.21.1-20240808.144430-srg.jar%23275!/:?] {re:mixin,pl:accesstransformer:B,re:computing_frames,pl:accesstransformer:B,re:classloading,pl:accesstransformer:B,pl:mixin:APP:xaeroworldmap.mixins.json:MixinServerWorld from mod xaeroworldmap,pl:mixin:APP:veil.network.mixins.json:NetworkServerLevelMixin from mod veil,pl:mixin:APP:createbigcannons.mixins.json:ServerLevelMixin from mod createbigcannons,pl:mixin:APP:powergrid.mixins.json:LightningAccessor from mod powergrid,pl:mixin:APP:immersiveengineering.mixins.json:coremods.ServerWorldMixin from mod immersiveengineering,pl:mixin:APP:create.mixins.json:accessor.ServerLevelAccessor from mod create,pl:mixin:APP:sable.mixins.json:block_decal_render.ServerLevelMixin from mod sable,pl:mixin:APP:sable.mixins.json:entity.entity_aabb_lookup.ServerLevelMixin from mod sable,pl:mixin:APP:sable.mixins.json:entity.entity_kicking.ServerLevelMixin from mod sable,pl:mixin:APP:sable.mixins.json:entity.server_entities_tick.ServerLevelMixin from mod sable,pl:mixin:APP:sable.mixins.json:explosion.ServerLevelMixin from mod sable,pl:mixin:APP:sable.mixins.json:particle.ServerLevelMixin from mod sable,pl:mixin:APP:sable.mixins.json:physics.ServerLevelMixin from mod sable,pl:mixin:APP:sable.mixins.json:plot.ServerLevelMixin from mod sable,pl:mixin:APP:sable.mixins.json:plot.container.ServerLevelMixin from mod sable,pl:mixin:APP:sable.mixins.json:stop_lightning.ServerLevelMixin from mod sable,pl:mixin:APP:sable.mixins.json:water_occlusion.ServerLevelMixin from mod sable,pl:mixin:APP:cold_sweat.mixin.json:MixinBlockUpdate$Server from mod cold_sweat,pl:mixin:APP:northstar.mixins.json:level.ServerLevelMixin from mod northstar,pl:mixin:APP:northstar.mixins.json:level.VenusServerLevelMixin from mod northstar,pl:mixin:A}
+	at TRANSFORMER/minecraft@1.21.1/net.minecraft.world.level.Level.guardEntityTick(Level.java:576) ~[client-1.21.1-20240808.144430-srg.jar%23275!/:?] {re:mixin,pl:accesstransformer:B,re:computing_frames,pl:accesstransformer:B,re:classloading,pl:accesstransformer:B,pl:mixin:APP:flywheel.impl.mixins.json:LevelMixin from mod flywheel,pl:mixin:APP:sable.mixins.json:entity.entity_sublevel_collision.LevelMixin from mod sable,pl:mixin:APP:sable.mixins.json:world_border.LevelMixin from mod sable,pl:mixin:APP:sable-neoforge.mixins.json:compatibility.create.super_glue.LevelAccessor from mod sable,pl:mixin:APP:yumi_mc_core.mixins.json:crash.LevelMixin from mod yumi_mc_core,pl:mixin:APP:northstar.mixins.json:level.LevelMixin from mod northstar,pl:mixin:A}
+	at TRANSFORMER/minecraft@1.21.1/net.minecraft.server.level.ServerLevel.lambda$tick$2(ServerLevel.java:420) ~[client-1.21.1-20240808.144430-srg.jar%23275!/:?] {re:mixin,pl:accesstransformer:B,re:computing_frames,pl:accesstransformer:B,re:classloading,pl:accesstransformer:B,pl:mixin:APP:xaeroworldmap.mixins.json:MixinServerWorld from mod xaeroworldmap,pl:mixin:APP:veil.network.mixins.json:NetworkServerLevelMixin from mod veil,pl:mixin:APP:createbigcannons.mixins.json:ServerLevelMixin from mod createbigcannons,pl:mixin:APP:powergrid.mixins.json:LightningAccessor from mod powergrid,pl:mixin:APP:immersiveengineering.mixins.json:coremods.ServerWorldMixin from mod immersiveengineering,pl:mixin:APP:create.mixins.json:accessor.ServerLevelAccessor from mod create,pl:mixin:APP:sable.mixins.json:block_decal_render.ServerLevelMixin from mod sable,pl:mixin:APP:sable.mixins.json:entity.entity_aabb_lookup.ServerLevelMixin from mod sable,pl:mixin:APP:sable.mixins.json:entity.entity_kicking.ServerLevelMixin from mod sable,pl:mixin:APP:sable.mixins.json:entity.server_entities_tick.ServerLevelMixin from mod sable,pl:mixin:APP:sable.mixins.json:explosion.ServerLevelMixin from mod sable,pl:mixin:APP:sable.mixins.json:particle.ServerLevelMixin from mod sable,pl:mixin:APP:sable.mixins.json:physics.ServerLevelMixin from mod sable,pl:mixin:APP:sable.mixins.json:plot.ServerLevelMixin from mod sable,pl:mixin:APP:sable.mixins.json:plot.container.ServerLevelMixin from mod sable,pl:mixin:APP:sable.mixins.json:stop_lightning.ServerLevelMixin from mod sable,pl:mixin:APP:sable.mixins.json:water_occlusion.ServerLevelMixin from mod sable,pl:mixin:APP:cold_sweat.mixin.json:MixinBlockUpdate$Server from mod cold_sweat,pl:mixin:APP:northstar.mixins.json:level.ServerLevelMixin from mod northstar,pl:mixin:APP:northstar.mixins.json:level.VenusServerLevelMixin from mod northstar,pl:mixin:A}
+	at TRANSFORMER/minecraft@1.21.1/net.minecraft.world.level.entity.EntityTickList.forEach(EntityTickList.java:54) ~[client-1.21.1-20240808.144430-srg.jar%23275!/:?] {re:classloading}
+	at TRANSFORMER/minecraft@1.21.1/net.minecraft.server.level.ServerLevel.tick(ServerLevel.java:400) ~[client-1.21.1-20240808.144430-srg.jar%23275!/:?] {re:mixin,pl:accesstransformer:B,re:computing_frames,pl:accesstransformer:B,re:classloading,pl:accesstransformer:B,pl:mixin:APP:xaeroworldmap.mixins.json:MixinServerWorld from mod xaeroworldmap,pl:mixin:APP:veil.network.mixins.json:NetworkServerLevelMixin from mod veil,pl:mixin:APP:createbigcannons.mixins.json:ServerLevelMixin from mod createbigcannons,pl:mixin:APP:powergrid.mixins.json:LightningAccessor from mod powergrid,pl:mixin:APP:immersiveengineering.mixins.json:coremods.ServerWorldMixin from mod immersiveengineering,pl:mixin:APP:create.mixins.json:accessor.ServerLevelAccessor from mod create,pl:mixin:APP:sable.mixins.json:block_decal_render.ServerLevelMixin from mod sable,pl:mixin:APP:sable.mixins.json:entity.entity_aabb_lookup.ServerLevelMixin from mod sable,pl:mixin:APP:sable.mixins.json:entity.entity_kicking.ServerLevelMixin from mod sable,pl:mixin:APP:sable.mixins.json:entity.server_entities_tick.ServerLevelMixin from mod sable,pl:mixin:APP:sable.mixins.json:explosion.ServerLevelMixin from mod sable,pl:mixin:APP:sable.mixins.json:particle.ServerLevelMixin from mod sable,pl:mixin:APP:sable.mixins.json:physics.ServerLevelMixin from mod sable,pl:mixin:APP:sable.mixins.json:plot.ServerLevelMixin from mod sable,pl:mixin:APP:sable.mixins.json:plot.container.ServerLevelMixin from mod sable,pl:mixin:APP:sable.mixins.json:stop_lightning.ServerLevelMixin from mod sable,pl:mixin:APP:sable.mixins.json:water_occlusion.ServerLevelMixin from mod sable,pl:mixin:APP:cold_sweat.mixin.json:MixinBlockUpdate$Server from mod cold_sweat,pl:mixin:APP:northstar.mixins.json:level.ServerLevelMixin from mod northstar,pl:mixin:APP:northstar.mixins.json:level.VenusServerLevelMixin from mod northstar,pl:mixin:A}
+	at TRANSFORMER/minecraft@1.21.1/net.minecraft.server.MinecraftServer.tickChildren(MinecraftServer.java:1037) ~[client-1.21.1-20240808.144430-srg.jar%23275!/:?] {re:mixin,pl:accesstransformer:B,re:classloading,pl:accesstransformer:B,pl:mixin:A}
+	at TRANSFORMER/minecraft@1.21.1/net.minecraft.server.MinecraftServer.tickServer(MinecraftServer.java:917) ~[client-1.21.1-20240808.144430-srg.jar%23275!/:?] {re:mixin,pl:accesstransformer:B,re:classloading,pl:accesstransformer:B,pl:mixin:A}
+	at TRANSFORMER/minecraft@1.21.1/net.minecraft.client.server.IntegratedServer.tickServer(IntegratedServer.java:110) ~[client-1.21.1-20240808.144430-srg.jar%23275!/:?] {re:mixin,pl:runtimedistcleaner:A,re:classloading,pl:mixin:APP:sable.mixins.json:toast.IntegratedServerMixin from mod sable,pl:mixin:A,pl:runtimedistcleaner:A}
+	at TRANSFORMER/minecraft@1.21.1/net.minecraft.server.MinecraftServer.runServer(MinecraftServer.java:707) ~[client-1.21.1-20240808.144430-srg.jar%23275!/:?] {re:mixin,pl:accesstransformer:B,re:classloading,pl:accesstransformer:B,pl:mixin:A}
+	at TRANSFORMER/minecraft@1.21.1/net.minecraft.server.MinecraftServer.lambda$spin$2(MinecraftServer.java:267) ~[client-1.21.1-20240808.144430-srg.jar%23275!/:?] {re:mixin,pl:accesstransformer:B,re:classloading,pl:accesstransformer:B,pl:mixin:A}
+	at java.base/java.lang.Thread.run(Thread.java:1583) [?:?] {re:mixin}
+
+
+A detailed walkthrough of the error, its code path and all known details is as follows:
+---------------------------------------------------------------------------------------
+
+-- Head --
+Thread: Server thread
+Stacktrace:
+	at MC-BOOTSTRAP/com.google.common@32.1.2-jre/com.google.common.collect.HashBiMap$Itr.hasNext(HashBiMap.java:450) ~[guava-32.1.2-jre.jar%23109!/:?] {}
+	at TRANSFORMER/cold_sweat@2.4.2/com.momosoftworks.coldsweat.api.registry.TempModifierRegistry.getHolder(TempModifierRegistry.java:63) ~[%5B冷汗%5D%20ColdSweat-2.4.2.jar%23290!/:?] {re:classloading}
+	at TRANSFORMER/cold_sweat@2.4.2/com.momosoftworks.coldsweat.api.registry.TempModifierRegistry.getKey(TempModifierRegistry.java:53) ~[%5B冷汗%5D%20ColdSweat-2.4.2.jar%23290!/:?] {re:classloading}
+	at TRANSFORMER/cold_sweat@2.4.2/com.momosoftworks.coldsweat.api.temperature.modifier.TempModifier.getID(TempModifier.java:240) ~[%5B冷汗%5D%20ColdSweat-2.4.2.jar%23290!/:?] {re:classloading}
+	at TRANSFORMER/cold_sweat@2.4.2/com.momosoftworks.coldsweat.common.capability.handler.EntityTempManager$Events.cancelDisabledModifiers(EntityTempManager.java:362) ~[%5B冷汗%5D%20ColdSweat-2.4.2.jar%23290!/:?] {re:classloading}
+	at MC-BOOTSTRAP/net.neoforged.bus/net.neoforged.bus.SubscribeEventListener.invoke(SubscribeEventListener.java:50) ~[bus-8.0.5.jar%23164!/:?] {}
+	at MC-BOOTSTRAP/net.neoforged.bus/net.neoforged.bus.EventBus.post(EventBus.java:360) ~[bus-8.0.5.jar%23164!/:?] {}
+	at MC-BOOTSTRAP/net.neoforged.bus/net.neoforged.bus.EventBus.post(EventBus.java:328) ~[bus-8.0.5.jar%23164!/:?] {}
+	at TRANSFORMER/cold_sweat@2.4.2/com.momosoftworks.coldsweat.api.temperature.modifier.TempModifier.update(TempModifier.java:117) ~[%5B冷汗%5D%20ColdSweat-2.4.2.jar%23290!/:?] {re:classloading}
+	at TRANSFORMER/cold_sweat@2.4.2/com.momosoftworks.coldsweat.api.util.Temperature.apply(Temperature.java:130) ~[%5B冷汗%5D%20ColdSweat-2.4.2.jar%23290!/:?] {re:mixin,re:classloading}
+	at TRANSFORMER/cold_sweat@2.4.2/com.momosoftworks.coldsweat.api.util.Temperature.apply(Temperature.java:152) ~[%5B冷汗%5D%20ColdSweat-2.4.2.jar%23290!/:?] {re:mixin,re:classloading}
+	at TRANSFORMER/cold_sweat@2.4.2/com.momosoftworks.coldsweat.common.capability.temperature.AbstractTempCap.lambda$modifyFromAttribute$6(AbstractTempCap.java:395) ~[%5B冷汗%5D%20ColdSweat-2.4.2.jar%23290!/:?] {re:classloading}
+	at java.base/java.util.Optional.orElseGet(Optional.java:364) ~[?:?] {re:mixin}
+	at TRANSFORMER/cold_sweat@2.4.2/com.momosoftworks.coldsweat.common.capability.temperature.AbstractTempCap.modifyFromAttribute(AbstractTempCap.java:405) ~[%5B冷汗%5D%20ColdSweat-2.4.2.jar%23290!/:?] {re:classloading}
+	at TRANSFORMER/cold_sweat@2.4.2/com.momosoftworks.coldsweat.common.capability.temperature.AbstractTempCap.modifyFromAttribute(AbstractTempCap.java:336) ~[%5B冷汗%5D%20ColdSweat-2.4.2.jar%23290!/:?] {re:classloading}
+	at TRANSFORMER/cold_sweat@2.4.2/com.momosoftworks.coldsweat.common.capability.temperature.AbstractTempCap.tick(AbstractTempCap.java:248) ~[%5B冷汗%5D%20ColdSweat-2.4.2.jar%23290!/:?] {re:classloading}
+	at TRANSFORMER/cold_sweat@2.4.2/com.momosoftworks.coldsweat.common.capability.temperature.PlayerTempCap.tick(PlayerTempCap.java:30) ~[%5B冷汗%5D%20ColdSweat-2.4.2.jar%23290!/:?] {re:classloading}
+	at TRANSFORMER/cold_sweat@2.4.2/com.momosoftworks.coldsweat.common.capability.handler.EntityTempManager$Events.lambda$tickTemperature$11(EntityTempManager.java:221) ~[%5B冷汗%5D%20ColdSweat-2.4.2.jar%23290!/:?] {re:classloading}
+	at java.base/java.util.Optional.ifPresent(Optional.java:178) ~[?:?] {re:mixin}
+	at TRANSFORMER/cold_sweat@2.4.2/com.momosoftworks.coldsweat.common.capability.handler.EntityTempManager$Events.tickTemperature(EntityTempManager.java:217) ~[%5B冷汗%5D%20ColdSweat-2.4.2.jar%23290!/:?] {re:classloading}
+	at MC-BOOTSTRAP/net.neoforged.bus/net.neoforged.bus.SubscribeEventListener.invoke(SubscribeEventListener.java:50) ~[bus-8.0.5.jar%23164!/:?] {}
+	at MC-BOOTSTRAP/net.neoforged.bus/net.neoforged.bus.EventBus.post(EventBus.java:360) ~[bus-8.0.5.jar%23164!/:?] {}
+	at MC-BOOTSTRAP/net.neoforged.bus/net.neoforged.bus.EventBus.post(EventBus.java:328) ~[bus-8.0.5.jar%23164!/:?] {}
+	at TRANSFORMER/neoforge@21.1.248/net.neoforged.neoforge.event.EventHooks.fireEntityTickPre(EventHooks.java:953) ~[neoforge-21.1.248-universal.jar%23276!/:?] {re:mixin,re:classloading}
+	at TRANSFORMER/minecraft@1.21.1/net.minecraft.server.level.ServerLevel.tickNonPassenger(ServerLevel.java:773) ~[client-1.21.1-20240808.144430-srg.jar%23275!/:?] {re:mixin,pl:accesstransformer:B,re:computing_frames,pl:accesstransformer:B,re:classloading,pl:accesstransformer:B,pl:mixin:APP:xaeroworldmap.mixins.json:MixinServerWorld from mod xaeroworldmap,pl:mixin:APP:veil.network.mixins.json:NetworkServerLevelMixin from mod veil,pl:mixin:APP:createbigcannons.mixins.json:ServerLevelMixin from mod createbigcannons,pl:mixin:APP:powergrid.mixins.json:LightningAccessor from mod powergrid,pl:mixin:APP:immersiveengineering.mixins.json:coremods.ServerWorldMixin from mod immersiveengineering,pl:mixin:APP:create.mixins.json:accessor.ServerLevelAccessor from mod create,pl:mixin:APP:sable.mixins.json:block_decal_render.ServerLevelMixin from mod sable,pl:mixin:APP:sable.mixins.json:entity.entity_aabb_lookup.ServerLevelMixin from mod sable,pl:mixin:APP:sable.mixins.json:entity.entity_kicking.ServerLevelMixin from mod sable,pl:mixin:APP:sable.mixins.json:entity.server_entities_tick.ServerLevelMixin from mod sable,pl:mixin:APP:sable.mixins.json:explosion.ServerLevelMixin from mod sable,pl:mixin:APP:sable.mixins.json:particle.ServerLevelMixin from mod sable,pl:mixin:APP:sable.mixins.json:physics.ServerLevelMixin from mod sable,pl:mixin:APP:sable.mixins.json:plot.ServerLevelMixin from mod sable,pl:mixin:APP:sable.mixins.json:plot.container.ServerLevelMixin from mod sable,pl:mixin:APP:sable.mixins.json:stop_lightning.ServerLevelMixin from mod sable,pl:mixin:APP:sable.mixins.json:water_occlusion.ServerLevelMixin from mod sable,pl:mixin:APP:cold_sweat.mixin.json:MixinBlockUpdate$Server from mod cold_sweat,pl:mixin:APP:northstar.mixins.json:level.ServerLevelMixin from mod northstar,pl:mixin:APP:northstar.mixins.json:level.VenusServerLevelMixin from mod northstar,pl:mixin:A}
+	at TRANSFORMER/minecraft@1.21.1/net.minecraft.world.level.Level.guardEntityTick(Level.java:576) ~[client-1.21.1-20240808.144430-srg.jar%23275!/:?] {re:mixin,pl:accesstransformer:B,re:computing_frames,pl:accesstransformer:B,re:classloading,pl:accesstransformer:B,pl:mixin:APP:flywheel.impl.mixins.json:LevelMixin from mod flywheel,pl:mixin:APP:sable.mixins.json:entity.entity_sublevel_collision.LevelMixin from mod sable,pl:mixin:APP:sable.mixins.json:world_border.LevelMixin from mod sable,pl:mixin:APP:sable-neoforge.mixins.json:compatibility.create.super_glue.LevelAccessor from mod sable,pl:mixin:APP:yumi_mc_core.mixins.json:crash.LevelMixin from mod yumi_mc_core,pl:mixin:APP:northstar.mixins.json:level.LevelMixin from mod northstar,pl:mixin:A}
+	at TRANSFORMER/minecraft@1.21.1/net.minecraft.server.level.ServerLevel.lambda$tick$2(ServerLevel.java:420) ~[client-1.21.1-20240808.144430-srg.jar%23275!/:?] {re:mixin,pl:accesstransformer:B,re:computing_frames,pl:accesstransformer:B,re:classloading,pl:accesstransformer:B,pl:mixin:APP:xaeroworldmap.mixins.json:MixinServerWorld from mod xaeroworldmap,pl:mixin:APP:veil.network.mixins.json:NetworkServerLevelMixin from mod veil,pl:mixin:APP:createbigcannons.mixins.json:ServerLevelMixin from mod createbigcannons,pl:mixin:APP:powergrid.mixins.json:LightningAccessor from mod powergrid,pl:mixin:APP:immersiveengineering.mixins.json:coremods.ServerWorldMixin from mod immersiveengineering,pl:mixin:APP:create.mixins.json:accessor.ServerLevelAccessor from mod create,pl:mixin:APP:sable.mixins.json:block_decal_render.ServerLevelMixin from mod sable,pl:mixin:APP:sable.mixins.json:entity.entity_aabb_lookup.ServerLevelMixin from mod sable,pl:mixin:APP:sable.mixins.json:entity.entity_kicking.ServerLevelMixin from mod sable,pl:mixin:APP:sable.mixins.json:entity.server_entities_tick.ServerLevelMixin from mod sable,pl:mixin:APP:sable.mixins.json:explosion.ServerLevelMixin from mod sable,pl:mixin:APP:sable.mixins.json:particle.ServerLevelMixin from mod sable,pl:mixin:APP:sable.mixins.json:physics.ServerLevelMixin from mod sable,pl:mixin:APP:sable.mixins.json:plot.ServerLevelMixin from mod sable,pl:mixin:APP:sable.mixins.json:plot.container.ServerLevelMixin from mod sable,pl:mixin:APP:sable.mixins.json:stop_lightning.ServerLevelMixin from mod sable,pl:mixin:APP:sable.mixins.json:water_occlusion.ServerLevelMixin from mod sable,pl:mixin:APP:cold_sweat.mixin.json:MixinBlockUpdate$Server from mod cold_sweat,pl:mixin:APP:northstar.mixins.json:level.ServerLevelMixin from mod northstar,pl:mixin:APP:northstar.mixins.json:level.VenusServerLevelMixin from mod northstar,pl:mixin:A}
+	at TRANSFORMER/minecraft@1.21.1/net.minecraft.world.level.entity.EntityTickList.forEach(EntityTickList.java:54) ~[client-1.21.1-20240808.144430-srg.jar%23275!/:?] {re:classloading}
+-- Entity being ticked --
+Details:
+	Entity Type: minecraft:player (net.minecraft.server.level.ServerPlayer)
+	Entity ID: 81
+	Entity Name: Carryyou959
+	Entity's Exact location: -221.54, 95.00, -266.95
+	Entity's Block location: World: (-222,95,-267), Section: (at 2,15,5 in -14,5,-17; chunk contains blocks -224,-64,-272 to -209,319,-257), Region: (-1,-1; contains chunks -32,-32 to -1,-1, blocks -512,-64,-512 to -1,319,-1)
+	Entity's Momentum: 0.00, -0.08, 0.00
+	Entity's Passengers: []
+	Entity's Vehicle: null
+Stacktrace:
+	at TRANSFORMER/minecraft@1.21.1/net.minecraft.world.level.Level.guardEntityTick(Level.java:576) ~[client-1.21.1-20240808.144430-srg.jar%23275!/:?] {re:mixin,pl:accesstransformer:B,re:computing_frames,pl:accesstransformer:B,re:classloading,pl:accesstransformer:B,pl:mixin:APP:flywheel.impl.mixins.json:LevelMixin from mod flywheel,pl:mixin:APP:sable.mixins.json:entity.entity_sublevel_collision.LevelMixin from mod sable,pl:mixin:APP:sable.mixins.json:world_border.LevelMixin from mod sable,pl:mixin:APP:sable-neoforge.mixins.json:compatibility.create.super_glue.LevelAccessor from mod sable,pl:mixin:APP:yumi_mc_core.mixins.json:crash.LevelMixin from mod yumi_mc_core,pl:mixin:APP:northstar.mixins.json:level.LevelMixin from mod northstar,pl:mixin:A}
+	at TRANSFORMER/minecraft@1.21.1/net.minecraft.server.level.ServerLevel.lambda$tick$2(ServerLevel.java:420) ~[client-1.21.1-20240808.144430-srg.jar%23275!/:?] {re:mixin,pl:accesstransformer:B,re:computing_frames,pl:accesstransformer:B,re:classloading,pl:accesstransformer:B,pl:mixin:APP:xaeroworldmap.mixins.json:MixinServerWorld from mod xaeroworldmap,pl:mixin:APP:veil.network.mixins.json:NetworkServerLevelMixin from mod veil,pl:mixin:APP:createbigcannons.mixins.json:ServerLevelMixin from mod createbigcannons,pl:mixin:APP:powergrid.mixins.json:LightningAccessor from mod powergrid,pl:mixin:APP:immersiveengineering.mixins.json:coremods.ServerWorldMixin from mod immersiveengineering,pl:mixin:APP:create.mixins.json:accessor.ServerLevelAccessor from mod create,pl:mixin:APP:sable.mixins.json:block_decal_render.ServerLevelMixin from mod sable,pl:mixin:APP:sable.mixins.json:entity.entity_aabb_lookup.ServerLevelMixin from mod sable,pl:mixin:APP:sable.mixins.json:entity.entity_kicking.ServerLevelMixin from mod sable,pl:mixin:APP:sable.mixins.json:entity.server_entities_tick.ServerLevelMixin from mod sable,pl:mixin:APP:sable.mixins.json:explosion.ServerLevelMixin from mod sable,pl:mixin:APP:sable.mixins.json:particle.ServerLevelMixin from mod sable,pl:mixin:APP:sable.mixins.json:physics.ServerLevelMixin from mod sable,pl:mixin:APP:sable.mixins.json:plot.ServerLevelMixin from mod sable,pl:mixin:APP:sable.mixins.json:plot.container.ServerLevelMixin from mod sable,pl:mixin:APP:sable.mixins.json:stop_lightning.ServerLevelMixin from mod sable,pl:mixin:APP:sable.mixins.json:water_occlusion.ServerLevelMixin from mod sable,pl:mixin:APP:cold_sweat.mixin.json:MixinBlockUpdate$Server from mod cold_sweat,pl:mixin:APP:northstar.mixins.json:level.ServerLevelMixin from mod northstar,pl:mixin:APP:northstar.mixins.json:level.VenusServerLevelMixin from mod northstar,pl:mixin:A}
+	at TRANSFORMER/minecraft@1.21.1/net.minecraft.world.level.entity.EntityTickList.forEach(EntityTickList.java:54) ~[client-1.21.1-20240808.144430-srg.jar%23275!/:?] {re:classloading}
+	at TRANSFORMER/minecraft@1.21.1/net.minecraft.server.level.ServerLevel.tick(ServerLevel.java:400) ~[client-1.21.1-20240808.144430-srg.jar%23275!/:?] {re:mixin,pl:accesstransformer:B,re:computing_frames,pl:accesstransformer:B,re:classloading,pl:accesstransformer:B,pl:mixin:APP:xaeroworldmap.mixins.json:MixinServerWorld from mod xaeroworldmap,pl:mixin:APP:veil.network.mixins.json:NetworkServerLevelMixin from mod veil,pl:mixin:APP:createbigcannons.mixins.json:ServerLevelMixin from mod createbigcannons,pl:mixin:APP:powergrid.mixins.json:LightningAccessor from mod powergrid,pl:mixin:APP:immersiveengineering.mixins.json:coremods.ServerWorldMixin from mod immersiveengineering,pl:mixin:APP:create.mixins.json:accessor.ServerLevelAccessor from mod create,pl:mixin:APP:sable.mixins.json:block_decal_render.ServerLevelMixin from mod sable,pl:mixin:APP:sable.mixins.json:entity.entity_aabb_lookup.ServerLevelMixin from mod sable,pl:mixin:APP:sable.mixins.json:entity.entity_kicking.ServerLevelMixin from mod sable,pl:mixin:APP:sable.mixins.json:entity.server_entities_tick.ServerLevelMixin from mod sable,pl:mixin:APP:sable.mixins.json:explosion.ServerLevelMixin from mod sable,pl:mixin:APP:sable.mixins.json:particle.ServerLevelMixin from mod sable,pl:mixin:APP:sable.mixins.json:physics.ServerLevelMixin from mod sable,pl:mixin:APP:sable.mixins.json:plot.ServerLevelMixin from mod sable,pl:mixin:APP:sable.mixins.json:plot.container.ServerLevelMixin from mod sable,pl:mixin:APP:sable.mixins.json:stop_lightning.ServerLevelMixin from mod sable,pl:mixin:APP:sable.mixins.json:water_occlusion.ServerLevelMixin from mod sable,pl:mixin:APP:cold_sweat.mixin.json:MixinBlockUpdate$Server from mod cold_sweat,pl:mixin:APP:northstar.mixins.json:level.ServerLevelMixin from mod northstar,pl:mixin:APP:northstar.mixins.json:level.VenusServerLevelMixin from mod northstar,pl:mixin:A}
+	at TRANSFORMER/minecraft@1.21.1/net.minecraft.server.MinecraftServer.tickChildren(MinecraftServer.java:1037) ~[client-1.21.1-20240808.144430-srg.jar%23275!/:?] {re:mixin,pl:accesstransformer:B,re:classloading,pl:accesstransformer:B,pl:mixin:A}
+	at TRANSFORMER/minecraft@1.21.1/net.minecraft.server.MinecraftServer.tickServer(MinecraftServer.java:917) ~[client-1.21.1-20240808.144430-srg.jar%23275!/:?] {re:mixin,pl:accesstransformer:B,re:classloading,pl:accesstransformer:B,pl:mixin:A}
+	at TRANSFORMER/minecraft@1.21.1/net.minecraft.client.server.IntegratedServer.tickServer(IntegratedServer.java:110) ~[client-1.21.1-20240808.144430-srg.jar%23275!/:?] {re:mixin,pl:runtimedistcleaner:A,re:classloading,pl:mixin:APP:sable.mixins.json:toast.IntegratedServerMixin from mod sable,pl:mixin:A,pl:runtimedistcleaner:A}
+	at TRANSFORMER/minecraft@1.21.1/net.minecraft.server.MinecraftServer.runServer(MinecraftServer.java:707) ~[client-1.21.1-20240808.144430-srg.jar%23275!/:?] {re:mixin,pl:accesstransformer:B,re:classloading,pl:accesstransformer:B,pl:mixin:A}
+	at TRANSFORMER/minecraft@1.21.1/net.minecraft.server.MinecraftServer.lambda$spin$2(MinecraftServer.java:267) ~[client-1.21.1-20240808.144430-srg.jar%23275!/:?] {re:mixin,pl:accesstransformer:B,re:classloading,pl:accesstransformer:B,pl:mixin:A}
+	at java.base/java.lang.Thread.run(Thread.java:1583) [?:?] {re:mixin}
+
+
+-- Affected level --
+Details:
+	All players: 1 total; [ServerPlayer['Carryyou959'/81, l='ServerLevel[新的世界]', x=-221.54, y=95.00, z=-266.95]]
+	Chunk stats: 955
+	Level dimension: minecraft:overworld
+	Level spawn location: World: (-224,75,-272), Section: (at 0,11,0 in -14,4,-17; chunk contains blocks -224,-64,-272 to -209,319,-257), Region: (-1,-1; contains chunks -32,-32 to -1,-1, blocks -512,-64,-512 to -1,319,-1)
+	Level time: 7823 game time, 7823 day time
+	Level name: 新的世界
+	Level game mode: Game mode: creative (ID 1). Hardcore: false. Commands: true
+	Level weather: Rain time: 114524 (now: false), thunder time: 29254 (now: false)
+	Known server brands: neoforge
+	Removed feature flags: 
+	Level was modded: true
+	Level storage version: 0x04ABD - Anvil
+	Loaded entity count: 84
+Stacktrace:
+	at TRANSFORMER/minecraft@1.21.1/net.minecraft.server.level.ServerLevel.fillReportDetails(ServerLevel.java:1721) ~[client-1.21.1-20240808.144430-srg.jar%23275!/:?] {re:mixin,pl:accesstransformer:B,re:computing_frames,pl:accesstransformer:B,re:classloading,pl:accesstransformer:B,pl:mixin:APP:xaeroworldmap.mixins.json:MixinServerWorld from mod xaeroworldmap,pl:mixin:APP:veil.network.mixins.json:NetworkServerLevelMixin from mod veil,pl:mixin:APP:createbigcannons.mixins.json:ServerLevelMixin from mod createbigcannons,pl:mixin:APP:powergrid.mixins.json:LightningAccessor from mod powergrid,pl:mixin:APP:immersiveengineering.mixins.json:coremods.ServerWorldMixin from mod immersiveengineering,pl:mixin:APP:create.mixins.json:accessor.ServerLevelAccessor from mod create,pl:mixin:APP:sable.mixins.json:block_decal_render.ServerLevelMixin from mod sable,pl:mixin:APP:sable.mixins.json:entity.entity_aabb_lookup.ServerLevelMixin from mod sable,pl:mixin:APP:sable.mixins.json:entity.entity_kicking.ServerLevelMixin from mod sable,pl:mixin:APP:sable.mixins.json:entity.server_entities_tick.ServerLevelMixin from mod sable,pl:mixin:APP:sable.mixins.json:explosion.ServerLevelMixin from mod sable,pl:mixin:APP:sable.mixins.json:particle.ServerLevelMixin from mod sable,pl:mixin:APP:sable.mixins.json:physics.ServerLevelMixin from mod sable,pl:mixin:APP:sable.mixins.json:plot.ServerLevelMixin from mod sable,pl:mixin:APP:sable.mixins.json:plot.container.ServerLevelMixin from mod sable,pl:mixin:APP:sable.mixins.json:stop_lightning.ServerLevelMixin from mod sable,pl:mixin:APP:sable.mixins.json:water_occlusion.ServerLevelMixin from mod sable,pl:mixin:APP:cold_sweat.mixin.json:MixinBlockUpdate$Server from mod cold_sweat,pl:mixin:APP:northstar.mixins.json:level.ServerLevelMixin from mod northstar,pl:mixin:APP:northstar.mixins.json:level.VenusServerLevelMixin from mod northstar,pl:mixin:A}
+	at TRANSFORMER/minecraft@1.21.1/net.minecraft.server.MinecraftServer.tickChildren(MinecraftServer.java:1040) ~[client-1.21.1-20240808.144430-srg.jar%23275!/:?] {re:mixin,pl:accesstransformer:B,re:classloading,pl:accesstransformer:B,pl:mixin:A}
+	at TRANSFORMER/minecraft@1.21.1/net.minecraft.server.MinecraftServer.tickServer(MinecraftServer.java:917) ~[client-1.21.1-20240808.144430-srg.jar%23275!/:?] {re:mixin,pl:accesstransformer:B,re:classloading,pl:accesstransformer:B,pl:mixin:A}
+	at TRANSFORMER/minecraft@1.21.1/net.minecraft.client.server.IntegratedServer.tickServer(IntegratedServer.java:110) ~[client-1.21.1-20240808.144430-srg.jar%23275!/:?] {re:mixin,pl:runtimedistcleaner:A,re:classloading,pl:mixin:APP:sable.mixins.json:toast.IntegratedServerMixin from mod sable,pl:mixin:A,pl:runtimedistcleaner:A}
+	at TRANSFORMER/minecraft@1.21.1/net.minecraft.server.MinecraftServer.runServer(MinecraftServer.java:707) ~[client-1.21.1-20240808.144430-srg.jar%23275!/:?] {re:mixin,pl:accesstransformer:B,re:classloading,pl:accesstransformer:B,pl:mixin:A}
+	at TRANSFORMER/minecraft@1.21.1/net.minecraft.server.MinecraftServer.lambda$spin$2(MinecraftServer.java:267) ~[client-1.21.1-20240808.144430-srg.jar%23275!/:?] {re:mixin,pl:accesstransformer:B,re:classloading,pl:accesstransformer:B,pl:mixin:A}
+	at java.base/java.lang.Thread.run(Thread.java:1583) [?:?] {re:mixin}
+
+
+-- Dynamic Lighting --
+Details:
+	Description: This section contains information related to dynamic lighting, this may not be related to your crash.
+	Mode: fancy
+	Dynamic Light Sources: 0
+	Spatial Hash Occupancy: 0 / 1024
+
+-- System Details --
+Details:
+	Minecraft Version: 1.21.1
+	Minecraft Version ID: 1.21.1
+	Operating System: Windows 11 (amd64) version 10.0
+	Java Version: 21.0.7, Microsoft
+	Java VM Version: OpenJDK 64-Bit Server VM (mixed mode), Microsoft
+	Memory: 962435856 bytes (917 MiB) / 3388997632 bytes (3232 MiB) up to 9462349824 bytes (9024 MiB)
+	CPUs: 16
+	Processor Vendor: AuthenticAMD
+	Processor Name: AMD Ryzen 7 8845H w/ Radeon 780M Graphics
+	Identifier: AuthenticAMD Family 25 Model 117 Stepping 2
+	Microarchitecture: Zen 3
+	Frequency (GHz): 3.79
+	Number of physical packages: 1
+	Number of physical CPUs: 8
+	Number of logical CPUs: 16
+	Graphics card #0 name: AMD Radeon 780M Graphics
+	Graphics card #0 vendor: Advanced Micro Devices, Inc.
+	Graphics card #0 VRAM (MiB): 512.00
+	Graphics card #0 deviceId: VideoController1
+	Graphics card #0 versionInfo: 31.0.22032.1
+	Graphics card #1 name: NVIDIA GeForce RTX 4060 Laptop GPU
+	Graphics card #1 vendor: NVIDIA
+	Graphics card #1 VRAM (MiB): 8188.00
+	Graphics card #1 deviceId: VideoController2
+	Graphics card #1 versionInfo: 32.0.15.9649
+	Memory slot #0 capacity (MiB): 12288.00
+	Memory slot #0 clockSpeed (GHz): 5.60
+	Memory slot #0 type: Unknown
+	Memory slot #1 capacity (MiB): 12288.00
+	Memory slot #1 clockSpeed (GHz): 5.60
+	Memory slot #1 type: Unknown
+	Virtual memory max (MiB): 36653.35
+	Virtual memory used (MiB): 20380.54
+	Swap memory total (MiB): 12800.00
+	Swap memory used (MiB): 1142.08
+	Space in storage for jna.tmpdir (MiB): available: 121983.05, total: 669444.31
+	Space in storage for org.lwjgl.system.SharedLibraryExtractPath (MiB): available: 121983.05, total: 669444.31
+	Space in storage for io.netty.native.workdir (MiB): available: 121983.05, total: 669444.31
+	Space in storage for java.io.tmpdir (MiB): available: 144542.28, total: 306252.00
+	Space in storage for workdir (MiB): available: 121983.05, total: 669444.31
+	JVM Flags: 12 total; -XX:HeapDumpPath=MojangTricksIntelDriversForPerformance_javaw.exe_minecraft.exe.heapdump -XX:-OmitStackTraceInFastThrow -Xmx9011m -XX:+UnlockExperimentalVMOptions -XX:+UseG1GC -XX:G1NewSizePercent=20 -XX:G1ReservePercent=20 -XX:G1HeapRegionSize=32M -XX:MaxGCPauseMillis=50 -XX:+PerfDisableSharedMem -XX:MinHeapFreeRatio=25 -XX:MaxHeapFreeRatio=40
+	Loaded Shaderpack: (off)
+	Yumi MC Core: 1.0.0-beta.1+1.21.1
+	Mods: 
+		ae2: Applied Energistics 2 v19.2.17
+		aero_addition: Aeronautics Addition v1.0.2
+		aero_cam_sync: Aeronautics Camera Sync v1.3.6
+		aeronautics: Create Aeronautics v1.3.1
+		aeronautics_bundled: Create Aeronautics v1.3.1
+		aeronautics_modernui_compat: Aeronautics: ModernUI Compat v1.0.1
+		aeronautics_utility_objects: Create Aeronautics: Transmission & Linkage v0.2.7
+		aeronauticshotairfix: Aeronautics Hot Air Fix v1.1.0
+		aeroworks: Create: Aeroworks v1.4.2
+		alloyed: Alloyed v3.0.11+1.21.1
+		appmek: Applied Mekanistics v1.6.3
+		architectury: Architectury v13.0.11
+		bigcontraptions: Create: Big Contraptions v1.0
+		catalyst: Catalyst v0.17.0
+		climbable_ropes: Climbable Ropes for Create Aeronautics v2.1.1
+		cold_sweat: Cold Sweat v2.4.2
+		coldsweat_altitude: Cold Sweat: Altitude v0.6.3
+		compat_manager: Compat Manager v1.0.7
+		conditional_mixin: conditional mixin v0.6.4
+		copycats: Create: Copycats+ v3.0.8+mc.1.21.1-neoforge
+		create: Create v6.0.10
+		create_aeronautics_automated_logistics: Create Aeronautics: Automated Logistics v0.6.2
+		create_aeronautics_ftb_chunks: Create Aeronautics: FTB Chunks v1.1.1
+		create_aeronautics_throwable_rope_connector: Create Aeronautics: Throwable Rope Connector v0.4.3
+		create_aeronautics_toolgun: Create Aeronautics: Toolgun v0.3.6
+		create_central_kitchen: Create: Central Kitchen v2.6.0
+		create_cold_sweat: Create: Cold Sweat v1.1.2
+		create_confectionery: Create Confectionery v1.1.3.
+		create_connected: Create: Connected v1.3.2-mc1.21.1
+		create_dragons_plus: Create: Dragons Plus v1.11.7b
+		create_enchantment_industry: Create: Enchantment Industry v2.5.3
+		create_integrated_farming: Create: Integrated Farming v1.3.3
+		create_optical: Create Optical Mod v0.4.2
+		create_pattern_schematics: Create: Pattern Schematics v2.0.10
+		create_power_loader: Create: Power Loader v2.0.5-mc1.21.1
+		create_radar: Create: Radars v0.4.9.4-1.21.1
+		create_sa: Create Stuff 'N Additions v2.1.4.
+		create_the_air_wars: Create: The Air War v4.67
+		create_things_and_misc: create: things and misc v4.1.1
+		createaddition: Create Crafts & Additions v1.7.0
+		createbetterfps: CreateBetterFps v1.1.4
+		createbigcannons: Create Big Cannons v5.11.7
+		createdieselgenerators: Create Diesel Generators v1.21.1-1.3.15
+		createentitycontrol: Create:Entity Control v0.6.16.10-6.0.x
+		createframed: Create: Framed v1.8.2
+		createoreexcavation: Create Ore Excavation v1.6.8
+		createpickywheels: Create Picky Wheels v1.21.1-6.0.9-6
+		deployer: Deployer v0.1.2
+		deployer_got_dizzy: Deployer Got Dizzy v0.1.2
+		entityculling: EntityCulling v1.10.5
+		escalated: Create: Escalated v1.3.2
+		extra_gauges: Create: Extra Gauges v2.1.2
+		fabric_api_base: Forgified Fabric API Base v0.4.42+d1308ded19
+		fabric_block_view_api_v2: Forgified Fabric BlockView API (v2) v1.0.10+9afaaf8c19
+		fabric_renderer_api_v1: Forgified Fabric Renderer API (v1) v3.4.1+9125b6dc19
+		fabric_rendering_data_attachment_v1: Forgified Fabric Rendering Data Attachment (v1) v0.3.48+73761d2e19
+		farmersdelight: Farmer's Delight v1.3.3
+		flywheel: Flywheel v1.0.6
+		ftbchunks: FTB Chunks v2101.1.21
+		ftblibrary: FTB Library v2101.1.35
+		ftbteams: FTB Teams v2101.1.11
+		garnished: Create: Garnished v2.1.9.2
+		geckolib: GeckoLib 4 v4.9.2
+		guideme: GuideME v21.1.17
+		immersiveengineering: Immersive Engineering v12.4.2-194
+		interiors: Create: Interiors v0.6.1
+		iris: Iris v1.8.14-beta.1+mc1.21.1
+		jade: Jade v15.10.6+neoforge
+		jeed: Just Enough Effects Descriptions v1.21-2.3.3
+		jei: Just Enough Items v19.44.0.405
+		jei_mekanism_multiblocks: Just Enough Mekanism Multiblocks v7.18
+		jeimultiblocks: Just Enough Immersive Multiblocks v1.0.6
+		jeresources: Just Enough Resources v1.6.0.17
+		justenoughbreeding: Just Enough Breeding v3.2.1
+		lambdynlights: LambDynamicLights v4.8.10+1.21.1
+		lambdynlights_api: LambDynamicLights (API) v4.8.10+1.21.1
+		lambdynlights_runtime: LambDynamicLights (Runtime) v4.8.10+1.21.1
+		ldfix: Create Aeronautics Lift Fix v1.0.0
+		mekanism: Mekanism v10.7.19
+		mekanismgenerators: Mekanism: Generators v10.7.19
+		minecraft: Minecraft v1.21.1
+		modernui: Modern UI v3.13.0.1
+		neoforge: NeoForge v21.1.248
+		northstar: Northstar Redux v0.6.4+1.21.1
+		nowheel: Nowheel v1.0.6
+		offroad: Create Offroad v1.3.1
+		playeranimator: Player Animator v2.0.4+1.21.1
+		ponder: Ponder v1.0.82+mc1.21.1
+		portable_engine_liquid_fuel: Create Aeronautics: Portable Engine Liquid Fuel v2.0.0
+		powergrid: Create: Power Grid v0.6.1
+		pride: Pride Lib v1.2.4+1.21.1
+		ritchiesprojectilelib: Ritchie's Projectile Library v2.1.2
+		sable: Sable v2.0.5
+		sablecollisiondamage: Sable-Collision damage v1.0.8
+		sablecompanion: Sable Companion v1.6.0
+		sabledynlights: Sable Dynamic Lights v2.0.1
+		sablejade: Jade Sable Compat v1.3.0
+		simulated: Create Simulated v1.3.1
+		simulatedcoasters: Create: Coasters Simulated v0.1.5
+		sodium: Sodium v0.8.13-beta.2+mc1.21.1
+		spruceui: SpruceUI v6.2.5+1.21.1
+		transition: TRansition v1.0.21
+		trender: TRender v1.0.15
+		veil: Veil v4.4.1
+		weight: Weight v1.2.0
+		xaerolib: XaeroLib v1.7.1
+		xaerominimap: Xaero's Minimap v26.4.2
+		xaeroworldmap: Xaero's World Map v1.45.0
+		yumi_mc_core: Yumi Minecraft Libraries: Foundation v1.0.0-beta.1+1.21.1
+	Server Running: true
+	Player Count: 1 / 8; [ServerPlayer['Carryyou959'/81, l='ServerLevel[新的世界]', x=-221.54, y=95.00, z=-266.95]]
+	Active Data Packs: create:dynamic_data, vanilla, mod_data, mod/sodium, mod/simulatedcoasters, mod/fabric_renderer_api_v1, mod/geckolib, mod/playeranimator, mod/aeronautics_bundled, mod/ritchiesprojectilelib (incompatible), mod/xaeroworldmap (incompatible), mod/neoforge, mod/fabric_block_view_api_v2, mod/iris, mod/lambdynlights, mod/veil (incompatible), mod/simulated (incompatible), mod/createdieselgenerators (incompatible), mod/jeed (incompatible), mod/createbetterfps (incompatible), mod/jeresources (incompatible), mod/createpickywheels (incompatible), mod/pride, mod/create_connected (incompatible), mod/farmersdelight, mod/createframed (incompatible), mod/create_cold_sweat, mod/createentitycontrol (incompatible), mod/architectury (incompatible), mod/lambdynlights_runtime, mod/conditional_mixin (incompatible), mod/transition (incompatible), mod/fabric_rendering_data_attachment_v1, mod/createbigcannons (incompatible), mod/compat_manager, mod/ftblibrary (incompatible), mod/ftbteams (incompatible), mod/copycats (incompatible), mod/create_optical (incompatible), mod/aeronautics (incompatible), mod/xaerolib (incompatible), mod/trender (incompatible), mod/mekanism, mod/mekanismgenerators, mod/powergrid (incompatible), mod/escalated (incompatible), mod/guideme, mod/ftbchunks (incompatible), mod/jeimultiblocks, mod/jei (incompatible), mod/offroad (incompatible), mod/bigcontraptions, mod/create_things_and_misc, mod/create_confectionery, mod/fabric_api_base, mod/immersiveengineering (incompatible), mod/createoreexcavation (incompatible), mod/jade (incompatible), mod/ae2 (incompatible), mod/justenoughbreeding (incompatible), mod/aeronauticshotairfix, mod/garnished (incompatible), mod/flywheel (incompatible), mod/ponder (incompatible), mod/create (incompatible), mod/create_aeronautics_throwable_rope_connector, mod/portable_engine_liquid_fuel, mod/create_integrated_farming, mod/interiors (incompatible), mod/deployer_got_dizzy, mod/alloyed (incompatible), mod/create_dragons_plus, mod/create_central_kitchen, mod/northstar, mod/extra_gauges, mod/catalyst, mod/create_aeronautics_automated_logistics, mod/sable, mod/sablecollisiondamage, mod/sabledynlights, mod/create_aeronautics_ftb_chunks, mod/aeronautics_utility_objects, mod/weight (incompatible), mod/aero_addition, mod/aeroworks, mod/aero_cam_sync, mod/ldfix, mod/sablecompanion, mod/create_aeronautics_toolgun, mod/xaerominimap (incompatible), mod/deployer, mod/climbable_ropes, mod/create_sa, mod/spruceui, mod/create_the_air_wars (incompatible), mod/jei_mekanism_multiblocks (incompatible), mod/entityculling (incompatible), mod/nowheel (incompatible), mod/yumi_mc_core, mod/create_radar (incompatible), mod/lambdynlights_api, mod/create_pattern_schematics (incompatible), mod/modernui (incompatible), mod/aeronautics_modernui_compat, mod/create_power_loader (incompatible), mod/cold_sweat (incompatible), mod/coldsweat_altitude, mod/appmek (incompatible), mod/create_enchantment_industry, mod/sablejade, mod/createaddition (incompatible), create_dragons_plus:runtime, create_central_kitchen:runtime, builtin/pelf_compat_createqol (incompatible)
+	Available Data Packs: bundle, trade_rebalance, vanilla, mod/ae2 (incompatible), mod/aero_addition, mod/aero_cam_sync, mod/aeronautics (incompatible), mod/aeronautics_bundled, mod/aeronautics_modernui_compat, mod/aeronautics_utility_objects, mod/aeronauticshotairfix, mod/aeroworks, mod/alloyed (incompatible), mod/appmek (incompatible), mod/architectury (incompatible), mod/bigcontraptions, mod/catalyst, mod/climbable_ropes, mod/cold_sweat (incompatible), mod/coldsweat_altitude, mod/compat_manager, mod/conditional_mixin (incompatible), mod/copycats (incompatible), mod/create (incompatible), mod/create_aeronautics_automated_logistics, mod/create_aeronautics_ftb_chunks, mod/create_aeronautics_throwable_rope_connector, mod/create_aeronautics_toolgun, mod/create_central_kitchen, mod/create_cold_sweat, mod/create_confectionery, mod/create_connected (incompatible), mod/create_dragons_plus, mod/create_enchantment_industry, mod/create_integrated_farming, mod/create_optical (incompatible), mod/create_pattern_schematics (incompatible), mod/create_power_loader (incompatible), mod/create_radar (incompatible), mod/create_sa, mod/create_the_air_wars (incompatible), mod/create_things_and_misc, mod/createaddition (incompatible), mod/createbetterfps (incompatible), mod/createbigcannons (incompatible), mod/createdieselgenerators (incompatible), mod/createentitycontrol (incompatible), mod/createframed (incompatible), mod/createoreexcavation (incompatible), mod/createpickywheels (incompatible), mod/deployer, mod/deployer_got_dizzy, mod/entityculling (incompatible), mod/escalated (incompatible), mod/extra_gauges, mod/fabric_api_base, mod/fabric_block_view_api_v2, mod/fabric_renderer_api_v1, mod/fabric_rendering_data_attachment_v1, mod/farmersdelight, mod/flywheel (incompatible), mod/ftbchunks (incompatible), mod/ftblibrary (incompatible), mod/ftbteams (incompatible), mod/garnished (incompatible), mod/geckolib, mod/guideme, mod/immersiveengineering (incompatible), mod/interiors (incompatible), mod/iris, mod/jade (incompatible), mod/jeed (incompatible), mod/jei (incompatible), mod/jei_mekanism_multiblocks (incompatible), mod/jeimultiblocks, mod/jeresources (incompatible), mod/justenoughbreeding (incompatible), mod/lambdynlights, mod/lambdynlights_api, mod/lambdynlights_runtime, mod/ldfix, mod/mekanism, mod/mekanismgenerators, mod/modernui (incompatible), mod/neoforge, mod/northstar, mod/nowheel (incompatible), mod/offroad (incompatible), mod/playeranimator, mod/ponder (incompatible), mod/portable_engine_liquid_fuel, mod/powergrid (incompatible), mod/pride, mod/ritchiesprojectilelib (incompatible), mod/sable, mod/sablecollisiondamage, mod/sablecompanion, mod/sabledynlights, mod/sablejade, mod/simulated (incompatible), mod/simulatedcoasters, mod/sodium, mod/spruceui, mod/transition (incompatible), mod/trender (incompatible), mod/veil (incompatible), mod/weight (incompatible), mod/xaerolib (incompatible), mod/xaerominimap (incompatible), mod/xaeroworldmap (incompatible), mod/yumi_mc_core, mod_data, create:dynamic_data, builtin/pelf_compat_createqol (incompatible), create_dragons_plus:runtime, create_central_kitchen:runtime
+	Enabled Feature Flags: minecraft:vanilla
+	World Generation: Experimental
+	World Seed: -6625849695076600777
+	Type: Integrated Server (map_client.txt)
+	Is Modded: Definitely; Client brand changed to 'neoforge'; Server brand changed to 'neoforge'
+	Launched Version: 核后世界
+	ModLauncher: 11.0.5+main.901c6ea8
+	ModLauncher launch target: forgeclient
+	ModLauncher services: 
+		sponge-mixin-0.15.2+mixin.0.8.7.jar mixin PLUGINSERVICE 
+		loader-4.0.43.jar slf4jfixer PLUGINSERVICE 
+		loader-4.0.43.jar runtime_enum_extender PLUGINSERVICE 
+		at-modlauncher-10.0.1.jar accesstransformer PLUGINSERVICE 
+		loader-4.0.43.jar runtimedistcleaner PLUGINSERVICE 
+		modlauncher-11.0.5.jar mixin TRANSFORMATIONSERVICE 
+		modlauncher-11.0.5.jar fml TRANSFORMATIONSERVICE 
+	FML Language Providers: 
+		javafml@4.0
+		lowcodefml@4.0
+		minecraft@4.0
+	Mod List: 
+		aero_addition-1.0.2.jar                           |Aeronautics Addition          |aero_addition                 |1.0.2               |Manifest: NOSIGNATURE
+		aero_cam_sync-1.3.6.jar                           |Aeronautics Camera Sync       |aero_cam_sync                 |1.3.6               |Manifest: NOSIGNATURE
+		aeronauticshotairfix-1.1.0.jar                    |Aeronautics Hot Air Fix       |aeronauticshotairfix          |1.1.0               |Manifest: NOSIGNATURE
+		aeronautics_modernui_compat-1.0.1.jar             |Aeronautics: ModernUI Compat  |aeronautics_modernui_compat   |1.0.1               |Manifest: NOSIGNATURE
+		[合金 ／ 机械动力：合金] alloyed-3.0.11+1.21.1-neoforge.jar |Alloyed                       |alloyed                       |3.0.11+1.21.1       |Manifest: NOSIGNATURE
+		[应用能源2] appliedenergistics2-19.2.17.jar           |Applied Energistics 2         |ae2                           |19.2.17             |Manifest: NOSIGNATURE
+		[应用能源：通用机械附属] Applied-Mekanistics-1.6.3.jar       |Applied Mekanistics           |appmek                        |1.6.3               |Manifest: NOSIGNATURE
+		architectury-13.0.11-neoforge.jar                 |Architectury                  |architectury                  |13.0.11             |Manifest: NOSIGNATURE
+		catalyst-0.17.0.jar                               |Catalyst                      |catalyst                      |0.17.0              |Manifest: NOSIGNATURE
+		climbable_ropes-2.1.1.jar                         |Climbable Ropes for Create Aer|climbable_ropes               |2.1.1               |Manifest: NOSIGNATURE
+		[冷汗] ColdSweat-2.4.2.jar                          |Cold Sweat                    |cold_sweat                    |2.4.2               |Manifest: NOSIGNATURE
+		coldsweat_altitude-0.6.3.jar                      |Cold Sweat: Altitude          |coldsweat_altitude            |0.6.3               |Manifest: NOSIGNATURE
+		compat_manager-1.21.1-1.0.7.jar                   |Compat Manager                |compat_manager                |1.0.7               |Manifest: NOSIGNATURE
+		conditional-mixin-neoforge-0.6.4.jar              |conditional mixin             |conditional_mixin             |0.6.4               |Manifest: NOSIGNATURE
+		[机械动力] create-1.21.1-6.0.10.jar                   |Create                        |create                        |6.0.10              |Manifest: NOSIGNATURE
+		[机械动力：航空学] create-aeronautics-bundled-1.21.1-1.3.1|Create Aeronautics            |aeronautics_bundled           |1.3.1               |Manifest: NOSIGNATURE
+		dev.eriksonn.aeronautics.aeronautics-neoforge-1.21|Create Aeronautics            |aeronautics                   |1.3.1               |Manifest: NOSIGNATURE
+		create-aeronautics-lift-patch-1.1.0.jar           |Create Aeronautics Lift Fix   |ldfix                         |1.0.0               |Manifest: NOSIGNATURE
+		create_aeronautics_automated_logistics-0.6.2.jar  |Create Aeronautics: Automated |create_aeronautics_automated_l|0.6.2               |Manifest: NOSIGNATURE
+		create_aeronautics_ftb_chunks-1.21.1-NeoForge-1.1.|Create Aeronautics: FTB Chunks|create_aeronautics_ftb_chunks |1.1.1               |Manifest: NOSIGNATURE
+		portable_engine_liquid_fuel-2.0.0-neoforge-1.21.1.|Create Aeronautics: Portable E|portable_engine_liquid_fuel   |2.0.0               |Manifest: NOSIGNATURE
+		create_aeronautics_throwable_rope_connector-0.4.3.|Create Aeronautics: Throwable |create_aeronautics_throwable_r|0.4.3               |Manifest: NOSIGNATURE
+		[机械动力航空学：工具枪] create_aeronautics_toolgun-0.3.6.jar|Create Aeronautics: Toolgun   |create_aeronautics_toolgun    |0.3.6               |Manifest: NOSIGNATURE
+		create_aeronautics_transmission_linkage-0.2.7.jar |Create Aeronautics: Transmissi|aeronautics_utility_objects   |0.2.7               |Manifest: NOSIGNATURE
+		[机械动力：火炮] createbigcannons-5.11.7+mc.1.21.1.jar   |Create Big Cannons            |createbigcannons              |5.11.7              |Manifest: NOSIGNATURE
+		[机械动力：甜食] create-confectionery1.21.1_v1.1.3b.jar  |Create Confectionery          |create_confectionery          |1.1.3.              |Manifest: NOSIGNATURE
+		[机械动力：创想附加] createaddition-1.7.0.jar              |Create Crafts & Additions     |createaddition                |1.7.0               |Manifest: NOSIGNATURE
+		[机械动力：柴油动力] createdieselgenerators-1.21.1-1.3.15.j|Create Diesel Generators      |createdieselgenerators        |1.21.1-1.3.15       |Manifest: NOSIGNATURE
+		dev.ryanhcode.offroad.offroad-neoforge-1.21.1-1.3.|Create Offroad                |offroad                       |1.3.1               |Manifest: NOSIGNATURE
+		[机械动力：光学] create_optical-0.4.2.jar                |Create Optical Mod            |create_optical                |0.4.2               |Manifest: NOSIGNATURE
+		[机械动力：矿石开掘] createoreexcavation-1.21-1.6.8.jar    |Create Ore Excavation         |createoreexcavation           |1.6.8               |Manifest: NOSIGNATURE
+		createpickywheels-neoforge-1.21.1-6.0.9-6.jar     |Create Picky Wheels           |createpickywheels             |1.21.1-6.0.9-6      |Manifest: NOSIGNATURE
+		dev.simulated_team.simulated.simulated-neoforge-1.|Create Simulated              |simulated                     |1.3.1               |Manifest: NOSIGNATURE
+		[机械动力：物品附加] create-stuff-additions1.21.1_v2.1.4b.j|Create Stuff 'N Additions     |create_sa                     |2.1.4.              |Manifest: NOSIGNATURE
+		aeroworks-1.4.2.jar                               |Create: Aeroworks             |aeroworks                     |1.4.2               |Manifest: NOSIGNATURE
+		bigcontraptions-neoforge-1.0.jar                  |Create: Big Contraptions      |bigcontraptions               |1.0                 |Manifest: NOSIGNATURE
+		[机械动力：中央厨房] create-central-kitchen-2.6.0.jar      |Create: Central Kitchen       |create_central_kitchen        |2.6.0               |Manifest: NOSIGNATURE
+		simulatedcoasters-0.1.5.jar                       |Create: Coasters Simulated    |simulatedcoasters             |0.1.5               |Manifest: NOSIGNATURE
+		[机械动力：冷汗] create_cold_sweat-1.1.2.jar             |Create: Cold Sweat            |create_cold_sweat             |1.1.2               |Manifest: NOSIGNATURE
+		[机械动力：创意传动] create_connected-1.3.2-mc1.21.1.jar   |Create: Connected             |create_connected              |1.3.2-mc1.21.1      |Manifest: NOSIGNATURE
+		[机械动力：伪装方块+] copycats-3.0.8+mc.1.21.1-neoforge.jar|Create: Copycats+             |copycats                      |3.0.8+mc.1.21.1-neof|Manifest: NOSIGNATURE
+		[机械动力：龙+] CreateDragonsPlus-1.11.7b.jar           |Create: Dragons Plus          |create_dragons_plus           |1.11.7b             |Manifest: NOSIGNATURE
+		[机械动力：附魔工业] create-enchantment-industry-2.5.3.jar |Create: Enchantment Industry  |create_enchantment_industry   |2.5.3               |Manifest: NOSIGNATURE
+		[机械动力：自动扶梯] escalated-1.3.2+mc.1.21.1.jar         |Create: Escalated             |escalated                     |1.3.2               |Manifest: NOSIGNATURE
+		[机械动力：更多仪表] extra_gauges-2.1.2.jar                |Create: Extra Gauges          |extra_gauges                  |2.1.2               |Manifest: NOSIGNATURE
+		[机械动力：多彩边框] createframed-1.21.1-1.8.2.jar         |Create: Framed                |createframed                  |1.8.2               |Manifest: NOSIGNATURE
+		[机械动力：装食] garnished-2.1.9.2+1.21.1-neoforged.jar  |Create: Garnished             |garnished                     |2.1.9.2             |Manifest: NOSIGNATURE
+		[机械动力：集成农业] create-integrated-farming-1.3.3.jar   |Create: Integrated Farming    |create_integrated_farming     |1.3.3               |Manifest: NOSIGNATURE
+		[机械动力：内饰] interiors-1.21.1-neoforge-0.6.1.jar     |Create: Interiors             |interiors                     |0.6.1               |Manifest: NOSIGNATURE
+		[机械动力：模式蓝图] create_pattern_schematics-2.0.10.jar  |Create: Pattern Schematics    |create_pattern_schematics     |2.0.10              |Manifest: NOSIGNATURE
+		[机械动力：交错电网] powergrid-mc1.21.1-0.6.1.jar          |Create: Power Grid            |powergrid                     |0.6.1               |Manifest: NOSIGNATURE
+		[机械动力：动力加载器] create_power_loader-2.0.5-mc1.21.1.ja|Create: Power Loader          |create_power_loader           |2.0.5-mc1.21.1      |Manifest: NOSIGNATURE
+		[机械动力：雷达] create_radar-0.4.9.4-1.21.1.jar         |Create: Radars                |create_radar                  |0.4.9.4-1.21.1      |Manifest: NOSIGNATURE
+		[机械动力：空战] create_the_air_wars-4.67.jar            |Create: The Air War           |create_the_air_wars           |4.67                |Manifest: NOSIGNATURE
+		[机械动力：实用物件] create_things_and_misc-4.1.1-neoforge-|create: things and misc       |create_things_and_misc        |4.1.1               |Manifest: NOSIGNATURE
+		[机械动力：实体控制] CreateEntityControl-0.6.16.10-6.0.x-ne|Create:Entity Control         |createentitycontrol           |0.6.16.10-6.0.x     |Manifest: NOSIGNATURE
+		createbetterfps-1.21.1-1.1.4.jar                  |CreateBetterFps               |createbetterfps               |1.1.4               |Manifest: NOSIGNATURE
+		deployer-0.1.2.jar                                |Deployer                      |deployer                      |0.1.2               |Manifest: NOSIGNATURE
+		deployer_got_dizzy-0.1.2.jar                      |Deployer Got Dizzy            |deployer_got_dizzy            |0.1.2               |Manifest: NOSIGNATURE
+		[实体渲染机制优化] entityculling-neoforge-1.10.5-mc1.21.1.|EntityCulling                 |entityculling                 |1.10.5              |Manifest: NOSIGNATURE
+		[农夫乐事] FarmersDelight-1.21.1-1.3.3.jar            |Farmer's Delight              |farmersdelight                |1.3.3               |Manifest: NOSIGNATURE
+		flywheel-neoforge-1.21.1-1.0.6.jar                |Flywheel                      |flywheel                      |1.0.6               |Manifest: NOSIGNATURE
+		fabric-api-base-0.4.42+d1308ded19.jar             |Forgified Fabric API Base     |fabric_api_base               |0.4.42+d1308ded19   |Manifest: NOSIGNATURE
+		fabric-block-view-api-v2-1.0.10+9afaaf8c19.jar    |Forgified Fabric BlockView API|fabric_block_view_api_v2      |1.0.10+9afaaf8c19   |Manifest: NOSIGNATURE
+		fabric-renderer-api-v1-3.4.1+9125b6dc19.jar       |Forgified Fabric Renderer API |fabric_renderer_api_v1        |3.4.1+9125b6dc19    |Manifest: NOSIGNATURE
+		fabric-rendering-data-attachment-v1-0.3.48+73761d2|Forgified Fabric Rendering Dat|fabric_rendering_data_attachme|0.3.48+73761d2e19   |Manifest: NOSIGNATURE
+		[FTB 区块] ftb-chunks-neoforge-2101.1.21.jar        |FTB Chunks                    |ftbchunks                     |2101.1.21           |Manifest: NOSIGNATURE
+		ftb-library-neoforge-2101.1.35.jar                |FTB Library                   |ftblibrary                    |2101.1.35           |Manifest: NOSIGNATURE
+		[FTB 团队] ftb-teams-neoforge-2101.1.11.jar         |FTB Teams                     |ftbteams                      |2101.1.11           |Manifest: NOSIGNATURE
+		geckolib-neoforge-1.21.1-4.9.2.jar                |GeckoLib 4                    |geckolib                      |4.9.2               |Manifest: NOSIGNATURE
+		guideme-21.1.17.jar                               |GuideME                       |guideme                       |21.1.17             |Manifest: NOSIGNATURE
+		[沉浸工程] ImmersiveEngineering-1.21.1-12.4.2-194.jar |Immersive Engineering         |immersiveengineering          |12.4.2-194          |Manifest: NOSIGNATURE
+		iris-neoforge-1.8.14-beta.1+mc1.21.1.jar          |Iris                          |iris                          |1.8.14-beta.1+mc1.21|Manifest: NOSIGNATURE
+		[玉 🔍] Jade-1.21.1-NeoForge-15.10.6.jar           |Jade                          |jade                          |15.10.6+neoforge    |Manifest: NOSIGNATURE
+		sablejade-1.3.0.jar                               |Jade Sable Compat             |sablejade                     |1.3.0               |Manifest: NOSIGNATURE
+		justenoughbreeding-neoforge-1.21.1-3.2.1.jar      |Just Enough Breeding          |justenoughbreeding            |3.2.1               |Manifest: NOSIGNATURE
+		[JEI药水效果] jeed-1.21-2.3.3.jar                     |Just Enough Effects Descriptio|jeed                          |1.21-2.3.3          |Manifest: NOSIGNATURE
+		jeimultiblocks-1.21.1-1.0.6.jar                   |Just Enough Immersive Multiblo|jeimultiblocks                |1.0.6               |Manifest: NOSIGNATURE
+		[JEI物品管理器] jei-1.21.1-neoforge-19.44.0.405.jar    |Just Enough Items             |jei                           |19.44.0.405         |Manifest: NOSIGNATURE
+		JustEnoughMekanismMultiblocks-1.21.1-7.18.jar     |Just Enough Mekanism Multibloc|jei_mekanism_multiblocks      |7.18                |Manifest: NOSIGNATURE
+		JustEnoughResources-NeoForge-1.21.1-1.6.0.17.jar  |Just Enough Resources         |jeresources                   |1.6.0.17            |Manifest: NOSIGNATURE
+		[Lambd的动态光源] lambdynamiclights-4.8.10+1.21.1.jar  |LambDynamicLights             |lambdynlights                 |4.8.10+1.21.1       |Manifest: NOSIGNATURE
+		lambdynamiclights-api-4.8.10+1.21.1-mojmap.jar    |LambDynamicLights (API)       |lambdynlights_api             |4.8.10+1.21.1       |Manifest: NOSIGNATURE
+		lambdynamiclights-4.8.10+1.21.1-neoforge.jar      |LambDynamicLights (Runtime)   |lambdynlights_runtime         |4.8.10+1.21.1       |Manifest: NOSIGNATURE
+		[通用机械] Mekanism-1.21.1-10.7.19.85.jar             |Mekanism                      |mekanism                      |10.7.19             |Manifest: NOSIGNATURE
+		[通用机械发电机] MekanismGenerators-1.21.1-10.7.19.85.jar|Mekanism: Generators          |mekanismgenerators            |10.7.19             |Manifest: NOSIGNATURE
+		client-1.21.1-20240808.144430-srg.jar             |Minecraft                     |minecraft                     |1.21.1              |Manifest: a1:d4:5e:04:4f:d3:d6:e0:7b:37:97:cf:77:b0:de:ad:4a:47:ce:8c:96:49:5f:0a:cf:8c:ae:b2:6d:4b:8a:3f
+		[现代化 UI] ModernUI-NeoForge-1.21.1-3.13.0.1-univers|Modern UI                     |modernui                      |3.13.0.1            |Manifest: 01:c4:52:25:b1:6e:5f:ac:fe:88:35:7e:cf:65:2f:69:1d:56:db:2b:93:f8:dd:7c:93:47:04:8c:e4:22:13:91
+		neoforge-21.1.248-universal.jar                   |NeoForge                      |neoforge                      |21.1.248            |Manifest: NOSIGNATURE
+		[机械动力：北极星] Northstar-0.6.4+1.21.1.jar             |Northstar Redux               |northstar                     |0.6.4+1.21.1        |Manifest: NOSIGNATURE
+		nowheel-1.0.6+1.21.1neoforge.jar                  |Nowheel                       |nowheel                       |1.0.6               |Manifest: NOSIGNATURE
+		player-animation-lib-forge-2.0.4+1.21.1.jar       |Player Animator               |playeranimator                |2.0.4+1.21.1        |Manifest: NOSIGNATURE
+		ponder-neoforge-1.0.82+mc1.21.1.jar               |Ponder                        |ponder                        |1.0.82+mc1.21.1     |Manifest: NOSIGNATURE
+		pridelib-1.2.4+1.21.1-mojmap.jar                  |Pride Lib                     |pride                         |1.2.4+1.21.1        |Manifest: NOSIGNATURE
+		ritchiesprojectilelib-2.1.2+mc.1.21.1-neoforge.jar|Ritchie's Projectile Library  |ritchiesprojectilelib         |2.1.2               |Manifest: NOSIGNATURE
+		sable-neoforge-1.21.1-2.0.5.jar                   |Sable                         |sable                         |2.0.5               |Manifest: NOSIGNATURE
+		sable-companion-common-1.21.1-1.6.0.jar           |Sable Companion               |sablecompanion                |1.6.0               |Manifest: NOSIGNATURE
+		sable-dynamic-lights-1.21.1-2.0.1.jar             |Sable Dynamic Lights          |sabledynlights                |2.0.1               |Manifest: NOSIGNATURE
+		sablecollisiondamage-1.0.8.jar                    |Sable-Collision damage        |sablecollisiondamage          |1.0.8               |Manifest: NOSIGNATURE
+		net.caffeinemc.sodium-neoforge-0.8.13-beta.2+mc1.2|Sodium                        |sodium                        |0.8.13-beta.2+mc1.21|Manifest: NOSIGNATURE
+		spruceui-6.2.5+1.21.1-mojmap.jar                  |SpruceUI                      |spruceui                      |6.2.5+1.21.1        |Manifest: NOSIGNATURE
+		TRansition-1.0.21-1.21.1-neoforge-SNAPSHOT.jar    |TRansition                    |transition                    |1.0.21              |Manifest: NOSIGNATURE
+		TRender-1.0.15-1.21.1-neoforge-SNAPSHOT.jar       |TRender                       |trender                       |1.0.15              |Manifest: NOSIGNATURE
+		veil-neoforge-1.21.1-4.4.1.jar                    |Veil                          |veil                          |4.4.1               |Manifest: NOSIGNATURE
+		weight-1.2.0.jar                                  |Weight                        |weight                        |1.2.0               |Manifest: NOSIGNATURE
+		[Xaero的小地图] xaerominimap-neoforge-1.21.1-26.4.2.ja|Xaero's Minimap               |xaerominimap                  |26.4.2              |Manifest: NOSIGNATURE
+		[Xaero的世界地图] xaeroworldmap-neoforge-1.21.1-1.45.0.|Xaero's World Map             |xaeroworldmap                 |1.45.0              |Manifest: NOSIGNATURE
+		xaerolib-neoforge-1.21.1-1.7.1.jar                |XaeroLib                      |xaerolib                      |1.7.1               |Manifest: NOSIGNATURE
+		yumi-mc-foundation-1.0.0-beta.1+1.21.1-mojmap.jar |Yumi Minecraft Libraries: Foun|yumi_mc_core                  |1.0.0-beta.1+1.21.1 |Manifest: NOSIGNATURE
+	Crash Report UUID: 77e050a3-78df-4e7e-934e-a5e2f15972bc
+	FML: 4.0.43
+	NeoForge: 21.1.248
+	Flywheel Backend: flywheel:indirect
+	Fragments: Back Stack Index: 0
+FragmentManager misc state:
+  mHost=icyllis.modernui.mc.UIManager$HostCallbacks@46e85e64
+  mContainer=icyllis.modernui.mc.UIManager$HostCallbacks@46e85e64
+  mCurState=7 mStateSaved=false mStopped=false mDestroyed=false

@@ -1,0 +1,8 @@
+{
+  "source_item": "kaleidoscope_end:chorus_flower_cake",
+  "comment": "Edit this file to add custom nutrition values",
+  "auto_calculated": false,
+  "nutritions": {
+    "fruits": 0.09
+  }
+}

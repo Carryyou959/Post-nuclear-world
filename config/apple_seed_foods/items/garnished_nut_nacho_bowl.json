@@ -1,0 +1,8 @@
+{
+  "source_item": "garnished:nut_nacho_bowl",
+  "comment": "Edit this file to add custom nutrition values",
+  "auto_calculated": false,
+  "nutritions": {
+    "sugars": 0.012
+  }
+}

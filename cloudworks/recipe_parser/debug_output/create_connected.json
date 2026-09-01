@@ -1,0 +1,7129 @@
+[
+  {
+    "recipe_id": "create_connected:item_application/yellow_dyeing_catalyst_garnished_from_empty",
+    "mod_id": "create_connected",
+    "recipe_type": "create:item_application",
+    "inputs": [
+      {
+        "id": "create_connected:empty_fan_catalyst",
+        "count": 1.0,
+        "unit": "item",
+        "type": "solid",
+        "rate": 1.0
+      },
+      {
+        "id": "",
+        "count": 1.0,
+        "unit": "item",
+        "type": "solid",
+        "rate": 1.0
+      },
+      {
+        "id": "",
+        "count": 1.0,
+        "unit": "item",
+        "type": "tag",
+        "rate": 1.0
+      },
+      {
+        "id": "",
+        "count": 1.0,
+        "unit": "fluid",
+        "type": "fluid",
+        "rate": 1.0
+      }
+    ],
+    "outputs": [
+      {
+        "id": "create_connected:yellow_fan_dyeing_catalyst",
+        "count": 1.0,
+        "unit": "item",
+        "type": "solid",
+        "rate": 1.0
+      }
+    ]
+  },
+  {
+    "recipe_id": "create_connected:item_application/magenta_dyeing_catalyst_garnished_from_empty",
+    "mod_id": "create_connected",
+    "recipe_type": "create:item_application",
+    "inputs": [
+      {
+        "id": "create_connected:empty_fan_catalyst",
+        "count": 1.0,
+        "unit": "item",
+        "type": "solid",
+        "rate": 1.0
+      },
+      {
+        "id": "",
+        "count": 1.0,
+        "unit": "item",
+        "type": "solid",
+        "rate": 1.0
+      },
+      {
+        "id": "",
+        "count": 1.0,
+        "unit": "item",
+        "type": "tag",
+        "rate": 1.0
+      },
+      {
+        "id": "",
+        "count": 1.0,
+        "unit": "fluid",
+        "type": "fluid",
+        "rate": 1.0
+      }
+    ],
+    "outputs": [
+      {
+        "id": "create_connected:magenta_fan_dyeing_catalyst",
+        "count": 1.0,
+        "unit": "item",
+        "type": "solid",
+        "rate": 1.0
+      }
+    ]
+  },
+  {
+    "recipe_id": "create_connected:item_application/red_dyeing_catalyst_garnished_from_empty",
+    "mod_id": "create_connected",
+    "recipe_type": "create:item_application",
+    "inputs": [
+      {
+        "id": "create_connected:empty_fan_catalyst",
+        "count": 1.0,
+        "unit": "item",
+        "type": "solid",
+        "rate": 1.0
+      },
+      {
+        "id": "",
+        "count": 1.0,
+        "unit": "item",
+        "type": "solid",
+        "rate": 1.0
+      },
+      {
+        "id": "",
+        "count": 1.0,
+        "unit": "item",
+        "type": "tag",
+        "rate": 1.0
+      },
+      {
+        "id": "",
+        "count": 1.0,
+        "unit": "fluid",
+        "type": "fluid",
+        "rate": 1.0
+      }
+    ],
+    "outputs": [
+      {
+        "id": "create_connected:red_fan_dyeing_catalyst",
+        "count": 1.0,
+        "unit": "item",
+        "type": "solid",
+        "rate": 1.0
+      }
+    ]
+  },
+  {
+    "recipe_id": "create_connected:item_application/brown_dyeing_catalyst_garnished_from_empty",
+    "mod_id": "create_connected",
+    "recipe_type": "create:item_application",
+    "inputs": [
+      {
+        "id": "create_connected:empty_fan_catalyst",
+        "count": 1.0,
+        "unit": "item",
+        "type": "solid",
+        "rate": 1.0
+      },
+      {
+        "id": "",
+        "count": 1.0,
+        "unit": "item",
+        "type": "solid",
+        "rate": 1.0
+      },
+      {
+        "id": "",
+        "count": 1.0,
+        "unit": "item",
+        "type": "tag",
+        "rate": 1.0
+      },
+      {
+        "id": "",
+        "count": 1.0,
+        "unit": "fluid",
+        "type": "fluid",
+        "rate": 1.0
+      }
+    ],
+    "outputs": [
+      {
+        "id": "create_connected:brown_fan_dyeing_catalyst",
+        "count": 1.0,
+        "unit": "item",
+        "type": "solid",
+        "rate": 1.0
+      }
+    ]
+  },
+  {
+    "recipe_id": "create_connected:filling/white_fan_dyeing_catalyst_garnished",
+    "mod_id": "create_connected",
+    "recipe_type": "create:filling",
+    "inputs": [
+      {
+        "id": "create_connected:empty_fan_catalyst",
+        "count": 1.0,
+        "unit": "item",
+        "type": "solid",
+        "rate": 1.0
+      }
+    ],
+    "outputs": [
+      {
+        "id": "create_connected:white_fan_dyeing_catalyst",
+        "count": 1.0,
+        "unit": "item",
+        "type": "solid",
+        "rate": 1.0
+      }
+    ]
+  },
+  {
+    "recipe_id": "create_connected:crafting/palettes/copycat_fence_compat",
+    "mod_id": "create_connected",
+    "recipe_type": "minecraft:crafting_shapeless",
+    "inputs": [
+      {
+        "id": "create_connected:copycat_fence",
+        "count": 1.0,
+        "unit": "item",
+        "type": "solid",
+        "rate": 1.0
+      }
+    ],
+    "outputs": [
+      {
+        "id": "copycats:copycat_fence",
+        "count": 1.0,
+        "unit": "item",
+        "type": "solid",
+        "rate": 1.0
+      }
+    ]
+  },
+  {
+    "recipe_id": "create_connected:crafting/kinetics/empty_fan_catalyst_from_smoking",
+    "mod_id": "create_connected",
+    "recipe_type": "minecraft:crafting_shapeless",
+    "inputs": [
+      {
+        "id": "create_connected:fan_smoking_catalyst",
+        "count": 1.0,
+        "unit": "item",
+        "type": "solid",
+        "rate": 1.0
+      }
+    ],
+    "outputs": [
+      {
+        "id": "create_connected:empty_fan_catalyst",
+        "count": 1.0,
+        "unit": "item",
+        "type": "solid",
+        "rate": 1.0
+      }
+    ]
+  },
+  {
+    "recipe_id": "create_connected:crafting/kinetics/redstone_link_wildcard",
+    "mod_id": "create_connected",
+    "recipe_type": "minecraft:crafting_shapeless",
+    "inputs": [
+      {
+        "id": "create:transmitter",
+        "count": 1.0,
+        "unit": "item",
+        "type": "solid",
+        "rate": 1.0
+      },
+      {
+        "id": "create:crafter_slot_cover",
+        "count": 1.0,
+        "unit": "item",
+        "type": "solid",
+        "rate": 1.0
+      }
+    ],
+    "outputs": [
+      {
+        "id": "create_connected:redstone_link_wildcard",
+        "count": 1.0,
+        "unit": "item",
+        "type": "solid",
+        "rate": 1.0
+      }
+    ]
+  },
+  {
+    "recipe_id": "create_connected:item_application/freezing_catalyst_from_empty",
+    "mod_id": "create_connected",
+    "recipe_type": "create:item_application",
+    "inputs": [
+      {
+        "id": "create_connected:empty_fan_catalyst",
+        "count": 1.0,
+        "unit": "item",
+        "type": "solid",
+        "rate": 1.0
+      },
+      {
+        "id": "minecraft:powder_snow_bucket",
+        "count": 1.0,
+        "unit": "item",
+        "type": "solid",
+        "rate": 1.0
+      }
+    ],
+    "outputs": [
+      {
+        "id": "create_connected:fan_freezing_catalyst",
+        "count": 1.0,
+        "unit": "item",
+        "type": "solid",
+        "rate": 1.0
+      }
+    ]
+  },
+  {
+    "recipe_id": "create_connected:crafting/kinetics/brake",
+    "mod_id": "create_connected",
+    "recipe_type": "minecraft:crafting_shapeless",
+    "inputs": [
+      {
+        "id": "create:andesite_casing",
+        "count": 1.0,
+        "unit": "item",
+        "type": "solid",
+        "rate": 1.0
+      },
+      {
+        "id": "create:shaft",
+        "count": 1.0,
+        "unit": "item",
+        "type": "solid",
+        "rate": 1.0
+      },
+      {
+        "id": "minecraft:redstone",
+        "count": 1.0,
+        "unit": "item",
+        "type": "solid",
+        "rate": 1.0
+      },
+      {
+        "id": "minecraft:obsidian",
+        "count": 1.0,
+        "unit": "item",
+        "type": "solid",
+        "rate": 1.0
+      }
+    ],
+    "outputs": [
+      {
+        "id": "create_connected:brake",
+        "count": 1.0,
+        "unit": "item",
+        "type": "solid",
+        "rate": 1.0
+      }
+    ]
+  },
+  {
+    "recipe_id": "create_connected:crafting/palettes/copycat_vertical_step_compat",
+    "mod_id": "create_connected",
+    "recipe_type": "minecraft:crafting_shapeless",
+    "inputs": [
+      {
+        "id": "create_connected:copycat_vertical_step",
+        "count": 1.0,
+        "unit": "item",
+        "type": "solid",
+        "rate": 1.0
+      }
+    ],
+    "outputs": [
+      {
+        "id": "copycats:copycat_vertical_step",
+        "count": 1.0,
+        "unit": "item",
+        "type": "solid",
+        "rate": 1.0
+      }
+    ]
+  },
+  {
+    "recipe_id": "create_connected:crafting/kinetics/centrifugal_clutch",
+    "mod_id": "create_connected",
+    "recipe_type": "minecraft:crafting_shapeless",
+    "inputs": [
+      {
+        "id": "create:andesite_casing",
+        "count": 1.0,
+        "unit": "item",
+        "type": "solid",
+        "rate": 1.0
+      },
+      {
+        "id": "create:shaft",
+        "count": 1.0,
+        "unit": "item",
+        "type": "solid",
+        "rate": 1.0
+      },
+      {
+        "id": "create:iron_sheet",
+        "count": 1.0,
+        "unit": "item",
+        "type": "solid",
+        "rate": 1.0
+      },
+      {
+        "id": "create:speedometer",
+        "count": 1.0,
+        "unit": "item",
+        "type": "solid",
+        "rate": 1.0
+      }
+    ],
+    "outputs": [
+      {
+        "id": "create_connected:centrifugal_clutch",
+        "count": 1.0,
+        "unit": "item",
+        "type": "solid",
+        "rate": 1.0
+      }
+    ]
+  },
+  {
+    "recipe_id": "create_connected:item_application/haunting_catalyst_from_empty",
+    "mod_id": "create_connected",
+    "recipe_type": "create:item_application",
+    "inputs": [
+      {
+        "id": "create_connected:empty_fan_catalyst",
+        "count": 1.0,
+        "unit": "item",
+        "type": "solid",
+        "rate": 1.0
+      },
+      {
+        "id": "minecraft:soul_sand",
+        "count": 1.0,
+        "unit": "item",
+        "type": "solid",
+        "rate": 1.0
+      }
+    ],
+    "outputs": [
+      {
+        "id": "create_connected:fan_haunting_catalyst",
+        "count": 1.0,
+        "unit": "item",
+        "type": "solid",
+        "rate": 1.0
+      }
+    ]
+  },
+  {
+    "recipe_id": "create_connected:crafting/kinetics/kinetic_bridge",
+    "mod_id": "create_connected",
+    "recipe_type": "minecraft:crafting_shaped",
+    "inputs": [
+      {
+        "id": "create:brass_casing",
+        "count": 2.0,
+        "unit": "item",
+        "type": "solid",
+        "rate": 1.0
+      },
+      {
+        "id": "create:shaft",
+        "count": 2.0,
+        "unit": "item",
+        "type": "solid",
+        "rate": 1.0
+      },
+      {
+        "id": "create:clutch",
+        "count": 1.0,
+        "unit": "item",
+        "type": "solid",
+        "rate": 1.0
+      }
+    ],
+    "outputs": [
+      {
+        "id": "create_connected:kinetic_bridge",
+        "count": 1.0,
+        "unit": "item",
+        "type": "solid",
+        "rate": 1.0
+      }
+    ]
+  },
+  {
+    "recipe_id": "create_connected:crafting/palettes/copycat_block_compat",
+    "mod_id": "create_connected",
+    "recipe_type": "minecraft:crafting_shapeless",
+    "inputs": [
+      {
+        "id": "create_connected:copycat_block",
+        "count": 1.0,
+        "unit": "item",
+        "type": "solid",
+        "rate": 1.0
+      }
+    ],
+    "outputs": [
+      {
+        "id": "copycats:copycat_block",
+        "count": 1.0,
+        "unit": "item",
+        "type": "solid",
+        "rate": 1.0
+      }
+    ]
+  },
+  {
+    "recipe_id": "create_connected:item_application/gray_dyeing_catalyst_dragons_plus_from_empty",
+    "mod_id": "create_connected",
+    "recipe_type": "create:item_application",
+    "inputs": [
+      {
+        "id": "create_connected:empty_fan_catalyst",
+        "count": 1.0,
+        "unit": "item",
+        "type": "solid",
+        "rate": 1.0
+      },
+      {
+        "id": "",
+        "count": 1.0,
+        "unit": "item",
+        "type": "solid",
+        "rate": 1.0
+      },
+      {
+        "id": "",
+        "count": 1.0,
+        "unit": "item",
+        "type": "tag",
+        "rate": 1.0
+      },
+      {
+        "id": "",
+        "count": 1.0,
+        "unit": "fluid",
+        "type": "fluid",
+        "rate": 1.0
+      }
+    ],
+    "outputs": [
+      {
+        "id": "create_connected:gray_fan_dyeing_catalyst",
+        "count": 1.0,
+        "unit": "item",
+        "type": "solid",
+        "rate": 1.0
+      }
+    ]
+  },
+  {
+    "recipe_id": "create_connected:item_application/black_dyeing_catalyst_dragons_plus_from_empty",
+    "mod_id": "create_connected",
+    "recipe_type": "create:item_application",
+    "inputs": [
+      {
+        "id": "create_connected:empty_fan_catalyst",
+        "count": 1.0,
+        "unit": "item",
+        "type": "solid",
+        "rate": 1.0
+      },
+      {
+        "id": "",
+        "count": 1.0,
+        "unit": "item",
+        "type": "solid",
+        "rate": 1.0
+      },
+      {
+        "id": "",
+        "count": 1.0,
+        "unit": "item",
+        "type": "tag",
+        "rate": 1.0
+      },
+      {
+        "id": "",
+        "count": 1.0,
+        "unit": "fluid",
+        "type": "fluid",
+        "rate": 1.0
+      }
+    ],
+    "outputs": [
+      {
+        "id": "create_connected:black_fan_dyeing_catalyst",
+        "count": 1.0,
+        "unit": "item",
+        "type": "solid",
+        "rate": 1.0
+      }
+    ]
+  },
+  {
+    "recipe_id": "create_connected:crafting/kinetics/kinetic_battery",
+    "mod_id": "create_connected",
+    "recipe_type": "minecraft:crafting_shaped",
+    "inputs": [
+      {
+        "id": "create:precision_mechanism",
+        "count": 1.0,
+        "unit": "item",
+        "type": "solid",
+        "rate": 1.0
+      },
+      {
+        "id": "create:brass_casing",
+        "count": 1.0,
+        "unit": "item",
+        "type": "solid",
+        "rate": 1.0
+      },
+      {
+        "id": "create:iron_sheet",
+        "count": 2.0,
+        "unit": "item",
+        "type": "solid",
+        "rate": 1.0
+      },
+      {
+        "id": "minecraft:redstone",
+        "count": 1.0,
+        "unit": "item",
+        "type": "solid",
+        "rate": 1.0
+      }
+    ],
+    "outputs": [
+      {
+        "id": "create_connected:kinetic_battery",
+        "count": 8.0,
+        "unit": "item",
+        "type": "solid",
+        "rate": 1.0
+      }
+    ]
+  },
+  {
+    "recipe_id": "create_connected:crafting/kinetics/brass_chute",
+    "mod_id": "create_connected",
+    "recipe_type": "minecraft:crafting_shaped",
+    "inputs": [
+      {
+        "id": "create:brass_sheet",
+        "count": 2.0,
+        "unit": "item",
+        "type": "solid",
+        "rate": 1.0
+      },
+      {
+        "id": "create:brass_ingot",
+        "count": 1.0,
+        "unit": "item",
+        "type": "solid",
+        "rate": 1.0
+      }
+    ],
+    "outputs": [
+      {
+        "id": "create_connected:brass_chute",
+        "count": 4.0,
+        "unit": "item",
+        "type": "solid",
+        "rate": 1.0
+      }
+    ]
+  },
+  {
+    "recipe_id": "create_connected:filling/lime_fan_dyeing_catalyst_garnished",
+    "mod_id": "create_connected",
+    "recipe_type": "create:filling",
+    "inputs": [
+      {
+        "id": "create_connected:empty_fan_catalyst",
+        "count": 1.0,
+        "unit": "item",
+        "type": "solid",
+        "rate": 1.0
+      }
+    ],
+    "outputs": [
+      {
+        "id": "create_connected:lime_fan_dyeing_catalyst",
+        "count": 1.0,
+        "unit": "item",
+        "type": "solid",
+        "rate": 1.0
+      }
+    ]
+  },
+  {
+    "recipe_id": "create_connected:item_application/yellow_dyeing_catalyst_garnished_from_empty",
+    "mod_id": "create_connected",
+    "recipe_type": "create:item_application",
+    "inputs": [
+      {
+        "id": "create_connected:empty_fan_catalyst",
+        "count": 1.0,
+        "unit": "item",
+        "type": "solid",
+        "rate": 1.0
+      },
+      {
+        "id": "",
+        "count": 1.0,
+        "unit": "item",
+        "type": "solid",
+        "rate": 1.0
+      },
+      {
+        "id": "",
+        "count": 1.0,
+        "unit": "item",
+        "type": "tag",
+        "rate": 1.0
+      },
+      {
+        "id": "",
+        "count": 1.0,
+        "unit": "fluid",
+        "type": "fluid",
+        "rate": 1.0
+      }
+    ],
+    "outputs": [
+      {
+        "id": "create_connected:yellow_fan_dyeing_catalyst",
+        "count": 1.0,
+        "unit": "item",
+        "type": "solid",
+        "rate": 1.0
+      }
+    ]
+  },
+  {
+    "recipe_id": "create_connected:item_application/magenta_dyeing_catalyst_garnished_from_empty",
+    "mod_id": "create_connected",
+    "recipe_type": "create:item_application",
+    "inputs": [
+      {
+        "id": "create_connected:empty_fan_catalyst",
+        "count": 1.0,
+        "unit": "item",
+        "type": "solid",
+        "rate": 1.0
+      },
+      {
+        "id": "",
+        "count": 1.0,
+        "unit": "item",
+        "type": "solid",
+        "rate": 1.0
+      },
+      {
+        "id": "",
+        "count": 1.0,
+        "unit": "item",
+        "type": "tag",
+        "rate": 1.0
+      },
+      {
+        "id": "",
+        "count": 1.0,
+        "unit": "fluid",
+        "type": "fluid",
+        "rate": 1.0
+      }
+    ],
+    "outputs": [
+      {
+        "id": "create_connected:magenta_fan_dyeing_catalyst",
+        "count": 1.0,
+        "unit": "item",
+        "type": "solid",
+        "rate": 1.0
+      }
+    ]
+  },
+  {
+    "recipe_id": "create_connected:item_application/red_dyeing_catalyst_garnished_from_empty",
+    "mod_id": "create_connected",
+    "recipe_type": "create:item_application",
+    "inputs": [
+      {
+        "id": "create_connected:empty_fan_catalyst",
+        "count": 1.0,
+        "unit": "item",
+        "type": "solid",
+        "rate": 1.0
+      },
+      {
+        "id": "",
+        "count": 1.0,
+        "unit": "item",
+        "type": "solid",
+        "rate": 1.0
+      },
+      {
+        "id": "",
+        "count": 1.0,
+        "unit": "item",
+        "type": "tag",
+        "rate": 1.0
+      },
+      {
+        "id": "",
+        "count": 1.0,
+        "unit": "fluid",
+        "type": "fluid",
+        "rate": 1.0
+      }
+    ],
+    "outputs": [
+      {
+        "id": "create_connected:red_fan_dyeing_catalyst",
+        "count": 1.0,
+        "unit": "item",
+        "type": "solid",
+        "rate": 1.0
+      }
+    ]
+  },
+  {
+    "recipe_id": "create_connected:item_application/brown_dyeing_catalyst_garnished_from_empty",
+    "mod_id": "create_connected",
+    "recipe_type": "create:item_application",
+    "inputs": [
+      {
+        "id": "create_connected:empty_fan_catalyst",
+        "count": 1.0,
+        "unit": "item",
+        "type": "solid",
+        "rate": 1.0
+      },
+      {
+        "id": "",
+        "count": 1.0,
+        "unit": "item",
+        "type": "solid",
+        "rate": 1.0
+      },
+      {
+        "id": "",
+        "count": 1.0,
+        "unit": "item",
+        "type": "tag",
+        "rate": 1.0
+      },
+      {
+        "id": "",
+        "count": 1.0,
+        "unit": "fluid",
+        "type": "fluid",
+        "rate": 1.0
+      }
+    ],
+    "outputs": [
+      {
+        "id": "create_connected:brown_fan_dyeing_catalyst",
+        "count": 1.0,
+        "unit": "item",
+        "type": "solid",
+        "rate": 1.0
+      }
+    ]
+  },
+  {
+    "recipe_id": "create_connected:filling/white_fan_dyeing_catalyst_garnished",
+    "mod_id": "create_connected",
+    "recipe_type": "create:filling",
+    "inputs": [
+      {
+        "id": "create_connected:empty_fan_catalyst",
+        "count": 1.0,
+        "unit": "item",
+        "type": "solid",
+        "rate": 1.0
+      }
+    ],
+    "outputs": [
+      {
+        "id": "create_connected:white_fan_dyeing_catalyst",
+        "count": 1.0,
+        "unit": "item",
+        "type": "solid",
+        "rate": 1.0
+      }
+    ]
+  },
+  {
+    "recipe_id": "create_connected:crafting/palettes/copycat_fence_compat",
+    "mod_id": "create_connected",
+    "recipe_type": "minecraft:crafting_shapeless",
+    "inputs": [
+      {
+        "id": "create_connected:copycat_fence",
+        "count": 1.0,
+        "unit": "item",
+        "type": "solid",
+        "rate": 1.0
+      }
+    ],
+    "outputs": [
+      {
+        "id": "copycats:copycat_fence",
+        "count": 1.0,
+        "unit": "item",
+        "type": "solid",
+        "rate": 1.0
+      }
+    ]
+  },
+  {
+    "recipe_id": "create_connected:crafting/kinetics/empty_fan_catalyst_from_smoking",
+    "mod_id": "create_connected",
+    "recipe_type": "minecraft:crafting_shapeless",
+    "inputs": [
+      {
+        "id": "create_connected:fan_smoking_catalyst",
+        "count": 1.0,
+        "unit": "item",
+        "type": "solid",
+        "rate": 1.0
+      }
+    ],
+    "outputs": [
+      {
+        "id": "create_connected:empty_fan_catalyst",
+        "count": 1.0,
+        "unit": "item",
+        "type": "solid",
+        "rate": 1.0
+      }
+    ]
+  },
+  {
+    "recipe_id": "create_connected:crafting/kinetics/redstone_link_wildcard",
+    "mod_id": "create_connected",
+    "recipe_type": "minecraft:crafting_shapeless",
+    "inputs": [
+      {
+        "id": "create:transmitter",
+        "count": 1.0,
+        "unit": "item",
+        "type": "solid",
+        "rate": 1.0
+      },
+      {
+        "id": "create:crafter_slot_cover",
+        "count": 1.0,
+        "unit": "item",
+        "type": "solid",
+        "rate": 1.0
+      }
+    ],
+    "outputs": [
+      {
+        "id": "create_connected:redstone_link_wildcard",
+        "count": 1.0,
+        "unit": "item",
+        "type": "solid",
+        "rate": 1.0
+      }
+    ]
+  },
+  {
+    "recipe_id": "create_connected:item_application/freezing_catalyst_from_empty",
+    "mod_id": "create_connected",
+    "recipe_type": "create:item_application",
+    "inputs": [
+      {
+        "id": "create_connected:empty_fan_catalyst",
+        "count": 1.0,
+        "unit": "item",
+        "type": "solid",
+        "rate": 1.0
+      },
+      {
+        "id": "minecraft:powder_snow_bucket",
+        "count": 1.0,
+        "unit": "item",
+        "type": "solid",
+        "rate": 1.0
+      }
+    ],
+    "outputs": [
+      {
+        "id": "create_connected:fan_freezing_catalyst",
+        "count": 1.0,
+        "unit": "item",
+        "type": "solid",
+        "rate": 1.0
+      }
+    ]
+  },
+  {
+    "recipe_id": "create_connected:crafting/kinetics/brake",
+    "mod_id": "create_connected",
+    "recipe_type": "minecraft:crafting_shapeless",
+    "inputs": [
+      {
+        "id": "create:andesite_casing",
+        "count": 1.0,
+        "unit": "item",
+        "type": "solid",
+        "rate": 1.0
+      },
+      {
+        "id": "create:shaft",
+        "count": 1.0,
+        "unit": "item",
+        "type": "solid",
+        "rate": 1.0
+      },
+      {
+        "id": "minecraft:redstone",
+        "count": 1.0,
+        "unit": "item",
+        "type": "solid",
+        "rate": 1.0
+      },
+      {
+        "id": "minecraft:obsidian",
+        "count": 1.0,
+        "unit": "item",
+        "type": "solid",
+        "rate": 1.0
+      }
+    ],
+    "outputs": [
+      {
+        "id": "create_connected:brake",
+        "count": 1.0,
+        "unit": "item",
+        "type": "solid",
+        "rate": 1.0
+      }
+    ]
+  },
+  {
+    "recipe_id": "create_connected:crafting/palettes/copycat_vertical_step_compat",
+    "mod_id": "create_connected",
+    "recipe_type": "minecraft:crafting_shapeless",
+    "inputs": [
+      {
+        "id": "create_connected:copycat_vertical_step",
+        "count": 1.0,
+        "unit": "item",
+        "type": "solid",
+        "rate": 1.0
+      }
+    ],
+    "outputs": [
+      {
+        "id": "copycats:copycat_vertical_step",
+        "count": 1.0,
+        "unit": "item",
+        "type": "solid",
+        "rate": 1.0
+      }
+    ]
+  },
+  {
+    "recipe_id": "create_connected:crafting/kinetics/centrifugal_clutch",
+    "mod_id": "create_connected",
+    "recipe_type": "minecraft:crafting_shapeless",
+    "inputs": [
+      {
+        "id": "create:andesite_casing",
+        "count": 1.0,
+        "unit": "item",
+        "type": "solid",
+        "rate": 1.0
+      },
+      {
+        "id": "create:shaft",
+        "count": 1.0,
+        "unit": "item",
+        "type": "solid",
+        "rate": 1.0
+      },
+      {
+        "id": "create:iron_sheet",
+        "count": 1.0,
+        "unit": "item",
+        "type": "solid",
+        "rate": 1.0
+      },
+      {
+        "id": "create:speedometer",
+        "count": 1.0,
+        "unit": "item",
+        "type": "solid",
+        "rate": 1.0
+      }
+    ],
+    "outputs": [
+      {
+        "id": "create_connected:centrifugal_clutch",
+        "count": 1.0,
+        "unit": "item",
+        "type": "solid",
+        "rate": 1.0
+      }
+    ]
+  },
+  {
+    "recipe_id": "create_connected:item_application/haunting_catalyst_from_empty",
+    "mod_id": "create_connected",
+    "recipe_type": "create:item_application",
+    "inputs": [
+      {
+        "id": "create_connected:empty_fan_catalyst",
+        "count": 1.0,
+        "unit": "item",
+        "type": "solid",
+        "rate": 1.0
+      },
+      {
+        "id": "minecraft:soul_sand",
+        "count": 1.0,
+        "unit": "item",
+        "type": "solid",
+        "rate": 1.0
+      }
+    ],
+    "outputs": [
+      {
+        "id": "create_connected:fan_haunting_catalyst",
+        "count": 1.0,
+        "unit": "item",
+        "type": "solid",
+        "rate": 1.0
+      }
+    ]
+  },
+  {
+    "recipe_id": "create_connected:crafting/kinetics/kinetic_bridge",
+    "mod_id": "create_connected",
+    "recipe_type": "minecraft:crafting_shaped",
+    "inputs": [
+      {
+        "id": "create:brass_casing",
+        "count": 2.0,
+        "unit": "item",
+        "type": "solid",
+        "rate": 1.0
+      },
+      {
+        "id": "create:shaft",
+        "count": 2.0,
+        "unit": "item",
+        "type": "solid",
+        "rate": 1.0
+      },
+      {
+        "id": "create:clutch",
+        "count": 1.0,
+        "unit": "item",
+        "type": "solid",
+        "rate": 1.0
+      }
+    ],
+    "outputs": [
+      {
+        "id": "create_connected:kinetic_bridge",
+        "count": 1.0,
+        "unit": "item",
+        "type": "solid",
+        "rate": 1.0
+      }
+    ]
+  },
+  {
+    "recipe_id": "create_connected:crafting/palettes/copycat_block_compat",
+    "mod_id": "create_connected",
+    "recipe_type": "minecraft:crafting_shapeless",
+    "inputs": [
+      {
+        "id": "create_connected:copycat_block",
+        "count": 1.0,
+        "unit": "item",
+        "type": "solid",
+        "rate": 1.0
+      }
+    ],
+    "outputs": [
+      {
+        "id": "copycats:copycat_block",
+        "count": 1.0,
+        "unit": "item",
+        "type": "solid",
+        "rate": 1.0
+      }
+    ]
+  },
+  {
+    "recipe_id": "create_connected:item_application/gray_dyeing_catalyst_dragons_plus_from_empty",
+    "mod_id": "create_connected",
+    "recipe_type": "create:item_application",
+    "inputs": [
+      {
+        "id": "create_connected:empty_fan_catalyst",
+        "count": 1.0,
+        "unit": "item",
+        "type": "solid",
+        "rate": 1.0
+      },
+      {
+        "id": "",
+        "count": 1.0,
+        "unit": "item",
+        "type": "solid",
+        "rate": 1.0
+      },
+      {
+        "id": "",
+        "count": 1.0,
+        "unit": "item",
+        "type": "tag",
+        "rate": 1.0
+      },
+      {
+        "id": "",
+        "count": 1.0,
+        "unit": "fluid",
+        "type": "fluid",
+        "rate": 1.0
+      }
+    ],
+    "outputs": [
+      {
+        "id": "create_connected:gray_fan_dyeing_catalyst",
+        "count": 1.0,
+        "unit": "item",
+        "type": "solid",
+        "rate": 1.0
+      }
+    ]
+  },
+  {
+    "recipe_id": "create_connected:item_application/black_dyeing_catalyst_dragons_plus_from_empty",
+    "mod_id": "create_connected",
+    "recipe_type": "create:item_application",
+    "inputs": [
+      {
+        "id": "create_connected:empty_fan_catalyst",
+        "count": 1.0,
+        "unit": "item",
+        "type": "solid",
+        "rate": 1.0
+      },
+      {
+        "id": "",
+        "count": 1.0,
+        "unit": "item",
+        "type": "solid",
+        "rate": 1.0
+      },
+      {
+        "id": "",
+        "count": 1.0,
+        "unit": "item",
+        "type": "tag",
+        "rate": 1.0
+      },
+      {
+        "id": "",
+        "count": 1.0,
+        "unit": "fluid",
+        "type": "fluid",
+        "rate": 1.0
+      }
+    ],
+    "outputs": [
+      {
+        "id": "create_connected:black_fan_dyeing_catalyst",
+        "count": 1.0,
+        "unit": "item",
+        "type": "solid",
+        "rate": 1.0
+      }
+    ]
+  },
+  {
+    "recipe_id": "create_connected:crafting/kinetics/kinetic_battery",
+    "mod_id": "create_connected",
+    "recipe_type": "minecraft:crafting_shaped",
+    "inputs": [
+      {
+        "id": "create:precision_mechanism",
+        "count": 1.0,
+        "unit": "item",
+        "type": "solid",
+        "rate": 1.0
+      },
+      {
+        "id": "create:brass_casing",
+        "count": 1.0,
+        "unit": "item",
+        "type": "solid",
+        "rate": 1.0
+      },
+      {
+        "id": "create:iron_sheet",
+        "count": 2.0,
+        "unit": "item",
+        "type": "solid",
+        "rate": 1.0
+      },
+      {
+        "id": "minecraft:redstone",
+        "count": 1.0,
+        "unit": "item",
+        "type": "solid",
+        "rate": 1.0
+      }
+    ],
+    "outputs": [
+      {
+        "id": "create_connected:kinetic_battery",
+        "count": 8.0,
+        "unit": "item",
+        "type": "solid",
+        "rate": 1.0
+      }
+    ]
+  },
+  {
+    "recipe_id": "create_connected:crafting/kinetics/brass_chute",
+    "mod_id": "create_connected",
+    "recipe_type": "minecraft:crafting_shaped",
+    "inputs": [
+      {
+        "id": "create:brass_sheet",
+        "count": 2.0,
+        "unit": "item",
+        "type": "solid",
+        "rate": 1.0
+      },
+      {
+        "id": "create:brass_ingot",
+        "count": 1.0,
+        "unit": "item",
+        "type": "solid",
+        "rate": 1.0
+      }
+    ],
+    "outputs": [
+      {
+        "id": "create_connected:brass_chute",
+        "count": 4.0,
+        "unit": "item",
+        "type": "solid",
+        "rate": 1.0
+      }
+    ]
+  },
+  {
+    "recipe_id": "create_connected:filling/lime_fan_dyeing_catalyst_garnished",
+    "mod_id": "create_connected",
+    "recipe_type": "create:filling",
+    "inputs": [
+      {
+        "id": "create_connected:empty_fan_catalyst",
+        "count": 1.0,
+        "unit": "item",
+        "type": "solid",
+        "rate": 1.0
+      }
+    ],
+    "outputs": [
+      {
+        "id": "create_connected:lime_fan_dyeing_catalyst",
+        "count": 1.0,
+        "unit": "item",
+        "type": "solid",
+        "rate": 1.0
+      }
+    ]
+  },
+  {
+    "recipe_id": "create_connected:filling/brown_fan_dyeing_catalyst_dragons_plus",
+    "mod_id": "create_connected",
+    "recipe_type": "create:filling",
+    "inputs": [
+      {
+        "id": "create_connected:empty_fan_catalyst",
+        "count": 1.0,
+        "unit": "item",
+        "type": "solid",
+        "rate": 1.0
+      }
+    ],
+    "outputs": [
+      {
+        "id": "create_connected:brown_fan_dyeing_catalyst",
+        "count": 1.0,
+        "unit": "item",
+        "type": "solid",
+        "rate": 1.0
+      }
+    ]
+  },
+  {
+    "recipe_id": "create_connected:filling/light_blue_fan_dyeing_catalyst_dragons_plus",
+    "mod_id": "create_connected",
+    "recipe_type": "create:filling",
+    "inputs": [
+      {
+        "id": "create_connected:empty_fan_catalyst",
+        "count": 1.0,
+        "unit": "item",
+        "type": "solid",
+        "rate": 1.0
+      }
+    ],
+    "outputs": [
+      {
+        "id": "create_connected:light_blue_fan_dyeing_catalyst",
+        "count": 1.0,
+        "unit": "item",
+        "type": "solid",
+        "rate": 1.0
+      }
+    ]
+  },
+  {
+    "recipe_id": "create_connected:item_application/pink_dyeing_catalyst_garnished_from_empty",
+    "mod_id": "create_connected",
+    "recipe_type": "create:item_application",
+    "inputs": [
+      {
+        "id": "create_connected:empty_fan_catalyst",
+        "count": 1.0,
+        "unit": "item",
+        "type": "solid",
+        "rate": 1.0
+      },
+      {
+        "id": "",
+        "count": 1.0,
+        "unit": "item",
+        "type": "solid",
+        "rate": 1.0
+      },
+      {
+        "id": "",
+        "count": 1.0,
+        "unit": "item",
+        "type": "tag",
+        "rate": 1.0
+      },
+      {
+        "id": "",
+        "count": 1.0,
+        "unit": "fluid",
+        "type": "fluid",
+        "rate": 1.0
+      }
+    ],
+    "outputs": [
+      {
+        "id": "create_connected:pink_fan_dyeing_catalyst",
+        "count": 1.0,
+        "unit": "item",
+        "type": "solid",
+        "rate": 1.0
+      }
+    ]
+  },
+  {
+    "recipe_id": "create_connected:crafting/kinetics/vertical_brass_gearbox_from_conversion",
+    "mod_id": "create_connected",
+    "recipe_type": "minecraft:crafting_shapeless",
+    "inputs": [
+      {
+        "id": "create_connected:brass_gearbox",
+        "count": 1.0,
+        "unit": "item",
+        "type": "solid",
+        "rate": 1.0
+      }
+    ],
+    "outputs": [
+      {
+        "id": "create_connected:vertical_brass_gearbox",
+        "count": 1.0,
+        "unit": "item",
+        "type": "solid",
+        "rate": 1.0
+      }
+    ]
+  },
+  {
+    "recipe_id": "create_connected:filling/white_fan_dyeing_catalyst_dragons_plus",
+    "mod_id": "create_connected",
+    "recipe_type": "create:filling",
+    "inputs": [
+      {
+        "id": "create_connected:empty_fan_catalyst",
+        "count": 1.0,
+        "unit": "item",
+        "type": "solid",
+        "rate": 1.0
+      }
+    ],
+    "outputs": [
+      {
+        "id": "create_connected:white_fan_dyeing_catalyst",
+        "count": 1.0,
+        "unit": "item",
+        "type": "solid",
+        "rate": 1.0
+      }
+    ]
+  },
+  {
+    "recipe_id": "create_connected:crafting/palettes/copycat_board_compat",
+    "mod_id": "create_connected",
+    "recipe_type": "minecraft:crafting_shapeless",
+    "inputs": [
+      {
+        "id": "create_connected:copycat_board",
+        "count": 1.0,
+        "unit": "item",
+        "type": "solid",
+        "rate": 1.0
+      }
+    ],
+    "outputs": [
+      {
+        "id": "copycats:copycat_board",
+        "count": 1.0,
+        "unit": "item",
+        "type": "solid",
+        "rate": 1.0
+      }
+    ]
+  },
+  {
+    "recipe_id": "create_connected:item_application/light_blue_dyeing_catalyst_dragons_plus_from_empty",
+    "mod_id": "create_connected",
+    "recipe_type": "create:item_application",
+    "inputs": [
+      {
+        "id": "create_connected:empty_fan_catalyst",
+        "count": 1.0,
+        "unit": "item",
+        "type": "solid",
+        "rate": 1.0
+      },
+      {
+        "id": "",
+        "count": 1.0,
+        "unit": "item",
+        "type": "solid",
+        "rate": 1.0
+      },
+      {
+        "id": "",
+        "count": 1.0,
+        "unit": "item",
+        "type": "tag",
+        "rate": 1.0
+      },
+      {
+        "id": "",
+        "count": 1.0,
+        "unit": "fluid",
+        "type": "fluid",
+        "rate": 1.0
+      }
+    ],
+    "outputs": [
+      {
+        "id": "create_connected:light_blue_fan_dyeing_catalyst",
+        "count": 1.0,
+        "unit": "item",
+        "type": "solid",
+        "rate": 1.0
+      }
+    ]
+  },
+  {
+    "recipe_id": "create_connected:filling/purple_fan_dyeing_catalyst_dragons_plus",
+    "mod_id": "create_connected",
+    "recipe_type": "create:filling",
+    "inputs": [
+      {
+        "id": "create_connected:empty_fan_catalyst",
+        "count": 1.0,
+        "unit": "item",
+        "type": "solid",
+        "rate": 1.0
+      }
+    ],
+    "outputs": [
+      {
+        "id": "create_connected:purple_fan_dyeing_catalyst",
+        "count": 1.0,
+        "unit": "item",
+        "type": "solid",
+        "rate": 1.0
+      }
+    ]
+  },
+  {
+    "recipe_id": "create_connected:filling/pink_fan_dyeing_catalyst_garnished",
+    "mod_id": "create_connected",
+    "recipe_type": "create:filling",
+    "inputs": [
+      {
+        "id": "create_connected:empty_fan_catalyst",
+        "count": 1.0,
+        "unit": "item",
+        "type": "solid",
+        "rate": 1.0
+      }
+    ],
+    "outputs": [
+      {
+        "id": "create_connected:pink_fan_dyeing_catalyst",
+        "count": 1.0,
+        "unit": "item",
+        "type": "solid",
+        "rate": 1.0
+      }
+    ]
+  },
+  {
+    "recipe_id": "create_connected:crafting/kinetics/empty_fan_catalyst_from_green_dye",
+    "mod_id": "create_connected",
+    "recipe_type": "minecraft:crafting_shapeless",
+    "inputs": [
+      {
+        "id": "create_connected:green_fan_dyeing_catalyst",
+        "count": 1.0,
+        "unit": "item",
+        "type": "solid",
+        "rate": 1.0
+      }
+    ],
+    "outputs": [
+      {
+        "id": "create_connected:empty_fan_catalyst",
+        "count": 1.0,
+        "unit": "item",
+        "type": "solid",
+        "rate": 1.0
+      }
+    ]
+  },
+  {
+    "recipe_id": "create_connected:item_application/yellow_dyeing_catalyst_dragons_plus_from_empty",
+    "mod_id": "create_connected",
+    "recipe_type": "create:item_application",
+    "inputs": [
+      {
+        "id": "create_connected:empty_fan_catalyst",
+        "count": 1.0,
+        "unit": "item",
+        "type": "solid",
+        "rate": 1.0
+      },
+      {
+        "id": "",
+        "count": 1.0,
+        "unit": "item",
+        "type": "solid",
+        "rate": 1.0
+      },
+      {
+        "id": "",
+        "count": 1.0,
+        "unit": "item",
+        "type": "tag",
+        "rate": 1.0
+      },
+      {
+        "id": "",
+        "count": 1.0,
+        "unit": "fluid",
+        "type": "fluid",
+        "rate": 1.0
+      }
+    ],
+    "outputs": [
+      {
+        "id": "create_connected:yellow_fan_dyeing_catalyst",
+        "count": 1.0,
+        "unit": "item",
+        "type": "solid",
+        "rate": 1.0
+      }
+    ]
+  },
+  {
+    "recipe_id": "create_connected:crafting/palettes/copycat_stairs_compat",
+    "mod_id": "create_connected",
+    "recipe_type": "minecraft:crafting_shapeless",
+    "inputs": [
+      {
+        "id": "create_connected:copycat_stairs",
+        "count": 1.0,
+        "unit": "item",
+        "type": "solid",
+        "rate": 1.0
+      }
+    ],
+    "outputs": [
+      {
+        "id": "copycats:copycat_stairs",
+        "count": 1.0,
+        "unit": "item",
+        "type": "solid",
+        "rate": 1.0
+      }
+    ]
+  },
+  {
+    "recipe_id": "create_connected:crafting/kinetics/inverted_gearshift_from_conversion",
+    "mod_id": "create_connected",
+    "recipe_type": "minecraft:crafting_shapeless",
+    "inputs": [
+      {
+        "id": "create:gearshift",
+        "count": 1.0,
+        "unit": "item",
+        "type": "solid",
+        "rate": 1.0
+      }
+    ],
+    "outputs": [
+      {
+        "id": "create_connected:inverted_gearshift",
+        "count": 1.0,
+        "unit": "item",
+        "type": "solid",
+        "rate": 1.0
+      }
+    ]
+  },
+  {
+    "recipe_id": "create_connected:item_application/yellow_dyeing_catalyst_garnished_from_empty",
+    "mod_id": "create_connected",
+    "recipe_type": "create:item_application",
+    "inputs": [
+      {
+        "id": "create_connected:empty_fan_catalyst",
+        "count": 1.0,
+        "unit": "item",
+        "type": "solid",
+        "rate": 1.0
+      },
+      {
+        "id": "",
+        "count": 1.0,
+        "unit": "item",
+        "type": "solid",
+        "rate": 1.0
+      },
+      {
+        "id": "",
+        "count": 1.0,
+        "unit": "item",
+        "type": "tag",
+        "rate": 1.0
+      },
+      {
+        "id": "",
+        "count": 1.0,
+        "unit": "fluid",
+        "type": "fluid",
+        "rate": 1.0
+      }
+    ],
+    "outputs": [
+      {
+        "id": "create_connected:yellow_fan_dyeing_catalyst",
+        "count": 1.0,
+        "unit": "item",
+        "type": "solid",
+        "rate": 1.0
+      }
+    ]
+  },
+  {
+    "recipe_id": "create_connected:item_application/magenta_dyeing_catalyst_garnished_from_empty",
+    "mod_id": "create_connected",
+    "recipe_type": "create:item_application",
+    "inputs": [
+      {
+        "id": "create_connected:empty_fan_catalyst",
+        "count": 1.0,
+        "unit": "item",
+        "type": "solid",
+        "rate": 1.0
+      },
+      {
+        "id": "",
+        "count": 1.0,
+        "unit": "item",
+        "type": "solid",
+        "rate": 1.0
+      },
+      {
+        "id": "",
+        "count": 1.0,
+        "unit": "item",
+        "type": "tag",
+        "rate": 1.0
+      },
+      {
+        "id": "",
+        "count": 1.0,
+        "unit": "fluid",
+        "type": "fluid",
+        "rate": 1.0
+      }
+    ],
+    "outputs": [
+      {
+        "id": "create_connected:magenta_fan_dyeing_catalyst",
+        "count": 1.0,
+        "unit": "item",
+        "type": "solid",
+        "rate": 1.0
+      }
+    ]
+  },
+  {
+    "recipe_id": "create_connected:item_application/red_dyeing_catalyst_garnished_from_empty",
+    "mod_id": "create_connected",
+    "recipe_type": "create:item_application",
+    "inputs": [
+      {
+        "id": "create_connected:empty_fan_catalyst",
+        "count": 1.0,
+        "unit": "item",
+        "type": "solid",
+        "rate": 1.0
+      },
+      {
+        "id": "",
+        "count": 1.0,
+        "unit": "item",
+        "type": "solid",
+        "rate": 1.0
+      },
+      {
+        "id": "",
+        "count": 1.0,
+        "unit": "item",
+        "type": "tag",
+        "rate": 1.0
+      },
+      {
+        "id": "",
+        "count": 1.0,
+        "unit": "fluid",
+        "type": "fluid",
+        "rate": 1.0
+      }
+    ],
+    "outputs": [
+      {
+        "id": "create_connected:red_fan_dyeing_catalyst",
+        "count": 1.0,
+        "unit": "item",
+        "type": "solid",
+        "rate": 1.0
+      }
+    ]
+  },
+  {
+    "recipe_id": "create_connected:item_application/brown_dyeing_catalyst_garnished_from_empty",
+    "mod_id": "create_connected",
+    "recipe_type": "create:item_application",
+    "inputs": [
+      {
+        "id": "create_connected:empty_fan_catalyst",
+        "count": 1.0,
+        "unit": "item",
+        "type": "solid",
+        "rate": 1.0
+      },
+      {
+        "id": "",
+        "count": 1.0,
+        "unit": "item",
+        "type": "solid",
+        "rate": 1.0
+      },
+      {
+        "id": "",
+        "count": 1.0,
+        "unit": "item",
+        "type": "tag",
+        "rate": 1.0
+      },
+      {
+        "id": "",
+        "count": 1.0,
+        "unit": "fluid",
+        "type": "fluid",
+        "rate": 1.0
+      }
+    ],
+    "outputs": [
+      {
+        "id": "create_connected:brown_fan_dyeing_catalyst",
+        "count": 1.0,
+        "unit": "item",
+        "type": "solid",
+        "rate": 1.0
+      }
+    ]
+  },
+  {
+    "recipe_id": "create_connected:filling/white_fan_dyeing_catalyst_garnished",
+    "mod_id": "create_connected",
+    "recipe_type": "create:filling",
+    "inputs": [
+      {
+        "id": "create_connected:empty_fan_catalyst",
+        "count": 1.0,
+        "unit": "item",
+        "type": "solid",
+        "rate": 1.0
+      }
+    ],
+    "outputs": [
+      {
+        "id": "create_connected:white_fan_dyeing_catalyst",
+        "count": 1.0,
+        "unit": "item",
+        "type": "solid",
+        "rate": 1.0
+      }
+    ]
+  },
+  {
+    "recipe_id": "create_connected:crafting/palettes/copycat_fence_compat",
+    "mod_id": "create_connected",
+    "recipe_type": "minecraft:crafting_shapeless",
+    "inputs": [
+      {
+        "id": "create_connected:copycat_fence",
+        "count": 1.0,
+        "unit": "item",
+        "type": "solid",
+        "rate": 1.0
+      }
+    ],
+    "outputs": [
+      {
+        "id": "copycats:copycat_fence",
+        "count": 1.0,
+        "unit": "item",
+        "type": "solid",
+        "rate": 1.0
+      }
+    ]
+  },
+  {
+    "recipe_id": "create_connected:crafting/kinetics/empty_fan_catalyst_from_smoking",
+    "mod_id": "create_connected",
+    "recipe_type": "minecraft:crafting_shapeless",
+    "inputs": [
+      {
+        "id": "create_connected:fan_smoking_catalyst",
+        "count": 1.0,
+        "unit": "item",
+        "type": "solid",
+        "rate": 1.0
+      }
+    ],
+    "outputs": [
+      {
+        "id": "create_connected:empty_fan_catalyst",
+        "count": 1.0,
+        "unit": "item",
+        "type": "solid",
+        "rate": 1.0
+      }
+    ]
+  },
+  {
+    "recipe_id": "create_connected:crafting/kinetics/redstone_link_wildcard",
+    "mod_id": "create_connected",
+    "recipe_type": "minecraft:crafting_shapeless",
+    "inputs": [
+      {
+        "id": "create:transmitter",
+        "count": 1.0,
+        "unit": "item",
+        "type": "solid",
+        "rate": 1.0
+      },
+      {
+        "id": "create:crafter_slot_cover",
+        "count": 1.0,
+        "unit": "item",
+        "type": "solid",
+        "rate": 1.0
+      }
+    ],
+    "outputs": [
+      {
+        "id": "create_connected:redstone_link_wildcard",
+        "count": 1.0,
+        "unit": "item",
+        "type": "solid",
+        "rate": 1.0
+      }
+    ]
+  },
+  {
+    "recipe_id": "create_connected:item_application/freezing_catalyst_from_empty",
+    "mod_id": "create_connected",
+    "recipe_type": "create:item_application",
+    "inputs": [
+      {
+        "id": "create_connected:empty_fan_catalyst",
+        "count": 1.0,
+        "unit": "item",
+        "type": "solid",
+        "rate": 1.0
+      },
+      {
+        "id": "minecraft:powder_snow_bucket",
+        "count": 1.0,
+        "unit": "item",
+        "type": "solid",
+        "rate": 1.0
+      }
+    ],
+    "outputs": [
+      {
+        "id": "create_connected:fan_freezing_catalyst",
+        "count": 1.0,
+        "unit": "item",
+        "type": "solid",
+        "rate": 1.0
+      }
+    ]
+  },
+  {
+    "recipe_id": "create_connected:crafting/kinetics/brake",
+    "mod_id": "create_connected",
+    "recipe_type": "minecraft:crafting_shapeless",
+    "inputs": [
+      {
+        "id": "create:andesite_casing",
+        "count": 1.0,
+        "unit": "item",
+        "type": "solid",
+        "rate": 1.0
+      },
+      {
+        "id": "create:shaft",
+        "count": 1.0,
+        "unit": "item",
+        "type": "solid",
+        "rate": 1.0
+      },
+      {
+        "id": "minecraft:redstone",
+        "count": 1.0,
+        "unit": "item",
+        "type": "solid",
+        "rate": 1.0
+      },
+      {
+        "id": "minecraft:obsidian",
+        "count": 1.0,
+        "unit": "item",
+        "type": "solid",
+        "rate": 1.0
+      }
+    ],
+    "outputs": [
+      {
+        "id": "create_connected:brake",
+        "count": 1.0,
+        "unit": "item",
+        "type": "solid",
+        "rate": 1.0
+      }
+    ]
+  },
+  {
+    "recipe_id": "create_connected:crafting/palettes/copycat_vertical_step_compat",
+    "mod_id": "create_connected",
+    "recipe_type": "minecraft:crafting_shapeless",
+    "inputs": [
+      {
+        "id": "create_connected:copycat_vertical_step",
+        "count": 1.0,
+        "unit": "item",
+        "type": "solid",
+        "rate": 1.0
+      }
+    ],
+    "outputs": [
+      {
+        "id": "copycats:copycat_vertical_step",
+        "count": 1.0,
+        "unit": "item",
+        "type": "solid",
+        "rate": 1.0
+      }
+    ]
+  },
+  {
+    "recipe_id": "create_connected:crafting/kinetics/centrifugal_clutch",
+    "mod_id": "create_connected",
+    "recipe_type": "minecraft:crafting_shapeless",
+    "inputs": [
+      {
+        "id": "create:andesite_casing",
+        "count": 1.0,
+        "unit": "item",
+        "type": "solid",
+        "rate": 1.0
+      },
+      {
+        "id": "create:shaft",
+        "count": 1.0,
+        "unit": "item",
+        "type": "solid",
+        "rate": 1.0
+      },
+      {
+        "id": "create:iron_sheet",
+        "count": 1.0,
+        "unit": "item",
+        "type": "solid",
+        "rate": 1.0
+      },
+      {
+        "id": "create:speedometer",
+        "count": 1.0,
+        "unit": "item",
+        "type": "solid",
+        "rate": 1.0
+      }
+    ],
+    "outputs": [
+      {
+        "id": "create_connected:centrifugal_clutch",
+        "count": 1.0,
+        "unit": "item",
+        "type": "solid",
+        "rate": 1.0
+      }
+    ]
+  },
+  {
+    "recipe_id": "create_connected:item_application/haunting_catalyst_from_empty",
+    "mod_id": "create_connected",
+    "recipe_type": "create:item_application",
+    "inputs": [
+      {
+        "id": "create_connected:empty_fan_catalyst",
+        "count": 1.0,
+        "unit": "item",
+        "type": "solid",
+        "rate": 1.0
+      },
+      {
+        "id": "minecraft:soul_sand",
+        "count": 1.0,
+        "unit": "item",
+        "type": "solid",
+        "rate": 1.0
+      }
+    ],
+    "outputs": [
+      {
+        "id": "create_connected:fan_haunting_catalyst",
+        "count": 1.0,
+        "unit": "item",
+        "type": "solid",
+        "rate": 1.0
+      }
+    ]
+  },
+  {
+    "recipe_id": "create_connected:crafting/kinetics/kinetic_bridge",
+    "mod_id": "create_connected",
+    "recipe_type": "minecraft:crafting_shaped",
+    "inputs": [
+      {
+        "id": "create:brass_casing",
+        "count": 2.0,
+        "unit": "item",
+        "type": "solid",
+        "rate": 1.0
+      },
+      {
+        "id": "create:shaft",
+        "count": 2.0,
+        "unit": "item",
+        "type": "solid",
+        "rate": 1.0
+      },
+      {
+        "id": "create:clutch",
+        "count": 1.0,
+        "unit": "item",
+        "type": "solid",
+        "rate": 1.0
+      }
+    ],
+    "outputs": [
+      {
+        "id": "create_connected:kinetic_bridge",
+        "count": 1.0,
+        "unit": "item",
+        "type": "solid",
+        "rate": 1.0
+      }
+    ]
+  },
+  {
+    "recipe_id": "create_connected:crafting/palettes/copycat_block_compat",
+    "mod_id": "create_connected",
+    "recipe_type": "minecraft:crafting_shapeless",
+    "inputs": [
+      {
+        "id": "create_connected:copycat_block",
+        "count": 1.0,
+        "unit": "item",
+        "type": "solid",
+        "rate": 1.0
+      }
+    ],
+    "outputs": [
+      {
+        "id": "copycats:copycat_block",
+        "count": 1.0,
+        "unit": "item",
+        "type": "solid",
+        "rate": 1.0
+      }
+    ]
+  },
+  {
+    "recipe_id": "create_connected:item_application/gray_dyeing_catalyst_dragons_plus_from_empty",
+    "mod_id": "create_connected",
+    "recipe_type": "create:item_application",
+    "inputs": [
+      {
+        "id": "create_connected:empty_fan_catalyst",
+        "count": 1.0,
+        "unit": "item",
+        "type": "solid",
+        "rate": 1.0
+      },
+      {
+        "id": "",
+        "count": 1.0,
+        "unit": "item",
+        "type": "solid",
+        "rate": 1.0
+      },
+      {
+        "id": "",
+        "count": 1.0,
+        "unit": "item",
+        "type": "tag",
+        "rate": 1.0
+      },
+      {
+        "id": "",
+        "count": 1.0,
+        "unit": "fluid",
+        "type": "fluid",
+        "rate": 1.0
+      }
+    ],
+    "outputs": [
+      {
+        "id": "create_connected:gray_fan_dyeing_catalyst",
+        "count": 1.0,
+        "unit": "item",
+        "type": "solid",
+        "rate": 1.0
+      }
+    ]
+  },
+  {
+    "recipe_id": "create_connected:item_application/black_dyeing_catalyst_dragons_plus_from_empty",
+    "mod_id": "create_connected",
+    "recipe_type": "create:item_application",
+    "inputs": [
+      {
+        "id": "create_connected:empty_fan_catalyst",
+        "count": 1.0,
+        "unit": "item",
+        "type": "solid",
+        "rate": 1.0
+      },
+      {
+        "id": "",
+        "count": 1.0,
+        "unit": "item",
+        "type": "solid",
+        "rate": 1.0
+      },
+      {
+        "id": "",
+        "count": 1.0,
+        "unit": "item",
+        "type": "tag",
+        "rate": 1.0
+      },
+      {
+        "id": "",
+        "count": 1.0,
+        "unit": "fluid",
+        "type": "fluid",
+        "rate": 1.0
+      }
+    ],
+    "outputs": [
+      {
+        "id": "create_connected:black_fan_dyeing_catalyst",
+        "count": 1.0,
+        "unit": "item",
+        "type": "solid",
+        "rate": 1.0
+      }
+    ]
+  },
+  {
+    "recipe_id": "create_connected:crafting/kinetics/kinetic_battery",
+    "mod_id": "create_connected",
+    "recipe_type": "minecraft:crafting_shaped",
+    "inputs": [
+      {
+        "id": "create:precision_mechanism",
+        "count": 1.0,
+        "unit": "item",
+        "type": "solid",
+        "rate": 1.0
+      },
+      {
+        "id": "create:brass_casing",
+        "count": 1.0,
+        "unit": "item",
+        "type": "solid",
+        "rate": 1.0
+      },
+      {
+        "id": "create:iron_sheet",
+        "count": 2.0,
+        "unit": "item",
+        "type": "solid",
+        "rate": 1.0
+      },
+      {
+        "id": "minecraft:redstone",
+        "count": 1.0,
+        "unit": "item",
+        "type": "solid",
+        "rate": 1.0
+      }
+    ],
+    "outputs": [
+      {
+        "id": "create_connected:kinetic_battery",
+        "count": 8.0,
+        "unit": "item",
+        "type": "solid",
+        "rate": 1.0
+      }
+    ]
+  },
+  {
+    "recipe_id": "create_connected:crafting/kinetics/brass_chute",
+    "mod_id": "create_connected",
+    "recipe_type": "minecraft:crafting_shaped",
+    "inputs": [
+      {
+        "id": "create:brass_sheet",
+        "count": 2.0,
+        "unit": "item",
+        "type": "solid",
+        "rate": 1.0
+      },
+      {
+        "id": "create:brass_ingot",
+        "count": 1.0,
+        "unit": "item",
+        "type": "solid",
+        "rate": 1.0
+      }
+    ],
+    "outputs": [
+      {
+        "id": "create_connected:brass_chute",
+        "count": 4.0,
+        "unit": "item",
+        "type": "solid",
+        "rate": 1.0
+      }
+    ]
+  },
+  {
+    "recipe_id": "create_connected:filling/lime_fan_dyeing_catalyst_garnished",
+    "mod_id": "create_connected",
+    "recipe_type": "create:filling",
+    "inputs": [
+      {
+        "id": "create_connected:empty_fan_catalyst",
+        "count": 1.0,
+        "unit": "item",
+        "type": "solid",
+        "rate": 1.0
+      }
+    ],
+    "outputs": [
+      {
+        "id": "create_connected:lime_fan_dyeing_catalyst",
+        "count": 1.0,
+        "unit": "item",
+        "type": "solid",
+        "rate": 1.0
+      }
+    ]
+  },
+  {
+    "recipe_id": "create_connected:filling/brown_fan_dyeing_catalyst_dragons_plus",
+    "mod_id": "create_connected",
+    "recipe_type": "create:filling",
+    "inputs": [
+      {
+        "id": "create_connected:empty_fan_catalyst",
+        "count": 1.0,
+        "unit": "item",
+        "type": "solid",
+        "rate": 1.0
+      }
+    ],
+    "outputs": [
+      {
+        "id": "create_connected:brown_fan_dyeing_catalyst",
+        "count": 1.0,
+        "unit": "item",
+        "type": "solid",
+        "rate": 1.0
+      }
+    ]
+  },
+  {
+    "recipe_id": "create_connected:item_application/yellow_dyeing_catalyst_garnished_from_empty",
+    "mod_id": "create_connected",
+    "recipe_type": "create:item_application",
+    "inputs": [
+      {
+        "id": "create_connected:empty_fan_catalyst",
+        "count": 1.0,
+        "unit": "item",
+        "type": "solid",
+        "rate": 1.0
+      },
+      {
+        "id": "",
+        "count": 1.0,
+        "unit": "item",
+        "type": "solid",
+        "rate": 1.0
+      },
+      {
+        "id": "",
+        "count": 1.0,
+        "unit": "item",
+        "type": "tag",
+        "rate": 1.0
+      },
+      {
+        "id": "",
+        "count": 1.0,
+        "unit": "fluid",
+        "type": "fluid",
+        "rate": 1.0
+      }
+    ],
+    "outputs": [
+      {
+        "id": "create_connected:yellow_fan_dyeing_catalyst",
+        "count": 1.0,
+        "unit": "item",
+        "type": "solid",
+        "rate": 1.0
+      }
+    ]
+  },
+  {
+    "recipe_id": "create_connected:item_application/magenta_dyeing_catalyst_garnished_from_empty",
+    "mod_id": "create_connected",
+    "recipe_type": "create:item_application",
+    "inputs": [
+      {
+        "id": "create_connected:empty_fan_catalyst",
+        "count": 1.0,
+        "unit": "item",
+        "type": "solid",
+        "rate": 1.0
+      },
+      {
+        "id": "",
+        "count": 1.0,
+        "unit": "item",
+        "type": "solid",
+        "rate": 1.0
+      },
+      {
+        "id": "",
+        "count": 1.0,
+        "unit": "item",
+        "type": "tag",
+        "rate": 1.0
+      },
+      {
+        "id": "",
+        "count": 1.0,
+        "unit": "fluid",
+        "type": "fluid",
+        "rate": 1.0
+      }
+    ],
+    "outputs": [
+      {
+        "id": "create_connected:magenta_fan_dyeing_catalyst",
+        "count": 1.0,
+        "unit": "item",
+        "type": "solid",
+        "rate": 1.0
+      }
+    ]
+  },
+  {
+    "recipe_id": "create_connected:item_application/red_dyeing_catalyst_garnished_from_empty",
+    "mod_id": "create_connected",
+    "recipe_type": "create:item_application",
+    "inputs": [
+      {
+        "id": "create_connected:empty_fan_catalyst",
+        "count": 1.0,
+        "unit": "item",
+        "type": "solid",
+        "rate": 1.0
+      },
+      {
+        "id": "",
+        "count": 1.0,
+        "unit": "item",
+        "type": "solid",
+        "rate": 1.0
+      },
+      {
+        "id": "",
+        "count": 1.0,
+        "unit": "item",
+        "type": "tag",
+        "rate": 1.0
+      },
+      {
+        "id": "",
+        "count": 1.0,
+        "unit": "fluid",
+        "type": "fluid",
+        "rate": 1.0
+      }
+    ],
+    "outputs": [
+      {
+        "id": "create_connected:red_fan_dyeing_catalyst",
+        "count": 1.0,
+        "unit": "item",
+        "type": "solid",
+        "rate": 1.0
+      }
+    ]
+  },
+  {
+    "recipe_id": "create_connected:item_application/brown_dyeing_catalyst_garnished_from_empty",
+    "mod_id": "create_connected",
+    "recipe_type": "create:item_application",
+    "inputs": [
+      {
+        "id": "create_connected:empty_fan_catalyst",
+        "count": 1.0,
+        "unit": "item",
+        "type": "solid",
+        "rate": 1.0
+      },
+      {
+        "id": "",
+        "count": 1.0,
+        "unit": "item",
+        "type": "solid",
+        "rate": 1.0
+      },
+      {
+        "id": "",
+        "count": 1.0,
+        "unit": "item",
+        "type": "tag",
+        "rate": 1.0
+      },
+      {
+        "id": "",
+        "count": 1.0,
+        "unit": "fluid",
+        "type": "fluid",
+        "rate": 1.0
+      }
+    ],
+    "outputs": [
+      {
+        "id": "create_connected:brown_fan_dyeing_catalyst",
+        "count": 1.0,
+        "unit": "item",
+        "type": "solid",
+        "rate": 1.0
+      }
+    ]
+  },
+  {
+    "recipe_id": "create_connected:filling/white_fan_dyeing_catalyst_garnished",
+    "mod_id": "create_connected",
+    "recipe_type": "create:filling",
+    "inputs": [
+      {
+        "id": "create_connected:empty_fan_catalyst",
+        "count": 1.0,
+        "unit": "item",
+        "type": "solid",
+        "rate": 1.0
+      }
+    ],
+    "outputs": [
+      {
+        "id": "create_connected:white_fan_dyeing_catalyst",
+        "count": 1.0,
+        "unit": "item",
+        "type": "solid",
+        "rate": 1.0
+      }
+    ]
+  },
+  {
+    "recipe_id": "create_connected:crafting/palettes/copycat_fence_compat",
+    "mod_id": "create_connected",
+    "recipe_type": "minecraft:crafting_shapeless",
+    "inputs": [
+      {
+        "id": "create_connected:copycat_fence",
+        "count": 1.0,
+        "unit": "item",
+        "type": "solid",
+        "rate": 1.0
+      }
+    ],
+    "outputs": [
+      {
+        "id": "copycats:copycat_fence",
+        "count": 1.0,
+        "unit": "item",
+        "type": "solid",
+        "rate": 1.0
+      }
+    ]
+  },
+  {
+    "recipe_id": "create_connected:crafting/kinetics/empty_fan_catalyst_from_smoking",
+    "mod_id": "create_connected",
+    "recipe_type": "minecraft:crafting_shapeless",
+    "inputs": [
+      {
+        "id": "create_connected:fan_smoking_catalyst",
+        "count": 1.0,
+        "unit": "item",
+        "type": "solid",
+        "rate": 1.0
+      }
+    ],
+    "outputs": [
+      {
+        "id": "create_connected:empty_fan_catalyst",
+        "count": 1.0,
+        "unit": "item",
+        "type": "solid",
+        "rate": 1.0
+      }
+    ]
+  },
+  {
+    "recipe_id": "create_connected:crafting/kinetics/redstone_link_wildcard",
+    "mod_id": "create_connected",
+    "recipe_type": "minecraft:crafting_shapeless",
+    "inputs": [
+      {
+        "id": "create:transmitter",
+        "count": 1.0,
+        "unit": "item",
+        "type": "solid",
+        "rate": 1.0
+      },
+      {
+        "id": "create:crafter_slot_cover",
+        "count": 1.0,
+        "unit": "item",
+        "type": "solid",
+        "rate": 1.0
+      }
+    ],
+    "outputs": [
+      {
+        "id": "create_connected:redstone_link_wildcard",
+        "count": 1.0,
+        "unit": "item",
+        "type": "solid",
+        "rate": 1.0
+      }
+    ]
+  },
+  {
+    "recipe_id": "create_connected:item_application/freezing_catalyst_from_empty",
+    "mod_id": "create_connected",
+    "recipe_type": "create:item_application",
+    "inputs": [
+      {
+        "id": "create_connected:empty_fan_catalyst",
+        "count": 1.0,
+        "unit": "item",
+        "type": "solid",
+        "rate": 1.0
+      },
+      {
+        "id": "minecraft:powder_snow_bucket",
+        "count": 1.0,
+        "unit": "item",
+        "type": "solid",
+        "rate": 1.0
+      }
+    ],
+    "outputs": [
+      {
+        "id": "create_connected:fan_freezing_catalyst",
+        "count": 1.0,
+        "unit": "item",
+        "type": "solid",
+        "rate": 1.0
+      }
+    ]
+  },
+  {
+    "recipe_id": "create_connected:crafting/kinetics/brake",
+    "mod_id": "create_connected",
+    "recipe_type": "minecraft:crafting_shapeless",
+    "inputs": [
+      {
+        "id": "create:andesite_casing",
+        "count": 1.0,
+        "unit": "item",
+        "type": "solid",
+        "rate": 1.0
+      },
+      {
+        "id": "create:shaft",
+        "count": 1.0,
+        "unit": "item",
+        "type": "solid",
+        "rate": 1.0
+      },
+      {
+        "id": "minecraft:redstone",
+        "count": 1.0,
+        "unit": "item",
+        "type": "solid",
+        "rate": 1.0
+      },
+      {
+        "id": "minecraft:obsidian",
+        "count": 1.0,
+        "unit": "item",
+        "type": "solid",
+        "rate": 1.0
+      }
+    ],
+    "outputs": [
+      {
+        "id": "create_connected:brake",
+        "count": 1.0,
+        "unit": "item",
+        "type": "solid",
+        "rate": 1.0
+      }
+    ]
+  },
+  {
+    "recipe_id": "create_connected:crafting/palettes/copycat_vertical_step_compat",
+    "mod_id": "create_connected",
+    "recipe_type": "minecraft:crafting_shapeless",
+    "inputs": [
+      {
+        "id": "create_connected:copycat_vertical_step",
+        "count": 1.0,
+        "unit": "item",
+        "type": "solid",
+        "rate": 1.0
+      }
+    ],
+    "outputs": [
+      {
+        "id": "copycats:copycat_vertical_step",
+        "count": 1.0,
+        "unit": "item",
+        "type": "solid",
+        "rate": 1.0
+      }
+    ]
+  },
+  {
+    "recipe_id": "create_connected:crafting/kinetics/centrifugal_clutch",
+    "mod_id": "create_connected",
+    "recipe_type": "minecraft:crafting_shapeless",
+    "inputs": [
+      {
+        "id": "create:andesite_casing",
+        "count": 1.0,
+        "unit": "item",
+        "type": "solid",
+        "rate": 1.0
+      },
+      {
+        "id": "create:shaft",
+        "count": 1.0,
+        "unit": "item",
+        "type": "solid",
+        "rate": 1.0
+      },
+      {
+        "id": "create:iron_sheet",
+        "count": 1.0,
+        "unit": "item",
+        "type": "solid",
+        "rate": 1.0
+      },
+      {
+        "id": "create:speedometer",
+        "count": 1.0,
+        "unit": "item",
+        "type": "solid",
+        "rate": 1.0
+      }
+    ],
+    "outputs": [
+      {
+        "id": "create_connected:centrifugal_clutch",
+        "count": 1.0,
+        "unit": "item",
+        "type": "solid",
+        "rate": 1.0
+      }
+    ]
+  },
+  {
+    "recipe_id": "create_connected:item_application/haunting_catalyst_from_empty",
+    "mod_id": "create_connected",
+    "recipe_type": "create:item_application",
+    "inputs": [
+      {
+        "id": "create_connected:empty_fan_catalyst",
+        "count": 1.0,
+        "unit": "item",
+        "type": "solid",
+        "rate": 1.0
+      },
+      {
+        "id": "minecraft:soul_sand",
+        "count": 1.0,
+        "unit": "item",
+        "type": "solid",
+        "rate": 1.0
+      }
+    ],
+    "outputs": [
+      {
+        "id": "create_connected:fan_haunting_catalyst",
+        "count": 1.0,
+        "unit": "item",
+        "type": "solid",
+        "rate": 1.0
+      }
+    ]
+  },
+  {
+    "recipe_id": "create_connected:crafting/kinetics/kinetic_bridge",
+    "mod_id": "create_connected",
+    "recipe_type": "minecraft:crafting_shaped",
+    "inputs": [
+      {
+        "id": "create:brass_casing",
+        "count": 2.0,
+        "unit": "item",
+        "type": "solid",
+        "rate": 1.0
+      },
+      {
+        "id": "create:shaft",
+        "count": 2.0,
+        "unit": "item",
+        "type": "solid",
+        "rate": 1.0
+      },
+      {
+        "id": "create:clutch",
+        "count": 1.0,
+        "unit": "item",
+        "type": "solid",
+        "rate": 1.0
+      }
+    ],
+    "outputs": [
+      {
+        "id": "create_connected:kinetic_bridge",
+        "count": 1.0,
+        "unit": "item",
+        "type": "solid",
+        "rate": 1.0
+      }
+    ]
+  },
+  {
+    "recipe_id": "create_connected:crafting/palettes/copycat_block_compat",
+    "mod_id": "create_connected",
+    "recipe_type": "minecraft:crafting_shapeless",
+    "inputs": [
+      {
+        "id": "create_connected:copycat_block",
+        "count": 1.0,
+        "unit": "item",
+        "type": "solid",
+        "rate": 1.0
+      }
+    ],
+    "outputs": [
+      {
+        "id": "copycats:copycat_block",
+        "count": 1.0,
+        "unit": "item",
+        "type": "solid",
+        "rate": 1.0
+      }
+    ]
+  },
+  {
+    "recipe_id": "create_connected:item_application/gray_dyeing_catalyst_dragons_plus_from_empty",
+    "mod_id": "create_connected",
+    "recipe_type": "create:item_application",
+    "inputs": [
+      {
+        "id": "create_connected:empty_fan_catalyst",
+        "count": 1.0,
+        "unit": "item",
+        "type": "solid",
+        "rate": 1.0
+      },
+      {
+        "id": "",
+        "count": 1.0,
+        "unit": "item",
+        "type": "solid",
+        "rate": 1.0
+      },
+      {
+        "id": "",
+        "count": 1.0,
+        "unit": "item",
+        "type": "tag",
+        "rate": 1.0
+      },
+      {
+        "id": "",
+        "count": 1.0,
+        "unit": "fluid",
+        "type": "fluid",
+        "rate": 1.0
+      }
+    ],
+    "outputs": [
+      {
+        "id": "create_connected:gray_fan_dyeing_catalyst",
+        "count": 1.0,
+        "unit": "item",
+        "type": "solid",
+        "rate": 1.0
+      }
+    ]
+  },
+  {
+    "recipe_id": "create_connected:item_application/black_dyeing_catalyst_dragons_plus_from_empty",
+    "mod_id": "create_connected",
+    "recipe_type": "create:item_application",
+    "inputs": [
+      {
+        "id": "create_connected:empty_fan_catalyst",
+        "count": 1.0,
+        "unit": "item",
+        "type": "solid",
+        "rate": 1.0
+      },
+      {
+        "id": "",
+        "count": 1.0,
+        "unit": "item",
+        "type": "solid",
+        "rate": 1.0
+      },
+      {
+        "id": "",
+        "count": 1.0,
+        "unit": "item",
+        "type": "tag",
+        "rate": 1.0
+      },
+      {
+        "id": "",
+        "count": 1.0,
+        "unit": "fluid",
+        "type": "fluid",
+        "rate": 1.0
+      }
+    ],
+    "outputs": [
+      {
+        "id": "create_connected:black_fan_dyeing_catalyst",
+        "count": 1.0,
+        "unit": "item",
+        "type": "solid",
+        "rate": 1.0
+      }
+    ]
+  },
+  {
+    "recipe_id": "create_connected:crafting/kinetics/kinetic_battery",
+    "mod_id": "create_connected",
+    "recipe_type": "minecraft:crafting_shaped",
+    "inputs": [
+      {
+        "id": "create:precision_mechanism",
+        "count": 1.0,
+        "unit": "item",
+        "type": "solid",
+        "rate": 1.0
+      },
+      {
+        "id": "create:brass_casing",
+        "count": 1.0,
+        "unit": "item",
+        "type": "solid",
+        "rate": 1.0
+      },
+      {
+        "id": "create:iron_sheet",
+        "count": 2.0,
+        "unit": "item",
+        "type": "solid",
+        "rate": 1.0
+      },
+      {
+        "id": "minecraft:redstone",
+        "count": 1.0,
+        "unit": "item",
+        "type": "solid",
+        "rate": 1.0
+      }
+    ],
+    "outputs": [
+      {
+        "id": "create_connected:kinetic_battery",
+        "count": 8.0,
+        "unit": "item",
+        "type": "solid",
+        "rate": 1.0
+      }
+    ]
+  },
+  {
+    "recipe_id": "create_connected:crafting/kinetics/brass_chute",
+    "mod_id": "create_connected",
+    "recipe_type": "minecraft:crafting_shaped",
+    "inputs": [
+      {
+        "id": "create:brass_sheet",
+        "count": 2.0,
+        "unit": "item",
+        "type": "solid",
+        "rate": 1.0
+      },
+      {
+        "id": "create:brass_ingot",
+        "count": 1.0,
+        "unit": "item",
+        "type": "solid",
+        "rate": 1.0
+      }
+    ],
+    "outputs": [
+      {
+        "id": "create_connected:brass_chute",
+        "count": 4.0,
+        "unit": "item",
+        "type": "solid",
+        "rate": 1.0
+      }
+    ]
+  },
+  {
+    "recipe_id": "create_connected:filling/lime_fan_dyeing_catalyst_garnished",
+    "mod_id": "create_connected",
+    "recipe_type": "create:filling",
+    "inputs": [
+      {
+        "id": "create_connected:empty_fan_catalyst",
+        "count": 1.0,
+        "unit": "item",
+        "type": "solid",
+        "rate": 1.0
+      }
+    ],
+    "outputs": [
+      {
+        "id": "create_connected:lime_fan_dyeing_catalyst",
+        "count": 1.0,
+        "unit": "item",
+        "type": "solid",
+        "rate": 1.0
+      }
+    ]
+  },
+  {
+    "recipe_id": "create_connected:filling/brown_fan_dyeing_catalyst_dragons_plus",
+    "mod_id": "create_connected",
+    "recipe_type": "create:filling",
+    "inputs": [
+      {
+        "id": "create_connected:empty_fan_catalyst",
+        "count": 1.0,
+        "unit": "item",
+        "type": "solid",
+        "rate": 1.0
+      }
+    ],
+    "outputs": [
+      {
+        "id": "create_connected:brown_fan_dyeing_catalyst",
+        "count": 1.0,
+        "unit": "item",
+        "type": "solid",
+        "rate": 1.0
+      }
+    ]
+  },
+  {
+    "recipe_id": "create_connected:filling/light_blue_fan_dyeing_catalyst_dragons_plus",
+    "mod_id": "create_connected",
+    "recipe_type": "create:filling",
+    "inputs": [
+      {
+        "id": "create_connected:empty_fan_catalyst",
+        "count": 1.0,
+        "unit": "item",
+        "type": "solid",
+        "rate": 1.0
+      }
+    ],
+    "outputs": [
+      {
+        "id": "create_connected:light_blue_fan_dyeing_catalyst",
+        "count": 1.0,
+        "unit": "item",
+        "type": "solid",
+        "rate": 1.0
+      }
+    ]
+  },
+  {
+    "recipe_id": "create_connected:item_application/pink_dyeing_catalyst_garnished_from_empty",
+    "mod_id": "create_connected",
+    "recipe_type": "create:item_application",
+    "inputs": [
+      {
+        "id": "create_connected:empty_fan_catalyst",
+        "count": 1.0,
+        "unit": "item",
+        "type": "solid",
+        "rate": 1.0
+      },
+      {
+        "id": "",
+        "count": 1.0,
+        "unit": "item",
+        "type": "solid",
+        "rate": 1.0
+      },
+      {
+        "id": "",
+        "count": 1.0,
+        "unit": "item",
+        "type": "tag",
+        "rate": 1.0
+      },
+      {
+        "id": "",
+        "count": 1.0,
+        "unit": "fluid",
+        "type": "fluid",
+        "rate": 1.0
+      }
+    ],
+    "outputs": [
+      {
+        "id": "create_connected:pink_fan_dyeing_catalyst",
+        "count": 1.0,
+        "unit": "item",
+        "type": "solid",
+        "rate": 1.0
+      }
+    ]
+  },
+  {
+    "recipe_id": "create_connected:crafting/kinetics/vertical_brass_gearbox_from_conversion",
+    "mod_id": "create_connected",
+    "recipe_type": "minecraft:crafting_shapeless",
+    "inputs": [
+      {
+        "id": "create_connected:brass_gearbox",
+        "count": 1.0,
+        "unit": "item",
+        "type": "solid",
+        "rate": 1.0
+      }
+    ],
+    "outputs": [
+      {
+        "id": "create_connected:vertical_brass_gearbox",
+        "count": 1.0,
+        "unit": "item",
+        "type": "solid",
+        "rate": 1.0
+      }
+    ]
+  },
+  {
+    "recipe_id": "create_connected:filling/white_fan_dyeing_catalyst_dragons_plus",
+    "mod_id": "create_connected",
+    "recipe_type": "create:filling",
+    "inputs": [
+      {
+        "id": "create_connected:empty_fan_catalyst",
+        "count": 1.0,
+        "unit": "item",
+        "type": "solid",
+        "rate": 1.0
+      }
+    ],
+    "outputs": [
+      {
+        "id": "create_connected:white_fan_dyeing_catalyst",
+        "count": 1.0,
+        "unit": "item",
+        "type": "solid",
+        "rate": 1.0
+      }
+    ]
+  },
+  {
+    "recipe_id": "create_connected:crafting/palettes/copycat_board_compat",
+    "mod_id": "create_connected",
+    "recipe_type": "minecraft:crafting_shapeless",
+    "inputs": [
+      {
+        "id": "create_connected:copycat_board",
+        "count": 1.0,
+        "unit": "item",
+        "type": "solid",
+        "rate": 1.0
+      }
+    ],
+    "outputs": [
+      {
+        "id": "copycats:copycat_board",
+        "count": 1.0,
+        "unit": "item",
+        "type": "solid",
+        "rate": 1.0
+      }
+    ]
+  },
+  {
+    "recipe_id": "create_connected:item_application/light_blue_dyeing_catalyst_dragons_plus_from_empty",
+    "mod_id": "create_connected",
+    "recipe_type": "create:item_application",
+    "inputs": [
+      {
+        "id": "create_connected:empty_fan_catalyst",
+        "count": 1.0,
+        "unit": "item",
+        "type": "solid",
+        "rate": 1.0
+      },
+      {
+        "id": "",
+        "count": 1.0,
+        "unit": "item",
+        "type": "solid",
+        "rate": 1.0
+      },
+      {
+        "id": "",
+        "count": 1.0,
+        "unit": "item",
+        "type": "tag",
+        "rate": 1.0
+      },
+      {
+        "id": "",
+        "count": 1.0,
+        "unit": "fluid",
+        "type": "fluid",
+        "rate": 1.0
+      }
+    ],
+    "outputs": [
+      {
+        "id": "create_connected:light_blue_fan_dyeing_catalyst",
+        "count": 1.0,
+        "unit": "item",
+        "type": "solid",
+        "rate": 1.0
+      }
+    ]
+  },
+  {
+    "recipe_id": "create_connected:filling/purple_fan_dyeing_catalyst_dragons_plus",
+    "mod_id": "create_connected",
+    "recipe_type": "create:filling",
+    "inputs": [
+      {
+        "id": "create_connected:empty_fan_catalyst",
+        "count": 1.0,
+        "unit": "item",
+        "type": "solid",
+        "rate": 1.0
+      }
+    ],
+    "outputs": [
+      {
+        "id": "create_connected:purple_fan_dyeing_catalyst",
+        "count": 1.0,
+        "unit": "item",
+        "type": "solid",
+        "rate": 1.0
+      }
+    ]
+  },
+  {
+    "recipe_id": "create_connected:filling/pink_fan_dyeing_catalyst_garnished",
+    "mod_id": "create_connected",
+    "recipe_type": "create:filling",
+    "inputs": [
+      {
+        "id": "create_connected:empty_fan_catalyst",
+        "count": 1.0,
+        "unit": "item",
+        "type": "solid",
+        "rate": 1.0
+      }
+    ],
+    "outputs": [
+      {
+        "id": "create_connected:pink_fan_dyeing_catalyst",
+        "count": 1.0,
+        "unit": "item",
+        "type": "solid",
+        "rate": 1.0
+      }
+    ]
+  },
+  {
+    "recipe_id": "create_connected:crafting/kinetics/empty_fan_catalyst_from_green_dye",
+    "mod_id": "create_connected",
+    "recipe_type": "minecraft:crafting_shapeless",
+    "inputs": [
+      {
+        "id": "create_connected:green_fan_dyeing_catalyst",
+        "count": 1.0,
+        "unit": "item",
+        "type": "solid",
+        "rate": 1.0
+      }
+    ],
+    "outputs": [
+      {
+        "id": "create_connected:empty_fan_catalyst",
+        "count": 1.0,
+        "unit": "item",
+        "type": "solid",
+        "rate": 1.0
+      }
+    ]
+  },
+  {
+    "recipe_id": "create_connected:item_application/yellow_dyeing_catalyst_dragons_plus_from_empty",
+    "mod_id": "create_connected",
+    "recipe_type": "create:item_application",
+    "inputs": [
+      {
+        "id": "create_connected:empty_fan_catalyst",
+        "count": 1.0,
+        "unit": "item",
+        "type": "solid",
+        "rate": 1.0
+      },
+      {
+        "id": "",
+        "count": 1.0,
+        "unit": "item",
+        "type": "solid",
+        "rate": 1.0
+      },
+      {
+        "id": "",
+        "count": 1.0,
+        "unit": "item",
+        "type": "tag",
+        "rate": 1.0
+      },
+      {
+        "id": "",
+        "count": 1.0,
+        "unit": "fluid",
+        "type": "fluid",
+        "rate": 1.0
+      }
+    ],
+    "outputs": [
+      {
+        "id": "create_connected:yellow_fan_dyeing_catalyst",
+        "count": 1.0,
+        "unit": "item",
+        "type": "solid",
+        "rate": 1.0
+      }
+    ]
+  },
+  {
+    "recipe_id": "create_connected:crafting/palettes/copycat_stairs_compat",
+    "mod_id": "create_connected",
+    "recipe_type": "minecraft:crafting_shapeless",
+    "inputs": [
+      {
+        "id": "create_connected:copycat_stairs",
+        "count": 1.0,
+        "unit": "item",
+        "type": "solid",
+        "rate": 1.0
+      }
+    ],
+    "outputs": [
+      {
+        "id": "copycats:copycat_stairs",
+        "count": 1.0,
+        "unit": "item",
+        "type": "solid",
+        "rate": 1.0
+      }
+    ]
+  },
+  {
+    "recipe_id": "create_connected:crafting/kinetics/inverted_gearshift_from_conversion",
+    "mod_id": "create_connected",
+    "recipe_type": "minecraft:crafting_shapeless",
+    "inputs": [
+      {
+        "id": "create:gearshift",
+        "count": 1.0,
+        "unit": "item",
+        "type": "solid",
+        "rate": 1.0
+      }
+    ],
+    "outputs": [
+      {
+        "id": "create_connected:inverted_gearshift",
+        "count": 1.0,
+        "unit": "item",
+        "type": "solid",
+        "rate": 1.0
+      }
+    ]
+  },
+  {
+    "recipe_id": "create_connected:crafting/kinetics/empty_fan_catalyst_from_magenta_dye",
+    "mod_id": "create_connected",
+    "recipe_type": "minecraft:crafting_shapeless",
+    "inputs": [
+      {
+        "id": "create_connected:magenta_fan_dyeing_catalyst",
+        "count": 1.0,
+        "unit": "item",
+        "type": "solid",
+        "rate": 1.0
+      }
+    ],
+    "outputs": [
+      {
+        "id": "create_connected:empty_fan_catalyst",
+        "count": 1.0,
+        "unit": "item",
+        "type": "solid",
+        "rate": 1.0
+      }
+    ]
+  },
+  {
+    "recipe_id": "create_connected:crafting/kinetics/item_vault_from_conversion",
+    "mod_id": "create_connected",
+    "recipe_type": "minecraft:crafting_shapeless",
+    "inputs": [
+      {
+        "id": "create_connected:item_silo",
+        "count": 1.0,
+        "unit": "item",
+        "type": "solid",
+        "rate": 1.0
+      }
+    ],
+    "outputs": [
+      {
+        "id": "create:item_vault",
+        "count": 1.0,
+        "unit": "item",
+        "type": "solid",
+        "rate": 1.0
+      }
+    ]
+  },
+  {
+    "recipe_id": "create_connected:filling/pink_fan_dyeing_catalyst_dragons_plus",
+    "mod_id": "create_connected",
+    "recipe_type": "create:filling",
+    "inputs": [
+      {
+        "id": "create_connected:empty_fan_catalyst",
+        "count": 1.0,
+        "unit": "item",
+        "type": "solid",
+        "rate": 1.0
+      }
+    ],
+    "outputs": [
+      {
+        "id": "create_connected:pink_fan_dyeing_catalyst",
+        "count": 1.0,
+        "unit": "item",
+        "type": "solid",
+        "rate": 1.0
+      }
+    ]
+  },
+  {
+    "recipe_id": "create_connected:crafting/kinetics/vertical_parallel_gearbox_from_conversion",
+    "mod_id": "create_connected",
+    "recipe_type": "minecraft:crafting_shapeless",
+    "inputs": [
+      {
+        "id": "create_connected:parallel_gearbox",
+        "count": 1.0,
+        "unit": "item",
+        "type": "solid",
+        "rate": 1.0
+      }
+    ],
+    "outputs": [
+      {
+        "id": "create_connected:vertical_parallel_gearbox",
+        "count": 1.0,
+        "unit": "item",
+        "type": "solid",
+        "rate": 1.0
+      }
+    ]
+  },
+  {
+    "recipe_id": "create_connected:item_application/ending_catalyst_dragon_head_from_empty",
+    "mod_id": "create_connected",
+    "recipe_type": "create:item_application",
+    "inputs": [
+      {
+        "id": "create_connected:empty_fan_catalyst",
+        "count": 1.0,
+        "unit": "item",
+        "type": "solid",
+        "rate": 1.0
+      },
+      {
+        "id": "minecraft:dragon_head",
+        "count": 1.0,
+        "unit": "item",
+        "type": "solid",
+        "rate": 1.0
+      }
+    ],
+    "outputs": [
+      {
+        "id": "create_connected:fan_ending_catalyst_dragon_head",
+        "count": 1.0,
+        "unit": "item",
+        "type": "solid",
+        "rate": 1.0
+      }
+    ]
+  },
+  {
+    "recipe_id": "create_connected:crafting/kinetics/item_silo",
+    "mod_id": "create_connected",
+    "recipe_type": "minecraft:crafting_shaped",
+    "inputs": [
+      {
+        "id": "create:iron_sheet",
+        "count": 2.0,
+        "unit": "item",
+        "type": "solid",
+        "rate": 1.0
+      },
+      {
+        "id": "c:barrels/wooden",
+        "count": 1.0,
+        "unit": "item",
+        "type": "solid",
+        "rate": 1.0
+      }
+    ],
+    "outputs": [
+      {
+        "id": "create_connected:item_silo",
+        "count": 1.0,
+        "unit": "item",
+        "type": "solid",
+        "rate": 1.0
+      }
+    ]
+  },
+  {
+    "recipe_id": "create_connected:crafting/kinetics/parallel_gearbox",
+    "mod_id": "create_connected",
+    "recipe_type": "minecraft:crafting_shapeless",
+    "inputs": [
+      {
+        "id": "create:gearbox",
+        "count": 1.0,
+        "unit": "item",
+        "type": "solid",
+        "rate": 1.0
+      },
+      {
+        "id": "create:large_cogwheel",
+        "count": 1.0,
+        "unit": "item",
+        "type": "solid",
+        "rate": 1.0
+      }
+    ],
+    "outputs": [
+      {
+        "id": "create_connected:parallel_gearbox",
+        "count": 1.0,
+        "unit": "item",
+        "type": "solid",
+        "rate": 1.0
+      }
+    ]
+  },
+  {
+    "recipe_id": "create_connected:filling/black_fan_dyeing_catalyst_garnished",
+    "mod_id": "create_connected",
+    "recipe_type": "create:filling",
+    "inputs": [
+      {
+        "id": "create_connected:empty_fan_catalyst",
+        "count": 1.0,
+        "unit": "item",
+        "type": "solid",
+        "rate": 1.0
+      }
+    ],
+    "outputs": [
+      {
+        "id": "create_connected:black_fan_dyeing_catalyst",
+        "count": 1.0,
+        "unit": "item",
+        "type": "solid",
+        "rate": 1.0
+      }
+    ]
+  },
+  {
+    "recipe_id": "create_connected:item_application/ending_catalyst_dragons_breath_from_empty",
+    "mod_id": "create_connected",
+    "recipe_type": "create:item_application",
+    "inputs": [
+      {
+        "id": "create_connected:empty_fan_catalyst",
+        "count": 1.0,
+        "unit": "item",
+        "type": "solid",
+        "rate": 1.0
+      },
+      {
+        "id": "",
+        "count": 1.0,
+        "unit": "item",
+        "type": "solid",
+        "rate": 1.0
+      },
+      {
+        "id": "",
+        "count": 1.0,
+        "unit": "item",
+        "type": "tag",
+        "rate": 1.0
+      },
+      {
+        "id": "",
+        "count": 1.0,
+        "unit": "fluid",
+        "type": "fluid",
+        "rate": 1.0
+      }
+    ],
+    "outputs": [
+      {
+        "id": "create_connected:fan_ending_catalyst_dragons_breath",
+        "count": 1.0,
+        "unit": "item",
+        "type": "solid",
+        "rate": 1.0
+      }
+    ]
+  },
+  {
+    "recipe_id": "create_connected:filling/red_fan_dyeing_catalyst_dragons_plus",
+    "mod_id": "create_connected",
+    "recipe_type": "create:filling",
+    "inputs": [
+      {
+        "id": "create_connected:empty_fan_catalyst",
+        "count": 1.0,
+        "unit": "item",
+        "type": "solid",
+        "rate": 1.0
+      }
+    ],
+    "outputs": [
+      {
+        "id": "create_connected:red_fan_dyeing_catalyst",
+        "count": 1.0,
+        "unit": "item",
+        "type": "solid",
+        "rate": 1.0
+      }
+    ]
+  },
+  {
+    "recipe_id": "create_connected:filling/gray_fan_dyeing_catalyst_dragons_plus",
+    "mod_id": "create_connected",
+    "recipe_type": "create:filling",
+    "inputs": [
+      {
+        "id": "create_connected:empty_fan_catalyst",
+        "count": 1.0,
+        "unit": "item",
+        "type": "solid",
+        "rate": 1.0
+      }
+    ],
+    "outputs": [
+      {
+        "id": "create_connected:gray_fan_dyeing_catalyst",
+        "count": 1.0,
+        "unit": "item",
+        "type": "solid",
+        "rate": 1.0
+      }
+    ]
+  },
+  {
+    "recipe_id": "create_connected:item_application/lime_dyeing_catalyst_garnished_from_empty",
+    "mod_id": "create_connected",
+    "recipe_type": "create:item_application",
+    "inputs": [
+      {
+        "id": "create_connected:empty_fan_catalyst",
+        "count": 1.0,
+        "unit": "item",
+        "type": "solid",
+        "rate": 1.0
+      },
+      {
+        "id": "",
+        "count": 1.0,
+        "unit": "item",
+        "type": "solid",
+        "rate": 1.0
+      },
+      {
+        "id": "",
+        "count": 1.0,
+        "unit": "item",
+        "type": "tag",
+        "rate": 1.0
+      },
+      {
+        "id": "",
+        "count": 1.0,
+        "unit": "fluid",
+        "type": "fluid",
+        "rate": 1.0
+      }
+    ],
+    "outputs": [
+      {
+        "id": "create_connected:lime_fan_dyeing_catalyst",
+        "count": 1.0,
+        "unit": "item",
+        "type": "solid",
+        "rate": 1.0
+      }
+    ]
+  },
+  {
+    "recipe_id": "create_connected:item_application/light_gray_dyeing_catalyst_dragons_plus_from_empty",
+    "mod_id": "create_connected",
+    "recipe_type": "create:item_application",
+    "inputs": [
+      {
+        "id": "create_connected:empty_fan_catalyst",
+        "count": 1.0,
+        "unit": "item",
+        "type": "solid",
+        "rate": 1.0
+      },
+      {
+        "id": "",
+        "count": 1.0,
+        "unit": "item",
+        "type": "solid",
+        "rate": 1.0
+      },
+      {
+        "id": "",
+        "count": 1.0,
+        "unit": "item",
+        "type": "tag",
+        "rate": 1.0
+      },
+      {
+        "id": "",
+        "count": 1.0,
+        "unit": "fluid",
+        "type": "fluid",
+        "rate": 1.0
+      }
+    ],
+    "outputs": [
+      {
+        "id": "create_connected:light_gray_fan_dyeing_catalyst",
+        "count": 1.0,
+        "unit": "item",
+        "type": "solid",
+        "rate": 1.0
+      }
+    ]
+  },
+  {
+    "recipe_id": "create_connected:filling/brown_fan_dyeing_catalyst_garnished",
+    "mod_id": "create_connected",
+    "recipe_type": "create:filling",
+    "inputs": [
+      {
+        "id": "create_connected:empty_fan_catalyst",
+        "count": 1.0,
+        "unit": "item",
+        "type": "solid",
+        "rate": 1.0
+      }
+    ],
+    "outputs": [
+      {
+        "id": "create_connected:brown_fan_dyeing_catalyst",
+        "count": 1.0,
+        "unit": "item",
+        "type": "solid",
+        "rate": 1.0
+      }
+    ]
+  },
+  {
+    "recipe_id": "create_connected:filling/red_fan_dyeing_catalyst_garnished",
+    "mod_id": "create_connected",
+    "recipe_type": "create:filling",
+    "inputs": [
+      {
+        "id": "create_connected:empty_fan_catalyst",
+        "count": 1.0,
+        "unit": "item",
+        "type": "solid",
+        "rate": 1.0
+      }
+    ],
+    "outputs": [
+      {
+        "id": "create_connected:red_fan_dyeing_catalyst",
+        "count": 1.0,
+        "unit": "item",
+        "type": "solid",
+        "rate": 1.0
+      }
+    ]
+  },
+  {
+    "recipe_id": "create_connected:filling/magenta_fan_dyeing_catalyst_garnished",
+    "mod_id": "create_connected",
+    "recipe_type": "create:filling",
+    "inputs": [
+      {
+        "id": "create_connected:empty_fan_catalyst",
+        "count": 1.0,
+        "unit": "item",
+        "type": "solid",
+        "rate": 1.0
+      }
+    ],
+    "outputs": [
+      {
+        "id": "create_connected:magenta_fan_dyeing_catalyst",
+        "count": 1.0,
+        "unit": "item",
+        "type": "solid",
+        "rate": 1.0
+      }
+    ]
+  },
+  {
+    "recipe_id": "create_connected:item_application/cyan_dyeing_catalyst_dragons_plus_from_empty",
+    "mod_id": "create_connected",
+    "recipe_type": "create:item_application",
+    "inputs": [
+      {
+        "id": "create_connected:empty_fan_catalyst",
+        "count": 1.0,
+        "unit": "item",
+        "type": "solid",
+        "rate": 1.0
+      },
+      {
+        "id": "",
+        "count": 1.0,
+        "unit": "item",
+        "type": "solid",
+        "rate": 1.0
+      },
+      {
+        "id": "",
+        "count": 1.0,
+        "unit": "item",
+        "type": "tag",
+        "rate": 1.0
+      },
+      {
+        "id": "",
+        "count": 1.0,
+        "unit": "fluid",
+        "type": "fluid",
+        "rate": 1.0
+      }
+    ],
+    "outputs": [
+      {
+        "id": "create_connected:cyan_fan_dyeing_catalyst",
+        "count": 1.0,
+        "unit": "item",
+        "type": "solid",
+        "rate": 1.0
+      }
+    ]
+  },
+  {
+    "recipe_id": "create_connected:crafting/kinetics/six_way_gearbox_from_gearbox",
+    "mod_id": "create_connected",
+    "recipe_type": "minecraft:crafting_shapeless",
+    "inputs": [
+      {
+        "id": "create:gearbox",
+        "count": 1.0,
+        "unit": "item",
+        "type": "solid",
+        "rate": 1.0
+      },
+      {
+        "id": "create:large_cogwheel",
+        "count": 1.0,
+        "unit": "item",
+        "type": "solid",
+        "rate": 1.0
+      },
+      {
+        "id": "create:large_cogwheel",
+        "count": 1.0,
+        "unit": "item",
+        "type": "solid",
+        "rate": 1.0
+      }
+    ],
+    "outputs": [
+      {
+        "id": "create_connected:six_way_gearbox",
+        "count": 1.0,
+        "unit": "item",
+        "type": "solid",
+        "rate": 1.0
+      }
+    ]
+  },
+  {
+    "recipe_id": "create_connected:filling/orange_fan_dyeing_catalyst_dragons_plus",
+    "mod_id": "create_connected",
+    "recipe_type": "create:filling",
+    "inputs": [
+      {
+        "id": "create_connected:empty_fan_catalyst",
+        "count": 1.0,
+        "unit": "item",
+        "type": "solid",
+        "rate": 1.0
+      }
+    ],
+    "outputs": [
+      {
+        "id": "create_connected:orange_fan_dyeing_catalyst",
+        "count": 1.0,
+        "unit": "item",
+        "type": "solid",
+        "rate": 1.0
+      }
+    ]
+  },
+  {
+    "recipe_id": "create_connected:crafting/kinetics/encased_chain_cogwheel",
+    "mod_id": "create_connected",
+    "recipe_type": "minecraft:crafting_shapeless",
+    "inputs": [
+      {
+        "id": "create:encased_chain_drive",
+        "count": 1.0,
+        "unit": "item",
+        "type": "solid",
+        "rate": 1.0
+      },
+      {
+        "id": "create:cogwheel",
+        "count": 1.0,
+        "unit": "item",
+        "type": "solid",
+        "rate": 1.0
+      }
+    ],
+    "outputs": [
+      {
+        "id": "create_connected:encased_chain_cogwheel",
+        "count": 1.0,
+        "unit": "item",
+        "type": "solid",
+        "rate": 1.0
+      }
+    ]
+  },
+  {
+    "recipe_id": "create_connected:crafting/kinetics/clutch_from_conversion",
+    "mod_id": "create_connected",
+    "recipe_type": "minecraft:crafting_shapeless",
+    "inputs": [
+      {
+        "id": "create_connected:inverted_clutch",
+        "count": 1.0,
+        "unit": "item",
+        "type": "solid",
+        "rate": 1.0
+      }
+    ],
+    "outputs": [
+      {
+        "id": "create:clutch",
+        "count": 1.0,
+        "unit": "item",
+        "type": "solid",
+        "rate": 1.0
+      }
+    ]
+  },
+  {
+    "recipe_id": "create_connected:crafting/palettes/copycat_wall_compat",
+    "mod_id": "create_connected",
+    "recipe_type": "minecraft:crafting_shapeless",
+    "inputs": [
+      {
+        "id": "create_connected:copycat_wall",
+        "count": 1.0,
+        "unit": "item",
+        "type": "solid",
+        "rate": 1.0
+      }
+    ],
+    "outputs": [
+      {
+        "id": "copycats:copycat_wall",
+        "count": 1.0,
+        "unit": "item",
+        "type": "solid",
+        "rate": 1.0
+      }
+    ]
+  },
+  {
+    "recipe_id": "create_connected:filling/yellow_fan_dyeing_catalyst_dragons_plus",
+    "mod_id": "create_connected",
+    "recipe_type": "create:filling",
+    "inputs": [
+      {
+        "id": "create_connected:empty_fan_catalyst",
+        "count": 1.0,
+        "unit": "item",
+        "type": "solid",
+        "rate": 1.0
+      }
+    ],
+    "outputs": [
+      {
+        "id": "create_connected:yellow_fan_dyeing_catalyst",
+        "count": 1.0,
+        "unit": "item",
+        "type": "solid",
+        "rate": 1.0
+      }
+    ]
+  },
+  {
+    "recipe_id": "create_connected:crafting/kinetics/empty_fan_catalyst_from_yellow_dye",
+    "mod_id": "create_connected",
+    "recipe_type": "minecraft:crafting_shapeless",
+    "inputs": [
+      {
+        "id": "create_connected:yellow_fan_dyeing_catalyst",
+        "count": 1.0,
+        "unit": "item",
+        "type": "solid",
+        "rate": 1.0
+      }
+    ],
+    "outputs": [
+      {
+        "id": "create_connected:empty_fan_catalyst",
+        "count": 1.0,
+        "unit": "item",
+        "type": "solid",
+        "rate": 1.0
+      }
+    ]
+  },
+  {
+    "recipe_id": "create_connected:crafting/kinetics/empty_fan_catalyst_from_light_blue_dye",
+    "mod_id": "create_connected",
+    "recipe_type": "minecraft:crafting_shapeless",
+    "inputs": [
+      {
+        "id": "create_connected:light_blue_fan_dyeing_catalyst",
+        "count": 1.0,
+        "unit": "item",
+        "type": "solid",
+        "rate": 1.0
+      }
+    ],
+    "outputs": [
+      {
+        "id": "create_connected:empty_fan_catalyst",
+        "count": 1.0,
+        "unit": "item",
+        "type": "solid",
+        "rate": 1.0
+      }
+    ]
+  },
+  {
+    "recipe_id": "create_connected:item_application/purple_dyeing_catalyst_garnished_from_empty",
+    "mod_id": "create_connected",
+    "recipe_type": "create:item_application",
+    "inputs": [
+      {
+        "id": "create_connected:empty_fan_catalyst",
+        "count": 1.0,
+        "unit": "item",
+        "type": "solid",
+        "rate": 1.0
+      },
+      {
+        "id": "",
+        "count": 1.0,
+        "unit": "item",
+        "type": "solid",
+        "rate": 1.0
+      },
+      {
+        "id": "",
+        "count": 1.0,
+        "unit": "item",
+        "type": "tag",
+        "rate": 1.0
+      },
+      {
+        "id": "",
+        "count": 1.0,
+        "unit": "fluid",
+        "type": "fluid",
+        "rate": 1.0
+      }
+    ],
+    "outputs": [
+      {
+        "id": "create_connected:purple_fan_dyeing_catalyst",
+        "count": 1.0,
+        "unit": "item",
+        "type": "solid",
+        "rate": 1.0
+      }
+    ]
+  },
+  {
+    "recipe_id": "create_connected:crafting/kinetics/sequenced_pulse_generator",
+    "mod_id": "create_connected",
+    "recipe_type": "minecraft:crafting_shaped",
+    "inputs": [
+      {
+        "id": "create:electron_tube",
+        "count": 2.0,
+        "unit": "item",
+        "type": "solid",
+        "rate": 1.0
+      },
+      {
+        "id": "create_connected:control_chip",
+        "count": 1.0,
+        "unit": "item",
+        "type": "solid",
+        "rate": 1.0
+      },
+      {
+        "id": "create:brass_sheet",
+        "count": 1.0,
+        "unit": "item",
+        "type": "solid",
+        "rate": 1.0
+      },
+      {
+        "id": "minecraft:redstone_torch",
+        "count": 1.0,
+        "unit": "item",
+        "type": "solid",
+        "rate": 1.0
+      },
+      {
+        "id": "c:stones",
+        "count": 3.0,
+        "unit": "item",
+        "type": "solid",
+        "rate": 1.0
+      }
+    ],
+    "outputs": [
+      {
+        "id": "create_connected:sequenced_pulse_generator",
+        "count": 1.0,
+        "unit": "item",
+        "type": "solid",
+        "rate": 1.0
+      }
+    ]
+  },
+  {
+    "recipe_id": "create_connected:crafting/kinetics/empty_fan_catalyst_from_haunting",
+    "mod_id": "create_connected",
+    "recipe_type": "minecraft:crafting_shapeless",
+    "inputs": [
+      {
+        "id": "create_connected:fan_haunting_catalyst",
+        "count": 1.0,
+        "unit": "item",
+        "type": "solid",
+        "rate": 1.0
+      }
+    ],
+    "outputs": [
+      {
+        "id": "create_connected:empty_fan_catalyst",
+        "count": 1.0,
+        "unit": "item",
+        "type": "solid",
+        "rate": 1.0
+      }
+    ]
+  },
+  {
+    "recipe_id": "create_connected:crafting/kinetics/vertical_six_way_gearbox_from_conversion",
+    "mod_id": "create_connected",
+    "recipe_type": "minecraft:crafting_shapeless",
+    "inputs": [
+      {
+        "id": "create_connected:six_way_gearbox",
+        "count": 1.0,
+        "unit": "item",
+        "type": "solid",
+        "rate": 1.0
+      }
+    ],
+    "outputs": [
+      {
+        "id": "create_connected:vertical_six_way_gearbox",
+        "count": 1.0,
+        "unit": "item",
+        "type": "solid",
+        "rate": 1.0
+      }
+    ]
+  },
+  {
+    "recipe_id": "create_connected:item_application/white_dyeing_catalyst_dragons_plus_from_empty",
+    "mod_id": "create_connected",
+    "recipe_type": "create:item_application",
+    "inputs": [
+      {
+        "id": "create_connected:empty_fan_catalyst",
+        "count": 1.0,
+        "unit": "item",
+        "type": "solid",
+        "rate": 1.0
+      },
+      {
+        "id": "",
+        "count": 1.0,
+        "unit": "item",
+        "type": "solid",
+        "rate": 1.0
+      },
+      {
+        "id": "",
+        "count": 1.0,
+        "unit": "item",
+        "type": "tag",
+        "rate": 1.0
+      },
+      {
+        "id": "",
+        "count": 1.0,
+        "unit": "fluid",
+        "type": "fluid",
+        "rate": 1.0
+      }
+    ],
+    "outputs": [
+      {
+        "id": "create_connected:white_fan_dyeing_catalyst",
+        "count": 1.0,
+        "unit": "item",
+        "type": "solid",
+        "rate": 1.0
+      }
+    ]
+  },
+  {
+    "recipe_id": "create_connected:item_application/orange_dyeing_catalyst_dragons_plus_from_empty",
+    "mod_id": "create_connected",
+    "recipe_type": "create:item_application",
+    "inputs": [
+      {
+        "id": "create_connected:empty_fan_catalyst",
+        "count": 1.0,
+        "unit": "item",
+        "type": "solid",
+        "rate": 1.0
+      },
+      {
+        "id": "",
+        "count": 1.0,
+        "unit": "item",
+        "type": "solid",
+        "rate": 1.0
+      },
+      {
+        "id": "",
+        "count": 1.0,
+        "unit": "item",
+        "type": "tag",
+        "rate": 1.0
+      },
+      {
+        "id": "",
+        "count": 1.0,
+        "unit": "fluid",
+        "type": "fluid",
+        "rate": 1.0
+      }
+    ],
+    "outputs": [
+      {
+        "id": "create_connected:orange_fan_dyeing_catalyst",
+        "count": 1.0,
+        "unit": "item",
+        "type": "solid",
+        "rate": 1.0
+      }
+    ]
+  },
+  {
+    "recipe_id": "create_connected:item_application/green_dyeing_catalyst_dragons_plus_from_empty",
+    "mod_id": "create_connected",
+    "recipe_type": "create:item_application",
+    "inputs": [
+      {
+        "id": "create_connected:empty_fan_catalyst",
+        "count": 1.0,
+        "unit": "item",
+        "type": "solid",
+        "rate": 1.0
+      },
+      {
+        "id": "",
+        "count": 1.0,
+        "unit": "item",
+        "type": "solid",
+        "rate": 1.0
+      },
+      {
+        "id": "",
+        "count": 1.0,
+        "unit": "item",
+        "type": "tag",
+        "rate": 1.0
+      },
+      {
+        "id": "",
+        "count": 1.0,
+        "unit": "fluid",
+        "type": "fluid",
+        "rate": 1.0
+      }
+    ],
+    "outputs": [
+      {
+        "id": "create_connected:green_fan_dyeing_catalyst",
+        "count": 1.0,
+        "unit": "item",
+        "type": "solid",
+        "rate": 1.0
+      }
+    ]
+  },
+  {
+    "recipe_id": "create_connected:item_application/light_gray_dyeing_catalyst_garnished_from_empty",
+    "mod_id": "create_connected",
+    "recipe_type": "create:item_application",
+    "inputs": [
+      {
+        "id": "create_connected:empty_fan_catalyst",
+        "count": 1.0,
+        "unit": "item",
+        "type": "solid",
+        "rate": 1.0
+      },
+      {
+        "id": "",
+        "count": 1.0,
+        "unit": "item",
+        "type": "solid",
+        "rate": 1.0
+      },
+      {
+        "id": "",
+        "count": 1.0,
+        "unit": "item",
+        "type": "tag",
+        "rate": 1.0
+      },
+      {
+        "id": "",
+        "count": 1.0,
+        "unit": "fluid",
+        "type": "fluid",
+        "rate": 1.0
+      }
+    ],
+    "outputs": [
+      {
+        "id": "create_connected:light_gray_fan_dyeing_catalyst",
+        "count": 1.0,
+        "unit": "item",
+        "type": "solid",
+        "rate": 1.0
+      }
+    ]
+  },
+  {
+    "recipe_id": "create_connected:filling/fan_blasting_catalyst",
+    "mod_id": "create_connected",
+    "recipe_type": "create:filling",
+    "inputs": [
+      {
+        "id": "create_connected:empty_fan_catalyst",
+        "count": 1.0,
+        "unit": "item",
+        "type": "solid",
+        "rate": 1.0
+      },
+      {
+        "id": "minecraft:lava",
+        "count": 1.0,
+        "unit": "fluid",
+        "type": "fluid",
+        "rate": 1.0
+      }
+    ],
+    "outputs": [
+      {
+        "id": "create_connected:fan_blasting_catalyst",
+        "count": 1.0,
+        "unit": "item",
+        "type": "solid",
+        "rate": 1.0
+      }
+    ]
+  },
+  {
+    "recipe_id": "create_connected:crafting/kinetics/empty_fan_catalyst_from_ending_dragon_head",
+    "mod_id": "create_connected",
+    "recipe_type": "minecraft:crafting_shapeless",
+    "inputs": [
+      {
+        "id": "create_connected:fan_ending_catalyst_dragon_head",
+        "count": 1.0,
+        "unit": "item",
+        "type": "solid",
+        "rate": 1.0
+      }
+    ],
+    "outputs": [
+      {
+        "id": "create_connected:empty_fan_catalyst",
+        "count": 1.0,
+        "unit": "item",
+        "type": "solid",
+        "rate": 1.0
+      }
+    ]
+  },
+  {
+    "recipe_id": "create_connected:crafting/kinetics/kinetic_battery_discharge",
+    "mod_id": "create_connected",
+    "recipe_type": "minecraft:crafting_shapeless",
+    "inputs": [
+      {
+        "id": "create_connected:kinetic_battery",
+        "count": 1.0,
+        "unit": "item",
+        "type": "solid",
+        "rate": 1.0
+      }
+    ],
+    "outputs": [
+      {
+        "id": "create_connected:kinetic_battery",
+        "count": 1.0,
+        "unit": "item",
+        "type": "solid",
+        "rate": 1.0
+      }
+    ]
+  },
+  {
+    "recipe_id": "create_connected:crafting/kinetics/gearshift_from_conversion",
+    "mod_id": "create_connected",
+    "recipe_type": "minecraft:crafting_shapeless",
+    "inputs": [
+      {
+        "id": "create_connected:inverted_gearshift",
+        "count": 1.0,
+        "unit": "item",
+        "type": "solid",
+        "rate": 1.0
+      }
+    ],
+    "outputs": [
+      {
+        "id": "create:gearshift",
+        "count": 1.0,
+        "unit": "item",
+        "type": "solid",
+        "rate": 1.0
+      }
+    ]
+  },
+  {
+    "recipe_id": "create_connected:item_application/magenta_dyeing_catalyst_dragons_plus_from_empty",
+    "mod_id": "create_connected",
+    "recipe_type": "create:item_application",
+    "inputs": [
+      {
+        "id": "create_connected:empty_fan_catalyst",
+        "count": 1.0,
+        "unit": "item",
+        "type": "solid",
+        "rate": 1.0
+      },
+      {
+        "id": "",
+        "count": 1.0,
+        "unit": "item",
+        "type": "solid",
+        "rate": 1.0
+      },
+      {
+        "id": "",
+        "count": 1.0,
+        "unit": "item",
+        "type": "tag",
+        "rate": 1.0
+      },
+      {
+        "id": "",
+        "count": 1.0,
+        "unit": "fluid",
+        "type": "fluid",
+        "rate": 1.0
+      }
+    ],
+    "outputs": [
+      {
+        "id": "create_connected:magenta_fan_dyeing_catalyst",
+        "count": 1.0,
+        "unit": "item",
+        "type": "solid",
+        "rate": 1.0
+      }
+    ]
+  },
+  {
+    "recipe_id": "create_connected:crafting/kinetics/large_crank_wheel",
+    "mod_id": "create_connected",
+    "recipe_type": "minecraft:crafting_shapeless",
+    "inputs": [
+      {
+        "id": "create:hand_crank",
+        "count": 1.0,
+        "unit": "item",
+        "type": "solid",
+        "rate": 1.0
+      },
+      {
+        "id": "create:large_cogwheel",
+        "count": 1.0,
+        "unit": "item",
+        "type": "solid",
+        "rate": 1.0
+      }
+    ],
+    "outputs": [
+      {
+        "id": "create_connected:large_crank_wheel",
+        "count": 1.0,
+        "unit": "item",
+        "type": "solid",
+        "rate": 1.0
+      }
+    ]
+  },
+  {
+    "recipe_id": "create_connected:crafting/kinetics/cross_connector",
+    "mod_id": "create_connected",
+    "recipe_type": "minecraft:crafting_shaped",
+    "inputs": [
+      {
+        "id": "create:shaft",
+        "count": 4.0,
+        "unit": "item",
+        "type": "solid",
+        "rate": 1.0
+      },
+      {
+        "id": "create:gearbox",
+        "count": 1.0,
+        "unit": "item",
+        "type": "solid",
+        "rate": 1.0
+      }
+    ],
+    "outputs": [
+      {
+        "id": "create_connected:cross_connector",
+        "count": 1.0,
+        "unit": "item",
+        "type": "solid",
+        "rate": 1.0
+      }
+    ]
+  },
+  {
+    "recipe_id": "create_connected:crafting/kinetics/dashboard",
+    "mod_id": "create_connected",
+    "recipe_type": "minecraft:crafting_shaped",
+    "inputs": [
+      {
+        "id": "create:display_board",
+        "count": 1.0,
+        "unit": "item",
+        "type": "solid",
+        "rate": 1.0
+      },
+      {
+        "id": "create:brass_casing",
+        "count": 1.0,
+        "unit": "item",
+        "type": "solid",
+        "rate": 1.0
+      }
+    ],
+    "outputs": [
+      {
+        "id": "create_connected:dashboard",
+        "count": 1.0,
+        "unit": "item",
+        "type": "solid",
+        "rate": 1.0
+      }
+    ]
+  },
+  {
+    "recipe_id": "create_connected:item_application/cyan_dyeing_catalyst_garnished_from_empty",
+    "mod_id": "create_connected",
+    "recipe_type": "create:item_application",
+    "inputs": [
+      {
+        "id": "create_connected:empty_fan_catalyst",
+        "count": 1.0,
+        "unit": "item",
+        "type": "solid",
+        "rate": 1.0
+      },
+      {
+        "id": "",
+        "count": 1.0,
+        "unit": "item",
+        "type": "solid",
+        "rate": 1.0
+      },
+      {
+        "id": "",
+        "count": 1.0,
+        "unit": "item",
+        "type": "tag",
+        "rate": 1.0
+      },
+      {
+        "id": "",
+        "count": 1.0,
+        "unit": "fluid",
+        "type": "fluid",
+        "rate": 1.0
+      }
+    ],
+    "outputs": [
+      {
+        "id": "create_connected:cyan_fan_dyeing_catalyst",
+        "count": 1.0,
+        "unit": "item",
+        "type": "solid",
+        "rate": 1.0
+      }
+    ]
+  },
+  {
+    "recipe_id": "create_connected:crafting/kinetics/empty_fan_catalyst_from_freezing",
+    "mod_id": "create_connected",
+    "recipe_type": "minecraft:crafting_shapeless",
+    "inputs": [
+      {
+        "id": "create_connected:fan_freezing_catalyst",
+        "count": 1.0,
+        "unit": "item",
+        "type": "solid",
+        "rate": 1.0
+      }
+    ],
+    "outputs": [
+      {
+        "id": "create_connected:empty_fan_catalyst",
+        "count": 1.0,
+        "unit": "item",
+        "type": "solid",
+        "rate": 1.0
+      }
+    ]
+  },
+  {
+    "recipe_id": "create_connected:filling/fan_ending_catalyst_dragons_breath",
+    "mod_id": "create_connected",
+    "recipe_type": "create:filling",
+    "inputs": [
+      {
+        "id": "create_connected:empty_fan_catalyst",
+        "count": 1.0,
+        "unit": "item",
+        "type": "solid",
+        "rate": 1.0
+      },
+      {
+        "id": "create_dragons_plus:fan_processing_catalysts/ending",
+        "count": 1.0,
+        "unit": "item",
+        "type": "tag",
+        "rate": 1.0
+      }
+    ],
+    "outputs": [
+      {
+        "id": "create_connected:fan_ending_catalyst_dragons_breath",
+        "count": 1.0,
+        "unit": "item",
+        "type": "solid",
+        "rate": 1.0
+      }
+    ]
+  },
+  {
+    "recipe_id": "create_connected:item_application/blasting_catalyst_from_empty",
+    "mod_id": "create_connected",
+    "recipe_type": "create:item_application",
+    "inputs": [
+      {
+        "id": "create_connected:empty_fan_catalyst",
+        "count": 1.0,
+        "unit": "item",
+        "type": "solid",
+        "rate": 1.0
+      },
+      {
+        "id": "minecraft:lava_bucket",
+        "count": 1.0,
+        "unit": "item",
+        "type": "solid",
+        "rate": 1.0
+      }
+    ],
+    "outputs": [
+      {
+        "id": "create_connected:fan_blasting_catalyst",
+        "count": 1.0,
+        "unit": "item",
+        "type": "solid",
+        "rate": 1.0
+      }
+    ]
+  },
+  {
+    "recipe_id": "create_connected:filling/magenta_fan_dyeing_catalyst_dragons_plus",
+    "mod_id": "create_connected",
+    "recipe_type": "create:filling",
+    "inputs": [
+      {
+        "id": "create_connected:empty_fan_catalyst",
+        "count": 1.0,
+        "unit": "item",
+        "type": "solid",
+        "rate": 1.0
+      }
+    ],
+    "outputs": [
+      {
+        "id": "create_connected:magenta_fan_dyeing_catalyst",
+        "count": 1.0,
+        "unit": "item",
+        "type": "solid",
+        "rate": 1.0
+      }
+    ]
+  },
+  {
+    "recipe_id": "create_connected:crafting/kinetics/kinetic_battery_from_charged",
+    "mod_id": "create_connected",
+    "recipe_type": "minecraft:crafting_shapeless",
+    "inputs": [
+      {
+        "id": "create_connected:charged_kinetic_battery",
+        "count": 1.0,
+        "unit": "item",
+        "type": "solid",
+        "rate": 1.0
+      }
+    ],
+    "outputs": [
+      {
+        "id": "create_connected:kinetic_battery",
+        "count": 1.0,
+        "unit": "item",
+        "type": "solid",
+        "rate": 1.0
+      }
+    ]
+  },
+  {
+    "recipe_id": "create_connected:crafting/kinetics/empty_fan_catalyst_from_lime_dye",
+    "mod_id": "create_connected",
+    "recipe_type": "minecraft:crafting_shapeless",
+    "inputs": [
+      {
+        "id": "create_connected:lime_fan_dyeing_catalyst",
+        "count": 1.0,
+        "unit": "item",
+        "type": "solid",
+        "rate": 1.0
+      }
+    ],
+    "outputs": [
+      {
+        "id": "create_connected:empty_fan_catalyst",
+        "count": 1.0,
+        "unit": "item",
+        "type": "solid",
+        "rate": 1.0
+      }
+    ]
+  },
+  {
+    "recipe_id": "create_connected:crafting/kinetics/empty_fan_catalyst_from_white_dye",
+    "mod_id": "create_connected",
+    "recipe_type": "minecraft:crafting_shapeless",
+    "inputs": [
+      {
+        "id": "create_connected:white_fan_dyeing_catalyst",
+        "count": 1.0,
+        "unit": "item",
+        "type": "solid",
+        "rate": 1.0
+      }
+    ],
+    "outputs": [
+      {
+        "id": "create_connected:empty_fan_catalyst",
+        "count": 1.0,
+        "unit": "item",
+        "type": "solid",
+        "rate": 1.0
+      }
+    ]
+  },
+  {
+    "recipe_id": "create_connected:crafting/kinetics/empty_fan_catalyst",
+    "mod_id": "create_connected",
+    "recipe_type": "minecraft:crafting_shaped",
+    "inputs": [
+      {
+        "id": "create:brass_ingot",
+        "count": 4.0,
+        "unit": "item",
+        "type": "solid",
+        "rate": 1.0
+      },
+      {
+        "id": "minecraft:iron_bars",
+        "count": 4.0,
+        "unit": "item",
+        "type": "solid",
+        "rate": 1.0
+      }
+    ],
+    "outputs": [
+      {
+        "id": "create_connected:empty_fan_catalyst",
+        "count": 1.0,
+        "unit": "item",
+        "type": "solid",
+        "rate": 1.0
+      }
+    ]
+  },
+  {
+    "recipe_id": "create_connected:item_application/blue_dyeing_catalyst_dragons_plus_from_empty",
+    "mod_id": "create_connected",
+    "recipe_type": "create:item_application",
+    "inputs": [
+      {
+        "id": "create_connected:empty_fan_catalyst",
+        "count": 1.0,
+        "unit": "item",
+        "type": "solid",
+        "rate": 1.0
+      },
+      {
+        "id": "",
+        "count": 1.0,
+        "unit": "item",
+        "type": "solid",
+        "rate": 1.0
+      },
+      {
+        "id": "",
+        "count": 1.0,
+        "unit": "item",
+        "type": "tag",
+        "rate": 1.0
+      },
+      {
+        "id": "",
+        "count": 1.0,
+        "unit": "fluid",
+        "type": "fluid",
+        "rate": 1.0
+      }
+    ],
+    "outputs": [
+      {
+        "id": "create_connected:blue_fan_dyeing_catalyst",
+        "count": 1.0,
+        "unit": "item",
+        "type": "solid",
+        "rate": 1.0
+      }
+    ]
+  },
+  {
+    "recipe_id": "create_connected:crafting/kinetics/inventory_bridge",
+    "mod_id": "create_connected",
+    "recipe_type": "minecraft:crafting_shapeless",
+    "inputs": [
+      {
+        "id": "create_connected:inventory_access_port",
+        "count": 1.0,
+        "unit": "item",
+        "type": "solid",
+        "rate": 1.0
+      },
+      {
+        "id": "create_connected:inventory_access_port",
+        "count": 1.0,
+        "unit": "item",
+        "type": "solid",
+        "rate": 1.0
+      }
+    ],
+    "outputs": [
+      {
+        "id": "create_connected:inventory_bridge",
+        "count": 1.0,
+        "unit": "item",
+        "type": "solid",
+        "rate": 1.0
+      }
+    ]
+  },
+  {
+    "recipe_id": "create_connected:crafting/palettes/copycat_fence_gate_compat",
+    "mod_id": "create_connected",
+    "recipe_type": "minecraft:crafting_shapeless",
+    "inputs": [
+      {
+        "id": "create_connected:copycat_fence_gate",
+        "count": 1.0,
+        "unit": "item",
+        "type": "solid",
+        "rate": 1.0
+      }
+    ],
+    "outputs": [
+      {
+        "id": "copycats:copycat_fence_gate",
+        "count": 1.0,
+        "unit": "item",
+        "type": "solid",
+        "rate": 1.0
+      }
+    ]
+  },
+  {
+    "recipe_id": "create_connected:item_application/orange_dyeing_catalyst_garnished_from_empty",
+    "mod_id": "create_connected",
+    "recipe_type": "create:item_application",
+    "inputs": [
+      {
+        "id": "create_connected:empty_fan_catalyst",
+        "count": 1.0,
+        "unit": "item",
+        "type": "solid",
+        "rate": 1.0
+      },
+      {
+        "id": "",
+        "count": 1.0,
+        "unit": "item",
+        "type": "solid",
+        "rate": 1.0
+      },
+      {
+        "id": "",
+        "count": 1.0,
+        "unit": "item",
+        "type": "tag",
+        "rate": 1.0
+      },
+      {
+        "id": "",
+        "count": 1.0,
+        "unit": "fluid",
+        "type": "fluid",
+        "rate": 1.0
+      }
+    ],
+    "outputs": [
+      {
+        "id": "create_connected:orange_fan_dyeing_catalyst",
+        "count": 1.0,
+        "unit": "item",
+        "type": "solid",
+        "rate": 1.0
+      }
+    ]
+  },
+  {
+    "recipe_id": "create_connected:crafting/kinetics/empty_fan_catalyst_from_red_dye",
+    "mod_id": "create_connected",
+    "recipe_type": "minecraft:crafting_shapeless",
+    "inputs": [
+      {
+        "id": "create_connected:red_fan_dyeing_catalyst",
+        "count": 1.0,
+        "unit": "item",
+        "type": "solid",
+        "rate": 1.0
+      }
+    ],
+    "outputs": [
+      {
+        "id": "create_connected:empty_fan_catalyst",
+        "count": 1.0,
+        "unit": "item",
+        "type": "solid",
+        "rate": 1.0
+      }
+    ]
+  },
+  {
+    "recipe_id": "create_connected:item_application/sanding_catalyst_from_empty",
+    "mod_id": "create_connected",
+    "recipe_type": "create:item_application",
+    "inputs": [
+      {
+        "id": "create_connected:empty_fan_catalyst",
+        "count": 1.0,
+        "unit": "item",
+        "type": "solid",
+        "rate": 1.0
+      },
+      {
+        "id": "minecraft:sand",
+        "count": 1.0,
+        "unit": "item",
+        "type": "solid",
+        "rate": 1.0
+      }
+    ],
+    "outputs": [
+      {
+        "id": "create_connected:fan_sanding_catalyst",
+        "count": 1.0,
+        "unit": "item",
+        "type": "solid",
+        "rate": 1.0
+      }
+    ]
+  },
+  {
+    "recipe_id": "create_connected:crafting/kinetics/six_way_gearbox_from_conversion",
+    "mod_id": "create_connected",
+    "recipe_type": "minecraft:crafting_shapeless",
+    "inputs": [
+      {
+        "id": "create_connected:vertical_six_way_gearbox",
+        "count": 1.0,
+        "unit": "item",
+        "type": "solid",
+        "rate": 1.0
+      }
+    ],
+    "outputs": [
+      {
+        "id": "create_connected:six_way_gearbox",
+        "count": 1.0,
+        "unit": "item",
+        "type": "solid",
+        "rate": 1.0
+      }
+    ]
+  },
+  {
+    "recipe_id": "create_connected:crafting/kinetics/empty_fan_catalyst_from_splashing",
+    "mod_id": "create_connected",
+    "recipe_type": "minecraft:crafting_shapeless",
+    "inputs": [
+      {
+        "id": "create_connected:fan_splashing_catalyst",
+        "count": 1.0,
+        "unit": "item",
+        "type": "solid",
+        "rate": 1.0
+      }
+    ],
+    "outputs": [
+      {
+        "id": "create_connected:empty_fan_catalyst",
+        "count": 1.0,
+        "unit": "item",
+        "type": "solid",
+        "rate": 1.0
+      }
+    ]
+  },
+  {
+    "recipe_id": "create_connected:crafting/kinetics/inventory_access_port",
+    "mod_id": "create_connected",
+    "recipe_type": "minecraft:crafting_shaped",
+    "inputs": [
+      {
+        "id": "create:brass_casing",
+        "count": 1.0,
+        "unit": "item",
+        "type": "solid",
+        "rate": 1.0
+      },
+      {
+        "id": "create:chute",
+        "count": 1.0,
+        "unit": "item",
+        "type": "solid",
+        "rate": 1.0
+      },
+      {
+        "id": "create:electron_tube",
+        "count": 1.0,
+        "unit": "item",
+        "type": "solid",
+        "rate": 1.0
+      }
+    ],
+    "outputs": [
+      {
+        "id": "create_connected:inventory_access_port",
+        "count": 2.0,
+        "unit": "item",
+        "type": "solid",
+        "rate": 1.0
+      }
+    ]
+  },
+  {
+    "recipe_id": "create_connected:crafting/kinetics/brass_gearbox_from_conversion",
+    "mod_id": "create_connected",
+    "recipe_type": "minecraft:crafting_shapeless",
+    "inputs": [
+      {
+        "id": "create_connected:vertical_brass_gearbox",
+        "count": 1.0,
+        "unit": "item",
+        "type": "solid",
+        "rate": 1.0
+      }
+    ],
+    "outputs": [
+      {
+        "id": "create_connected:brass_gearbox",
+        "count": 1.0,
+        "unit": "item",
+        "type": "solid",
+        "rate": 1.0
+      }
+    ]
+  },
+  {
+    "recipe_id": "create_connected:filling/yellow_fan_dyeing_catalyst_garnished",
+    "mod_id": "create_connected",
+    "recipe_type": "create:filling",
+    "inputs": [
+      {
+        "id": "create_connected:empty_fan_catalyst",
+        "count": 1.0,
+        "unit": "item",
+        "type": "solid",
+        "rate": 1.0
+      }
+    ],
+    "outputs": [
+      {
+        "id": "create_connected:yellow_fan_dyeing_catalyst",
+        "count": 1.0,
+        "unit": "item",
+        "type": "solid",
+        "rate": 1.0
+      }
+    ]
+  },
+  {
+    "recipe_id": "create_connected:crafting/kinetics/inverted_clutch_from_conversion",
+    "mod_id": "create_connected",
+    "recipe_type": "minecraft:crafting_shapeless",
+    "inputs": [
+      {
+        "id": "create:clutch",
+        "count": 1.0,
+        "unit": "item",
+        "type": "solid",
+        "rate": 1.0
+      }
+    ],
+    "outputs": [
+      {
+        "id": "create_connected:inverted_clutch",
+        "count": 1.0,
+        "unit": "item",
+        "type": "solid",
+        "rate": 1.0
+      }
+    ]
+  },
+  {
+    "recipe_id": "create_connected:filling/green_fan_dyeing_catalyst_garnished",
+    "mod_id": "create_connected",
+    "recipe_type": "create:filling",
+    "inputs": [
+      {
+        "id": "create_connected:empty_fan_catalyst",
+        "count": 1.0,
+        "unit": "item",
+        "type": "solid",
+        "rate": 1.0
+      }
+    ],
+    "outputs": [
+      {
+        "id": "create_connected:green_fan_dyeing_catalyst",
+        "count": 1.0,
+        "unit": "item",
+        "type": "solid",
+        "rate": 1.0
+      }
+    ]
+  },
+  {
+    "recipe_id": "create_connected:crafting/kinetics/freewheel_clutch",
+    "mod_id": "create_connected",
+    "recipe_type": "minecraft:crafting_shapeless",
+    "inputs": [
+      {
+        "id": "create:andesite_casing",
+        "count": 1.0,
+        "unit": "item",
+        "type": "solid",
+        "rate": 1.0
+      },
+      {
+        "id": "create:shaft",
+        "count": 1.0,
+        "unit": "item",
+        "type": "solid",
+        "rate": 1.0
+      },
+      {
+        "id": "create:iron_sheet",
+        "count": 1.0,
+        "unit": "item",
+        "type": "solid",
+        "rate": 1.0
+      },
+      {
+        "id": "create:cogwheel",
+        "count": 1.0,
+        "unit": "item",
+        "type": "solid",
+        "rate": 1.0
+      }
+    ],
+    "outputs": [
+      {
+        "id": "create_connected:freewheel_clutch",
+        "count": 1.0,
+        "unit": "item",
+        "type": "solid",
+        "rate": 1.0
+      }
+    ]
+  },
+  {
+    "recipe_id": "create_connected:filling/light_blue_fan_dyeing_catalyst_garnished",
+    "mod_id": "create_connected",
+    "recipe_type": "create:filling",
+    "inputs": [
+      {
+        "id": "create_connected:empty_fan_catalyst",
+        "count": 1.0,
+        "unit": "item",
+        "type": "solid",
+        "rate": 1.0
+      }
+    ],
+    "outputs": [
+      {
+        "id": "create_connected:light_blue_fan_dyeing_catalyst",
+        "count": 1.0,
+        "unit": "item",
+        "type": "solid",
+        "rate": 1.0
+      }
+    ]
+  },
+  {
+    "recipe_id": "create_connected:item_application/enriched_catalyst_from_empty",
+    "mod_id": "create_connected",
+    "recipe_type": "create:item_application",
+    "inputs": [
+      {
+        "id": "create_connected:empty_fan_catalyst",
+        "count": 1.0,
+        "unit": "item",
+        "type": "solid",
+        "rate": 1.0
+      },
+      {
+        "id": "",
+        "count": 1.0,
+        "unit": "item",
+        "type": "solid",
+        "rate": 1.0
+      },
+      {
+        "id": "",
+        "count": 1.0,
+        "unit": "item",
+        "type": "tag",
+        "rate": 1.0
+      },
+      {
+        "id": "",
+        "count": 1.0,
+        "unit": "fluid",
+        "type": "fluid",
+        "rate": 1.0
+      }
+    ],
+    "outputs": [
+      {
+        "id": "create_connected:fan_enriched_catalyst",
+        "count": 1.0,
+        "unit": "item",
+        "type": "solid",
+        "rate": 1.0
+      }
+    ]
+  },
+  {
+    "recipe_id": "create_connected:item_application/pink_dyeing_catalyst_dragons_plus_from_empty",
+    "mod_id": "create_connected",
+    "recipe_type": "create:item_application",
+    "inputs": [
+      {
+        "id": "create_connected:empty_fan_catalyst",
+        "count": 1.0,
+        "unit": "item",
+        "type": "solid",
+        "rate": 1.0
+      },
+      {
+        "id": "",
+        "count": 1.0,
+        "unit": "item",
+        "type": "solid",
+        "rate": 1.0
+      },
+      {
+        "id": "",
+        "count": 1.0,
+        "unit": "item",
+        "type": "tag",
+        "rate": 1.0
+      },
+      {
+        "id": "",
+        "count": 1.0,
+        "unit": "fluid",
+        "type": "fluid",
+        "rate": 1.0
+      }
+    ],
+    "outputs": [
+      {
+        "id": "create_connected:pink_fan_dyeing_catalyst",
+        "count": 1.0,
+        "unit": "item",
+        "type": "solid",
+        "rate": 1.0
+      }
+    ]
+  },
+  {
+    "recipe_id": "create_connected:crafting/kinetics/empty_fan_catalyst_from_ending_dragons_breath",
+    "mod_id": "create_connected",
+    "recipe_type": "minecraft:crafting_shapeless",
+    "inputs": [
+      {
+        "id": "create_connected:fan_ending_catalyst_dragons_breath",
+        "count": 1.0,
+        "unit": "item",
+        "type": "solid",
+        "rate": 1.0
+      }
+    ],
+    "outputs": [
+      {
+        "id": "create_connected:empty_fan_catalyst",
+        "count": 1.0,
+        "unit": "item",
+        "type": "solid",
+        "rate": 1.0
+      }
+    ]
+  },
+  {
+    "recipe_id": "create_connected:crafting/kinetics/empty_fan_catalyst_from_brown_dye",
+    "mod_id": "create_connected",
+    "recipe_type": "minecraft:crafting_shapeless",
+    "inputs": [
+      {
+        "id": "create_connected:brown_fan_dyeing_catalyst",
+        "count": 1.0,
+        "unit": "item",
+        "type": "solid",
+        "rate": 1.0
+      }
+    ],
+    "outputs": [
+      {
+        "id": "create_connected:empty_fan_catalyst",
+        "count": 1.0,
+        "unit": "item",
+        "type": "solid",
+        "rate": 1.0
+      }
+    ]
+  },
+  {
+    "recipe_id": "create_connected:crafting/palettes/copycat_step_from_conversion",
+    "mod_id": "create_connected",
+    "recipe_type": "minecraft:crafting_shapeless",
+    "inputs": [
+      {
+        "id": "create_connected:copycat_vertical_step",
+        "count": 1.0,
+        "unit": "item",
+        "type": "solid",
+        "rate": 1.0
+      }
+    ],
+    "outputs": [
+      {
+        "id": "create:copycat_step",
+        "count": 1.0,
+        "unit": "item",
+        "type": "solid",
+        "rate": 1.0
+      }
+    ]
+  },
+  {
+    "recipe_id": "create_connected:crafting/kinetics/empty_fan_catalyst_from_blasting",
+    "mod_id": "create_connected",
+    "recipe_type": "minecraft:crafting_shapeless",
+    "inputs": [
+      {
+        "id": "create_connected:fan_blasting_catalyst",
+        "count": 1.0,
+        "unit": "item",
+        "type": "solid",
+        "rate": 1.0
+      }
+    ],
+    "outputs": [
+      {
+        "id": "create_connected:empty_fan_catalyst",
+        "count": 1.0,
+        "unit": "item",
+        "type": "solid",
+        "rate": 1.0
+      }
+    ]
+  },
+  {
+    "recipe_id": "create_connected:crafting/kinetics/item_silo_from_conversion",
+    "mod_id": "create_connected",
+    "recipe_type": "minecraft:crafting_shapeless",
+    "inputs": [
+      {
+        "id": "create:item_vault",
+        "count": 1.0,
+        "unit": "item",
+        "type": "solid",
+        "rate": 1.0
+      }
+    ],
+    "outputs": [
+      {
+        "id": "create_connected:item_silo",
+        "count": 1.0,
+        "unit": "item",
+        "type": "solid",
+        "rate": 1.0
+      }
+    ]
+  },
+  {
+    "recipe_id": "create_connected:filling/cyan_fan_dyeing_catalyst_dragons_plus",
+    "mod_id": "create_connected",
+    "recipe_type": "create:filling",
+    "inputs": [
+      {
+        "id": "create_connected:empty_fan_catalyst",
+        "count": 1.0,
+        "unit": "item",
+        "type": "solid",
+        "rate": 1.0
+      }
+    ],
+    "outputs": [
+      {
+        "id": "create_connected:cyan_fan_dyeing_catalyst",
+        "count": 1.0,
+        "unit": "item",
+        "type": "solid",
+        "rate": 1.0
+      }
+    ]
+  },
+  {
+    "recipe_id": "create_connected:crafting/kinetics/redstone_link_from_conversion",
+    "mod_id": "create_connected",
+    "recipe_type": "minecraft:crafting_shapeless",
+    "inputs": [
+      {
+        "id": "create_connected:linked_transmitter",
+        "count": 1.0,
+        "unit": "item",
+        "type": "solid",
+        "rate": 1.0
+      }
+    ],
+    "outputs": [
+      {
+        "id": "create:redstone_link",
+        "count": 1.0,
+        "unit": "item",
+        "type": "solid",
+        "rate": 1.0
+      }
+    ]
+  },
+  {
+    "recipe_id": "create_connected:filling/blue_fan_dyeing_catalyst_dragons_plus",
+    "mod_id": "create_connected",
+    "recipe_type": "create:filling",
+    "inputs": [
+      {
+        "id": "create_connected:empty_fan_catalyst",
+        "count": 1.0,
+        "unit": "item",
+        "type": "solid",
+        "rate": 1.0
+      }
+    ],
+    "outputs": [
+      {
+        "id": "create_connected:blue_fan_dyeing_catalyst",
+        "count": 1.0,
+        "unit": "item",
+        "type": "solid",
+        "rate": 1.0
+      }
+    ]
+  },
+  {
+    "recipe_id": "create_connected:filling/green_fan_dyeing_catalyst_dragons_plus",
+    "mod_id": "create_connected",
+    "recipe_type": "create:filling",
+    "inputs": [
+      {
+        "id": "create_connected:empty_fan_catalyst",
+        "count": 1.0,
+        "unit": "item",
+        "type": "solid",
+        "rate": 1.0
+      }
+    ],
+    "outputs": [
+      {
+        "id": "create_connected:green_fan_dyeing_catalyst",
+        "count": 1.0,
+        "unit": "item",
+        "type": "solid",
+        "rate": 1.0
+      }
+    ]
+  },
+  {
+    "recipe_id": "create_connected:item_application/red_dyeing_catalyst_dragons_plus_from_empty",
+    "mod_id": "create_connected",
+    "recipe_type": "create:item_application",
+    "inputs": [
+      {
+        "id": "create_connected:empty_fan_catalyst",
+        "count": 1.0,
+        "unit": "item",
+        "type": "solid",
+        "rate": 1.0
+      },
+      {
+        "id": "",
+        "count": 1.0,
+        "unit": "item",
+        "type": "solid",
+        "rate": 1.0
+      },
+      {
+        "id": "",
+        "count": 1.0,
+        "unit": "item",
+        "type": "tag",
+        "rate": 1.0
+      },
+      {
+        "id": "",
+        "count": 1.0,
+        "unit": "fluid",
+        "type": "fluid",
+        "rate": 1.0
+      }
+    ],
+    "outputs": [
+      {
+        "id": "create_connected:red_fan_dyeing_catalyst",
+        "count": 1.0,
+        "unit": "item",
+        "type": "solid",
+        "rate": 1.0
+      }
+    ]
+  },
+  {
+    "recipe_id": "create_connected:crafting/kinetics/empty_fan_catalyst_from_black_dye",
+    "mod_id": "create_connected",
+    "recipe_type": "minecraft:crafting_shapeless",
+    "inputs": [
+      {
+        "id": "create_connected:black_fan_dyeing_catalyst",
+        "count": 1.0,
+        "unit": "item",
+        "type": "solid",
+        "rate": 1.0
+      }
+    ],
+    "outputs": [
+      {
+        "id": "create_connected:empty_fan_catalyst",
+        "count": 1.0,
+        "unit": "item",
+        "type": "solid",
+        "rate": 1.0
+      }
+    ]
+  },
+  {
+    "recipe_id": "create_connected:item_application/light_blue_dyeing_catalyst_garnished_from_empty",
+    "mod_id": "create_connected",
+    "recipe_type": "create:item_application",
+    "inputs": [
+      {
+        "id": "create_connected:empty_fan_catalyst",
+        "count": 1.0,
+        "unit": "item",
+        "type": "solid",
+        "rate": 1.0
+      },
+      {
+        "id": "",
+        "count": 1.0,
+        "unit": "item",
+        "type": "solid",
+        "rate": 1.0
+      },
+      {
+        "id": "",
+        "count": 1.0,
+        "unit": "item",
+        "type": "tag",
+        "rate": 1.0
+      },
+      {
+        "id": "",
+        "count": 1.0,
+        "unit": "fluid",
+        "type": "fluid",
+        "rate": 1.0
+      }
+    ],
+    "outputs": [
+      {
+        "id": "create_connected:light_blue_fan_dyeing_catalyst",
+        "count": 1.0,
+        "unit": "item",
+        "type": "solid",
+        "rate": 1.0
+      }
+    ]
+  },
+  {
+    "recipe_id": "create_connected:item_application/white_dyeing_catalyst_garnished_from_empty",
+    "mod_id": "create_connected",
+    "recipe_type": "create:item_application",
+    "inputs": [
+      {
+        "id": "create_connected:empty_fan_catalyst",
+        "count": 1.0,
+        "unit": "item",
+        "type": "solid",
+        "rate": 1.0
+      },
+      {
+        "id": "",
+        "count": 1.0,
+        "unit": "item",
+        "type": "solid",
+        "rate": 1.0
+      },
+      {
+        "id": "",
+        "count": 1.0,
+        "unit": "item",
+        "type": "tag",
+        "rate": 1.0
+      },
+      {
+        "id": "",
+        "count": 1.0,
+        "unit": "fluid",
+        "type": "fluid",
+        "rate": 1.0
+      }
+    ],
+    "outputs": [
+      {
+        "id": "create_connected:white_fan_dyeing_catalyst",
+        "count": 1.0,
+        "unit": "item",
+        "type": "solid",
+        "rate": 1.0
+      }
+    ]
+  },
+  {
+    "recipe_id": "create_connected:filling/cyan_fan_dyeing_catalyst_garnished",
+    "mod_id": "create_connected",
+    "recipe_type": "create:filling",
+    "inputs": [
+      {
+        "id": "create_connected:empty_fan_catalyst",
+        "count": 1.0,
+        "unit": "item",
+        "type": "solid",
+        "rate": 1.0
+      }
+    ],
+    "outputs": [
+      {
+        "id": "create_connected:cyan_fan_dyeing_catalyst",
+        "count": 1.0,
+        "unit": "item",
+        "type": "solid",
+        "rate": 1.0
+      }
+    ]
+  },
+  {
+    "recipe_id": "create_connected:crafting/kinetics/empty_fan_catalyst_from_enriched",
+    "mod_id": "create_connected",
+    "recipe_type": "minecraft:crafting_shapeless",
+    "inputs": [
+      {
+        "id": "create_connected:fan_enriched_catalyst",
+        "count": 1.0,
+        "unit": "item",
+        "type": "solid",
+        "rate": 1.0
+      }
+    ],
+    "outputs": [
+      {
+        "id": "create_connected:empty_fan_catalyst",
+        "count": 1.0,
+        "unit": "item",
+        "type": "solid",
+        "rate": 1.0
+      }
+    ]
+  },
+  {
+    "recipe_id": "create_connected:crafting/kinetics/empty_fan_catalyst_from_cyan_dye",
+    "mod_id": "create_connected",
+    "recipe_type": "minecraft:crafting_shapeless",
+    "inputs": [
+      {
+        "id": "create_connected:cyan_fan_dyeing_catalyst",
+        "count": 1.0,
+        "unit": "item",
+        "type": "solid",
+        "rate": 1.0
+      }
+    ],
+    "outputs": [
+      {
+        "id": "create_connected:empty_fan_catalyst",
+        "count": 1.0,
+        "unit": "item",
+        "type": "solid",
+        "rate": 1.0
+      }
+    ]
+  },
+  {
+    "recipe_id": "create_connected:crafting/kinetics/empty_fan_catalyst_from_gray_dye",
+    "mod_id": "create_connected",
+    "recipe_type": "minecraft:crafting_shapeless",
+    "inputs": [
+      {
+        "id": "create_connected:gray_fan_dyeing_catalyst",
+        "count": 1.0,
+        "unit": "item",
+        "type": "solid",
+        "rate": 1.0
+      }
+    ],
+    "outputs": [
+      {
+        "id": "create_connected:empty_fan_catalyst",
+        "count": 1.0,
+        "unit": "item",
+        "type": "solid",
+        "rate": 1.0
+      }
+    ]
+  },
+  {
+    "recipe_id": "create_connected:filling/light_gray_fan_dyeing_catalyst_dragons_plus",
+    "mod_id": "create_connected",
+    "recipe_type": "create:filling",
+    "inputs": [
+      {
+        "id": "create_connected:empty_fan_catalyst",
+        "count": 1.0,
+        "unit": "item",
+        "type": "solid",
+        "rate": 1.0
+      }
+    ],
+    "outputs": [
+      {
+        "id": "create_connected:light_gray_fan_dyeing_catalyst",
+        "count": 1.0,
+        "unit": "item",
+        "type": "solid",
+        "rate": 1.0
+      }
+    ]
+  },
+  {
+    "recipe_id": "create_connected:crafting/palettes/copycat_slab_compat",
+    "mod_id": "create_connected",
+    "recipe_type": "minecraft:crafting_shapeless",
+    "inputs": [
+      {
+        "id": "create_connected:copycat_slab",
+        "count": 1.0,
+        "unit": "item",
+        "type": "solid",
+        "rate": 1.0
+      }
+    ],
+    "outputs": [
+      {
+        "id": "copycats:copycat_slab",
+        "count": 1.0,
+        "unit": "item",
+        "type": "solid",
+        "rate": 1.0
+      }
+    ]
+  },
+  {
+    "recipe_id": "create_connected:item_application/brown_dyeing_catalyst_dragons_plus_from_empty",
+    "mod_id": "create_connected",
+    "recipe_type": "create:item_application",
+    "inputs": [
+      {
+        "id": "create_connected:empty_fan_catalyst",
+        "count": 1.0,
+        "unit": "item",
+        "type": "solid",
+        "rate": 1.0
+      },
+      {
+        "id": "",
+        "count": 1.0,
+        "unit": "item",
+        "type": "solid",
+        "rate": 1.0
+      },
+      {
+        "id": "",
+        "count": 1.0,
+        "unit": "item",
+        "type": "tag",
+        "rate": 1.0
+      },
+      {
+        "id": "",
+        "count": 1.0,
+        "unit": "fluid",
+        "type": "fluid",
+        "rate": 1.0
+      }
+    ],
+    "outputs": [
+      {
+        "id": "create_connected:brown_fan_dyeing_catalyst",
+        "count": 1.0,
+        "unit": "item",
+        "type": "solid",
+        "rate": 1.0
+      }
+    ]
+  },
+  {
+    "recipe_id": "create_connected:item_application/purple_dyeing_catalyst_dragons_plus_from_empty",
+    "mod_id": "create_connected",
+    "recipe_type": "create:item_application",
+    "inputs": [
+      {
+        "id": "create_connected:empty_fan_catalyst",
+        "count": 1.0,
+        "unit": "item",
+        "type": "solid",
+        "rate": 1.0
+      },
+      {
+        "id": "",
+        "count": 1.0,
+        "unit": "item",
+        "type": "solid",
+        "rate": 1.0
+      },
+      {
+        "id": "",
+        "count": 1.0,
+        "unit": "item",
+        "type": "tag",
+        "rate": 1.0
+      },
+      {
+        "id": "",
+        "count": 1.0,
+        "unit": "fluid",
+        "type": "fluid",
+        "rate": 1.0
+      }
+    ],
+    "outputs": [
+      {
+        "id": "create_connected:purple_fan_dyeing_catalyst",
+        "count": 1.0,
+        "unit": "item",
+        "type": "solid",
+        "rate": 1.0
+      }
+    ]
+  },
+  {
+    "recipe_id": "create_connected:filling/lime_fan_dyeing_catalyst_dragons_plus",
+    "mod_id": "create_connected",
+    "recipe_type": "create:filling",
+    "inputs": [
+      {
+        "id": "create_connected:empty_fan_catalyst",
+        "count": 1.0,
+        "unit": "item",
+        "type": "solid",
+        "rate": 1.0
+      }
+    ],
+    "outputs": [
+      {
+        "id": "create_connected:lime_fan_dyeing_catalyst",
+        "count": 1.0,
+        "unit": "item",
+        "type": "solid",
+        "rate": 1.0
+      }
+    ]
+  },
+  {
+    "recipe_id": "create_connected:item_application/splashing_catalyst_from_empty",
+    "mod_id": "create_connected",
+    "recipe_type": "create:item_application",
+    "inputs": [
+      {
+        "id": "create_connected:empty_fan_catalyst",
+        "count": 1.0,
+        "unit": "item",
+        "type": "solid",
+        "rate": 1.0
+      },
+      {
+        "id": "minecraft:water_bucket",
+        "count": 1.0,
+        "unit": "item",
+        "type": "solid",
+        "rate": 1.0
+      }
+    ],
+    "outputs": [
+      {
+        "id": "create_connected:fan_splashing_catalyst",
+        "count": 1.0,
+        "unit": "item",
+        "type": "solid",
+        "rate": 1.0
+      }
+    ]
+  },
+  {
+    "recipe_id": "create_connected:crafting/kinetics/fluid_vessel",
+    "mod_id": "create_connected",
+    "recipe_type": "minecraft:crafting_shaped",
+    "inputs": [
+      {
+        "id": "create:copper_sheet",
+        "count": 2.0,
+        "unit": "item",
+        "type": "solid",
+        "rate": 1.0
+      },
+      {
+        "id": "c:barrels/wooden",
+        "count": 1.0,
+        "unit": "item",
+        "type": "solid",
+        "rate": 1.0
+      }
+    ],
+    "outputs": [
+      {
+        "id": "create_connected:fluid_vessel",
+        "count": 1.0,
+        "unit": "item",
+        "type": "solid",
+        "rate": 1.0
+      }
+    ]
+  },
+  {
+    "recipe_id": "create_connected:filling/blue_fan_dyeing_catalyst_garnished",
+    "mod_id": "create_connected",
+    "recipe_type": "create:filling",
+    "inputs": [
+      {
+        "id": "create_connected:empty_fan_catalyst",
+        "count": 1.0,
+        "unit": "item",
+        "type": "solid",
+        "rate": 1.0
+      }
+    ],
+    "outputs": [
+      {
+        "id": "create_connected:blue_fan_dyeing_catalyst",
+        "count": 1.0,
+        "unit": "item",
+        "type": "solid",
+        "rate": 1.0
+      }
+    ]
+  },
+  {
+    "recipe_id": "create_connected:sequenced_assembly/control_chip",
+    "mod_id": "create_connected",
+    "recipe_type": "create:sequenced_assembly",
+    "inputs": [
+      {
+        "id": "create:golden_sheet",
+        "count": 1.0,
+        "unit": "item",
+        "type": "solid",
+        "rate": 1.0
+      }
+    ],
+    "outputs": [
+      {
+        "id": "create_connected:control_chip",
+        "count": 1.0,
+        "unit": "item",
+        "type": "solid",
+        "rate": 120.0
+      },
+      {
+        "id": "minecraft:redstone",
+        "count": 1.0,
+        "unit": "item",
+        "type": "solid",
+        "rate": 8.0
+      },
+      {
+        "id": "create:electron_tube",
+        "count": 1.0,
+        "unit": "item",
+        "type": "solid",
+        "rate": 8.0
+      },
+      {
+        "id": "create:golden_sheet",
+        "count": 1.0,
+        "unit": "item",
+        "type": "solid",
+        "rate": 5.0
+      },
+      {
+        "id": "minecraft:gold_nugget",
+        "count": 1.0,
+        "unit": "item",
+        "type": "solid",
+        "rate": 3.0
+      },
+      {
+        "id": "create:iron_sheet",
+        "count": 1.0,
+        "unit": "item",
+        "type": "solid",
+        "rate": 2.0
+      },
+      {
+        "id": "create:crushed_raw_gold",
+        "count": 1.0,
+        "unit": "item",
+        "type": "solid",
+        "rate": 2.0
+      },
+      {
+        "id": "minecraft:quartz",
+        "count": 1.0,
+        "unit": "item",
+        "type": "solid",
+        "rate": 1.0
+      },
+      {
+        "id": "minecraft:compass",
+        "count": 1.0,
+        "unit": "item",
+        "type": "solid",
+        "rate": 1.0
+      }
+    ]
+  },
+  {
+    "recipe_id": "create_connected:crafting/kinetics/fluid_tank_from_conversion",
+    "mod_id": "create_connected",
+    "recipe_type": "minecraft:crafting_shapeless",
+    "inputs": [
+      {
+        "id": "create_connected:fluid_vessel",
+        "count": 1.0,
+        "unit": "item",
+        "type": "solid",
+        "rate": 1.0
+      }
+    ],
+    "outputs": [
+      {
+        "id": "create:fluid_tank",
+        "count": 1.0,
+        "unit": "item",
+        "type": "solid",
+        "rate": 1.0
+      }
+    ]
+  },
+  {
+    "recipe_id": "create_connected:crafting/kinetics/fluid_vessel_from_conversion",
+    "mod_id": "create_connected",
+    "recipe_type": "minecraft:crafting_shapeless",
+    "inputs": [
+      {
+        "id": "create:fluid_tank",
+        "count": 1.0,
+        "unit": "item",
+        "type": "solid",
+        "rate": 1.0
+      }
+    ],
+    "outputs": [
+      {
+        "id": "create_connected:fluid_vessel",
+        "count": 1.0,
+        "unit": "item",
+        "type": "solid",
+        "rate": 1.0
+      }
+    ]
+  },
+  {
+    "recipe_id": "create_connected:crafting/kinetics/empty_fan_catalyst_from_sanding",
+    "mod_id": "create_connected",
+    "recipe_type": "minecraft:crafting_shapeless",
+    "inputs": [
+      {
+        "id": "create_connected:fan_sanding_catalyst",
+        "count": 1.0,
+        "unit": "item",
+        "type": "solid",
+        "rate": 1.0
+      }
+    ],
+    "outputs": [
+      {
+        "id": "create_connected:empty_fan_catalyst",
+        "count": 1.0,
+        "unit": "item",
+        "type": "solid",
+        "rate": 1.0
+      }
+    ]
+  },
+  {
+    "recipe_id": "create_connected:item_application/gray_dyeing_catalyst_garnished_from_empty",
+    "mod_id": "create_connected",
+    "recipe_type": "create:item_application",
+    "inputs": [
+      {
+        "id": "create_connected:empty_fan_catalyst",
+        "count": 1.0,
+        "unit": "item",
+        "type": "solid",
+        "rate": 1.0
+      },
+      {
+        "id": "",
+        "count": 1.0,
+        "unit": "item",
+        "type": "solid",
+        "rate": 1.0
+      },
+      {
+        "id": "",
+        "count": 1.0,
+        "unit": "item",
+        "type": "tag",
+        "rate": 1.0
+      },
+      {
+        "id": "",
+        "count": 1.0,
+        "unit": "fluid",
+        "type": "fluid",
+        "rate": 1.0
+      }
+    ],
+    "outputs": [
+      {
+        "id": "create_connected:gray_fan_dyeing_catalyst",
+        "count": 1.0,
+        "unit": "item",
+        "type": "solid",
+        "rate": 1.0
+      }
+    ]
+  },
+  {
+    "recipe_id": "create_connected:crafting/kinetics/empty_fan_catalyst_from_blue_dye",
+    "mod_id": "create_connected",
+    "recipe_type": "minecraft:crafting_shapeless",
+    "inputs": [
+      {
+        "id": "create_connected:blue_fan_dyeing_catalyst",
+        "count": 1.0,
+        "unit": "item",
+        "type": "solid",
+        "rate": 1.0
+      }
+    ],
+    "outputs": [
+      {
+        "id": "create_connected:empty_fan_catalyst",
+        "count": 1.0,
+        "unit": "item",
+        "type": "solid",
+        "rate": 1.0
+      }
+    ]
+  },
+  {
+    "recipe_id": "create_connected:filling/gray_fan_dyeing_catalyst_garnished",
+    "mod_id": "create_connected",
+    "recipe_type": "create:filling",
+    "inputs": [
+      {
+        "id": "create_connected:empty_fan_catalyst",
+        "count": 1.0,
+        "unit": "item",
+        "type": "solid",
+        "rate": 1.0
+      }
+    ],
+    "outputs": [
+      {
+        "id": "create_connected:gray_fan_dyeing_catalyst",
+        "count": 1.0,
+        "unit": "item",
+        "type": "solid",
+        "rate": 1.0
+      }
+    ]
+  },
+  {
+    "recipe_id": "create_connected:crafting/kinetics/six_way_gearbox",
+    "mod_id": "create_connected",
+    "recipe_type": "minecraft:crafting_shaped",
+    "inputs": [
+      {
+        "id": "create:large_cogwheel",
+        "count": 2.0,
+        "unit": "item",
+        "type": "solid",
+        "rate": 1.0
+      },
+      {
+        "id": "create:cogwheel",
+        "count": 4.0,
+        "unit": "item",
+        "type": "solid",
+        "rate": 1.0
+      },
+      {
+        "id": "create:andesite_casing",
+        "count": 1.0,
+        "unit": "item",
+        "type": "solid",
+        "rate": 1.0
+      }
+    ],
+    "outputs": [
+      {
+        "id": "create_connected:six_way_gearbox",
+        "count": 1.0,
+        "unit": "item",
+        "type": "solid",
+        "rate": 1.0
+      }
+    ]
+  },
+  {
+    "recipe_id": "create_connected:item_application/green_dyeing_catalyst_garnished_from_empty",
+    "mod_id": "create_connected",
+    "recipe_type": "create:item_application",
+    "inputs": [
+      {
+        "id": "create_connected:empty_fan_catalyst",
+        "count": 1.0,
+        "unit": "item",
+        "type": "solid",
+        "rate": 1.0
+      },
+      {
+        "id": "",
+        "count": 1.0,
+        "unit": "item",
+        "type": "solid",
+        "rate": 1.0
+      },
+      {
+        "id": "",
+        "count": 1.0,
+        "unit": "item",
+        "type": "tag",
+        "rate": 1.0
+      },
+      {
+        "id": "",
+        "count": 1.0,
+        "unit": "fluid",
+        "type": "fluid",
+        "rate": 1.0
+      }
+    ],
+    "outputs": [
+      {
+        "id": "create_connected:green_fan_dyeing_catalyst",
+        "count": 1.0,
+        "unit": "item",
+        "type": "solid",
+        "rate": 1.0
+      }
+    ]
+  },
+  {
+    "recipe_id": "create_connected:crafting/kinetics/crank_wheel",
+    "mod_id": "create_connected",
+    "recipe_type": "minecraft:crafting_shapeless",
+    "inputs": [
+      {
+        "id": "create:hand_crank",
+        "count": 1.0,
+        "unit": "item",
+        "type": "solid",
+        "rate": 1.0
+      },
+      {
+        "id": "create:cogwheel",
+        "count": 1.0,
+        "unit": "item",
+        "type": "solid",
+        "rate": 1.0
+      }
+    ],
+    "outputs": [
+      {
+        "id": "create_connected:crank_wheel",
+        "count": 1.0,
+        "unit": "item",
+        "type": "solid",
+        "rate": 1.0
+      }
+    ]
+  },
+  {
+    "recipe_id": "create_connected:filling/purple_fan_dyeing_catalyst_garnished",
+    "mod_id": "create_connected",
+    "recipe_type": "create:filling",
+    "inputs": [
+      {
+        "id": "create_connected:empty_fan_catalyst",
+        "count": 1.0,
+        "unit": "item",
+        "type": "solid",
+        "rate": 1.0
+      }
+    ],
+    "outputs": [
+      {
+        "id": "create_connected:purple_fan_dyeing_catalyst",
+        "count": 1.0,
+        "unit": "item",
+        "type": "solid",
+        "rate": 1.0
+      }
+    ]
+  },
+  {
+    "recipe_id": "create_connected:item_application/smoking_catalyst_from_empty",
+    "mod_id": "create_connected",
+    "recipe_type": "create:item_application",
+    "inputs": [
+      {
+        "id": "create_connected:empty_fan_catalyst",
+        "count": 1.0,
+        "unit": "item",
+        "type": "solid",
+        "rate": 1.0
+      },
+      {
+        "id": "minecraft:netherrack",
+        "count": 1.0,
+        "unit": "item",
+        "type": "solid",
+        "rate": 1.0
+      }
+    ],
+    "outputs": [
+      {
+        "id": "create_connected:fan_smoking_catalyst",
+        "count": 1.0,
+        "unit": "item",
+        "type": "solid",
+        "rate": 1.0
+      }
+    ]
+  },
+  {
+    "recipe_id": "create_connected:crafting/kinetics/brass_gearbox",
+    "mod_id": "create_connected",
+    "recipe_type": "minecraft:crafting_shaped",
+    "inputs": [
+      {
+        "id": "create:cogwheel",
+        "count": 4.0,
+        "unit": "item",
+        "type": "solid",
+        "rate": 1.0
+      },
+      {
+        "id": "create:rotation_speed_controller",
+        "count": 1.0,
+        "unit": "item",
+        "type": "solid",
+        "rate": 1.0
+      }
+    ],
+    "outputs": [
+      {
+        "id": "create_connected:brass_gearbox",
+        "count": 1.0,
+        "unit": "item",
+        "type": "solid",
+        "rate": 1.0
+      }
+    ]
+  },
+  {
+    "recipe_id": "create_connected:item_application/blue_dyeing_catalyst_garnished_from_empty",
+    "mod_id": "create_connected",
+    "recipe_type": "create:item_application",
+    "inputs": [
+      {
+        "id": "create_connected:empty_fan_catalyst",
+        "count": 1.0,
+        "unit": "item",
+        "type": "solid",
+        "rate": 1.0
+      },
+      {
+        "id": "",
+        "count": 1.0,
+        "unit": "item",
+        "type": "solid",
+        "rate": 1.0
+      },
+      {
+        "id": "",
+        "count": 1.0,
+        "unit": "item",
+        "type": "tag",
+        "rate": 1.0
+      },
+      {
+        "id": "",
+        "count": 1.0,
+        "unit": "fluid",
+        "type": "fluid",
+        "rate": 1.0
+      }
+    ],
+    "outputs": [
+      {
+        "id": "create_connected:blue_fan_dyeing_catalyst",
+        "count": 1.0,
+        "unit": "item",
+        "type": "solid",
+        "rate": 1.0
+      }
+    ]
+  },
+  {
+    "recipe_id": "create_connected:filling/fan_splashing_catalyst",
+    "mod_id": "create_connected",
+    "recipe_type": "create:filling",
+    "inputs": [
+      {
+        "id": "create_connected:empty_fan_catalyst",
+        "count": 1.0,
+        "unit": "item",
+        "type": "solid",
+        "rate": 1.0
+      },
+      {
+        "id": "minecraft:water",
+        "count": 1.0,
+        "unit": "fluid",
+        "type": "fluid",
+        "rate": 1.0
+      }
+    ],
+    "outputs": [
+      {
+        "id": "create_connected:fan_splashing_catalyst",
+        "count": 1.0,
+        "unit": "item",
+        "type": "solid",
+        "rate": 1.0
+      }
+    ]
+  },
+  {
+    "recipe_id": "create_connected:filling/black_fan_dyeing_catalyst_dragons_plus",
+    "mod_id": "create_connected",
+    "recipe_type": "create:filling",
+    "inputs": [
+      {
+        "id": "create_connected:empty_fan_catalyst",
+        "count": 1.0,
+        "unit": "item",
+        "type": "solid",
+        "rate": 1.0
+      }
+    ],
+    "outputs": [
+      {
+        "id": "create_connected:black_fan_dyeing_catalyst",
+        "count": 1.0,
+        "unit": "item",
+        "type": "solid",
+        "rate": 1.0
+      }
+    ]
+  },
+  {
+    "recipe_id": "create_connected:crafting/palettes/copycat_beam_compat",
+    "mod_id": "create_connected",
+    "recipe_type": "minecraft:crafting_shapeless",
+    "inputs": [
+      {
+        "id": "create_connected:copycat_beam",
+        "count": 1.0,
+        "unit": "item",
+        "type": "solid",
+        "rate": 1.0
+      }
+    ],
+    "outputs": [
+      {
+        "id": "copycats:copycat_beam",
+        "count": 1.0,
+        "unit": "item",
+        "type": "solid",
+        "rate": 1.0
+      }
+    ]
+  },
+  {
+    "recipe_id": "create_connected:item_application/black_dyeing_catalyst_garnished_from_empty",
+    "mod_id": "create_connected",
+    "recipe_type": "create:item_application",
+    "inputs": [
+      {
+        "id": "create_connected:empty_fan_catalyst",
+        "count": 1.0,
+        "unit": "item",
+        "type": "solid",
+        "rate": 1.0
+      },
+      {
+        "id": "",
+        "count": 1.0,
+        "unit": "item",
+        "type": "solid",
+        "rate": 1.0
+      },
+      {
+        "id": "",
+        "count": 1.0,
+        "unit": "item",
+        "type": "tag",
+        "rate": 1.0
+      },
+      {
+        "id": "",
+        "count": 1.0,
+        "unit": "fluid",
+        "type": "fluid",
+        "rate": 1.0
+      }
+    ],
+    "outputs": [
+      {
+        "id": "create_connected:black_fan_dyeing_catalyst",
+        "count": 1.0,
+        "unit": "item",
+        "type": "solid",
+        "rate": 1.0
+      }
+    ]
+  },
+  {
+    "recipe_id": "create_connected:item_application/lime_dyeing_catalyst_dragons_plus_from_empty",
+    "mod_id": "create_connected",
+    "recipe_type": "create:item_application",
+    "inputs": [
+      {
+        "id": "create_connected:empty_fan_catalyst",
+        "count": 1.0,
+        "unit": "item",
+        "type": "solid",
+        "rate": 1.0
+      },
+      {
+        "id": "",
+        "count": 1.0,
+        "unit": "item",
+        "type": "solid",
+        "rate": 1.0
+      },
+      {
+        "id": "",
+        "count": 1.0,
+        "unit": "item",
+        "type": "tag",
+        "rate": 1.0
+      },
+      {
+        "id": "",
+        "count": 1.0,
+        "unit": "fluid",
+        "type": "fluid",
+        "rate": 1.0
+      }
+    ],
+    "outputs": [
+      {
+        "id": "create_connected:lime_fan_dyeing_catalyst",
+        "count": 1.0,
+        "unit": "item",
+        "type": "solid",
+        "rate": 1.0
+      }
+    ]
+  },
+  {
+    "recipe_id": "create_connected:crafting/kinetics/empty_fan_catalyst_from_orange_dye",
+    "mod_id": "create_connected",
+    "recipe_type": "minecraft:crafting_shapeless",
+    "inputs": [
+      {
+        "id": "create_connected:orange_fan_dyeing_catalyst",
+        "count": 1.0,
+        "unit": "item",
+        "type": "solid",
+        "rate": 1.0
+      }
+    ],
+    "outputs": [
+      {
+        "id": "create_connected:empty_fan_catalyst",
+        "count": 1.0,
+        "unit": "item",
+        "type": "solid",
+        "rate": 1.0
+      }
+    ]
+  },
+  {
+    "recipe_id": "create_connected:crafting/kinetics/empty_fan_catalyst_from_light_gray_dye",
+    "mod_id": "create_connected",
+    "recipe_type": "minecraft:crafting_shapeless",
+    "inputs": [
+      {
+        "id": "create_connected:light_gray_fan_dyeing_catalyst",
+        "count": 1.0,
+        "unit": "item",
+        "type": "solid",
+        "rate": 1.0
+      }
+    ],
+    "outputs": [
+      {
+        "id": "create_connected:empty_fan_catalyst",
+        "count": 1.0,
+        "unit": "item",
+        "type": "solid",
+        "rate": 1.0
+      }
+    ]
+  },
+  {
+    "recipe_id": "create_connected:filling/orange_fan_dyeing_catalyst_garnished",
+    "mod_id": "create_connected",
+    "recipe_type": "create:filling",
+    "inputs": [
+      {
+        "id": "create_connected:empty_fan_catalyst",
+        "count": 1.0,
+        "unit": "item",
+        "type": "solid",
+        "rate": 1.0
+      }
+    ],
+    "outputs": [
+      {
+        "id": "create_connected:orange_fan_dyeing_catalyst",
+        "count": 1.0,
+        "unit": "item",
+        "type": "solid",
+        "rate": 1.0
+      }
+    ]
+  },
+  {
+    "recipe_id": "create_connected:crafting/kinetics/parallel_gearbox_from_conversion",
+    "mod_id": "create_connected",
+    "recipe_type": "minecraft:crafting_shapeless",
+    "inputs": [
+      {
+        "id": "create_connected:vertical_parallel_gearbox",
+        "count": 1.0,
+        "unit": "item",
+        "type": "solid",
+        "rate": 1.0
+      }
+    ],
+    "outputs": [
+      {
+        "id": "create_connected:parallel_gearbox",
+        "count": 1.0,
+        "unit": "item",
+        "type": "solid",
+        "rate": 1.0
+      }
+    ]
+  },
+  {
+    "recipe_id": "create_connected:filling/light_gray_fan_dyeing_catalyst_garnished",
+    "mod_id": "create_connected",
+    "recipe_type": "create:filling",
+    "inputs": [
+      {
+        "id": "create_connected:empty_fan_catalyst",
+        "count": 1.0,
+        "unit": "item",
+        "type": "solid",
+        "rate": 1.0
+      }
+    ],
+    "outputs": [
+      {
+        "id": "create_connected:light_gray_fan_dyeing_catalyst",
+        "count": 1.0,
+        "unit": "item",
+        "type": "solid",
+        "rate": 1.0
+      }
+    ]
+  },
+  {
+    "recipe_id": "create_connected:crafting/kinetics/empty_fan_catalyst_from_pink_dye",
+    "mod_id": "create_connected",
+    "recipe_type": "minecraft:crafting_shapeless",
+    "inputs": [
+      {
+        "id": "create_connected:pink_fan_dyeing_catalyst",
+        "count": 1.0,
+        "unit": "item",
+        "type": "solid",
+        "rate": 1.0
+      }
+    ],
+    "outputs": [
+      {
+        "id": "create_connected:empty_fan_catalyst",
+        "count": 1.0,
+        "unit": "item",
+        "type": "solid",
+        "rate": 1.0
+      }
+    ]
+  },
+  {
+    "recipe_id": "create_connected:crafting/kinetics/empty_fan_catalyst_from_purple_dye",
+    "mod_id": "create_connected",
+    "recipe_type": "minecraft:crafting_shapeless",
+    "inputs": [
+      {
+        "id": "create_connected:purple_fan_dyeing_catalyst",
+        "count": 1.0,
+        "unit": "item",
+        "type": "solid",
+        "rate": 1.0
+      }
+    ],
+    "outputs": [
+      {
+        "id": "create_connected:empty_fan_catalyst",
+        "count": 1.0,
+        "unit": "item",
+        "type": "solid",
+        "rate": 1.0
+      }
+    ]
+  },
+  {
+    "recipe_id": "create_connected:crafting/kinetics/six_way_gearbox_from_parallel",
+    "mod_id": "create_connected",
+    "recipe_type": "minecraft:crafting_shapeless",
+    "inputs": [
+      {
+        "id": "create_connected:parallel_gearbox",
+        "count": 1.0,
+        "unit": "item",
+        "type": "solid",
+        "rate": 1.0
+      },
+      {
+        "id": "create:large_cogwheel",
+        "count": 1.0,
+        "unit": "item",
+        "type": "solid",
+        "rate": 1.0
+      }
+    ],
+    "outputs": [
+      {
+        "id": "create_connected:six_way_gearbox",
+        "count": 1.0,
+        "unit": "item",
+        "type": "solid",
+        "rate": 1.0
+      }
+    ]
+  },
+  {
+    "recipe_id": "create_connected:crafting/kinetics/overstress_clutch",
+    "mod_id": "create_connected",
+    "recipe_type": "minecraft:crafting_shapeless",
+    "inputs": [
+      {
+        "id": "create:andesite_casing",
+        "count": 1.0,
+        "unit": "item",
+        "type": "solid",
+        "rate": 1.0
+      },
+      {
+        "id": "create:shaft",
+        "count": 1.0,
+        "unit": "item",
+        "type": "solid",
+        "rate": 1.0
+      },
+      {
+        "id": "create:iron_sheet",
+        "count": 1.0,
+        "unit": "item",
+        "type": "solid",
+        "rate": 1.0
+      },
+      {
+        "id": "create:electron_tube",
+        "count": 1.0,
+        "unit": "item",
+        "type": "solid",
+        "rate": 1.0
+      }
+    ],
+    "outputs": [
+      {
+        "id": "create_connected:overstress_clutch",
+        "count": 1.0,
+        "unit": "item",
+        "type": "solid",
+        "rate": 1.0
+      }
+    ]
+  },
+  {
+    "recipe_id": "create_connected:crafting/kinetics/linked_transmitter_from_conversion",
+    "mod_id": "create_connected",
+    "recipe_type": "minecraft:crafting_shapeless",
+    "inputs": [
+      {
+        "id": "create:redstone_link",
+        "count": 1.0,
+        "unit": "item",
+        "type": "solid",
+        "rate": 1.0
+      }
+    ],
+    "outputs": [
+      {
+        "id": "create_connected:linked_transmitter",
+        "count": 1.0,
+        "unit": "item",
+        "type": "solid",
+        "rate": 1.0
+      }
+    ]
+  }
+]

@@ -1,0 +1,10 @@
+#1C5 ashenworld:ashen_woodland
+#4E3 ashenworld:contaminated_deep
+#141 ashenworld:cracked_flats
+#270 ashenworld:dead_ocean
+#37E ashenworld:dead_river
+#4CA minecraft:dripstone_caves
+#1F0 ashenworld:glowing_wastes
+#2DA ashenworld:irradiated_jungle
+#29B ashenworld:nuclear_desert
+#1BF ashenworld:toxic_bog
